@@ -403,7 +403,7 @@
 - [turbovax](https://github.com/GregBowyer/turbovax) - VAX MP - a multiprocessor VAX simulator
 - [3drepobouncer](https://github.com/3drepo/3drepobouncer) - A C++ library providing 3D Repo Scene Graph definition, repository management logic and manipulation logic. It is is essentially the refactored 3DRepoCore and (parts of) 3DRepoGUI
 - [Diamond](https://github.com/DMDcoin/Diamond) - Diamond V3
-- [echo-keyvalue](https://github.com/baileykatelin/echo-keyvalue) - The research prototype of a versioned key-value store for non-volatile main-memory.
+- [echo-keyvalue](https://github.com/kblewellen/echo-keyvalue) - The research prototype of a versioned key-value store for non-volatile main-memory.
 - [symbiandump-os1](https://github.com/cdaffara/symbiandump-os1) - Dump of the last open source code for the Symbian mobile operating system - os1
 - [sshttp](https://github.com/stealth/sshttp) - SSH/HTTP(S) multiplexer. Run a webserver and a sshd on the same port w/o changes.
 - [sysintercept](https://github.com/timdiels/sysintercept) - System call interceptor (for windows)
@@ -661,6 +661,8 @@
 
 ## Go 
 
+- [gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
+- [mqtt](https://github.com/mochi-co/mqtt) - An embeddable lightweight, high-performance Go MQTT Server (broker) for IoT and PubSub
 - [backhub](https://github.com/jakewarren/backhub) - Back up starred repos & Gists from GitHub
 - [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats
