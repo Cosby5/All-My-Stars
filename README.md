@@ -77,7 +77,7 @@
 
 ## Assembly 
 
-- [EvoX-Reverse-Engineering](https://github.com/neilgonzalez/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
+- [EvoX-Reverse-Engineering](https://github.com/neilbox1/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 - [MyTeletouchDongle](https://github.com/MyTeletouch/MyTeletouchDongle) - MyTeletouch USB Dongle
 - [memrun](https://github.com/guitmz/memrun) - Small tool to run ELF binaries from memory with a given process name
@@ -1791,6 +1791,7 @@
 
 ## Java 
 
+- [AndroidNativefier](https://github.com/lordvadercito/AndroidNativefier) - Convert web applications to Android native app
 - [webview](https://github.com/rupok/webview) - Native Android WebView App Template with Loader (Progressbar).
 - [webview](https://github.com/slymax/webview) - a template project for android studio
 - [snowflake](https://github.com/subhra74/snowflake) - Graphical SFTP client and terminal emulator with helpful utilities
@@ -2480,6 +2481,7 @@
 
 ## Shell 
 
+- [pki-manager](https://github.com/frntn/pki-manager) - IT Freelancers : Manage small PKI for multiple projects (or clients) with 2 bash scripts
 - [softether-autoinstall](https://github.com/icoexist/softether-autoinstall) - SoftEther Autoinstaller
 - [nspawn-skype](https://github.com/dhensen/nspawn-skype) - Put skype in an systemd-nspawn container where it belongs.
 - [ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
