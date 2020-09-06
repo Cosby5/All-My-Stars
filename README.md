@@ -329,8 +329,6 @@
 - [dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
 - [MyLoadLibrary](https://github.com/HollyDi/MyLoadLibrary) - 自己实现LoadLibrary函数的操作
 - [plastic-brain](https://github.com/brainhack-ch/plastic-brain) - OG 2019 - Project 07: PlasticBrain: real-time brain activity on a 3D printed brain
-- [brainflow](https://github.com/OpenBCI/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
-- [brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [arduino](https://github.com/robertoostenveld/arduino) - Arduino electronics hacking
 - [AssemblyLoader](https://github.com/CryptoManiac/AssemblyLoader) - CLI assembly parser, in the progress
 - [sdl2-examples](https://github.com/xyproto/sdl2-examples) - Examples for getting started with SDL2, for over 12 different programming languages
@@ -2023,6 +2021,8 @@
 
 ## Objective-C 
 
+- [brainflow](https://github.com/OpenBCI/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
+- [brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [font8x8](https://github.com/dhepper/font8x8) - 8x8 monochrome bitmap fonts for rendering
 - [selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
 - [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.
