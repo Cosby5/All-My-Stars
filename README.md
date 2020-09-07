@@ -1973,7 +1973,6 @@
 
 - [openSleep](https://github.com/tomasero/openSleep) - platform for sleep hacking and research
 - [car-finding-lane-lines](https://github.com/naokishibuya/car-finding-lane-lines) - Finding Lane Lines using Python and OpenCV
-- [un0rick](https://github.com/kelu124/un0rick) - smallish ice40 / raspberrypi ultrasound hardware
 - [ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 
@@ -2684,6 +2683,7 @@
 - [matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
 - [VHDLMatrixMultiplier](https://github.com/federicorossifr/VHDLMatrixMultiplier) - VHDL implementation for a Matrix Multiplier
 - [MARK_II](https://github.com/VladisM/MARK_II) - Simple SoC in VHDL with full toolchain and custom board.
+- [un0rick](https://github.com/kelu124/un0rick) - smallish ice40 / raspberrypi ultrasound hardware
 - [N.I.G.E.-Machine](https://github.com/Anding/N.I.G.E.-Machine) - A user-expandable micro-computer system that runs on an FPGA development board and includes the FORTH software language. The system is currently hosted on the Digilent Nexys 4 and Nexys 4 DDR
 - [gplgpu](https://github.com/asicguy/gplgpu) - GPL v3 2D/3D graphics engine in verilog
 - [VHDL_Lib](https://github.com/xesscorp/VHDL_Lib) - Library of VHDL components that are useful in larger designs.
