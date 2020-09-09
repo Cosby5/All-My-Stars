@@ -694,7 +694,7 @@
 - [spago](https://github.com/nlpodyssey/spago) - spaGO is a beautiful and maintainable machine learning library written in Go designed to support relevant neural network architectures in natural language processing tasks
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [meshbird](https://github.com/enricomariafusi/meshbird) - Distributed private networking
-- [sshsync](https://github.com/Joshua-Wright/sshsync) - 
+- [sshsync](https://github.com/madewithlinux/sshsync) - 
 - [knownhosts](https://github.com/emptyinterface/knownhosts) - ~/.ssh/known_hosts verification in go
 - [sshlurp](https://github.com/cmars/sshlurp) - Retrieve SSH public keys from remote hosts.
 - [sshd-lite](https://github.com/jpillora/sshd-lite) - A feature-light sshd(8) written in Go
