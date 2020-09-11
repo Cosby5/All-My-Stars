@@ -1138,7 +1138,7 @@
 - [go-xco](https://github.com/sheenobu/go-xco) - Library for building XMPP/Jabber ( XEP-0114 ) components in golang.
 - [fbmsgr](https://github.com/unixpickle/fbmsgr) - Reverse engineering Facebook Messenger
 - [facecord](https://github.com/davlia-projects/facecord) - A messenger - discord bridge
-- [fbchatbot](https://github.com/blue945u/fbchatbot) - facebook messanger chat bot _ Gagabot
+- [fbchatbot](https://github.com/jia-ying-lin/fbchatbot) - facebook messanger chat bot _ Gagabot
 - [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [pam-ussh](https://github.com/uber/pam-ussh) - uber's ssh certificate pam module
@@ -1427,7 +1427,7 @@
 - [go-dhparam](https://github.com/Luzifer/go-dhparam) - Pure Go implementation of OpenSSL dhparam generator
 - [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
-- [go-git](https://github.com/src-d/go-git) - Projects has been moved to:
+- [go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [nginx-confd](https://github.com/zeeraw/nginx-confd) - Service discovery for NGINX configured through confd
 - [nginx-build](https://github.com/cubicdaiya/nginx-build) - Seamless nginx builder
