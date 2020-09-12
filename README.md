@@ -1347,7 +1347,7 @@
 - [gomoku](https://github.com/lpereira/gomoku) - Gomoku compiles Go code to C++
 - [bundle](https://github.com/andrewchambers/bundle) - Structured go concurrency with garbage collected goroutines.
 - [cc](https://github.com/andrewchambers/cc) - Cross platform C preprocessor and compiler.
-- [gosl](https://github.com/cpmech/gosl) - Go scientific library for machine learning, linear algebra, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, more.
+- [gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [minigo](https://github.com/DQNEO/minigo) - minigo🐥is a small Go compiler made from scratch. It can compile itself.
 - [jsgo](https://github.com/dave/jsgo) - GopherJS compiler, serving framework and CDN.
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
