@@ -150,6 +150,7 @@
 - [liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [moreram](https://github.com/graphitemaster/moreram) - Get more system memory
 - [c](https://github.com/andrewchambers/c) - small self hosting C compiler
+- [gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [tar](https://github.com/calccrypto/tar) - A simple tar implementation in C
 - [nginx-python-module](https://github.com/arut/nginx-python-module) - Nginx Python Module
 - [nginx-live-module](https://github.com/arut/nginx-live-module) - HTTP live module
@@ -1347,7 +1348,6 @@
 - [gomoku](https://github.com/lpereira/gomoku) - Gomoku compiles Go code to C++
 - [bundle](https://github.com/andrewchambers/bundle) - Structured go concurrency with garbage collected goroutines.
 - [cc](https://github.com/andrewchambers/cc) - Cross platform C preprocessor and compiler.
-- [gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [minigo](https://github.com/DQNEO/minigo) - minigo🐥is a small Go compiler made from scratch. It can compile itself.
 - [jsgo](https://github.com/dave/jsgo) - GopherJS compiler, serving framework and CDN.
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
