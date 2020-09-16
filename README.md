@@ -1298,7 +1298,6 @@
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [docker-log-reader](https://github.com/leominov/docker-log-reader) - 
 - [gitlab-project-settings](https://github.com/leominov/gitlab-project-settings) - Sync GitLab project settings
-- [gitlab-variables](https://github.com/leominov/gitlab-variables) - Sync GitLab projects/groups variables
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [gitlab-gogot](https://github.com/freman/gitlab-gogot) - Let go-get work on gitlab sub projects
 - [gitlab-token-injector](https://github.com/flix-tech/gitlab-token-injector) - his Go project injects JWT tokens into a secret variable of all GitLab projects that the owner of the API token belongs to.
@@ -1854,7 +1853,7 @@
 - [send-to-desktop](https://github.com/augnustin/send-to-desktop) - Send to desktop Chrome extension : bookmark on your mobile, browse it on your desktop
 - [freedommarks-browser-webextension](https://github.com/damko/freedommarks-browser-webextension) - A cross-browser webextension for Nextcloud Bookmarks
 - [passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - A simple browser client for the Nextcloud Passwords app
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
 - [batch-transcode-video](https://github.com/nwronski/batch-transcode-video) - Batch transcode videos using the video_transcoding gem
 - [XMOS_IMU](https://github.com/rp181/XMOS_IMU) - XMOS L1 Based IMU
 - [gitlab-automate-addhook](https://github.com/lunodrade/gitlab-automate-addhook) - Pequeno script feito em NodeJS que pega um usuário e o seu token e então adiciona um webhook configurado para todos seus repositórios, de forma automatizada.
