@@ -1853,7 +1853,7 @@
 - [send-to-desktop](https://github.com/augnustin/send-to-desktop) - Send to desktop Chrome extension : bookmark on your mobile, browse it on your desktop
 - [freedommarks-browser-webextension](https://github.com/damko/freedommarks-browser-webextension) - A cross-browser webextension for Nextcloud Bookmarks
 - [passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - A simple browser client for the Nextcloud Passwords app
-- [iptv](https://github.com/iptv-org/iptv) - Collection of 4000+ publicly available IPTV channels from all over the world
+- [iptv](https://github.com/iptv-org/iptv) - Collection of 5000+ publicly available IPTV channels from all over the world
 - [batch-transcode-video](https://github.com/nwronski/batch-transcode-video) - Batch transcode videos using the video_transcoding gem
 - [XMOS_IMU](https://github.com/rp181/XMOS_IMU) - XMOS L1 Based IMU
 - [gitlab-automate-addhook](https://github.com/lunodrade/gitlab-automate-addhook) - Pequeno script feito em NodeJS que pega um usuário e o seu token e então adiciona um webhook configurado para todos seus repositórios, de forma automatizada.
