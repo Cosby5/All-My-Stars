@@ -2313,7 +2313,6 @@
 - [mDNS-Unicast-Lookup](https://github.com/miselin/mDNS-Unicast-Lookup) - Provides responds to mDNS queries on a network by performing unicast DNS lookups.
 - [pedigree-apps](https://github.com/miselin/pedigree-apps) - Build scripts and patches for all software ported to Pedigree (http://github.com/jmolloy/pedigree).
 - [gitlab-webhook-receiver](https://github.com/shawn-sterling/gitlab-webhook-receiver) - a simple webhook receiver for puppet environments
-- [gitlab2gitlab](https://github.com/mavencode01/gitlab2gitlab) - Copy all project repositories from different gitlab version to another gitlab via API
 - [ssh-ca](https://github.com/cloudtools/ssh-ca) - Management utilities to support a certificate authority for ssh keys
 - [certsrv](https://github.com/magnuswatn/certsrv) - A Python client for the Microsoft AD Certificate Services web page
 - [yubikey-ldap](https://github.com/mludvig/yubikey-ldap) - LDAP schema and tools for Yubico YubiKey authentication
