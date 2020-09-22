@@ -1891,7 +1891,7 @@
 - [etcd-browser](https://github.com/henszey/etcd-browser) - A quick and easy way to view/edit basic keys in etcd.
 - [HttpErrorPages](https://github.com/HttpErrorPages/HttpErrorPages) - :fast_forward: Simple HTTP Error Page Generator
 - [tls-dashboard](https://github.com/cmrunton/tls-dashboard) - A dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
+- [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [vscode-sync](https://github.com/explooosion/vscode-sync) - Synchronize your Visual Studio Code Extensions.
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -1959,6 +1959,7 @@
 - [forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 - [postman-chrome-interceptor](https://github.com/postmanlabs/postman-chrome-interceptor) - Helper extension for the Postman packaged app. Also helps send restricted headers.
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [videoconverter.js](https://github.com/bgrins/videoconverter.js) - [UNMAINTAINED] Convert videos in your browser
 - [skel](https://github.com/ajlkn/skel) - A lightweight responsive framework for the www
 - [OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
@@ -2404,7 +2405,6 @@
 - [Vivado-CI](https://github.com/Viq111/Vivado-CI) - A simple Vivado (Verilog & VHDL) Continuous Integration tool with seamless integration to Travis-CI
 - [LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
 - [ssbcc](https://github.com/freecores/ssbcc) - Small Stack Based Computer Compiler
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [p2j](https://github.com/chrishumphreys/p2j) - Python to Java translator
 - [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
