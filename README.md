@@ -624,6 +624,7 @@
 - [nginx-blocker-docker-proxy](https://github.com/Miosame/nginx-blocker-docker-proxy) - nginx-ultimate-bad-bot-blocker dockerized and proxified
 - [sketchup-container](https://github.com/adelton/sketchup-container) - Running SketchUp Make in a container
 - [h3970](https://github.com/zgoda/h3970) - Yocto build for HP/Compaq IPaq h3970
+- [nginx-too-many-requests-retryafter-patch](https://github.com/nulab/nginx-too-many-requests-retryafter-patch) - 
 - [docker-kaldi-gstreamer-server](https://github.com/raeidsaqur/docker-kaldi-gstreamer-server) - Docker deployment of kaldi based ASR solution
 - [android-ci](https://github.com/javiersantos/android-ci) - A docker image for building Android apps. Supports multiple SDK Build Tools.
 - [docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - 🐳 rTorrent and ruTorrent Docker image based on Alpine Linux
@@ -2042,7 +2043,6 @@
 - [Router---DNS---PI-Hole](https://github.com/CHEF-KOCH/Router---DNS---PI-Hole) - Trap every DNS request on your network and forward it to Pi-Hole via iptables
 - [boilerplate-readme-template](https://github.com/vladocar/boilerplate-readme-template) - Boilerplate README.md Template for GitHub or GitLab use.
 - [ngx_hidden_signature_patch](https://github.com/torden/ngx_hidden_signature_patch) - Just! a Hide Server Signature of Nginx Web Server in response header and in response error
-- [nginx-too-many-requests-retryafter-patch](https://github.com/nulab/nginx-too-many-requests-retryafter-patch) - 
 - [multi-wifi-vlan-routing-setup](https://github.com/Hiklas/multi-wifi-vlan-routing-setup) - Setup for ebtables to allow routing between multiple WiFi networks
 - [systemd-automount-template](https://github.com/miles969/systemd-automount-template) - These 2 templates can be used to automount network filesystems without editing fstab. It uses systemd's automount function to monitor access requests to local mountpoints and mount the corrosponding network filesystem on the fly
 - [awesome-go](https://github.com/prologic/awesome-go) - A curated list of awesome Go frameworks, libraries and software
