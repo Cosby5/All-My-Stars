@@ -662,6 +662,7 @@
 
 ## Go 
 
+- [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [go-crossplane](https://github.com/aluttik/go-crossplane) - An unofficial Go port of the NGINX config/JSON converter crossplane
 - [gitremotes](https://github.com/teacat/gitremotes) - 透過 `.gitremotes` 建立多個 Origin 遠端，而不需要手動逐一輸入遠端路徑。
 - [gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
@@ -1842,6 +1843,7 @@
 
 ## JavaScript 
 
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
