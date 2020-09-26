@@ -2171,6 +2171,7 @@
 
 ## Python 
 
+- [translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
 - [RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD) - KiCAD RF tools: footprints wizard and round tracks, mask expander, via fencing
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
