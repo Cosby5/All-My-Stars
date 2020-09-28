@@ -1977,6 +1977,7 @@
 
 ## Jupyter Notebook 
 
+- [2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman) - [全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組
 - [openSleep](https://github.com/tomasero/openSleep) - platform for sleep hacking and research
 - [car-finding-lane-lines](https://github.com/naokishibuya/car-finding-lane-lines) - Finding Lane Lines using Python and OpenCV
 - [ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
