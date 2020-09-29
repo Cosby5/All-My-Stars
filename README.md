@@ -514,7 +514,7 @@
 - [DCPU-16-emulator](https://github.com/MrSmith33/DCPU-16-emulator) - DCPU-16 emulator written in D language
 - [ice](https://github.com/shove70/ice) - NAT, stun, turn and ice.
 - [bshift](https://github.com/briansteffens/bshift) - Compiler for a language called bshift
-- [tiny_jit](https://github.com/MrSmith33/tiny_jit) - Compiler / JIT / Linker. Zero dependencies
+- [vox](https://github.com/MrSmith33/vox) - Vox compiler. AOT / JIT / Linker. Zero dependencies
 - [GCode-Z-Reorder](https://github.com/FeepingCreature/GCode-Z-Reorder) - Reorder 3d printing gcode to coalesce z-adjacent extrusions in close regions, instead of going back-and-forth
 - [fcc](https://github.com/FeepingCreature/fcc) - fcc is the compiler for Neat, my D-lite language.
 - [button](https://github.com/jasonwhite/button) - A build system that aims to be fast, correct, and elegantly simple.
@@ -2548,7 +2548,7 @@
 - [LiveHosts](https://github.com/r2dr0dn/LiveHosts) - A Shell Script To Find All Live Hosts On Your Network
 - [ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [rtorrent_magnet2torrent](https://github.com/un4ckn0wl3z/rtorrent_magnet2torrent) - tiny bash scritp for covert magnet link to .torrent file , support rtorrent.
-- [dnssec-reverb](https://github.com/northox/dnssec-reverb) - Automate DNSSEC key rotation - ZSK KSK
+- [dnssec-reverb](https://github.com/northox/dnssec-reverb) - Automate DNSSEC key rotation for both ZSK KSK
 - [docker-gitlabci-easyssh](https://github.com/omegacen/docker-gitlabci-easyssh) - Easily add private SSH keys during your GitLab CI jobs
 - [docker-browser-box](https://github.com/sameersbn/docker-browser-box) - Dockerized google-chome and tor-browser with audio support via pulseaudio
 - [git-releaser](https://github.com/felixd/git-releaser) - Git Releaser
