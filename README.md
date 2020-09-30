@@ -52,7 +52,6 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [SystemVerilog](#systemverilog)
-  - [TSQL](#tsql)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VHDL](#vhdl)
@@ -1777,6 +1776,7 @@
 - [go-craigslist](https://github.com/sosedoff/go-craigslist) - Craigslist.org wrapper for Go
 - [etcd-browser-with-access](https://github.com/kesavankrishnan/etcd-browser-with-access) - Etcd browser with role access
 - [web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
+- [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [under-construction](https://github.com/erengy/under-construction) - 🚧 Placeholder page for your websites
 - [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
@@ -1819,7 +1819,6 @@
 - [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) - 📡 Native App over HTTP, on Android
 - [InkShield](https://github.com/NicholasCLewis/InkShield) - An Open Source Inkjet Shield for Arduino
 - [WebsitetoApk](https://github.com/AndroidPoint/WebsitetoApk) - In this Project also include Web-view, progress-bar and swipe Refresh.Its support all websites..
-- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [ManagedRuntimeInitiative](https://github.com/GregBowyer/ManagedRuntimeInitiative) - The Managed Runtime Initiative is an open development and integration initiative launched by Azul Systems with the aim of improving the execution of managed runtimes (.e.g. Java, Ruby, .Net) by enhancing interfaces and functionality across vertical components of the systems stack (e.g. managed runtime, OS kernel, hypervisor and hardware layer)
 - [android-gpuimage](https://github.com/cats-oss/android-gpuimage) - Android filters based on OpenGL (idea from GPUImage for iOS)
 - [android-xserver](https://github.com/mattkwan-zz/android-xserver) - Automatically exported from code.google.com/p/android-xserver
@@ -2346,6 +2345,7 @@
 - [RCPU](https://github.com/redfast00/RCPU) - A pure Python 16 bits CPU emulator
 - [PyVM](https://github.com/ForceBru/PyVM) - A virtual machine written in Python that executes x86 binaries according to the Intel Software Developer Manual
 - [Freenom-dns-updater](https://github.com/maxisoft/Freenom-dns-updater) - A tool to update freenom's dns records
+- [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
 - [InstaLooter](https://github.com/althonos/InstaLooter) - Another API-less Instagram pictures and videos downloader.
 - [LDAP-RestAPI-Gateway](https://github.com/ziozzang/LDAP-RestAPI-Gateway) - LDAP to RestAPI Gateway Server
 - [mypaas](https://github.com/captnbp/mypaas) - MyPaas is an Ansible playbook for startups or small companies which want to build a modern and fully automated infrastructure.
@@ -2649,10 +2649,6 @@
 ## SystemVerilog 
 
 - [pulp_soc](https://github.com/pulp-platform/pulp_soc) - 
-
-## TSQL 
-
-- [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 
 ## TeX 
 
