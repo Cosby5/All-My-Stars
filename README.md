@@ -2367,7 +2367,7 @@
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [fixalbumart](https://github.com/yask123/fixalbumart) - Automagically fix album arts of mp3 files, Even with incorrect tags!!!
-- [fbchat](https://github.com/carpedm20/fbchat) - Facebook Chat (Messenger) for Python
+- [fbchat](https://github.com/fbchat-dev/fbchat) - Facebook Chat (Messenger) for Python
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [handwritten](https://github.com/theSage21/handwritten) - Plain text to handwriting generator.
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
