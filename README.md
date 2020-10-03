@@ -2068,7 +2068,6 @@
 - [PCB](https://github.com/Programmable-Air/PCB) - Electronics for Programmable-Air
 - [Nginx_Organizr](https://github.com/ImpulsePie/Nginx_Organizr) - Config for Nginx and Organizr with Plex, Sonarr, Radarr etc. deployed with SSL and subdomains. Scores an A+ rating on SSL Labs
 - [coredns-plugin-etcdhcp](https://github.com/ntoofu/coredns-plugin-etcdhcp) - A plugin for [CoreDNS](https://github.com/coredns/coredns) integrated with [forked version](https://github.com/ntoofu/etcdhcp) of [etcDHCP](https://github.com/lclarkmichalek/etcdhcp).
-- [htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [F4-220](https://github.com/fanthore/F4-220) - All info about hacking a TerraMaster F4-220 to run OpenMediaVault
 - [TM-F2-420-Linux](https://github.com/cskau/TM-F2-420-Linux) - Info on installing Linux on a TerraMaster F2-420 NAS
 - [vscodium-docker-files](https://github.com/VSCodium/vscodium-docker-files) - some dockerfiles to make local testing easier
@@ -2547,6 +2546,7 @@
 - [hostdiscovery](https://github.com/huskar20/hostdiscovery) - If set up as a cron job can discover and email given IP ranges to the network admin as to find out if a new host showed up in the network
 - [LiveHosts](https://github.com/r2dr0dn/LiveHosts) - A Shell Script To Find All Live Hosts On Your Network
 - [ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
+- [htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [rtorrent_magnet2torrent](https://github.com/un4ckn0wl3z/rtorrent_magnet2torrent) - tiny bash scritp for covert magnet link to .torrent file , support rtorrent.
 - [dnssec-reverb](https://github.com/northox/dnssec-reverb) - Automate DNSSEC key rotation for both ZSK KSK
 - [docker-gitlabci-easyssh](https://github.com/omegacen/docker-gitlabci-easyssh) - Easily add private SSH keys during your GitLab CI jobs
