@@ -1143,7 +1143,6 @@
 - [go-xco](https://github.com/sheenobu/go-xco) - Library for building XMPP/Jabber ( XEP-0114 ) components in golang.
 - [fbmsgr](https://github.com/unixpickle/fbmsgr) - Reverse engineering Facebook Messenger
 - [facecord](https://github.com/davlia-projects/facecord) - A messenger - discord bridge
-- [fbchatbot](https://github.com/jia-ying-lin/fbchatbot) - facebook messanger chat bot _ Gagabot
 - [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud and more with REST API (mattermost not required!)
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [pam-ussh](https://github.com/uber/pam-ussh) - uber's ssh certificate pam module
