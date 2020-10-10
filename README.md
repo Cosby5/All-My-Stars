@@ -626,7 +626,7 @@
 - [nginx-too-many-requests-retryafter-patch](https://github.com/nulab/nginx-too-many-requests-retryafter-patch) - 
 - [docker-kaldi-gstreamer-server](https://github.com/raeidsaqur/docker-kaldi-gstreamer-server) - Docker deployment of kaldi based ASR solution
 - [android-ci](https://github.com/javiersantos/android-ci) - A docker image for building Android apps. Supports multiple SDK Build Tools.
-- [docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - 🐳 rTorrent and ruTorrent Docker image based on Alpine Linux
+- [docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux
 - [drone-bash-plugin](https://github.com/go-training/drone-bash-plugin) - Example Bash Plugin for Drone CI/CD service.
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [dockerfile-x11docker-xwayland](https://github.com/mviereck/dockerfile-x11docker-xwayland) - Xwayland X server in docker image
@@ -640,7 +640,7 @@
 - [docker-dhcpd](https://github.com/jcbiellikltd/docker-dhcpd) - Simple containerized DHCP server running on Alpine Linux
 - [gitlab-deploy-ssh](https://github.com/Drivetech/gitlab-deploy-ssh) - Docker Image with alpine linux for deploy with ssh in gitlab ci
 - [docker-qemu-reactos](https://github.com/hectorm/docker-qemu-reactos) - A Docker image for the ReactOS operating system.
-- [docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - 🐳 Fail2ban Docker image based on Alpine Linux
+- [docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux
 - [iptables](https://github.com/vank3f3/iptables) - iptables in docker
 - [docker-x11-xpra](https://github.com/retog/docker-x11-xpra) - A docker image proving a basis for X application accessible via ssh with or without xpra and optionally use xephyr and i3
 - [PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
@@ -1455,7 +1455,7 @@
 - [structgen](https://github.com/zhuharev/structgen) - Generate golang stucts from yml schema definition
 - [go-mtasts](https://github.com/emersion/go-mtasts) - A Go library for SMTP MTA Strict Transport Security
 - [sts-mate](https://github.com/danmarg/sts-mate) - An MTA-STS policy server/reverse proxy. Uses LetsEncrypt to fetch certs for your host.
-- [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - 🛡 Block spying and tracking on Windows
+- [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [DeadManSwitch](https://github.com/Jamesits/DeadManSwitch) - Trigger actions remotely using DNS records.
 - [srvproxy](https://github.com/peterbourgon/srvproxy) - Proxy for DNS SRV records
 - [GoDaddyDynamicDNSUpdater](https://github.com/MihaiLupoiu/GoDaddyDynamicDNSUpdater) - Script used to check and update your GoDaddy DNS server to the IP address of your current internet connection.
@@ -2247,7 +2247,6 @@
 - [SolderSCAD](https://github.com/bluecoast/SolderSCAD) - Solder stencil gerber -&gt; OpenSCAD converter
 - [pymediainfo](https://github.com/sbraz/pymediainfo) - A Python wrapper around the MediaInfo library
 - [tc-auto](https://github.com/wrdieter/tc-auto) - Automate transcoding MKV files into mp4 for use with Plex Media Server
-- [AutoTranscode](https://github.com/ThaneDE/AutoTranscode) - AutoTranscode is a program that creates a lossy mirror directory of your lossless music library
 - [wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
 - [ddi](https://github.com/Xos73/ddi) - Set of docker containers performing DDI (Secure DNS, DHCP & IPAM)
 - [conv2mp4-py](https://github.com/BrianDMG/conv2mp4-py) - Python script that recursively searches through a user-defined file path and converts all videos of user-specified file types to MP4 with H264 video and AAC audio using ffmpeg. If a conversion failure is detected, the script re-encodes the file with HandbrakeCLI. Upon successful encoding, Plex libraries are refreshed and source file is deleted.  The purpose of this script is to reduce the amount of transcoding CPU load on a Plex server.
