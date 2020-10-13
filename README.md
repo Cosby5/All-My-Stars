@@ -2510,7 +2510,7 @@
 - [local-dns-resolver](https://github.com/angristan/local-dns-resolver) - Script to install a local Unbound DNS resolver on your Linux machine with DNSSEC support
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
-- [blackweb](https://github.com/maravento/blackweb) - Blacklist Domains for Squid-Cache
+- [blackweb](https://github.com/maravento/blackweb) - Domains Blocklist for Squid-Cache
 - [gitlab-release](https://github.com/ekristen/gitlab-release) - Publish Assets to GitLab Release from GitLab CI - This is a MIRROR
 - [raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
 - [qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
