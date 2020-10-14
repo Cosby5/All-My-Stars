@@ -661,6 +661,8 @@
 
 ## Go 
 
+- [go-sync](https://github.com/Redundancy/go-sync) - gosync is a library for Golang styled around zsync / rsync, written with the intent that it enables efficient differential file transfer in a number of ways. NB: I am unable to contribute to this at the moment
+- [docker-volume-rclone](https://github.com/brimstone/docker-volume-rclone) - Docker volume plugin for rclone
 - [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [go-crossplane](https://github.com/aluttik/go-crossplane) - An unofficial Go port of the NGINX config/JSON converter crossplane
 - [gitremotes](https://github.com/teacat/gitremotes) - 透過 `.gitremotes` 建立多個 Origin 遠端，而不需要手動逐一輸入遠端路徑。
@@ -2117,6 +2119,7 @@
 
 ## PHP 
 
+- [Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [phpPgAdmin6](https://github.com/HuasoFoundries/phpPgAdmin6) - PHP7+ Based administration tool for PostgreSQL 9.3+
 - [repositeD](https://github.com/nklasio/repositeD) - A Laravel based Repository Manager for packageD
 - [abuseipdb-php-nginx-blacklist-create](https://github.com/AmplitudeDesignInc/abuseipdb-php-nginx-blacklist-create) - Uses PHP to generate an AbuseIpDB blacklist file for use in your Nginx configuration.
