@@ -1997,6 +1997,7 @@
 
 ## Makefile 
 
+- [Cluster](https://github.com/Clivern/Cluster) - Golang Package for System Clustering.
 - [businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [static-glibc-nginx](https://github.com/ericpruitt/static-glibc-nginx) - Makefile and patch to build an NGINX binary statically linked against GNU libc.
 - [coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
