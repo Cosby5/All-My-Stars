@@ -661,6 +661,7 @@
 
 ## Go 
 
+- [Cluster](https://github.com/Clivern/Cluster) - Golang Package for System Clustering.
 - [go-sync](https://github.com/Redundancy/go-sync) - gosync is a library for Golang styled around zsync / rsync, written with the intent that it enables efficient differential file transfer in a number of ways. NB: I am unable to contribute to this at the moment
 - [docker-volume-rclone](https://github.com/brimstone/docker-volume-rclone) - Docker volume plugin for rclone
 - [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
@@ -1997,7 +1998,6 @@
 
 ## Makefile 
 
-- [Cluster](https://github.com/Clivern/Cluster) - Golang Package for System Clustering.
 - [businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [static-glibc-nginx](https://github.com/ericpruitt/static-glibc-nginx) - Makefile and patch to build an NGINX binary statically linked against GNU libc.
 - [coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
