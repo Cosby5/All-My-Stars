@@ -1362,7 +1362,7 @@
 - [jvmgo](https://github.com/lojian/jvmgo) - A JVM written in GO
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [jvmgo](https://github.com/bboyjing/jvmgo) - 
-- [jvmgo-book](https://github.com/zxh0/jvmgo-book) - 《自己动手写Java虚拟机》源代码
+- [jvmgo-book](https://github.com/zxh0/jvmgo-book) - 《自己动手写Java虚拟机》随书源代码
 - [lua.go](https://github.com/zxh0/lua.go) - A toy Lua 5.3 implementation written in Go
 - [git-working-with](https://github.com/32bitkid/git-working-with) - Tiny git pairing utility
 - [git-team-up](https://github.com/32bitkid/git-team-up) - 
@@ -2491,7 +2491,7 @@
 - [ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [squid-proxy-installer](https://github.com/serverok/squid-proxy-installer) - Install Sqid Proxy  on Ubuntu/Debian
 - [mailserver](https://github.com/hardware/mailserver) - :warning: UNMAINTAINED - Simple and full-featured mail server using Docker
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Originally owned by @ken-reitz]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
 - [MongoDB-Auto-Backup-S3](https://github.com/IamMohaiminul/MongoDB-Auto-Backup-S3) - Shell Script for Auto MongoDB Backup to Amazon S3 Periodically
 - [kodi-fullscreen-dual-monitor](https://github.com/ipimpat/kodi-fullscreen-dual-monitor) - Run XBMC in fullscreen on a single monitor in dual monitor setup (Linux)
 - [prosperity-public-license](https://github.com/licensezero/prosperity-public-license) - The Prosperity Public License
