@@ -100,6 +100,7 @@
 
 ## C 
 
+- [FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [LibSSH-ESP32](https://github.com/ewpa/LibSSH-ESP32) - Libssh SSH client & server port to ESP32 Arduino library
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
@@ -661,6 +662,7 @@
 
 ## Go 
 
+- [tvm](https://github.com/trentsummerfield/tvm) - A JVM written in Go.
 - [Cluster](https://github.com/Clivern/Cluster) - Golang Package for System Clustering.
 - [go-sync](https://github.com/Redundancy/go-sync) - gosync is a library for Golang styled around zsync / rsync, written with the intent that it enables efficient differential file transfer in a number of ways. NB: I am unable to contribute to this at the moment
 - [docker-volume-rclone](https://github.com/brimstone/docker-volume-rclone) - Docker volume plugin for rclone
@@ -717,7 +719,7 @@
 - [minissh](https://github.com/TheCreeper/minissh) - A small and portable SSH server written in Go.
 - [sshspray](https://github.com/magisterquis/sshspray) - Run a script on multiple SSH servers
 - [sshttp](https://github.com/peterbourgon/sshttp) - SSH/HTTP demuxing and proxying server
-- [containerssh](https://github.com/janoszen/containerssh) - ContainerSSH: An SSH server that launches containers
+- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: An SSH server that launches containers
 - [GolangSSHServer](https://github.com/leechristensen/GolangSSHServer) - A standalone SSH server written in Go
 - [mongolite](https://github.com/achilleasa/mongolite) - Experimental proxy that speaks mongod protocol and uses pluggable storage backends
 - [go-proxyproto](https://github.com/pires/go-proxyproto) - A Go library implementation of the PROXY protocol, versions 1 and 2.
@@ -968,7 +970,7 @@
 - [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 - [go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update
 - [local-tumblr](https://github.com/tmthrgd/local-tumblr) - [WIP]: Download and locally view Tumblr blogs. [Not maintained].
-- [id3v2](https://github.com/tmthrgd/id3v2) - A Golang package for reading ID3v2 tags.
+- [id3v2](https://github.com/tmthrgd/id3v2) - A Golang package for reading ID3v2 tags from audio files.
 - [browsersync](https://github.com/schollz/browsersync) - A simple live-reloading tool for developing HTML.
 - [find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [googleit](https://github.com/schollz/googleit) - Get results from search engines.
