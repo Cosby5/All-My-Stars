@@ -1920,7 +1920,7 @@
 - [gitlab-workflow](https://github.com/fatihacet/gitlab-workflow) - VSCode extension to enrich your GitLab experience
 - [kanban](https://github.com/leanlabsio/kanban) - Lean project management for GitLab
 - [node-gitlab-hook](https://github.com/rolfn/node-gitlab-hook) - This is a very simple, easy to use web hook for GitLab.
-- [gitlab-ci-dashboard](https://github.com/emilianoeloi/gitlab-ci-dashboard) - Dashboard for monitoring GitLab CI builds and pipelines for TV
+- [gitlab-ci-dashboard](https://github.com/ci-dashboard/gitlab-ci-dashboard) - Dashboard for monitoring GitLab CI builds and pipelines for TV
 - [gitlab-ldap-group-sync](https://github.com/gitlab-tools/gitlab-ldap-group-sync) - Manage your gitlab groups with ldap / active directory
 - [jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) - MPEG1 Video Player Based On JSMpeg.
 - [jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
