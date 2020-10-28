@@ -574,7 +574,7 @@
 - [monobound](https://github.com/kubasz/monobound) - A Mono&lt;-&gt;D bridge for easy interfacing of native code to the CLR ecosystem.
 - [pyd](https://github.com/ariovistus/pyd) - Interoperability between Python and D
 - [DMDScript](https://github.com/DigitalMars/DMDScript) - An implementation of the ECMA 262 (Javascript) programming language
-- [qscript](https://github.com/Nafees10/qscript) - A simple scripting language
+- [qscript](https://github.com/Nafees10/qscript) - A Simple Scripting Language
 - [qui](https://github.com/Nafees10/qui) - A Text User Interface library for the D Language
 - [poison-ui](https://github.com/PoisonEngine/poison-ui) - A cross-platform desktop/mobile UI engine written in D using dsfml
 - [qrcode](https://github.com/huntlabs/qrcode) - QRCode library for D programming language.
@@ -1040,9 +1040,9 @@
 - [supercronic](https://github.com/aptible/supercronic) - Cron for containers
 - [container-web-tty](https://github.com/wrfly/container-web-tty) - Connect your containers via a web-tty
 - [local-persist](https://github.com/MatchbookLab/local-persist) - Create named local volumes that persist in the location(s) you want
-- [go-outlook-autodiscover](https://github.com/ProtonMail/go-outlook-autodiscover) - Generate Microsoft Outlook autodiscover files
+- [go-outlook-autodiscover](https://github.com/emersion/go-outlook-autodiscover) - Generate Microsoft Outlook autodiscover files
 - [go-singleinstance](https://github.com/ProtonMail/go-singleinstance) - cross plateform library to have only one instance of a software (based on python's tendo)
-- [go-autostart](https://github.com/ProtonMail/go-autostart) - A Go library to run a command after login
+- [go-autostart](https://github.com/emersion/go-autostart) - A Go library to run a command after login
 - [gopenpgp](https://github.com/ProtonMail/gopenpgp) - A high-level OpenPGP library
 - [esp32-transpiler](https://github.com/andygeiss/esp32-transpiler) - Transpile Golang into Arduino code to use fully automated testing at your IoT projects.
 - [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
