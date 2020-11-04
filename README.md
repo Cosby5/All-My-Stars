@@ -257,7 +257,7 @@
 - [k-os](https://github.com/khoek/k-os) - Keeley's - Operating System (K-OS)
 - [squashfuse](https://github.com/vasi/squashfuse) - FUSE filesystem to mount squashfs archives
 - [superopt](https://github.com/bonzini/superopt) - My patches to the GNU superoptimizer
-- [Aha](https://github.com/dpt/Aha) - Tweaked version of "Aha" - "A Hacker's Assistant" by Henry S. Warren
+- [Aha](https://github.com/dpt/Aha) - Tweaked version of "Aha" - "A Hacker's Assistant" superoptimiser by Henry S. Warren
 - [piface](https://github.com/davidgiven/piface) - Bare metal boot loader for the Raspberry Pi's VideoCore processor (no ARM!)
 - [bare-metal-arm](https://github.com/payne92/bare-metal-arm) - A "bare metal" ARM runtime example built with the GCC toolchain
 - [sphinxbase](https://github.com/cmusphinx/sphinxbase) - 
