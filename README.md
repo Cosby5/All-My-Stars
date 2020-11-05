@@ -288,7 +288,7 @@
 - [C-Sharp](https://github.com/aalhour/C-Sharp) - All algorithms implemented in C#.
 - [KPU](https://github.com/KPU-RISC/KPU) - KPU - the RISC based Open Source CPU
 - [Pulsarr](https://github.com/drkno/Pulsarr) - Looks and smells like Sonarr, via Radarr and Lidarr but made for audiobooks.
-- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [quadruple](https://github.com/NRTDP/quadruple) - Signed 128-bit floating point data type library originally by Jeff Pasternack
 - [btcpayserver](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API
 - [Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core)
