@@ -412,7 +412,7 @@
 - [machinery](https://github.com/drycpp/machinery) - [Inactive] Toolchain machinery for compilers, code generators, assemblers, linkers, and emulators.
 - [libposix](https://github.com/drycpp/libposix) - [Inactive] Public domain C++14 wrapper for POSIX interfaces.
 - [gridfs-fuse](https://github.com/28msec/gridfs-fuse) - 
-- [mcsema](https://github.com/lifting-bits/mcsema) - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
+- [mcsema](https://github.com/lifting-bits/mcsema) - Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode
 - [wandbox](https://github.com/melpon/wandbox) - Social Compilation Service
 - [souper](https://github.com/google/souper) - A superoptimizer for LLVM IR
 - [Asynchronous-Verilog-Synthesiser](https://github.com/wsong83/Asynchronous-Verilog-Synthesiser) - Synthesiser for Asynchronous Verilog Language
