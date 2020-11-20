@@ -273,7 +273,7 @@
 - [firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your storage in minutes
+- [glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [Virtual-Memory-Manager](https://github.com/BenjaminNie/Virtual-Memory-Manager) - Virtual memory handler w/ page table & TLBs
 
 ## C# # 
@@ -2182,7 +2182,7 @@
 - [RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD) - KiCAD RF tools: footprints wizard and round tracks, mask expander, via fencing
 - [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [whoogle-search](https://github.com/benbusby/whoogle-search) - Self-hosted, ad-free, privacy-respecting Google metasearch engine
+- [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine
 - [rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
 - [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.
 - [plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
