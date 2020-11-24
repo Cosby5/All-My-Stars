@@ -2290,7 +2290,7 @@
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [tfObjWebrtc](https://github.com/webrtcHacks/tfObjWebrtc) - Tensorflow Object Detection API Web Service wrapper that works on any &lt;video&gt; tag and WebRTC streams
 - [chatbot-rnn](https://github.com/pender/chatbot-rnn) - A toy chatbot powered by deep learning and trained on data from Reddit
-- [ArchiveBox](https://github.com/pirate/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Dracula](https://github.com/Sentimentron/Dracula) - A deep, LSTM-based part of speech tagger and sentiment analyser using character embeddings instead of words. Compatible with Theano and TensorFlow. Optimized for Twitter.
 - [postfix-mta-sts-resolver](https://github.com/Snawoot/postfix-mta-sts-resolver) - Daemon which provides TLS client policy for Postfix via socketmap, according to domain MTA-STS policy
 - [mysql2psql](https://github.com/ggarri/mysql2psql) - Turn your old MySQL database into PostgreSQL and try a new world of experience with it
