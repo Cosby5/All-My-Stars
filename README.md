@@ -1852,7 +1852,6 @@
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
-- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [ApolloClr](https://github.com/icesun963/ApolloClr) - IL VM的一个 C# 实现  并且能运行在Web上
 - [PicoVM](https://github.com/CryptoManiac/PicoVM) - Restricted implementation of CLR on a top of Node.js
@@ -2046,6 +2045,7 @@
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [badbots](https://github.com/herrbischoff/badbots) - Current CIDR-formatted list of unwanted bots caught on my systems, updated hourly.
+- [degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [debotnet](https://github.com/builtbybel/debotnet) - 🔥🚀 Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
 - [3340_kicad](https://github.com/thirtythreeforty/3340_kicad) - My library of custom and collected KiCAD drawings
 - [Router---DNS---PI-Hole](https://github.com/CHEF-KOCH/Router---DNS---PI-Hole) - Trap every DNS request on your network and forward it to Pi-Hole via iptables
