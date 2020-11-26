@@ -664,6 +664,7 @@
 
 ## Go 
 
+- [go-vanity](https://github.com/bryk-io/go-vanity) - Go vanity URLs server.
 - [tvm](https://github.com/trentsummerfield/tvm) - A JVM written in Go.
 - [Cluster](https://github.com/Clivern/Cluster) - Golang Package for System Clustering.
 - [go-sync](https://github.com/Redundancy/go-sync) - gosync is a library for Golang styled around zsync / rsync, written with the intent that it enables efficient differential file transfer in a number of ways. NB: I am unable to contribute to this at the moment
@@ -2550,7 +2551,7 @@
 - [radarr-mp4-converter](https://github.com/OllieDay/radarr-mp4-converter) - Radarr post processing script to convert movies to MP4 using FFmpeg
 - [mediastack-debian](https://github.com/aristosv/mediastack-debian) - Bazarr - Deluge - Jackett - Plex - Portainer - Radarr - Sonarr
 - [hostdiscovery](https://github.com/huskar20/hostdiscovery) - If set up as a cron job can discover and email given IP ranges to the network admin as to find out if a new host showed up in the network
-- [LiveHosts](https://github.com/r2dr0dn/LiveHosts) - A Shell Script To Find All Live Hosts On Your Network
+- [LiveHosts](https://github.com/M1ndo/LiveHosts) - A Shell Script To Find All Live Hosts On Your Network
 - [ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [rtorrent_magnet2torrent](https://github.com/un4ckn0wl3z/rtorrent_magnet2torrent) - tiny bash scritp for covert magnet link to .torrent file , support rtorrent.
