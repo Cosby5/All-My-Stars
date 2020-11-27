@@ -664,6 +664,9 @@
 
 ## Go 
 
+- [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
+- [smithy](https://github.com/honza/smithy) - A tiny git forge written in Go
+- [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [go-vanity](https://github.com/bryk-io/go-vanity) - Go vanity URLs server.
 - [tvm](https://github.com/trentsummerfield/tvm) - A JVM written in Go.
 - [Cluster](https://github.com/Clivern/Cluster) - Golang Package for System Clustering.
