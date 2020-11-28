@@ -340,7 +340,6 @@
 - [mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
 - [Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 - [unfork](https://github.com/whitequark/unfork) - unfork(2) is the inverse of fork(2).    sort of.
-- [demikernel](https://github.com/demikernel/demikernel) - Demikernel OS
 - [AECU](https://github.com/davidshb19/AECU) - Arduino Engine Control Unit
 - [ECU](https://github.com/aswinnahrendra/ECU) - Engine Control Unit Firmware implemented in Arduino Mega 2560 R3 to control Electronic Fuel Injection, based on PID Neural Network Control Algorithm
 - [dmn-edc](https://github.com/syncro16/dmn-edc) - Diesel engine control (Bosch VE / inline pumps)
@@ -2478,6 +2477,7 @@
 ## Rust 
 
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [demikernel](https://github.com/demikernel/demikernel) - Demikernel OS
 - [tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [diosix](https://github.com/diodesign/diosix) - A lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V
 - [rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
