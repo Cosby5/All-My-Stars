@@ -777,7 +777,7 @@
 - [piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go
 - [metaproxy](https://github.com/ThatNerdyPikachu/metaproxy) - "Proxies" Plex requests to metadata endpoints to show subtitle and audio names
 - [qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [broccoli](https://github.com/aletheia-icu/broccoli) - Using brotli compression to embed static files in Go.
+- [broccoli](https://github.com/thealetheia/broccoli) - Using brotli compression to embed static files in Go.
 - [telegramd](https://github.com/nebula-chat/telegramd) - Unofficial open source telegram server written in golang
 - [xls](https://github.com/extrame/xls) - Pure Golang xls library
 - [crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
@@ -1772,7 +1772,6 @@
 
 ## HTML 
 
-- [rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 - [windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -2499,6 +2498,7 @@
 - [ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [squid-proxy-installer](https://github.com/serverok/squid-proxy-installer) - Install Sqid Proxy  on Ubuntu/Debian
 - [mailserver](https://github.com/hardware/mailserver) - :warning: UNMAINTAINED - Simple and full-featured mail server using Docker
+- [rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
 - [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
 - [MongoDB-Auto-Backup-S3](https://github.com/IamMohaiminul/MongoDB-Auto-Backup-S3) - Shell Script for Auto MongoDB Backup to Amazon S3 Periodically
 - [kodi-fullscreen-dual-monitor](https://github.com/ipimpat/kodi-fullscreen-dual-monitor) - Run XBMC in fullscreen on a single monitor in dual monitor setup (Linux)
