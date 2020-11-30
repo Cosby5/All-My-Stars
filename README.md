@@ -1850,6 +1850,7 @@
 
 ## JavaScript 
 
+- [electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
@@ -2591,7 +2592,7 @@
 - [gitlab-version-check](https://github.com/cschlosser/gitlab-version-check) - Check the version of your GitLab instance and send a mail if out of date.
 - [install-debian](https://github.com/vstavrinov/install-debian) - Install Debian non-interactivly. Bootable CD iso image with Install Debian script:  https://sourceforge.net/projects/install-debian/files/debian-init_amd64.iso
 - [debian-stretch-zfs-root](https://github.com/hn/debian-stretch-zfs-root) - Install Debian 9 (Stretch) to a native ZFS root filesystem
-- [SSL_cert_expire_checker](https://github.com/McPcholkin/SSL_cert_expire_checker) - Check cert expire for zabbix.
+- [SSL_cert_expire_checker](https://github.com/upya4ko/SSL_cert_expire_checker) - Check cert expire for zabbix.
 - [openssl-selfsign](https://github.com/felix021/openssl-selfsign) - scripts to generate ca, self signed https certs, client side certificates and crl file
 - [Nginx-Country-Block](https://github.com/IvanGuardado/Nginx-Country-Block) - Script for blocking ip address from specific countries on nginx
 - [apt-package-cache](https://github.com/corbanvilla/apt-package-cache) - This is a simple application that will take a list of packages, find their depends, download and add it all to an nginx container, where the debs are copied to a ramdisk for faster reads.
@@ -2667,6 +2668,7 @@
 
 ## TypeScript 
 
+- [electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
 - [vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
