@@ -45,6 +45,7 @@
   - [Racket](#racket)
   - [Red](#red)
   - [Rich Text Format](#rich-text-format)
+  - [Riot](#riot)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -1872,7 +1873,6 @@
 - [electron-plex-menubar](https://github.com/jdrydn/electron-plex-menubar) - A static menubar player for Plex
 - [nextcloud-filelink](https://github.com/nextcloud/nextcloud-filelink) - :envelope: :outbox_tray: "Nextcloud for Filelink" is a Thunderbird extension which makes it easy to send large attachments with Thunderbird by uploading them first to a Nextcloud server and by then inserting the link into the body of your email.
 - [Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
-- [docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
 - [muguet](https://github.com/mattallty/muguet) - DNS Server & Reverse proxy for Docker - Compatible with docker-compose, boot2docker and docker-machine
 - [ControlCenter](https://github.com/Ardumower/ControlCenter) - 
 - [auto-transcode-manager](https://github.com/paulgrove/auto-transcode-manager) - Manage the transcoding of a media library
@@ -2437,6 +2437,10 @@
 ## Rich Text Format 
 
 - [Raindancer](https://github.com/Ardumower/Raindancer) - Robotic Lawn Mower Firmware For Ardumower PCB1.3
+
+## Riot 
+
+- [docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
 
 ## Roff 
 
