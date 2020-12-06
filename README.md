@@ -103,7 +103,6 @@
 
 - [lwip](https://github.com/slpp95prashanth/lwip) - 
 - [Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
-- [FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [LibSSH-ESP32](https://github.com/ewpa/LibSSH-ESP32) - Libssh SSH client & server port to ESP32 Arduino library
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
@@ -329,6 +328,7 @@
 
 ## C++ 
 
+- [FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
 - [MyLoadLibrary](https://github.com/HollyDi/MyLoadLibrary) - 自己实现LoadLibrary函数的操作
@@ -508,7 +508,7 @@
 - [img4d](https://github.com/DYGV/img4d) - PNG ImageProcessing with no dependencies
 - [GC](https://github.com/Orvid/GC) - This repository will be for organizing the design of a new GC for D.
 - [thBase](https://github.com/Ingrater/thBase) - my GC free standard library for the D 2.0 programming language
-- [awesome-d](https://github.com/zhaopuming/awesome-d) - A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
+- [awesome-d](https://github.com/dlang-community/awesome-d) - A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
 - [keyvalues](https://github.com/Yoplitein/keyvalues) - Parser and deserializer for Valve's KeyValues file format
 - [ddmd](https://github.com/yebblies/ddmd) - DMD frontend
 - [ffmpeg-d](https://github.com/ljubobratovicrelja/ffmpeg-d) - D port of the FFmpeg C headers
@@ -725,7 +725,7 @@
 - [minissh](https://github.com/TheCreeper/minissh) - A small and portable SSH server written in Go.
 - [sshspray](https://github.com/magisterquis/sshspray) - Run a script on multiple SSH servers
 - [sshttp](https://github.com/peterbourgon/sshttp) - SSH/HTTP demuxing and proxying server
-- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: An SSH server that launches containers
+- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [GolangSSHServer](https://github.com/leechristensen/GolangSSHServer) - A standalone SSH server written in Go
 - [mongolite](https://github.com/achilleasa/mongolite) - Experimental proxy that speaks mongod protocol and uses pluggable storage backends
 - [go-proxyproto](https://github.com/pires/go-proxyproto) - A Go library implementation of the PROXY protocol, versions 1 and 2.
