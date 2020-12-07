@@ -664,6 +664,7 @@
 
 ## Go 
 
+- [labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [smithy](https://github.com/honza/smithy) - A tiny git forge written in Go
 - [atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
