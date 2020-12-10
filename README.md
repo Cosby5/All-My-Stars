@@ -1748,7 +1748,7 @@
 - [genie](https://github.com/kcmerrill/genie) - WaaS(Whatever as a Service). Code. Commands. Docker. Whatever.
 - [fetch-proxy](https://github.com/kcmerrill/fetch-proxy) - A proxy that routes web traffic to docker containers. Automagically.
 - [ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) - An implementation of an SSH certificate authority.
-- [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
+- [distribution](https://github.com/docker/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [vaultfs](https://github.com/asteris-llc/vaultfs) - Vault filesystem (and Docker volume plugin)
 - [ldapserver](https://github.com/vjeantet/ldapserver) - Package ldapserver implements LDAP Server
