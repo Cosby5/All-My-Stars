@@ -732,7 +732,7 @@
 - [go-proxyproto](https://github.com/pires/go-proxyproto) - A Go library implementation of the PROXY protocol, versions 1 and 2.
 - [quic-proxy](https://github.com/liudanking/quic-proxy) - A http/https proxy using QUIC as transport layer
 - [go-proxyproto](https://github.com/armon/go-proxyproto) - Golang package to handle HAProxy Proxy Protocol
-- [copro](https://github.com/julienroland/copro) - Go package which add some basic interactive console user interfaces
+- [copro](https://github.com/juxR/copro) - Go package which add some basic interactive console user interfaces
 - [robot-mower](https://github.com/dchote/robot-mower) - Raspberry pi powered 3d printed robot mower
 - [gls](https://github.com/modern-go/gls) - goroutine local storage (use context instead if possible)
 - [plexdibella](https://github.com/notbaab/plexdibella) - God of beauty, aims to make your media files names beautiful by leveraging the power of plex
