@@ -722,7 +722,6 @@
 - [ssh-gateway](https://github.com/htdvisser/ssh-gateway) - SSH Gateway is a forward proxy for SSH
 - [crypto](https://github.com/XTXMarkets/crypto) - Fork of golang.org/x/crypto adding some non-standard SSH modes seen in the wild
 - [listenbuddy](https://github.com/jsha/listenbuddy) - A simple tool to forward ports locally or remotely, no root or SSH required
-- [etcdhosts](https://github.com/Gozap/etcdhosts) - yet another etcd plugin for coredns
 - [minissh](https://github.com/TheCreeper/minissh) - A small and portable SSH server written in Go.
 - [sshspray](https://github.com/magisterquis/sshspray) - Run a script on multiple SSH servers
 - [sshttp](https://github.com/peterbourgon/sshttp) - SSH/HTTP demuxing and proxying server
