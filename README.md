@@ -942,7 +942,7 @@
 - [ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
 - [go-nmea](https://github.com/adrianmo/go-nmea) - A NMEA parser library in pure Go
 - [duckdns-updater](https://github.com/davewongillies/duckdns-updater) - A simple Duck DNS update client
-- [ddns-updater](https://github.com/qdm12/ddns-updater) - DNS updater with WebUI for  periodically for Cloudflare, DDNSS.de, DNSPod, Dreamhost, DuckDNS, GoDaddy, Infomaniak, Namecheap and NoIP
+- [ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 - [get-interface-ip](https://github.com/homburg/get-interface-ip) - Get interface IP address
 - [docker-gc](https://github.com/n1koo/docker-gc) - Docker container/image garbage collection in Go
 - [docker-gc](https://github.com/ndeloof/docker-gc) - 
@@ -1773,6 +1773,7 @@
 
 ## HTML 
 
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1781,7 +1782,7 @@
 - [nginx-error-pages](https://github.com/denysvitali/nginx-error-pages) - Cute Error Pages for your nginx web server
 - [Anti-accidental-browser-close](https://github.com/Senpai1/Anti-accidental-browser-close) - Prevents the browser from accidental close (E.G in chrome the browser won't warn you if you have multiple tabs open that you wanna close the browser. Note: pressing ctrl + shift + T will restore your previous browser session)
 - [godesktopgui](https://github.com/peterhoward42/godesktopgui) - This program demonstrates the potential of Go to create a standalone desktop application with a sophisticated GUI.
-- [TypedGit](https://github.com/Bowser65/TypedGit) - A small go server made to serve GitHub and GitLab files with correct Content-Type
+- [TypedGit](https://github.com/cyyynthia/TypedGit) - A small go server made to serve GitHub and GitLab files with correct Content-Type
 - [go-craigslist](https://github.com/sosedoff/go-craigslist) - Craigslist.org wrapper for Go
 - [etcd-browser-with-access](https://github.com/kesavankrishnan/etcd-browser-with-access) - Etcd browser with role access
 - [web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
@@ -2406,7 +2407,6 @@
 - [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) - Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [s3apt](https://github.com/szinck/s3apt) - 
 - [ci-yml](https://github.com/claudyus/ci-yml) - A .ci.yml parser/runner for Gitlab-CI
 - [gitlab-pkgbot](https://github.com/adfinis-sygroup/gitlab-pkgbot) - The Package Bot - A simple service which receives HTTP build triggers from GitLab, gets the built packages and puts them in aptly and RPM repos.
 - [selfrestraint](https://github.com/ParkerK/selfrestraint) - Are certain websites a distraction? SelfRestraint is a cross platform application which blocks access to websites for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
