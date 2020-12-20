@@ -1739,7 +1739,7 @@
 - [setup-network-environment](https://github.com/kelseyhightower/setup-network-environment) - Create an environment file with system networking information.
 - [wormhole](https://github.com/vishvananda/wormhole) - A smart proxy to connect docker containers.
 - [gopistolet](https://github.com/gopistolet/gopistolet) - Mailserver written in Go
-- [mailout](https://github.com/SchumacherFM/mailout) - mailout - a https://caddyserver.com/ SMTP client email middleware with PGP encryption
+- [mailout](https://github.com/SchumacherFM/mailout) - mailout - a https://caddyserver.com/ V1 SMTP client email middleware with PGP encryption
 - [acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
 - [rrda](https://github.com/fcambus/rrda) - REST API allowing to perform DNS queries over HTTP
