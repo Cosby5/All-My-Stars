@@ -664,6 +664,10 @@
 
 ## Go 
 
+- [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [gomo-simra](https://github.com/pankona/gomo-simra) - GOMObile SIMple wRApper
+- [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
+- [etcdfs](https://github.com/polyrabbit/etcdfs) - :file_folder: Mount etcd into a local directory
 - [labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [smithy](https://github.com/honza/smithy) - A tiny git forge written in Go
@@ -708,7 +712,7 @@
 - [wasps](https://github.com/yankooo/wasps) - wasps is a lightweight goroutine pool for golang, use limited goroutines to achieve multi-task concurrent execution.
 - [dockness](https://github.com/bamarni/dockness) - DNS for Docker machines
 - [udpx](https://github.com/felipejfc/udpx) - A Fast UDP Proxy written in Golang
-- [spago](https://github.com/nlpodyssey/spago) - spaGO is a beautiful and maintainable machine learning library written in Go designed to support relevant neural network architectures in natural language processing tasks
+- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in GO
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [meshbird](https://github.com/enricomariafusi/meshbird) - Distributed private networking
 - [sshsync](https://github.com/madewithlinux/sshsync) - 
@@ -1381,7 +1385,7 @@
 - [gtsp](https://github.com/32bitkid/gtsp) - A experimental MPEG-2 TS video player written in Go
 - [GoVideoPlayer](https://github.com/kovalexius/GoVideoPlayer) - Взято отсюда http://faq8.ru/read.php?7,11723,11737#msg-11737 Консольный плеер
 - [gophervideo](https://github.com/csos95/gophervideo) - A video player written with gopherjs
-- [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC 2.X/3.X/4.X and high-level media player interface
+- [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface
 - [player](https://github.com/reusee/player) - video player
 - [asciiplayer](https://github.com/qeesung/asciiplayer) - :tv: ASCII gif/video player write in golang
 - [flag](https://github.com/namsral/flag) - Parse flags, environment variables and config files
@@ -2042,6 +2046,7 @@
 
 ## Others 
 
+- [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
 - [rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -2672,6 +2677,8 @@
 
 ## TypeScript 
 
+- [brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
+- [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
 - [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native api's from JavaScript directly. Angular, Vue, Svelte, React and you name it compatible.
