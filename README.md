@@ -664,6 +664,7 @@
 
 ## Go 
 
+- [go-filemutex](https://github.com/alexflint/go-filemutex) - Like sync.Mutex, but works across processes
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [gomo-simra](https://github.com/pankona/gomo-simra) - GOMObile SIMple wRApper
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
@@ -759,7 +760,7 @@
 - [lumberjackrus](https://github.com/orandin/lumberjackrus) - A local file system hook for sirupsen/logrus
 - [dash](https://github.com/ricoberger/dash) - dash is a terminal dashboard solution inspired by Grafana, to visualize and explore your data.
 - [memlistener](https://github.com/hydrogen18/memlistener) - An in memory listener for testing socket & HTTP servers in Golang
-- [chanlisten](https://github.com/AgentZombie/chanlisten) - A go package that implements net.Listener with a channel of net.Conn.
+- [chanlisten](https://github.com/jasonmf/chanlisten) - A go package that implements net.Listener with a channel of net.Conn.
 - [go-zerodown](https://github.com/googollee/go-zerodown) - go-zerodown provides a listener which can shutdown gracefully and relaunch in another process.
 - [xpra-cmd](https://github.com/lazywhite/xpra-cmd) - a REST API developed by Go Mux framework to execute system command
 - [with-ssh-docker-socket](https://github.com/sgreben/with-ssh-docker-socket) - access a remote Docker daemon over SSH. single binary, no dependencies. linux, osx, windows.
