@@ -455,7 +455,6 @@
 - [OpenGarage-App](https://github.com/OpenGarage/OpenGarage-App) - Designed to allow intuitive control of the OpenGarage garage door opener.
 - [gitea-dark-theme](https://github.com/duchenpaul/gitea-dark-theme) - Another Gitea theme
 - [gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
-- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [Manhattan](https://github.com/adchsm/Manhattan) - A clean, lightweight and customisable CSS grid.
 
 ## Clojure 
@@ -664,6 +663,7 @@
 
 ## Go 
 
+- [syncthing-dns](https://github.com/pkern/syncthing-dns) - Dynamic DNS using Syncthing's Discovery server
 - [go-filemutex](https://github.com/alexflint/go-filemutex) - Like sync.Mutex, but works across processes
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [gomo-simra](https://github.com/pankona/gomo-simra) - GOMObile SIMple wRApper
@@ -2366,6 +2366,7 @@
 - [LDAP-RestAPI-Gateway](https://github.com/ziozzang/LDAP-RestAPI-Gateway) - LDAP to RestAPI Gateway Server
 - [mypaas](https://github.com/captnbp/mypaas) - MyPaas is an Ansible playbook for startups or small companies which want to build a modern and fully automated infrastructure.
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [docker-identd](https://github.com/cameronkerrnz/docker-identd) - An ident service that identifies the container for a connection
 - [hostfileupdate](https://github.com/jasonvanzin/hostfileupdate) - Used to quickly update the host file with new entries.
 - [mdm-server](https://github.com/project-imas/mdm-server) - Sample iOS MDM server
