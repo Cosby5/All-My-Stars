@@ -663,6 +663,11 @@
 
 ## Go 
 
+- [ftpdts](https://github.com/starshiptroopers/ftpdts) - Ftp server based on ftpdt and goftp/server and used to do a real-time files generation from templates and exposes them as downloadable files. It was originally designed to implement the trick of escaping to the default browser from Facebook, Instagram, webkit in-app browsers on IOS.
+- [go-android](https://github.com/sbinet/go-android) - NDK bindings for Android and Go
+- [android-app-publisher](https://github.com/safu9/android-app-publisher) - Upload your app to play store from terminal or ci environment
+- [go-termux](https://github.com/cathalgarvey/go-termux) - Termux-API layer ported to a Go library; write pseudo-apps for Android in pure Go with Termux/API/Widget!
+- [mobilehtml5app](https://github.com/srinathh/mobilehtml5app) - 
 - [syncthing-dns](https://github.com/pkern/syncthing-dns) - Dynamic DNS using Syncthing's Discovery server
 - [go-filemutex](https://github.com/alexflint/go-filemutex) - Like sync.Mutex, but works across processes
 - [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -1710,7 +1715,7 @@
 - [misspell](https://github.com/client9/misspell) - Correct commonly misspelled English words in source files
 - [lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
 - [triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
-- [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library
+- [pigo](https://github.com/esimov/pigo) - Pure Go face detection, pupil/eyes localization and facial landmark points detection library.
 - [captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [dnsoverhttps](https://github.com/paway/dnsoverhttps) - [Work in progress] Go Client for Google Public DNS, DNS-over-HTTPS API
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
