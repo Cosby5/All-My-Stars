@@ -663,6 +663,7 @@
 
 ## Go 
 
+- [ios-go](https://github.com/xlab/ios-go) - The iOS-go project provides a platform for writing native iOS apps in Go programming language.
 - [ftpdts](https://github.com/starshiptroopers/ftpdts) - Ftp server based on ftpdt and goftp/server and used to do a real-time files generation from templates and exposes them as downloadable files. It was originally designed to implement the trick of escaping to the default browser from Facebook, Instagram, webkit in-app browsers on IOS.
 - [go-android](https://github.com/sbinet/go-android) - NDK bindings for Android and Go
 - [android-app-publisher](https://github.com/safu9/android-app-publisher) - Upload your app to play store from terminal or ci environment
