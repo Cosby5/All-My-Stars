@@ -663,6 +663,9 @@
 
 ## Go 
 
+- [gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
+- [rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud on a continuous basis with OTA updates.
+- [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [ios-go](https://github.com/xlab/ios-go) - The iOS-go project provides a platform for writing native iOS apps in Go programming language.
 - [ftpdts](https://github.com/starshiptroopers/ftpdts) - Ftp server based on ftpdt and goftp/server and used to do a real-time files generation from templates and exposes them as downloadable files. It was originally designed to implement the trick of escaping to the default browser from Facebook, Instagram, webkit in-app browsers on IOS.
@@ -720,7 +723,7 @@
 - [wasps](https://github.com/yankooo/wasps) - wasps is a lightweight goroutine pool for golang, use limited goroutines to achieve multi-task concurrent execution.
 - [dockness](https://github.com/bamarni/dockness) - DNS for Docker machines
 - [udpx](https://github.com/felipejfc/udpx) - A Fast UDP Proxy written in Golang
-- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in GO
+- [spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
 - [meshbird](https://github.com/enricomariafusi/meshbird) - Distributed private networking
 - [sshsync](https://github.com/madewithlinux/sshsync) - 
@@ -1735,6 +1738,7 @@
 - [bd](https://github.com/nvll/bd) - Binary diff tool
 - [debpkg](https://github.com/xor-gate/debpkg) - Debian packaging written in pure Golang
 - [godeb-repo](https://github.com/OrlovEvgeny/godeb-repo) - A mini apt repository server
+- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [debmaker](https://github.com/linuxerwang/debmaker) - A debian package maker in Golang
 - [coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -1864,6 +1868,7 @@
 
 ## JavaScript 
 
+- [sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
@@ -1944,7 +1949,6 @@
 - [ngx_ip_blacklist_admin](https://github.com/manhnguyenduc/ngx_ip_blacklist_admin) - nginx manage ip blacklist
 - [docker-image-exists](https://github.com/mishguruorg/docker-image-exists) - Check if a specific docker image has been published to Docker Hub.
 - [proxy-login-automator](https://github.com/sjitech/proxy-login-automator) - A single node.js script to automatically inject user/password to http proxy server via a local forwarder
-- [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [sketchfab-portfolio](https://github.com/mauricesvay/sketchfab-portfolio) - Create an amazing porfolio for your Sketchfab profile
 - [whereami](https://github.com/rafaelrinaldi/whereami) - :round_pushpin: Get your geolocation information using freegeoip.app
 - [nodeku](https://github.com/Glavin001/nodeku) - discover and control Roku device with NodeJs
