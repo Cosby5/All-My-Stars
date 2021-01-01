@@ -663,6 +663,8 @@
 
 ## Go 
 
+- [mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
+- [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
 - [rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud on a continuous basis with OTA updates.
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
@@ -1169,7 +1171,7 @@
 - [go-xco](https://github.com/sheenobu/go-xco) - Library for building XMPP/Jabber ( XEP-0114 ) components in golang.
 - [fbmsgr](https://github.com/unixpickle/fbmsgr) - Reverse engineering Facebook Messenger
 - [facecord](https://github.com/davlia-projects/facecord) - A messenger - discord bridge
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [pam-ussh](https://github.com/uber/pam-ussh) - uber's ssh certificate pam module
 - [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
@@ -1505,7 +1507,7 @@
 - [s3cache](https://github.com/sourcegraph/s3cache) - Amazon S3 storage interface for a Go cache
 - [throttled](https://github.com/throttled/throttled) - Package throttled implements rate limiting access to resources such as HTTP endpoints.
 - [dockerclient](https://github.com/samalba/dockerclient) - Docker client library in Go
-- [gokiq](https://github.com/cupcake/gokiq) - Sidekiq-style background jobs in Go
+- [gokiq](https://github.com/tent/gokiq) - Sidekiq-style background jobs in Go
 - [sshpool](https://github.com/kr/sshpool) - Connection pool for SSH
 - [go-nude](https://github.com/koyachi/go-nude) - Nudity detection with Go.
 - [go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
@@ -1819,6 +1821,7 @@
 
 ## Java 
 
+- [FakeImageDetection](https://github.com/afsalashyana/FakeImageDetection) - Fake Image Detection Using Machine Learning
 - [AndroidNativefier](https://github.com/lordvadercito/AndroidNativefier) - Convert web applications to Android native app
 - [webview](https://github.com/rupok/webview) - Native Android WebView App Template with Loader (Progressbar).
 - [webview](https://github.com/slymax/webview) - a template project for android studio
@@ -2199,6 +2202,7 @@
 
 ## Python 
 
+- [Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
 - [RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD) - KiCAD RF tools: footprints wizard and round tracks, mask expander, via fencing
