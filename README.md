@@ -2695,6 +2695,7 @@
 
 ## TypeScript 
 
+- [overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
 - [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
