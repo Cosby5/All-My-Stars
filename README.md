@@ -663,6 +663,8 @@
 
 ## Go 
 
+- [zetamesh](https://github.com/zetamesh/zetamesh) - P2P VPN: Build a security layer-three local area network on the WAN
+- [determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
@@ -2149,6 +2151,7 @@
 
 ## PHP 
 
+- [Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [phpPgAdmin6](https://github.com/HuasoFoundries/phpPgAdmin6) - PHP7+ Based administration tool for PostgreSQL 9.3+
 - [repositeD](https://github.com/nklasio/repositeD) - A Laravel based Repository Manager for packageD
@@ -2695,6 +2698,7 @@
 
 ## TypeScript 
 
+- [chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
 - [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
