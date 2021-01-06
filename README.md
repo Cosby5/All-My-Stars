@@ -663,6 +663,8 @@
 
 ## Go 
 
+- [minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
+- [sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
 - [zetamesh](https://github.com/zetamesh/zetamesh) - P2P VPN: Build a security layer-three local area network on the WAN
 - [determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
@@ -1874,6 +1876,7 @@
 
 ## JavaScript 
 
+- [playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
 - [sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
