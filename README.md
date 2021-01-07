@@ -663,6 +663,10 @@
 
 ## Go 
 
+- [fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
+- [go-face](https://github.com/Kagami/go-face) - :mag: Face recognition with Go
+- [gitlab-token-forward-auth](https://github.com/icedream/gitlab-token-forward-auth) - Tiny server software to protect resources via HTTP Basic Authentication with GitLab Personal Access/Job Tokens.
+- [minikeyvalue](https://github.com/geohot/minikeyvalue) - A distributed key value store in under 1000 lines. Used in production at comma.ai
 - [minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
 - [sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
