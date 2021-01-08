@@ -663,6 +663,9 @@
 
 ## Go 
 
+- [yubihsm-go](https://github.com/certusone/yubihsm-go) - A Go client for the yubihsm2 binary protocol and connector service
+- [verificaassinaturacrypto](https://github.com/jeffprestes/verificaassinaturacrypto) - Samples of how to sign data and later verifies it using ECDSA and Keccak256 and how to encrypt and decrypt using EC and secp256k1 parameters
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [fuzzysearch](https://github.com/lithammer/fuzzysearch) - :pig: Tiny and fast fuzzy search in Go
 - [go-face](https://github.com/Kagami/go-face) - :mag: Face recognition with Go
 - [gitlab-token-forward-auth](https://github.com/icedream/gitlab-token-forward-auth) - Tiny server software to protect resources via HTTP Basic Authentication with GitLab Personal Access/Job Tokens.
