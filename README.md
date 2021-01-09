@@ -1082,7 +1082,7 @@
 - [esp32-transpiler](https://github.com/andygeiss/esp32-transpiler) - Transpile Golang into Arduino code to use fully automated testing at your IoT projects.
 - [u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line interface
+- [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [table-salt-cli](https://github.com/trevor-h/table-salt-cli) - Client/workstation side salt command for Saltstack using SSH with support for bastion/jump hosts
 - [gocorkscrew](https://github.com/dialogbox/gocorkscrew) - SSH over HTTP/HTTPS proxy
 - [go-httppc](https://github.com/vislee/go-httppc) - Go HTTP client that implements proxy protocol
@@ -1615,7 +1615,7 @@
 - [bolt-mount](https://github.com/bazil/bolt-mount) - Mount a BoltDB (https://github.com/boltdb/bolt) database as a FUSE filesystem;
 - [debos](https://github.com/go-debos/debos) - Debian OS builder
 - [gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
 - [golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [alone](https://github.com/tv42/alone) - Go Alone is an experiment into running Go as an appliance-oriented operating system
