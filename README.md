@@ -673,7 +673,6 @@
 - [minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
 - [sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
-- [zetamesh](https://github.com/zetamesh/zetamesh) - P2P VPN: Build a security layer-three local area network on the WAN
 - [determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
