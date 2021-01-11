@@ -1749,7 +1749,7 @@
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [docker-volume-davfs](https://github.com/fentas/docker-volume-davfs) - :whale: davfs docker volume plugin
 - [bd](https://github.com/nvll/bd) - Binary diff tool
-- [debpkg](https://github.com/xor-gate/debpkg) - Debian packaging written in pure Golang
+- [debpkg](https://github.com/xor-gate/debpkg) - Packaging Go application for Debian written in pure Golang
 - [godeb-repo](https://github.com/OrlovEvgeny/godeb-repo) - A mini apt repository server
 - [supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -2459,7 +2459,7 @@
 - [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [remotecv](https://github.com/thumbor/remotecv) - remotecv is an OpenCV server for facial and feature recognition.
 - [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-- [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, and 3.8.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+- [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
 
 ## Racket 
@@ -2722,7 +2722,7 @@
 - [theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [rxdb](https://github.com/pubkey/rxdb) - :computer: 🔄 :iphone: A realtime Database for JavaScript Applications
 - [verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
-- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [pos-frontend](https://github.com/jayeshgoyal/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
 - [vscode-gitlab-pipeline](https://github.com/vstepanyuk/vscode-gitlab-pipeline) - Gitlab Pipeline plugin for VSCode
