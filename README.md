@@ -464,7 +464,7 @@
 ## D 
 
 - [D-Lang-on-Android](https://github.com/MrcSnm/D-Lang-on-Android) - My attempt to compile D-Lang to Android on linux
-- [CRISC](https://github.com/Member1221/CRISC) - Clipsey's Reduced Instruction Set Computing virtual toy processor and assembler.
+- [CRISC](https://github.com/LunaTheFoxgirl/CRISC) - Clipsey's Reduced Instruction Set Computing virtual toy processor and assembler.
 - [shellbridgefs](https://github.com/Andrepuel/shellbridgefs) - FUSE filesystem that redirect calls to a shell subprocess
 - [decimal](https://github.com/rumbu13/decimal) - D implementation of floating point decimal data type according to IEEE754-2008
 - [dlangfeatures](https://github.com/marler8997/dlangfeatures) - A list of features that I think would benefit the D Programming Language
@@ -545,7 +545,7 @@
 - [pfft](https://github.com/p0nce/pfft) - 
 - [dnote](https://github.com/dd86k/dnote) - CLI Note App
 - [pidos](https://github.com/outlandkarasu-sandbox/pidos) - 
-- [nicedesktopd](https://github.com/Member1221/nicedesktopd) - A small application meant to be used as a wallpaper setting daemon for linux (and compatible). Written in D.
+- [nicedesktopd](https://github.com/LunaTheFoxgirl/nicedesktopd) - A small application meant to be used as a wallpaper setting daemon for linux (and compatible). Written in D.
 - [http-here](https://github.com/WebFreak001/http-here) - Super Basic http server creation by right-clicking folders in windows -&gt; "Simple HTTP Server here"
 - [RemoteShutdown](https://github.com/WebFreak001/RemoteShutdown) - Control and shutdown your PC from your Bed. On Linux I would recommend you KDE Connect instead
 - [ldap](https://github.com/WebFreak001/ldap) - D LDAP client library using winldap on windows and openldap on other platforms
@@ -1986,7 +1986,7 @@
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [alltomp3-cli](https://github.com/AllToMP3/alltomp3-cli) - Download a song in one-command
 - [adblock-to-bitcoin](https://github.com/owocki/adblock-to-bitcoin) - A project that turns ads into bitcoin donation solicitations when adblock is enabled
-- [multissh](https://github.com/gridcontrol/multissh) - SSH into multiple machine to execute a command in parallel, with a convenient terminal UX
+- [multissh](https://github.com/Unitech/multissh) - SSH into multiple machine to execute a command in parallel, with a convenient terminal UX
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
