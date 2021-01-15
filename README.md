@@ -2672,7 +2672,7 @@
 - [rsshfs](https://github.com/rom1v/rsshfs) - Reverse of sshfs
 - [plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
-- [traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained, Ruby binaries that can run on any Linux distribution and any OS X machine.
+- [traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [debian-on-termux](https://github.com/sp4rkie/debian-on-termux) - HOWTO install plain Debian 10 (buster) on your non-rooted Android smartphone
 - [docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [Update-Hosts](https://github.com/SirNomad49/Update-Hosts) - this script allows you to add entrys to your /etc/hosts file
