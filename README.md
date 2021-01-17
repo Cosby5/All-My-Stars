@@ -663,6 +663,7 @@
 
 ## Go 
 
+- [GoDFS](https://github.com/rounakdatta/GoDFS) - [G|HD]FS inspired simple distributed filesystem
 - [yubihsm-go](https://github.com/certusone/yubihsm-go) - A Go client for the yubihsm2 binary protocol and connector service
 - [verificaassinaturacrypto](https://github.com/jeffprestes/verificaassinaturacrypto) - Samples of how to sign data and later verifies it using ECDSA and Keccak256 and how to encrypt and decrypt using EC and secp256k1 parameters
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
