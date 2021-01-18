@@ -622,6 +622,7 @@
 
 ## Dockerfile 
 
+- [osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
 - [nginx-blocker-docker-proxy](https://github.com/Miosame/nginx-blocker-docker-proxy) - nginx-ultimate-bad-bot-blocker dockerized and proxified
 - [sketchup-container](https://github.com/adelton/sketchup-container) - Running SketchUp Make in a container
 - [h3970](https://github.com/zgoda/h3970) - Yocto build for HP/Compaq IPaq h3970
@@ -2217,6 +2218,7 @@
 
 ## Python 
 
+- [windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
 - [Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
