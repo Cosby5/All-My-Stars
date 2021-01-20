@@ -915,7 +915,7 @@
 - [tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [multisyncer](https://github.com/xanzy/multisyncer) - MultiSyncer synchronizes access based on a given token
 - [gochat](https://github.com/LockGit/gochat) - goim server write by golang !🚀
-- [gitdir](https://github.com/belak/gitdir) - Simple, lightweight, and secure git hosting with just a directory.
+- [gitdir](https://github.com/belak/gitdir) - Simple and lightweight SSH git hosting with just a directory.
 - [espeakbox](https://github.com/parente/espeakbox) - Text-to-speech server in a small (17.2 MB) Docker image
 - [gitlab-packagist](https://github.com/mishak87/gitlab-packagist) - DEPRECATED: Simple no dependency in memory cached packages.json server. Composer finally supports GitLab natively :-)
 - [dependency-resolver](https://github.com/mirhec/dependency-resolver) - A simple language independent dependency resolver that supports multiple registries to pull from.
@@ -1983,7 +1983,7 @@
 - [Touch-Menu-Like-Android](https://github.com/ericktatsui/Touch-Menu-Like-Android) - A touch menu like Navigation Drawer of Android.
 - [FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
 - [facebook-chat-api](https://github.com/Schmavery/facebook-chat-api) - Unofficial Facebook Chat API for Nodejs
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [pirateflix](https://github.com/orinocoz/pirateflix) - :movie_camera: Stream piratebay movies directly from CLI
 - [volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [alltomp3-cli](https://github.com/AllToMP3/alltomp3-cli) - Download a song in one-command
@@ -2692,7 +2692,7 @@
 - [USM](https://github.com/adamnew123456/USM) - The User Software Manager - Stores Your Compiled Programs
 - [dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [caman](https://github.com/radiac/caman) - A self-signing certificate authority manager
-- [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+- [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 - [init-script-template](https://github.com/fhd/init-script-template) - A template for simple System V init scripts
 - [gcc-cross-compiler](https://github.com/pwaring/gcc-cross-compiler) - Cross compiling GCC for a range of targets
 - [debian-mini-odroid-c1](https://github.com/tomuta/debian-mini-odroid-c1) - Script to build a minimal Debian sd card image.
