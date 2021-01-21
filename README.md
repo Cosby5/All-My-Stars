@@ -707,7 +707,7 @@
 - [go-crossplane](https://github.com/aluttik/go-crossplane) - An unofficial Go port of the NGINX config/JSON converter crossplane
 - [gitremotes](https://github.com/teacat/gitremotes) - 透過 `.gitremotes` 建立多個 Origin 遠端，而不需要手動逐一輸入遠端路徑。
 - [gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
-- [mqtt](https://github.com/mochi-co/mqtt) - An embeddable lightweight, high-performance Go MQTT Server (broker) for IoT and PubSub
+- [mqtt](https://github.com/mochi-co/mqtt) - An embeddable lightweight, high-performance Go/Golang MQTT Server (broker) for IoT and PubSub
 - [backhub](https://github.com/jakewarren/backhub) - Back up starred repos & Gists from GitHub
 - [gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
 - [dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats
