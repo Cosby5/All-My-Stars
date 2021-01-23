@@ -1212,7 +1212,7 @@
 - [go-acme-nsupdate](https://github.com/patrickhaller/go-acme-nsupdate) - golang acme v2 client with nsupdate for DNS-01 challenge
 - [go-nginx-auth](https://github.com/patrickhaller/go-nginx-auth) - LDAP authentication and proxy routing for NGINX's mail module
 - [docker-node-identities](https://github.com/dcmediahosting/docker-node-identities) - A tool that will create/remove users and groups on a docker node, if required by a container.
-- [nginx-mail-auth-http](https://github.com/dcmediahosting/nginx-mail-auth-http) - A Go HTTP authentication server for ngx_mail_auth_http_module.
+- [nginx-mail-auth-http](https://github.com/urlund/nginx-mail-auth-http) - A Go HTTP authentication server for ngx_mail_auth_http_module.
 - [go-dynlib](https://github.com/ermergerd/go-dynlib) - Go program to build standard library packages as individual dynamic shared libraries (for Linux)
 - [Jni-Golang](https://github.com/nicholas23/Jni-Golang) - java invoke golang (by Go1.5 shared library)
 - [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
@@ -1958,7 +1958,7 @@
 - [godaddy-dns](https://github.com/lmammino/godaddy-dns) - A Node.js script to programmatically update GoDaddy DNS records
 - [gitlab-workflow](https://github.com/fatihacet/gitlab-workflow) - VSCode extension to enrich your GitLab experience
 - [kanban](https://github.com/leanlabsio/kanban) - Lean project management for GitLab
-- [node-gitlab-hook](https://github.com/toufik-airane/node-gitlab-hook) - This is a very simple, easy to use web hook for GitLab.
+- [node-gitlab-hook](https://github.com/JamieSlome/node-gitlab-hook) - This is a very simple, easy to use web hook for GitLab.
 - [gitlab-ci-dashboard](https://github.com/ci-dashboard/gitlab-ci-dashboard) - 📊 Dashboard for monitoring GitLab CI builds and pipelines for TV
 - [gitlab-ldap-group-sync](https://github.com/gitlab-tools/gitlab-ldap-group-sync) - Manage your gitlab groups with ldap / active directory
 - [jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) - MPEG1 Video Player Based On JSMpeg.
