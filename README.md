@@ -664,6 +664,7 @@
 
 ## Go 
 
+- [golangSearchEngine](https://github.com/zucchinidev/golangSearchEngine) - The Go program pulls different data feeds from the web and compares the content against a search term. The content that matches is then displayed in the terminal window
 - [GoDFS](https://github.com/rounakdatta/GoDFS) - [G|HD]FS inspired simple distributed filesystem
 - [yubihsm-go](https://github.com/certusone/yubihsm-go) - A Go client for the yubihsm2 binary protocol and connector service
 - [verificaassinaturacrypto](https://github.com/jeffprestes/verificaassinaturacrypto) - Samples of how to sign data and later verifies it using ECDSA and Keccak256 and how to encrypt and decrypt using EC and secp256k1 parameters
@@ -2077,6 +2078,7 @@
 
 ## Others 
 
+- [1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate](https://github.com/seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate) - rtorrent.rc & sysctl.config For 1 Gigabit File Server/Seedbox Boilerplate
 - [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
 - [rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
