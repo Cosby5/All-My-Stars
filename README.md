@@ -1885,6 +1885,7 @@
 
 ## JavaScript 
 
+- [React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
 - [sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications
@@ -2078,6 +2079,7 @@
 
 ## Others 
 
+- [android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 - [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate](https://github.com/seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate) - rtorrent.rc & sysctl.config For 1 Gigabit File Server/Seedbox Boilerplate
 - [electron-alternatives](https://github.com/sudhakar3697/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
