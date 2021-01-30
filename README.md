@@ -422,7 +422,7 @@
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [Brain](https://github.com/souvik1982/Brain) - Simulating a primordial brain. A biological (spiking) neural network structuring itself through natural selection.
 - [node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
-- [rv8](https://github.com/rv8-io/rv8) - RISC-V simulator for x86-64
+- [rv8](https://github.com/michaeljclark/rv8) - RISC-V simulator for x86-64
 - [Perseus](https://github.com/turbo/Perseus) - Perseus Programming Language (Windows), Integrated Assembler & Linker
 - [sinpeloader](https://github.com/sin5678/sinpeloader) - manual load a pe file into memery and exec it
 - [Pe-Loader-Sample](https://github.com/abhisek/Pe-Loader-Sample) - Proof of concept implementation of in-memory PE Loader based on ReflectiveDLLInjection Technique
@@ -2335,10 +2335,10 @@
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [CoDrone-python](https://github.com/RobolinkInc/CoDrone-python) - python package for codrone
 - [DronePilot](https://github.com/alduxvm/DronePilot) - Automatic pilot that can control and fly several drones, including Pixhawk's, APM's and MultiWii's
-- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [tfObjWebrtc](https://github.com/webrtcHacks/tfObjWebrtc) - Tensorflow Object Detection API Web Service wrapper that works on any &lt;video&gt; tag and WebRTC streams
 - [chatbot-rnn](https://github.com/pender/chatbot-rnn) - A toy chatbot powered by deep learning and trained on data from Reddit
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Dracula](https://github.com/Sentimentron/Dracula) - A deep, LSTM-based part of speech tagger and sentiment analyser using character embeddings instead of words. Compatible with Theano and TensorFlow. Optimized for Twitter.
 - [postfix-mta-sts-resolver](https://github.com/Snawoot/postfix-mta-sts-resolver) - Daemon which provides TLS client policy for Postfix via socketmap, according to domain MTA-STS policy
 - [mysql2psql](https://github.com/ggarri/mysql2psql) - Turn your old MySQL database into PostgreSQL and try a new world of experience with it
