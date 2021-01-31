@@ -2736,7 +2736,7 @@
 - [vscode-gitlab-pipeline](https://github.com/vstepanyuk/vscode-gitlab-pipeline) - Gitlab Pipeline plugin for VSCode
 - [VSCode-ShareCode](https://github.com/tigerxy/VSCode-ShareCode) - Share Code is an Extension for Visual Studio Code. You can find it on marketplace.
 - [3drepo.io](https://github.com/3drepo/3drepo.io) - 3D Repo web server
-- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [teDB](https://github.com/tedb-org/teDB) - TypeScript Embedded Database
 - [DefinitelyTyped](https://github.com/ziahamza/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
