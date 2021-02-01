@@ -1809,6 +1809,7 @@
 - [windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [anarres](https://github.com/anarres-org/anarres) - An ansible playbook to set up a GNU/Linux server. Services in docker. Security by default.
 - [ardumower](https://github.com/Ardumower/ardumower) - Develop an open source robotic lawn mower (HW+SW reference platform)
 - [http-error-pages](https://github.com/anthrax3/http-error-pages) - A simple to use generator for static pages with errors to replace the default error pages that come with any web server like Nginx or Apache.
 - [nginx-error-pages](https://github.com/denysvitali/nginx-error-pages) - Cute Error Pages for your nginx web server
@@ -1980,7 +1981,6 @@
 - [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [Sonar](https://github.com/iamtrask/Sonar) - DEPRECATED - Decentralized Machine Learning Server (hosted on Blockchain)
 - [gitbanner](https://github.com/mappum/gitbanner) - :balloon: Generates a git repo to show a cool banner on your Github profile
-- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [Touch-Menu-Like-Android](https://github.com/ericktatsui/Touch-Menu-Like-Android) - A touch menu like Navigation Drawer of Android.
 - [FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
@@ -2184,6 +2184,7 @@
 - [notrack](https://github.com/quidsup/notrack) - NoTrack is a network-wide DNS server which blocks Tracking sites
 - [data-structures-and-algorithms](https://github.com/fabacab/data-structures-and-algorithms) - :book::computer: A compendium for self-education geared for "people who do not have computer science degrees."
 - [grauphel](https://github.com/cweiske/grauphel) - Tomboy note synchronization REST server nextcloud app
+- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [Social-Network](https://github.com/buckyroberts/Social-Network) - Open source social network for thenewboston community.
@@ -2245,7 +2246,6 @@
 - [gitlab-attendant](https://github.com/stuartmccoll/gitlab-attendant) - 🤖 A GitLab bot that tidies and attends to repositories
 - [gitlab-registry-cleanup-hook](https://github.com/glensc/gitlab-registry-cleanup-hook) - Listens for incoming requests and deletes docker images if merge request is merged
 - [marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
-- [anarres](https://github.com/anarres-org/anarres) - An ansible playbook to set up a GNU/Linux server. Services in docker. Security by default.
 - [stl2scad](https://github.com/joshuaflanagan/stl2scad) - Convert .STL files to OpenSCAD
 - [FreeCAD-to-OpenScad-converter](https://github.com/daizyu/FreeCAD-to-OpenScad-converter) - This is CAD Data conveter . It can convert from FreeCAD to OpenSCAD.
 - [gitlab-art](https://github.com/kosma/gitlab-art) - cross-project Gitlab artifact dependencies
