@@ -1185,7 +1185,7 @@
 - [go-xco](https://github.com/sheenobu/go-xco) - Library for building XMPP/Jabber ( XEP-0114 ) components in golang.
 - [fbmsgr](https://github.com/unixpickle/fbmsgr) - Reverse engineering Facebook Messenger
 - [facecord](https://github.com/davlia-projects/facecord) - A messenger - discord bridge
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [ssh_config](https://github.com/kevinburke/ssh_config) - Go parser for ssh_config files
 - [pam-ussh](https://github.com/uber/pam-ussh) - uber's ssh certificate pam module
 - [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
@@ -1805,6 +1805,7 @@
 
 ## HTML 
 
+- [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
@@ -1886,6 +1887,7 @@
 
 ## JavaScript 
 
+- [jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
 - [React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
 - [sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
@@ -1981,6 +1983,7 @@
 - [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [Sonar](https://github.com/iamtrask/Sonar) - DEPRECATED - Decentralized Machine Learning Server (hosted on Blockchain)
 - [gitbanner](https://github.com/mappum/gitbanner) - :balloon: Generates a git repo to show a cool banner on your Github profile
+- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [Touch-Menu-Like-Android](https://github.com/ericktatsui/Touch-Menu-Like-Android) - A touch menu like Navigation Drawer of Android.
 - [FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
@@ -2184,7 +2187,6 @@
 - [notrack](https://github.com/quidsup/notrack) - NoTrack is a network-wide DNS server which blocks Tracking sites
 - [data-structures-and-algorithms](https://github.com/fabacab/data-structures-and-algorithms) - :book::computer: A compendium for self-education geared for "people who do not have computer science degrees."
 - [grauphel](https://github.com/cweiske/grauphel) - Tomboy note synchronization REST server nextcloud app
-- [ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [Social-Network](https://github.com/buckyroberts/Social-Network) - Open source social network for thenewboston community.
