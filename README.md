@@ -638,7 +638,7 @@
 - [CodeServerHaskell](https://github.com/JosephPaulAntonetti/CodeServerHaskell) - CodeServer Dockerfile for a Haskell Development Environment
 - [docker-debian-systemd](https://github.com/alehaa/docker-debian-systemd) - Run a full Debian OS inside a Docker container
 - [dockerfiles](https://github.com/j8r/dockerfiles) - Repository for my dockerfiles
-- [docker-freebsd-cross](https://github.com/myfreeweb/docker-freebsd-cross) - Docker image for cross-compiling to FreeBSD. With pkg!!
+- [docker-freebsd-cross](https://github.com/unrelentingtech/docker-freebsd-cross) - Docker image for cross-compiling to FreeBSD. With pkg!!
 - [prosody-docker](https://github.com/prosody/prosody-docker) - Docker image building system for the Prosody XMPP server
 - [docker-dhcpd](https://github.com/jcbiellikltd/docker-dhcpd) - Simple containerized DHCP server running on Alpine Linux
 - [gitlab-deploy-ssh](https://github.com/Drivetech/gitlab-deploy-ssh) - Docker Image with alpine linux for deploy with ssh in gitlab ci
@@ -865,7 +865,7 @@
 - [codf](https://github.com/nilium/codf) - Config file parser for Go in the style of nginx (Migrated to https://git.sr.ht/~nilium/codf)
 - [httpsreversesshproxy](https://github.com/jodoherty/httpsreversesshproxy) - HTTPS reverse proxy through an SSH tunnel
 - [sshttp](https://github.com/mdlayher/sshttp) - Package sshttp provides functionality that enables some functionality of Go's net/http package to be used with SSH servers using SFTP.  MIT Licensed.
-- [443d](https://github.com/myfreeweb/443d) - TLS with HTTP/2 proxying, demultiplexed with SSH, on your port 443
+- [443d](https://github.com/unrelentingtech/443d) - TLS with HTTP/2 proxying, demultiplexed with SSH, on your port 443
 - [multiplexd](https://github.com/shawnl/multiplexd) - run ssh, https, and openvpn on the same port
 - [tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
 - [network-real-online](https://github.com/marguerite/network-real-online) - systemd service to check if your network is really online by visiting baidu.com
