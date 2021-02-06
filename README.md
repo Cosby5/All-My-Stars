@@ -292,7 +292,7 @@
 - [Pulsarr](https://github.com/drkno/Pulsarr) - Looks and smells like Sonarr, via Radarr and Lidarr but made for audiobooks.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [quadruple](https://github.com/NRTDP/quadruple) - Signed 128-bit floating point data type library originally by Jeff Pasternack
-- [btcpayserver](https://github.com/btcpayserver/btcpayserver) - A cross platform, self-hosted server compatible with Bitpay API
+- [btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free and open-source & self-hosted, BTC payment processor.
 - [Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core)
 - [Docker-Volume-Watcher](https://github.com/Angelinsky7/Docker-Volume-Watcher) - Docker volume watcher is a service that creates a link between window file system and docker mounted volume
 - [open3mod](https://github.com/acgessler/open3mod) - Open 3D Model Viewer - A quick and powerful 3D model viewer
@@ -664,6 +664,7 @@
 
 ## Go 
 
+- [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [golangSearchEngine](https://github.com/zucchinidev/golangSearchEngine) - The Go program pulls different data feeds from the web and compares the content against a search term. The content that matches is then displayed in the terminal window
 - [GoDFS](https://github.com/rounakdatta/GoDFS) - [G|HD]FS inspired simple distributed filesystem
 - [yubihsm-go](https://github.com/certusone/yubihsm-go) - A Go client for the yubihsm2 binary protocol and connector service
@@ -935,7 +936,7 @@
 - [goproxy](https://github.com/goproxy/goproxy) - A minimalist Go module proxy handler.
 - [go-quic-reverse-proxy](https://github.com/fholzer/go-quic-reverse-proxy) - A very simple QUIC server that reverse proxies requests to you existing web server.
 - [gomobiler](https://github.com/ViRb3/gomobiler) - A stripped-down gomobile to easily build go executables for Android
-- [webdav-server](https://github.com/ViRb3/webdav-server) - A simple WebDAV server
+- [webdav-server](https://github.com/ViRb3/webdav-server) - A simple WebDAV server in Go
 - [http-ci-deployer](https://github.com/ViRb3/http-ci-deployer) - An extremely simple HTTP-based deployment solution for Continuous Integration services
 - [ghrelease](https://github.com/abiosoft/ghrelease) - A tool to download latest release archive for a GitHub project using GitHub API.
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
