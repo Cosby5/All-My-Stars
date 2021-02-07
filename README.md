@@ -49,6 +49,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
@@ -664,6 +665,7 @@
 
 ## Go 
 
+- [go-android-rpc](https://github.com/seletskiy/go-android-rpc) - Native Android UI via shared Golang library
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [golangSearchEngine](https://github.com/zucchinidev/golangSearchEngine) - The Go program pulls different data feeds from the web and compares the content against a search term. The content that matches is then displayed in the terminal window
 - [GoDFS](https://github.com/rounakdatta/GoDFS) - [G|HD]FS inspired simple distributed filesystem
@@ -1807,7 +1809,6 @@
 ## HTML 
 
 - [Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
 - [gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1838,6 +1839,7 @@
 
 ## Java 
 
+- [AndroidxWebkitDemo](https://github.com/Rudrakaniya/AndroidxWebkitDemo) - Demo app to implement Android webview, firebase notifications and more
 - [FakeImageDetection](https://github.com/afsalashyana/FakeImageDetection) - Fake Image Detection Using Machine Learning
 - [AndroidNativefier](https://github.com/lordvadercito/AndroidNativefier) - Convert web applications to Android native app
 - [webview](https://github.com/rupok/webview) - Native Android WebView App Template with Loader (Progressbar).
@@ -2537,6 +2539,10 @@
 - [static-compress](https://github.com/neosmart/static-compress) - A utility for creating a compressed copy of all files in a tree
 - [hazel](https://github.com/MPIB/hazel) - A Chocolatey-compatible multi-platform Package Server written in Rust
 - [vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
+
+## SCSS 
+
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Scala 
 
