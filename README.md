@@ -293,7 +293,7 @@
 - [Pulsarr](https://github.com/drkno/Pulsarr) - Looks and smells like Sonarr, via Radarr and Lidarr but made for audiobooks.
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [quadruple](https://github.com/NRTDP/quadruple) - Signed 128-bit floating point data type library originally by Jeff Pasternack
-- [btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free and open-source & self-hosted, BTC payment processor.
+- [btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core)
 - [Docker-Volume-Watcher](https://github.com/Angelinsky7/Docker-Volume-Watcher) - Docker volume watcher is a service that creates a link between window file system and docker mounted volume
 - [open3mod](https://github.com/acgessler/open3mod) - Open 3D Model Viewer - A quick and powerful 3D model viewer
@@ -1198,7 +1198,6 @@
 - [dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [user_agent](https://github.com/mssola/user_agent) - HTTP User Agent parser for the Go programming language.
 - [sshagent](https://github.com/pnisarg/sshagent) - Using Golang ssh-agent with unix socket
-- [forwagent](https://github.com/dainnilsson/forwagent) - Experimental gpg (and ssh) agent forwarding for Windows.
 - [godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [radius](https://github.com/layeh/radius) - a Go (golang) RADIUS client and server implementation
 - [osenv](https://github.com/colindev/osenv) - golang package for load os env to struct
@@ -2332,6 +2331,7 @@
 - [clean_rtorrent_watchdir](https://github.com/aruhier/clean_rtorrent_watchdir) - Python script to clean torrents from a rtorrent watch directory that are not in the session directory anymore
 - [rtorrent-cleanup](https://github.com/ntv1000/rtorrent-cleanup) - A script to delete files from your rtorrent download directory that are not referenced in rtorrent.
 - [fbridge](https://github.com/VictorNine/fbridge) - Bridge facebook messenger with any service supported by matterbridge
+- [forwagent](https://github.com/dainnilsson/forwagent) - Experimental gpg (and ssh) agent forwarding for Windows.
 - [zfs-keyvault](https://github.com/stewartadam/zfs-keyvault) - systemd service to securely load ZFS encryption keys from Azure Key Vault
 - [gitsuggest.com](https://github.com/csurfer/gitsuggest.com) - App to suggest github repositories based on the repositories already starred by the user
 - [gitsuggest](https://github.com/csurfer/gitsuggest) - A tool to suggest github repositories based on the repositories you have shown interest in.
