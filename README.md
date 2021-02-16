@@ -1467,7 +1467,7 @@
 - [jsonfs](https://github.com/droyo/jsonfs) - Serve a JSON file as a file system over 9P
 - [go-credit-card](https://github.com/durango/go-credit-card) - Credit card validation with the Luhn algorithm for golang
 - [runner](https://github.com/raksly/runner) - Convenience library to not reinvent the wheel when working with goroutines in certain setups.
-- [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://developer.github.com/v4/).
+- [githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 - [govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [socialfs](https://github.com/kivutar/socialfs) - A peer2peer social network, written in go using 9p and tls
 - [dotenv](https://github.com/kare/dotenv) - 
@@ -2319,7 +2319,6 @@
 - [bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
 - [plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
 - [plex_media_sorter](https://github.com/AndrewJHart/plex_media_sorter) - Automagically determines the type of media by filename, sorts it, & then moves it configured directories (movies or shows) so that plex knows what to do with them.
-- [Shake](https://github.com/OhmResearch/Shake) - P2P email client based on Syncthing
 - [plex-personal-shows-agent.bundle](https://github.com/suparngp/plex-personal-shows-agent.bundle) - Plex Metadata agent to manage personal shows
 - [youtube-dl-plugin](https://github.com/vishnugt/youtube-dl-plugin) - A Python script to constantly watch your clipboard content, and download if its a youtube link!
 - [youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
