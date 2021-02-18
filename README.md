@@ -1892,6 +1892,7 @@
 
 ## JavaScript 
 
+- [remote-mouse](https://github.com/rogerdahl/remote-mouse) - Control the mouse on a Linux box from any phone or tablet
 - [jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
 - [React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
@@ -2243,7 +2244,7 @@
 - [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.
 - [plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
-- [Addarr](https://github.com/Waterboy1602/Addarr) - Telegrambot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
+- [Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
 - [Brain-Computer-Interface-with-Neurosky](https://github.com/AnilOsmanTur/Brain-Computer-Interface-with-Neurosky) - Brain Computer Interface (BCI) with Neurosky Mindwave Mobile 2 that enables anyone to use computer, mobilephone etc. with his/her thoughts.
 - [EEG_Robotic_Arm](https://github.com/jacobstein123/EEG_Robotic_Arm) - An arduino-powered robotic arm controlled by brain activity
 - [eegsynth](https://github.com/eegsynth/eegsynth) - Converting real-time EEG into sounds, music and visual effects
