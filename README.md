@@ -516,7 +516,7 @@
 - [DCPU-16-emulator](https://github.com/MrSmith33/DCPU-16-emulator) - DCPU-16 emulator written in D language
 - [ice](https://github.com/shove70/ice) - NAT, stun, turn and ice.
 - [bshift](https://github.com/briansteffens/bshift) - Compiler for a language called bshift
-- [vox](https://github.com/MrSmith33/vox) - Vox compiler. AOT / JIT / Linker. Zero dependencies
+- [vox](https://github.com/MrSmith33/vox) - Vox language compiler. AOT / JIT / Linker. Zero dependencies
 - [GCode-Z-Reorder](https://github.com/FeepingCreature/GCode-Z-Reorder) - Reorder 3d printing gcode to coalesce z-adjacent extrusions in close regions, instead of going back-and-forth
 - [fcc](https://github.com/FeepingCreature/fcc) - fcc is the compiler for Neat, my D-lite language.
 - [button](https://github.com/jasonwhite/button) - A build system that aims to be fast, correct, and elegantly simple.
@@ -2054,7 +2054,7 @@
 - [static-glibc-nginx](https://github.com/ericpruitt/static-glibc-nginx) - Makefile and patch to build an NGINX binary statically linked against GNU libc.
 - [coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
 - [musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
-- [docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable linux disk image abusing docker
+- [docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
 - [project-status](https://github.com/Luzifer/project-status) - Template for a SVG image to be embedded into the README file of a Github repository.
 - [sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 - [tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
