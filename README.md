@@ -665,6 +665,8 @@
 
 ## Go 
 
+- [babygo](https://github.com/DQNEO/babygo) - Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
+- [captcha](https://github.com/moul/captcha) - a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
 - [simple-acme-server](https://github.com/key-consulting/simple-acme-server) - 
 - [blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored in each block.
 - [runu](https://github.com/ukontainer/runu) - OCI runtime for frankenlibc unikernel
