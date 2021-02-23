@@ -1285,7 +1285,7 @@
 - [go-scp](https://github.com/hnakamur/go-scp) - A scp client library written in Go
 - [reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
 - [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
-- [sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using AVX512, SHA256 and AVX2 for Intel and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core) in comparison to AVX2. On SHA256 speeds up observed at 4x in comparison to AVX2.
+- [sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using Accelerate SHA256 computations in pure Go using AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performance boost of close to 4x over native.
 - [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
 - [go-xmpp](https://github.com/mattn/go-xmpp) - go xmpp library (original was written by russ cox  )
 - [hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
