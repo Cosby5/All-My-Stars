@@ -395,7 +395,7 @@
 - [meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 - [3DUNDERWORLD-Structured-Light-Scanner](https://github.com/theICTlab/3DUNDERWORLD-Structured-Light-Scanner) - [3DUNDERWORLD-SLS] High-accuracy Structured-Light Scanner.
 - [WLStream](https://github.com/rsegecin/WLStream) - Stream audio from a Windows output device to be captured on a Linux host.
-- [Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++
+- [Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) written in C++
 - [avian](https://github.com/ReadyTalk/avian) - [INACTIVE] Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications.
 - [lockfree-malloc](https://github.com/Begun/lockfree-malloc) - The world's first Web-scale memory allocator
 - [arduinoFFT](https://github.com/kosme/arduinoFFT) - Fast Fourier Transform for Arduino
