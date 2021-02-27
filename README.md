@@ -666,6 +666,7 @@
 
 ## Go 
 
+- [jackal](https://github.com/ortuman/jackal) - Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [babygo](https://github.com/DQNEO/babygo) - Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
 - [captcha](https://github.com/moul/captcha) - a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
 - [simple-acme-server](https://github.com/key-consulting/simple-acme-server) - 
@@ -2556,6 +2557,7 @@
 
 ## Shell 
 
+- [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [pki-manager](https://github.com/frntn/pki-manager) - IT Freelancers : Manage small PKI for multiple projects (or clients) with 2 bash scripts
 - [softether-autoinstall](https://github.com/icoexist/softether-autoinstall) - SoftEther Autoinstaller
 - [nspawn-skype](https://github.com/dhensen/nspawn-skype) - Put skype in an systemd-nspawn container where it belongs.
