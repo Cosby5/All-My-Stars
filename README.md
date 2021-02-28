@@ -666,6 +666,8 @@
 
 ## Go 
 
+- [jwt-auth](https://github.com/fr3dch3n/jwt-auth) - Authenticate requests with jwt, extensible claims and a specific jwks-set
+- [jwks-provider](https://github.com/graphql-services/jwks-provider) - Service providing JWKS for internal/public usage
 - [jackal](https://github.com/ortuman/jackal) - Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [babygo](https://github.com/DQNEO/babygo) - Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
 - [captcha](https://github.com/moul/captcha) - a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
