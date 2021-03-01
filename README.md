@@ -666,6 +666,7 @@
 
 ## Go 
 
+- [progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [jwt-auth](https://github.com/fr3dch3n/jwt-auth) - Authenticate requests with jwt, extensible claims and a specific jwks-set
 - [jwks-provider](https://github.com/graphql-services/jwks-provider) - Service providing JWKS for internal/public usage
 - [jackal](https://github.com/ortuman/jackal) - Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
@@ -2237,6 +2238,7 @@
 
 ## Python 
 
+- [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
 - [Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
@@ -2351,7 +2353,7 @@
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [tfObjWebrtc](https://github.com/webrtcHacks/tfObjWebrtc) - Tensorflow Object Detection API Web Service wrapper that works on any &lt;video&gt; tag and WebRTC streams
 - [chatbot-rnn](https://github.com/pender/chatbot-rnn) - A toy chatbot powered by deep learning and trained on data from Reddit
-- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Dracula](https://github.com/Sentimentron/Dracula) - A deep, LSTM-based part of speech tagger and sentiment analyser using character embeddings instead of words. Compatible with Theano and TensorFlow. Optimized for Twitter.
 - [postfix-mta-sts-resolver](https://github.com/Snawoot/postfix-mta-sts-resolver) - Daemon which provides TLS client policy for Postfix via socketmap, according to domain MTA-STS policy
 - [mysql2psql](https://github.com/ggarri/mysql2psql) - Turn your old MySQL database into PostgreSQL and try a new world of experience with it
@@ -2538,6 +2540,7 @@
 
 ## Rust 
 
+- [stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [demikernel](https://github.com/demikernel/demikernel) - Demikernel OS
 - [tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
