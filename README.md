@@ -666,6 +666,14 @@
 
 ## Go 
 
+- [multipass](https://github.com/namsral/multipass) - Better authentication for HTTP
+- [gopkg](https://github.com/zikes/gopkg) - A Caddy plugin to add gopkg-like functionality to your own web sites
+- [caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS A records updated
+- [caddygit](https://github.com/vrongmeal/caddygit) - Git module for Caddy v2
+- [caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
+- [scgi-transport](https://github.com/Elegant996/scgi-transport) - SCGI reverse proxy transport module for Caddy
+- [caddy2-proxyprotocol](https://github.com/mastercactapus/caddy2-proxyprotocol) - 
+- [gomods](https://github.com/okkur/gomods) - Caddy plugin that provides a caching Go modules proxy with your own domain
 - [progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [jwt-auth](https://github.com/fr3dch3n/jwt-auth) - Authenticate requests with jwt, extensible claims and a specific jwks-set
 - [jwks-provider](https://github.com/graphql-services/jwks-provider) - Service providing JWKS for internal/public usage
@@ -2094,6 +2102,7 @@
 
 ## Others 
 
+- [blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 - [android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 - [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate](https://github.com/seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate) - rtorrent.rc & sysctl.config For 1 Gigabit File Server/Seedbox Boilerplate
