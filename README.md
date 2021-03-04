@@ -701,7 +701,7 @@
 - [mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
-- [rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud on a continuous basis with OTA updates.
+- [rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
 - [EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [ios-go](https://github.com/xlab/ios-go) - The iOS-go project provides a platform for writing native iOS apps in Go programming language.
@@ -1838,6 +1838,7 @@
 - [go-craigslist](https://github.com/sosedoff/go-craigslist) - Craigslist.org wrapper for Go
 - [etcd-browser-with-access](https://github.com/kesavankrishnan/etcd-browser-with-access) - Etcd browser with role access
 - [web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
+- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [under-construction](https://github.com/erengy/under-construction) - 🚧 Placeholder page for your websites
@@ -1995,7 +1996,6 @@
 - [whereami](https://github.com/rafaelrinaldi/whereami) - :round_pushpin: Get your geolocation information using freegeoip.app
 - [nodeku](https://github.com/Glavin001/nodeku) - discover and control Roku device with NodeJs
 - [beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [ramdisk](https://github.com/patrikx3/ramdisk) - 💾 Linux Persistent RAM disk
 - [nodejs-pool](https://github.com/Snipa22/nodejs-pool) - 
 - [openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
