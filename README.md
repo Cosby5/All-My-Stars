@@ -86,7 +86,6 @@
 - [unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [libbpg](https://github.com/mirrorer/libbpg) - libbpg (copy of the source code for easy access)
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-- [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 
 ## Batchfile 
 
@@ -824,7 +823,7 @@
 - [go-flite](https://github.com/prologic/go-flite) - Use Flite Text-to-Speech Synthesizer from Go
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
 - [f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go
@@ -917,7 +916,7 @@
 - [go-cnc-projects](https://github.com/benishor/go-cnc-projects) - Projects that generate G-CODE files for CNC programs
 - [systemd](https://github.com/albertito/systemd) - [mirror] Utilities to interact with systemd sockets in Go
 - [restartd](https://github.com/bearstech/restartd) - Restart systemd stuff from a socket
-- [linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [linx-server](https://github.com/linx-server/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
 - [certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [debbie](https://github.com/daniellawrence/debbie) - Convert a directory into a simple debian package
 - [go-dnsmasq](https://github.com/janeczku/go-dnsmasq) - :dolphin: Lightweight caching DNS server/forwarder
@@ -2039,6 +2038,7 @@
 - [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [trugithub](https://github.com/kba7/trugithub) - 
 - [loadbalancer](https://github.com/SocketCluster/loadbalancer) - A sticky load balancer optimized for realtime apps
+- [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [maqetta](https://github.com/maqetta/maqetta) - Maqetta Designer
 
 ## Jupyter Notebook 
