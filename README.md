@@ -1906,7 +1906,7 @@
 
 ## JavaScript 
 
-- [remote-mouse](https://github.com/rogerdahl/remote-mouse) - Control the mouse on a Linux box from any phone or tablet
+- [remote-mouse](https://github.com/rogerdahl/remote-mouse) - Use your phone or tablet as a virtual mouse
 - [jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
 - [React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
@@ -2253,7 +2253,7 @@
 - [translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
 - [RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD) - KiCAD RF tools: footprints wizard and round tracks, mask expander, via fencing
-- [avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom, Skype and other video-conferencing apps.
+- [avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
