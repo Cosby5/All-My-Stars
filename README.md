@@ -102,6 +102,7 @@
 
 ## C 
 
+- [mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [lwip](https://github.com/slpp95prashanth/lwip) - 
 - [Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
 - [LibSSH-ESP32](https://github.com/ewpa/LibSSH-ESP32) - Libssh SSH client & server port to ESP32 Arduino library
@@ -329,6 +330,7 @@
 
 ## C++ 
 
+- [ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
 - [FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
@@ -665,6 +667,8 @@
 
 ## Go 
 
+- [go-imsg](https://github.com/schultz-is/go-imsg) - Package imsg provides tools for working with OpenBSD's imsg library.
+- [taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
 - [multipass](https://github.com/namsral/multipass) - Better authentication for HTTP
 - [gopkg](https://github.com/zikes/gopkg) - A Caddy plugin to add gopkg-like functionality to your own web sites
 - [caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS A records updated
@@ -1906,6 +1910,7 @@
 
 ## JavaScript 
 
+- [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [remote-mouse](https://github.com/rogerdahl/remote-mouse) - Use your phone or tablet as a virtual mouse
 - [jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
 - [React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
@@ -2052,6 +2057,7 @@
 
 ## Kotlin 
 
+- [plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
 
 ## Lua 
@@ -2247,6 +2253,7 @@
 
 ## Python 
 
+- [inter](https://github.com/rsms/inter) - The Inter font family
 - [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
 - [Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
