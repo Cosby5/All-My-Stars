@@ -2264,7 +2264,7 @@
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
-- [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.
+- [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of ASR.
 - [plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
