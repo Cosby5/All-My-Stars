@@ -1912,7 +1912,7 @@
 ## JavaScript 
 
 - [Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
-- [remote-mouse](https://github.com/rogerdahl/remote-mouse) - Use your phone or tablet as a virtual mouse
+- [floating-pointer](https://github.com/rogerdahl/floating-pointer) - Use your phone or tablet as a virtual mouse
 - [jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
 - [React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
