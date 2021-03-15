@@ -2816,6 +2816,7 @@
 
 ## Verilog 
 
+- [serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [Pipeline-ALU](https://github.com/mfidaali/Pipeline-ALU) - Basic ALU with pipeline
 - [Convolutional-Neural-Network-Accelerator](https://github.com/wubinyi/Convolutional-Neural-Network-Accelerator) - Deep learning accelerator for convolutional layer (convolution operation) and fully-connected layer(matrix-multiplication).
 - [MIPS_Pipelining_Matrix_multiplier](https://github.com/timetraveler05/MIPS_Pipelining_Matrix_multiplier) - 
