@@ -64,6 +64,7 @@
   - [Vue](#vue)
   - [XC](#xc)
   - [XSLT](#xslt)
+  - [Zig](#zig)
 
 ## ANTLR 
 
@@ -2109,6 +2110,7 @@
 
 ## Others 
 
+- [google-fiber-2gbps-bypass](https://github.com/Berzerker/google-fiber-2gbps-bypass) - 
 - [awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
 - [awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
 - [blacklist](https://github.com/anudeepND/blacklist) - Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
@@ -2858,6 +2860,10 @@
 ## XSLT 
 
 - [nginx-rtmp-opentracing](https://github.com/proemergotech/nginx-rtmp-opentracing) - A Dockerfile installing Openresty based Nginx with the default Openresty modules, nginx-rtmp-module, Nginx Opentracing module with Jaeger tracer and FFmpeg from source with default settings for HLS live streaming and nvidia GPU support.
+
+## Zig 
+
+- [daintree](https://github.com/kivikakk/daintree) - ARMv8-A/RISC-V kernel (with UEFI bootloader)
 
 
 ## License
