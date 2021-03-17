@@ -467,6 +467,8 @@
 
 ## D 
 
+- [framed](https://github.com/brianush1/framed) - 
+- [dlangide](https://github.com/buggins/dlangide) - D language IDE based on DlangUI
 - [D-Lang-on-Android](https://github.com/MrcSnm/D-Lang-on-Android) - My attempt to compile D-Lang to Android on linux
 - [CRISC](https://github.com/LunaTheFoxgirl/CRISC) - Clipsey's Reduced Instruction Set Computing virtual toy processor and assembler.
 - [shellbridgefs](https://github.com/Andrepuel/shellbridgefs) - FUSE filesystem that redirect calls to a shell subprocess
@@ -668,6 +670,8 @@
 
 ## Go 
 
+- [IDE](https://github.com/thestrukture/IDE) - Web based, Go IDE.
+- [fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
 - [jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [go-imsg](https://github.com/schultz-is/go-imsg) - Package imsg provides tools for working with OpenBSD's imsg library.
 - [taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
