@@ -688,7 +688,7 @@
 - [jwks-provider](https://github.com/graphql-services/jwks-provider) - Service providing JWKS for internal/public usage
 - [jackal](https://github.com/ortuman/jackal) - Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [babygo](https://github.com/DQNEO/babygo) - Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
-- [captcha](https://github.com/moul/captcha) - a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
+- [captcha](https://github.com/moul/captcha) - 🦾 a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
 - [simple-acme-server](https://github.com/key-consulting/simple-acme-server) - 
 - [blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored in each block.
 - [runu](https://github.com/ukontainer/runu) - OCI runtime for frankenlibc unikernel
@@ -2114,6 +2114,8 @@
 
 ## Others 
 
+- [DisplayPort_Verilog](https://github.com/asicguy/DisplayPort_Verilog) - A Verilog implementation of DisplayPort protocol for FPGAs
+- [verilog-ethernet](https://github.com/asicguy/verilog-ethernet) - Verilog Ethernet components for FPGA implementation
 - [google-fiber-2gbps-bypass](https://github.com/Berzerker/google-fiber-2gbps-bypass) - 
 - [awesome-robotics](https://github.com/ahundt/awesome-robotics) - A curated list of awesome links and software libraries that are useful for robots.
 - [awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
@@ -2822,6 +2824,7 @@
 
 ## Verilog 
 
+- [theia_gpu](https://github.com/freecores/theia_gpu) - Theia: ray graphic processing unit
 - [serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [Pipeline-ALU](https://github.com/mfidaali/Pipeline-ALU) - Basic ALU with pipeline
 - [Convolutional-Neural-Network-Accelerator](https://github.com/wubinyi/Convolutional-Neural-Network-Accelerator) - Deep learning accelerator for convolutional layer (convolution operation) and fully-connected layer(matrix-multiplication).
