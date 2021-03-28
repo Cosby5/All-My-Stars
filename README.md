@@ -2065,6 +2065,7 @@
 
 ## Kotlin 
 
+- [LinDevHard/raspb-finder](https://github.com/LinDevHard/raspb-finder) - A tool to find a Raspberry Pi in the local network
 - [JakeWharton/plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [fossasia/susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
 
@@ -2464,7 +2465,7 @@
 - [buckyroberts/YouTube-Crawler](https://github.com/buckyroberts/YouTube-Crawler) - Crawler for adding videos to thenewboston.com
 - [anybox/buttervolume](https://github.com/anybox/buttervolume) - BTRFS Volume plugin for Docker
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [yask123/fixalbumart](https://github.com/yask123/fixalbumart) - Automagically fix album arts of mp3 files, Even with incorrect tags!!!
 - [fbchat-dev/fbchat](https://github.com/fbchat-dev/fbchat) - Facebook Chat (Messenger) for Python
