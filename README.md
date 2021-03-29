@@ -21,6 +21,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Eagle](#eagle)
+  - [G-code](#g-code)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -667,6 +668,10 @@
 - [Pwdr/Pwdr-Model-0.1](https://github.com/Pwdr/Pwdr-Model-0.1) - A powder substrate rapid prototyping machine
 - [mossmann/daisho](https://github.com/mossmann/daisho) - SuperSpeed USB 3.0 FPGA platform
 - [jcchurch13/Mechaduino-Hardware](https://github.com/jcchurch13/Mechaduino-Hardware) - Mechaduino hardware design files.     Project logs:
+
+## G-code 
+
+- [jcarolinares/fpga-biorobots](https://github.com/jcarolinares/fpga-biorobots) - Hybrid bio-inspired architecture for robots using open source FPGAs. Master thesis & IROS 2018 publication.
 
 ## Go 
 
@@ -2267,6 +2272,7 @@
 
 ## Python 
 
+- [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [virtadpt/exocortex-halo](https://github.com/virtadpt/exocortex-halo) - Various and sundry additional pieces of software I've written to incorporate into my exocortex.
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
