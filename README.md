@@ -675,6 +675,7 @@
 
 ## Go 
 
+- [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - Web based, Go IDE.
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
@@ -1923,6 +1924,7 @@
 
 ## JavaScript 
 
+- [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [rogerdahl/floating-pointer](https://github.com/rogerdahl/floating-pointer) - Use your phone or tablet as a virtual mouse
 - [brinley/jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
@@ -2272,6 +2274,7 @@
 
 ## Python 
 
+- [ChibaniMohamed/Polaris](https://github.com/ChibaniMohamed/Polaris) - Polaris is a Face recognition attendance system .
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [virtadpt/exocortex-halo](https://github.com/virtadpt/exocortex-halo) - Various and sundry additional pieces of software I've written to incorporate into my exocortex.
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
