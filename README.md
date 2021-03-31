@@ -432,7 +432,7 @@
 - [sin5678/sinpeloader](https://github.com/sin5678/sinpeloader) - manual load a pe file into memery and exec it
 - [abhisek/Pe-Loader-Sample](https://github.com/abhisek/Pe-Loader-Sample) - Proof of concept implementation of in-memory PE Loader based on ReflectiveDLLInjection Technique
 - [FrankStain/pe-loader](https://github.com/FrankStain/pe-loader) - library, which help to describe or load and execute PE files.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [nettitude/SimplePELoader](https://github.com/nettitude/SimplePELoader) - In-Memory PE Loader
 - [Legacy25/ValkyrieDB](https://github.com/Legacy25/ValkyrieDB) - A SQL-to-native-code compiler based on LLVM
 - [mheily/rooms](https://github.com/mheily/rooms) - A compartmentalization tool based on FreeBSD jails
