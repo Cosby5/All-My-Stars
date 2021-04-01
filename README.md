@@ -1796,7 +1796,7 @@
 - [jamescun/switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [agrison/harpoon](https://github.com/agrison/harpoon) - GitHub WebHook server written in Go
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [yzlin/docker-volume-nfs](https://github.com/yzlin/docker-volume-nfs) - NFS v3/4 plugin for Docker
 - [PI-Victor/miniovol](https://github.com/PI-Victor/miniovol) - Minio Docker volume plugin. Create docker volumes that mount Minio buckets. Minio is S3 compatible.
 - [vertexclique/docker-volume-redis](https://github.com/vertexclique/docker-volume-redis) - Redis based volume plugin for Docker
@@ -1968,7 +1968,7 @@
 - [MattSandy/rarbg-simple](https://github.com/MattSandy/rarbg-simple) - Simple Torrent Search of RARBG
 - [keyboardslayer/rarbg-thumbnails](https://github.com/keyboardslayer/rarbg-thumbnails) - Display thumbnails automatically on RARBG, without having to hover the title to display it.
 - [uniphil/rtorrent-watch-drop](https://github.com/uniphil/rtorrent-watch-drop) - send .torrent links to a remote rtorrent watch folder.
-- [austinmckinley/electron-gitlab-ci-monitor](https://github.com/austinmckinley/electron-gitlab-ci-monitor) - A build monitor board for Gitlab CI, written with Electron.
+- [elainemckinley/electron-gitlab-ci-monitor](https://github.com/elainemckinley/electron-gitlab-ci-monitor) - A build monitor board for Gitlab CI, written with Electron.
 - [RD17/ambar](https://github.com/RD17/ambar) - :mag: Ambar: Document Search Engine
 - [Algram/ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [gopherjs/jquery](https://github.com/gopherjs/jquery) - GopherJS Bindings for jQuery
