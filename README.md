@@ -676,6 +676,7 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [hartmond/certbutler](https://github.com/hartmond/certbutler) - Certbutler is an acme client that simplifies wildcard certificates by selfhosting dns-01 challenges
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
