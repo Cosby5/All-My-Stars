@@ -469,6 +469,7 @@
 
 ## D 
 
+- [MartinNowak/lexer](https://github.com/MartinNowak/lexer) - lexer generator
 - [brianush1/framed](https://github.com/brianush1/framed) - 
 - [buggins/dlangide](https://github.com/buggins/dlangide) - D language IDE based on DlangUI
 - [MrcSnm/D-Lang-on-Android](https://github.com/MrcSnm/D-Lang-on-Android) - My attempt to compile D-Lang to Android on linux
