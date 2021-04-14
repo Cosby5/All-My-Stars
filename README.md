@@ -36,6 +36,7 @@
   - [Nginx](#nginx)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
+  - [OpenSCAD](#openscad)
   - [Others](#others)
   - [PHP](#php)
   - [Pascal](#pascal)
@@ -104,6 +105,7 @@
 
 ## C 
 
+- [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
 - [ewpa/LibSSH-ESP32](https://github.com/ewpa/LibSSH-ESP32) - Libssh SSH client & server port to ESP32 Arduino library
@@ -281,6 +283,8 @@
 
 ## C# # 
 
+- [Alumniminium/PinePhoneCore](https://github.com/Alumniminium/PinePhoneCore) - NET5 Wrapper around the Kernel-Filesystem / CLI tools to fully control the pinephone
+- [Boris-Barboris/AtmosphereAutopilot](https://github.com/Boris-Barboris/AtmosphereAutopilot) - Plugin for Kerbal Space Program
 - [tinrab/Brain](https://github.com/tinrab/Brain) - 
 - [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 - [mbdavid/FileDB](https://github.com/mbdavid/FileDB) - FileDB is a free, fast, lightweight C# (v3.5) DLL project to store, retrieve and delete files using a single archive file as a container on disk
@@ -1877,6 +1881,7 @@
 
 ## Java 
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [Rudrakaniya/AndroidxWebkitDemo](https://github.com/Rudrakaniya/AndroidxWebkitDemo) - Demo app to implement Android webview, firebase notifications and more
 - [afsalashyana/FakeImageDetection](https://github.com/afsalashyana/FakeImageDetection) - Fake Image Detection Using Machine Learning
 - [lordvadercito/AndroidNativefier](https://github.com/lordvadercito/AndroidNativefier) - Convert web applications to Android native app
@@ -2126,8 +2131,13 @@
 - [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
 - [ChatSecure/ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.
 
+## OpenSCAD 
+
+- [simoninns/PinePhone-Dev-Stand](https://github.com/simoninns/PinePhone-Dev-Stand) - A stand for the PinePhone to assist with software development and test
+
 ## Others 
 
+- [lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 - [asicguy/DisplayPort_Verilog](https://github.com/asicguy/DisplayPort_Verilog) - A Verilog implementation of DisplayPort protocol for FPGAs
 - [asicguy/verilog-ethernet](https://github.com/asicguy/verilog-ethernet) - Verilog Ethernet components for FPGA implementation
 - [Berzerker/google-fiber-2gbps-bypass](https://github.com/Berzerker/google-fiber-2gbps-bypass) - 
