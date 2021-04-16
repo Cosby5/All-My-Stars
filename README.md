@@ -1406,7 +1406,7 @@
 - [natefinch/graffiti](https://github.com/natefinch/graffiti) - graffiti is a tool to automatically add struct tags to fields in your go code
 - [natefinch/sh](https://github.com/natefinch/sh) - Package sh makes working with shell commands more shell-like.  Inspired by https://github.com/amoffat/sh
 - [natefinch/npipe](https://github.com/natefinch/npipe) - A Windows named pipe implementation written in pure Go.
-- [havoc-io/ssh_config](https://github.com/havoc-io/ssh_config) - a simple ssh config parser/writer lib in go
+- [xenoscopic/ssh_config](https://github.com/xenoscopic/ssh_config) - a simple ssh config parser/writer lib in go
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 - [gregjones/httpcache](https://github.com/gregjones/httpcache) - A Transport for http.Client that will cache responses according to the HTTP RFC
 - [birkelund/boltdbcache](https://github.com/birkelund/boltdbcache) - Package boltdbcache provides a file system based cache backend for Greg Jones' httpcache using coreos/bbolt.
