@@ -335,6 +335,7 @@
 
 ## C++ 
 
+- [srsLTE/srsLTE](https://github.com/srsLTE/srsLTE) - Open source SDR LTE software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
