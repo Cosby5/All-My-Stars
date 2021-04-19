@@ -335,6 +335,7 @@
 
 ## C++ 
 
+- [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [srsLTE/srsLTE](https://github.com/srsLTE/srsLTE) - Open source SDR LTE software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
@@ -543,7 +544,7 @@
 - [kubo39/tottori](https://github.com/kubo39/tottori) - OS-Level sandboxing.
 - [kubo39/syscall-d](https://github.com/kubo39/syscall-d) - syscall interface for D.
 - [drug007/nanogui](https://github.com/drug007/nanogui) - D port of wjakob/nanogui
-- [funkwerk/antlr-d](https://github.com/funkwerk/antlr-d) - 
+- [funkwerk/antlr-d](https://github.com/funkwerk/antlr-d) - ANTLR D Target
 - [adamdruppe/arsd](https://github.com/adamdruppe/arsd) - This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.
 - [WebFreak001/FSWatch](https://github.com/WebFreak001/FSWatch) - A cross-platform folder & file watching library using win32, inotify or std.file
 - [djehuty/djehuty](https://github.com/djehuty/djehuty) - Public Domain API
@@ -1274,7 +1275,7 @@
 - [oneumyvakin/rpmeta](https://github.com/oneumyvakin/rpmeta) - Structures for RPM/YUM repository meta files (repodata)
 - [unprofession-al/pkgpile](https://github.com/unprofession-al/pkgpile) - Handy YUM Server
 - [grammarly/rocker](https://github.com/grammarly/rocker) - Rocker breaks the limits of Dockerfile.
-- [grimmer0125/search-github-starred](https://github.com/grimmer0125/search-github-starred) - Full-Text Search the readme, description, homepage and URL of your GitHub starred repository. Use GitHub OAuth 2, React, Redux, Golang (server side), Elasticsearch, Redis. Try https://searchgithub.herokuapp.com which is kept alive by synthetics of newrelic
+- [grimmer0125/search-github-starred](https://github.com/grimmer0125/search-github-starred) - Full-Text Search the readme, description, homepage and URL of your GitHub starred repository. Use GitHub OAuth 2, React, Redux, Golang (server side), Elasticsearch, Redis.
 - [gfleury/go-bitbucket-v1](https://github.com/gfleury/go-bitbucket-v1) - Bitbucket-server API (v1.0) library for Golang.
 - [ipkg/voletc](https://github.com/ipkg/voletc) - Distributed, Persistent Docker Volume Plugin for Dynamic Application Configurations
 - [euforia/go-srv-resolver](https://github.com/euforia/go-srv-resolver) - 
