@@ -2232,7 +2232,6 @@
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js) - Pure JavaScript Port of WebKit
 - [srsLTE/srsUE](https://github.com/srsLTE/srsUE) - Open source software radio 3GPP LTE UE
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [qznc/d-money](https://github.com/qznc/d-money) - Handling amounts of money safely and efficiently
 
 ## PHP 
@@ -2783,6 +2782,7 @@
 - [fhd/init-script-template](https://github.com/fhd/init-script-template) - A template for simple System V init scripts
 - [pwaring/gcc-cross-compiler](https://github.com/pwaring/gcc-cross-compiler) - Cross compiling GCC for a range of targets
 - [tomuta/debian-mini-odroid-c1](https://github.com/tomuta/debian-mini-odroid-c1) - Script to build a minimal Debian sd card image.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 ## Standard ML 
 
