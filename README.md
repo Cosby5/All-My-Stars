@@ -1555,7 +1555,7 @@
 - [facebookarchive/mongoschema](https://github.com/facebookarchive/mongoschema) - A tool to generate Go struct types based on data in a Mongo collection.
 - [cavaliercoder/gitlab-hook-server](https://github.com/cavaliercoder/gitlab-hook-server) - Trigger actions from GitLab web hooks
 - [staaldraad/ssh-git-go](https://github.com/staaldraad/ssh-git-go) - Simple SSH server that serves anonymous git repositories (read-only)
-- [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML language
+- [pelletier/go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML file format
 - [docker-archive/go-redis-server](https://github.com/docker-archive/go-redis-server) - A Go implementation of the Redis server protocol
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [remogatto/mandala](https://github.com/remogatto/mandala) - A Go framework for writing native Android applications
