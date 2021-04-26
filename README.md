@@ -475,6 +475,7 @@
 
 ## D 
 
+- [0xfad3/d_blockchain](https://github.com/0xfad3/d_blockchain) - Simple blockchain in D
 - [MartinNowak/lexer](https://github.com/MartinNowak/lexer) - lexer generator
 - [brianush1/framed](https://github.com/brianush1/framed) - 
 - [buggins/dlangide](https://github.com/buggins/dlangide) - D language IDE based on DlangUI
@@ -683,6 +684,8 @@
 
 ## Go 
 
+- [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
+- [crisadamo/gochain](https://github.com/crisadamo/gochain) - A basic implementation of Blockchain
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [hartmond/certbutler](https://github.com/hartmond/certbutler) - Certbutler is an acme client that simplifies wildcard certificates by selfhosting dns-01 challenges
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
