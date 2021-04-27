@@ -28,6 +28,7 @@
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -1858,7 +1859,6 @@
 - [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [anarres-org/anarres](https://github.com/anarres-org/anarres) - An ansible playbook to set up a GNU/Linux server. Services in docker. Security by default.
 - [Ardumower/ardumower](https://github.com/Ardumower/ardumower) - Develop an open source robotic lawn mower (HW+SW reference platform)
 - [anthrax3/http-error-pages](https://github.com/anthrax3/http-error-pages) - A simple to use generator for static pages with errors to replace the default error pages that come with any web server like Nginx or Apache.
 - [denysvitali/nginx-error-pages](https://github.com/denysvitali/nginx-error-pages) - Cute Error Pages for your nginx web server
@@ -2074,6 +2074,10 @@
 - [SocketCluster/loadbalancer](https://github.com/SocketCluster/loadbalancer) - A sticky load balancer optimized for realtime apps
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [maqetta/maqetta](https://github.com/maqetta/maqetta) - Maqetta Designer
+
+## Jinja 
+
+- [anarres-org/anarres](https://github.com/anarres-org/anarres) - An ansible playbook to set up a GNU/Linux server. Services in docker. Security by default.
 
 ## Jupyter Notebook 
 
