@@ -337,7 +337,7 @@
 ## C++ 
 
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
-- [srsLTE/srsLTE](https://github.com/srsLTE/srsLTE) - Open source SDR LTE software suite from Software Radio Systems (SRS)
+- [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
@@ -2081,6 +2081,7 @@
 
 ## Jupyter Notebook 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman) - [全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組
 - [tomasero/openSleep](https://github.com/tomasero/openSleep) - platform for sleep hacking and research
 - [naokishibuya/car-finding-lane-lines](https://github.com/naokishibuya/car-finding-lane-lines) - Finding Lane Lines using Python and OpenCV
@@ -2237,7 +2238,6 @@
 - [BBN-Q/vivado-docker](https://github.com/BBN-Q/vivado-docker) - Dockerfile with Vivado for CI
 - [diegomarangoni/docker-hhvm](https://github.com/diegomarangoni/docker-hhvm) - HHVM from prebuilt or source, run as a cli or fastcgi for usage within a web server
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js) - Pure JavaScript Port of WebKit
-- [srsLTE/srsUE](https://github.com/srsLTE/srsUE) - Open source software radio 3GPP LTE UE
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [qznc/d-money](https://github.com/qznc/d-money) - Handling amounts of money safely and efficiently
 
@@ -2297,7 +2297,6 @@
 
 ## Python 
 
-- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [uav4geo/LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [ChibaniMohamed/Polaris](https://github.com/ChibaniMohamed/Polaris) - Polaris is a Face recognition attendance system .
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
