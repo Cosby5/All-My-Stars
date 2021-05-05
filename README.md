@@ -698,7 +698,7 @@
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
 - [namsral/multipass](https://github.com/namsral/multipass) - Better authentication for HTTP
 - [zikes/gopkg](https://github.com/zikes/gopkg) - A Caddy plugin to add gopkg-like functionality to your own web sites
-- [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS A records updated
+- [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [vrongmeal/caddygit](https://github.com/vrongmeal/caddygit) - Git module for Caddy v2
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [Elegant996/scgi-transport](https://github.com/Elegant996/scgi-transport) - SCGI reverse proxy transport module for Caddy
