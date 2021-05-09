@@ -727,7 +727,6 @@
 - [tatsushid/minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
 - [pterodactyl/sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [dejiblue/mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [wwalexander/gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
@@ -1369,7 +1368,7 @@
 - [kr/binarydist](https://github.com/kr/binarydist) - Go implementation of the bspatch algorithm
 - [beito123/binary](https://github.com/beito123/binary) - This is a very simple binary library written in Go.
 - [equinox-io/equinox](https://github.com/equinox-io/equinox) - equinox SDK to check/apply updates
-- [davidlares/davidGoChat](https://github.com/davidlares/davidGoChat) - A simple experimental Chat Server (Websockets y GoLang) with Gorilla Mux and Gorilla Websockets
+- [davidlares/golang-web-chat](https://github.com/davidlares/golang-web-chat) - A simple experimental Chat Server (Websockets y GoLang) with Gorilla Mux and Gorilla Websockets
 - [MindFlavor/ftpserver2](https://github.com/MindFlavor/ftpserver2) - Go FTP Secure server with support for local file system and Microsoft Azure Blob storage
 - [tmc/scp](https://github.com/tmc/scp) - A basic implementation of scp for go.
 - [skratchdot/open-golang](https://github.com/skratchdot/open-golang) - Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
@@ -2304,6 +2303,7 @@
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
