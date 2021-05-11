@@ -106,6 +106,7 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
@@ -336,6 +337,7 @@
 
 ## C++ 
 
+- [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
@@ -639,6 +641,7 @@
 
 ## Dockerfile 
 
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 Windows
 - [m1k1o/osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
 - [Miosame/nginx-blocker-docker-proxy](https://github.com/Miosame/nginx-blocker-docker-proxy) - nginx-ultimate-bad-bot-blocker dockerized and proxified
 - [adelton/sketchup-container](https://github.com/adelton/sketchup-container) - Running SketchUp Make in a container
@@ -685,6 +688,7 @@
 
 ## Go 
 
+- [imroc/req](https://github.com/imroc/req) - a golang http request library for humans
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [crisadamo/gochain](https://github.com/crisadamo/gochain) - A basic implementation of Blockchain
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2302,7 +2306,6 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
-- [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
@@ -2628,6 +2631,7 @@
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+- [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
 - [frntn/pki-manager](https://github.com/frntn/pki-manager) - IT Freelancers : Manage small PKI for multiple projects (or clients) with 2 bash scripts
 - [icoexist/softether-autoinstall](https://github.com/icoexist/softether-autoinstall) - SoftEther Autoinstaller
 - [dhensen/nspawn-skype](https://github.com/dhensen/nspawn-skype) - Put skype in an systemd-nspawn container where it belongs.
