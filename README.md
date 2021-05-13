@@ -731,6 +731,7 @@
 - [tatsushid/minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
 - [pterodactyl/sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [dejiblue/mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [wwalexander/gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
@@ -2086,9 +2087,11 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman) - [全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組
 - [tomasero/openSleep](https://github.com/tomasero/openSleep) - platform for sleep hacking and research
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle ASR toolkit.
 - [naokishibuya/car-finding-lane-lines](https://github.com/naokishibuya/car-finding-lane-lines) - Finding Lane Lines using Python and OpenCV
 - [kelu124/un0rick](https://github.com/kelu124/un0rick) - smallish ice40 / raspberrypi ultrasound hardware
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [yu4u/age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 
 ## Kotlin 
@@ -2306,7 +2309,6 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
@@ -2315,7 +2317,6 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [amoe/rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle implementation of ASR.
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
@@ -2525,7 +2526,6 @@
 - [ZachGoldberg/Cerebro](https://github.com/ZachGoldberg/Cerebro) - Self hosted automated cloud deployment and management.
 - [ZachGoldberg/Personal-Cluster-Manager](https://github.com/ZachGoldberg/Personal-Cluster-Manager) - (new name forthcoming) utilities to manage one's own personal unix based ssh-capable clusters
 - [SwoopSearch/pyaddress](https://github.com/SwoopSearch/pyaddress) - pyaddress is an address parsing library, taking the guesswork out of using addresses in your applications. We use it as part of our apartment search and apartment spider applications.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [dasmith/stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for Stanford CoreNLP tools v3.4.1
 - [diegomorin8/Deep-Neural-Networks-for-Piano-Music-Transcription](https://github.com/diegomorin8/Deep-Neural-Networks-for-Piano-Music-Transcription) - Deep Neural Networks for Piano Music Transcription - Project for the course DT2119 - Speech and Speaker recognition KTH
 - [BTBurke/speaker-recognition](https://github.com/BTBurke/speaker-recognition) - Implements a proof-of-concept of a multi-level clustering algorithm designed to enable extremely fast approximate match search in a large database of voice samples.
