@@ -230,7 +230,7 @@
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
 - [BackupGGCode/dataparksearch](https://github.com/BackupGGCode/dataparksearch) - An open source search engine for Internet and Intranet sites
 - [beanstalkd/beanstalkd](https://github.com/beanstalkd/beanstalkd) - Beanstalk is a simple, fast work queue.
-- [samboy/MaraDNS](https://github.com/samboy/MaraDNS) - MaraDNS: A small open-source DNS server | 2020 updates: Lua and blocklist support, etc.
+- [samboy/MaraDNS](https://github.com/samboy/MaraDNS) - MaraDNS: A small open-source DNS server | 2021 updates: source_ip4, etc.
 - [jncronin/rpi-boot](https://github.com/jncronin/rpi-boot) - A second stage bootloader for the Raspberry Pi
 - [upa/vxlan](https://github.com/upa/vxlan) - vxlan implementation using Linux tap interface
 - [jduck/lk-reducer](https://github.com/jduck/lk-reducer) - Linux Kernel Source Tree Reducer
@@ -688,6 +688,10 @@
 
 ## Go 
 
+- [prologic/go-gopher](https://github.com/prologic/go-gopher) - Gopher (RFC 1436) protocol library for the Go (Golang) programming language supporting both client and server
+- [valyala/fastrpc](https://github.com/valyala/fastrpc) - Building blocks for fast rpc systems
+- [valyala/httpteleport](https://github.com/valyala/httpteleport) - Transfer 10Gbps http traffic over 1Gbps networks :)
+- [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
 - [imroc/req](https://github.com/imroc/req) - a golang http request library for humans
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [crisadamo/gochain](https://github.com/crisadamo/gochain) - A basic implementation of Blockchain
@@ -1940,6 +1944,7 @@
 
 ## JavaScript 
 
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [rogerdahl/floating-pointer](https://github.com/rogerdahl/floating-pointer) - Use your phone or tablet as a virtual mouse
@@ -2829,7 +2834,6 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [jayeshgoyal/pos-frontend](https://github.com/jayeshgoyal/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
-- [vstepanyuk/vscode-gitlab-pipeline](https://github.com/vstepanyuk/vscode-gitlab-pipeline) - Gitlab Pipeline plugin for VSCode
 - [tigerxy/VSCode-ShareCode](https://github.com/tigerxy/VSCode-ShareCode) - Share Code is an Extension for Visual Studio Code. You can find it on marketplace.
 - [3drepo/3drepo.io](https://github.com/3drepo/3drepo.io) - 3D Repo web server
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
