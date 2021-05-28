@@ -439,7 +439,6 @@
 - [souvik1982/Brain](https://github.com/souvik1982/Brain) - Simulating a primordial brain. A biological (spiking) neural network structuring itself through natural selection.
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [michaeljclark/rv8](https://github.com/michaeljclark/rv8) - RISC-V simulator for x86-64
-- [turbo/Perseus](https://github.com/turbo/Perseus) - Perseus Programming Language (Windows), Integrated Assembler & Linker
 - [sin5678/sinpeloader](https://github.com/sin5678/sinpeloader) - manual load a pe file into memery and exec it
 - [abhisek/Pe-Loader-Sample](https://github.com/abhisek/Pe-Loader-Sample) - Proof of concept implementation of in-memory PE Loader based on ReflectiveDLLInjection Technique
 - [FrankStain/pe-loader](https://github.com/FrankStain/pe-loader) - library, which help to describe or load and execute PE files.
@@ -689,6 +688,8 @@
 
 ## Go 
 
+- [prologic/cinit](https://github.com/prologic/cinit) - cinit is a minimal and correctly functioning init (PID 1) for Docker Containers running in Swarm clusters.
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [prologic/go-gopher](https://github.com/prologic/go-gopher) - Gopher (RFC 1436) protocol library for the Go (Golang) programming language supporting both client and server
 - [valyala/fastrpc](https://github.com/valyala/fastrpc) - Building blocks for fast rpc systems
 - [valyala/httpteleport](https://github.com/valyala/httpteleport) - Transfer 10Gbps http traffic over 1Gbps networks :)
