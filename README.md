@@ -688,6 +688,8 @@
 
 ## Go 
 
+- [Duet3D/DSF-APIs](https://github.com/Duet3D/DSF-APIs) - 
+- [wilriker/execonmcode](https://github.com/wilriker/execonmcode) - Small DuetSoftwareFramework extension that listens for a user-defined M code to run a user-defined command on the SBC.
 - [prologic/cinit](https://github.com/prologic/cinit) - cinit is a minimal and correctly functioning init (PID 1) for Docker Containers running in Swarm clusters.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [prologic/go-gopher](https://github.com/prologic/go-gopher) - Gopher (RFC 1436) protocol library for the Go (Golang) programming language supporting both client and server
@@ -2191,6 +2193,7 @@
 - [moul/awesome-well-known](https://github.com/moul/awesome-well-known) - A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 - [Kry07/docker-xorg](https://github.com/Kry07/docker-xorg) - ubuntu xorg base docker
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [jakeday/linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [kirilkirkov/postfix-dovecot-mysql](https://github.com/kirilkirkov/postfix-dovecot-mysql) - Correct configuration for mail server on Ubuntu with spf and dkim authentication
 - [jamesog/yubikey-ssh](https://github.com/jamesog/yubikey-ssh) - How to use a Yubikey with OpenSSH without GPG
 - [cedwards/nginx-pkg-cdn](https://github.com/cedwards/nginx-pkg-cdn) - Bastille Template: nginx caching proxy to FreeBSD pkg mirrors
@@ -2684,7 +2687,6 @@
 - [dnephin/dind](https://github.com/dnephin/dind) - Docker in Docker Images
 - [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP / VoIP Packet Capture & Monitoring
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
-- [jakeday/linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [fireph/Radarr_Updater](https://github.com/fireph/Radarr_Updater) - Updates a Radarr installation automagically
 - [scrathe/plexEncode](https://github.com/scrathe/plexEncode) - BASH post-processing script for Plex DVR, Shell, Sonarr, Radarr
 - [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable™ paper tablet
