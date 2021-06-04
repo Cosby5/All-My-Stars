@@ -111,6 +111,7 @@
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
+- [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
 - [ewpa/LibSSH-ESP32](https://github.com/ewpa/LibSSH-ESP32) - Libssh SSH client & server port to ESP32 Arduino library
@@ -345,7 +346,6 @@
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
-- [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [rasa/dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
@@ -706,7 +706,7 @@
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - Web based, Go IDE.
-- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
+- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Fulfill your lifelong dream. Format /etc/fstab automatically.
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [schultz-is/go-imsg](https://github.com/schultz-is/go-imsg) - Package imsg provides tools for working with OpenBSD's imsg library.
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
