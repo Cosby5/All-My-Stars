@@ -721,7 +721,7 @@
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [fr3dch3n/jwt-auth](https://github.com/fr3dch3n/jwt-auth) - Authenticate requests with jwt, extensible claims and a specific jwks-set
 - [graphql-services/jwks-provider](https://github.com/graphql-services/jwks-provider) - Service providing JWKS for internal/public usage
-- [ortuman/jackal](https://github.com/ortuman/jackal) - Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
+- [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [DQNEO/babygo](https://github.com/DQNEO/babygo) - Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
 - [key-consulting/simple-acme-server](https://github.com/key-consulting/simple-acme-server) - 
@@ -897,7 +897,7 @@
 - [sigurniv/workgroup](https://github.com/sigurniv/workgroup) - golang.org/x/sync/errgroup that returns results and errors for each goroutine
 - [sigurniv/gokvadmin](https://github.com/sigurniv/gokvadmin) - Golang web interface for managing key-value storages
 - [seatgeek/docker-mirror](https://github.com/seatgeek/docker-mirror) - Mirror docker images across image repositories
-- [yTakkar/Go-Mini-Social-Network](https://github.com/yTakkar/Go-Mini-Social-Network) - A mini social-network created with the awesome Golang💖💖!!
+- [yTakkar/Go-Mini-Social-Network](https://github.com/yTakkar/Go-Mini-Social-Network) - A mini social-network created with the awesome Golang💖💖!! - No longer maintained.
 - [radovskyb/reloadproxy](https://github.com/radovskyb/reloadproxy) - reloadproxy restarts your server and reloads what's in your browser, anytime any changes are detected.
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [xyproto/diskmoose](https://github.com/xyproto/diskmoose) - Out of disk space checker
