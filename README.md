@@ -341,6 +341,7 @@
 
 ## C++ 
 
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
@@ -690,6 +691,12 @@
 
 ## Go 
 
+- [pthomison/yadr](https://github.com/pthomison/yadr) - Yet Another Docker Registry
+- [aquasecurity/testdocker](https://github.com/aquasecurity/testdocker) - Test utilities for Docker Engine/Registry
+- [sreeharimohan/cleanistry](https://github.com/sreeharimohan/cleanistry) - Docker Registry Cleanup Cron
+- [cpuguy83/zapp](https://github.com/cpuguy83/zapp) - Tool to interact with Docker registry objects.
+- [heroku/docker-registry-client](https://github.com/heroku/docker-registry-client) - A Go API client for the v2 Docker Registry API
+- [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta) - Unofficial Instagram API written in Golang
 - [Duet3D/DSF-APIs](https://github.com/Duet3D/DSF-APIs) - 
 - [wilriker/execonmcode](https://github.com/wilriker/execonmcode) - Small DuetSoftwareFramework extension that listens for a user-defined M code to run a user-defined command on the SBC.
 - [prologic/cinit](https://github.com/prologic/cinit) - cinit is a minimal and correctly functioning init (PID 1) for Docker Containers running in Swarm clusters.
