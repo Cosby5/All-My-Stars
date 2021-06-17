@@ -691,6 +691,7 @@
 
 ## Go 
 
+- [egeneralov/gitlab-system-hooks](https://github.com/egeneralov/gitlab-system-hooks) - 
 - [pthomison/yadr](https://github.com/pthomison/yadr) - Yet Another Docker Registry
 - [aquasecurity/testdocker](https://github.com/aquasecurity/testdocker) - Test utilities for Docker Engine/Registry
 - [sreeharimohan/cleanistry](https://github.com/sreeharimohan/cleanistry) - Docker Registry Cleanup Cron
