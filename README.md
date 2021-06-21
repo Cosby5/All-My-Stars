@@ -163,7 +163,6 @@
 - [blanham/liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [graphitemaster/moreram](https://github.com/graphitemaster/moreram) - Get more system memory
 - [andrewchambers/c](https://github.com/andrewchambers/c) - small self hosting C compiler
-- [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [calccrypto/tar](https://github.com/calccrypto/tar) - A simple tar implementation in C
 - [arut/nginx-python-module](https://github.com/arut/nginx-python-module) - Nginx Python Module
 - [arut/nginx-live-module](https://github.com/arut/nginx-live-module) - HTTP live module
@@ -1461,6 +1460,7 @@
 - [lpereira/gomoku](https://github.com/lpereira/gomoku) - Gomoku compiles Go code to C++
 - [andrewchambers/bundle](https://github.com/andrewchambers/bundle) - Structured go concurrency with garbage collected goroutines.
 - [andrewchambers/cc](https://github.com/andrewchambers/cc) - Cross platform C preprocessor and compiler.
+- [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [DQNEO/minigo](https://github.com/DQNEO/minigo) - minigo🐥is a small Go compiler made from scratch. It can compile itself.
 - [dave/jsgo](https://github.com/dave/jsgo) - GopherJS compiler, serving framework and CDN.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
@@ -2424,7 +2424,6 @@
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [c3d2/rtorrent-syncer](https://github.com/c3d2/rtorrent-syncer) - syncs remote rtorrent vm's with local fileserver
 - [scottt/rtorrent-helper](https://github.com/scottt/rtorrent-helper) - Open magnet links and torrent files with rtorrent under Linux
-- [banteg/rarbg](https://github.com/banteg/rarbg) - rarbg → rss
 - [evilhero/myazo](https://github.com/evilhero/myazo) - Self-hosted, cross-platform Gyazo alternative
 - [evilhero/harpoon](https://github.com/evilhero/harpoon) - an rtorrent automated monitor script that will transfer from a seedbox to local machine, with additional post-processing for sonarr, radarr, lidarr, mylar, lazylibrarian and sickrage. Can also manually drop torrents for monitoring/transfer/post-processing...
 - [aruhier/clean_rtorrent_watchdir](https://github.com/aruhier/clean_rtorrent_watchdir) - Python script to clean torrents from a rtorrent watch directory that are not in the session directory anymore
