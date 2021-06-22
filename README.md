@@ -87,6 +87,7 @@
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 - [MyTeletouch/MyTeletouchDongle](https://github.com/MyTeletouch/MyTeletouchDongle) - MyTeletouch USB Dongle
 - [guitmz/memrun](https://github.com/guitmz/memrun) - Small tool to run ELF binaries from memory with a given process name
+- [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [mirrorer/libbpg](https://github.com/mirrorer/libbpg) - libbpg (copy of the source code for easy access)
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -1344,7 +1345,6 @@
 - [alexmullins/zip](https://github.com/alexmullins/zip) - Fork of Go's archive/zip to add reading/writing of password protected zip files.
 - [emersion/go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
 - [hnakamur/go-scp](https://github.com/hnakamur/go-scp) - A scp client library written in Go
-- [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go
 - [muesli/crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using Accelerate SHA256 computations in pure Go using AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performance boost of close to 4x over native.
 - [gen2brain/beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
@@ -1681,7 +1681,7 @@
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [galexrt/go-gitlab-webhooks](https://github.com/galexrt/go-gitlab-webhooks) - Go GitLab webhooks struct
 - [soupdiver/go-gitlab-webhook](https://github.com/soupdiver/go-gitlab-webhook) - A GitLab webhook receiver written in Go
-- [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - A GitLab API client enabling Go programs to interact with GitLab in a simple and uniform way
+- [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
 - [ivoras/daisy](https://github.com/ivoras/daisy) - A private proof of authority blockchain where blocks are SQLite databases, in Go
 - [bazil/bolt-mount](https://github.com/bazil/bolt-mount) - Mount a BoltDB (https://github.com/boltdb/bolt) database as a FUSE filesystem;
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
@@ -1813,7 +1813,6 @@
 - [moqmar/docker-hosts](https://github.com/moqmar/docker-hosts) - Create /etc/hosts-like file based on docker container hostnames
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [pablo-ruth/go-init](https://github.com/pablo-ruth/go-init) - A minimal init system for containers with pre/post hooks
-- [CrunchyData/dnsbridge](https://github.com/CrunchyData/dnsbridge) - DNS to Docker Bridge
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
 - [jpxd/ldap-radius](https://github.com/jpxd/ldap-radius) - a lightweight radius server written in go which uses ldap as authentication source
 - [nohupped/ADtoLDAP](https://github.com/nohupped/ADtoLDAP) - A light weight Active Directory to OpenLDAP, or OpenLDAP to OpenLDAP Synchronization Connector written in Golang.
@@ -2315,6 +2314,7 @@
 
 ## PowerShell 
 
+- [farag2/Windows-10-Sophia-Script](https://github.com/farag2/Windows-10-Sophia-Script) - :zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
 
 ## Puppet 
