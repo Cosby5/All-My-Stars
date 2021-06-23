@@ -691,6 +691,8 @@
 
 ## Go 
 
+- [niko/goconfd](https://github.com/niko/goconfd) - A simple configuration server (ready-to-download 0-dependency binaries included).
+- [localleon/DockerSave](https://github.com/localleon/DockerSave) - Download Container-Images from DockerHub without the Docker Toolchain. DockerSave is a simple binary without any bullshit.
 - [egeneralov/gitlab-system-hooks](https://github.com/egeneralov/gitlab-system-hooks) - 
 - [pthomison/yadr](https://github.com/pthomison/yadr) - Yet Another Docker Registry
 - [aquasecurity/testdocker](https://github.com/aquasecurity/testdocker) - Test utilities for Docker Engine/Registry
@@ -1957,6 +1959,7 @@
 
 ## JavaScript 
 
+- [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
