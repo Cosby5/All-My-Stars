@@ -341,6 +341,7 @@
 
 ## C++ 
 
+- [micropython/stm32lib](https://github.com/micropython/stm32lib) - STM32 Cube library - CMSIS and HAL for F4, F7 and L4 microcontrollers
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
@@ -481,6 +482,8 @@
 
 ## D 
 
+- [shima-529/stm32OnDlang](https://github.com/shima-529/stm32OnDlang) - Bare Metal Programming for STM32 on D
+- [JinShil/stm32f42_discovery_demo](https://github.com/JinShil/stm32f42_discovery_demo) - A simple demonstration of using D to bare-metal program an STM32F29I Discovery board
 - [0xfad3/d_blockchain](https://github.com/0xfad3/d_blockchain) - Simple blockchain in D
 - [MartinNowak/lexer](https://github.com/MartinNowak/lexer) - lexer generator
 - [brianush1/framed](https://github.com/brianush1/framed) - 
@@ -691,6 +694,7 @@
 
 ## Go 
 
+- [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [niko/goconfd](https://github.com/niko/goconfd) - A simple configuration server (ready-to-download 0-dependency binaries included).
 - [localleon/DockerSave](https://github.com/localleon/DockerSave) - Download Container-Images from DockerHub without the Docker Toolchain. DockerSave is a simple binary without any bullshit.
 - [egeneralov/gitlab-system-hooks](https://github.com/egeneralov/gitlab-system-hooks) - 
