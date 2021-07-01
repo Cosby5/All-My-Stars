@@ -2121,7 +2121,7 @@
 
 ## Kotlin 
 
-- [LinDevHard/raspb-finder](https://github.com/LinDevHard/raspb-finder) - A tool to find a Raspberry Pi in the local network
+- [LinDevHard/raspb-finder](https://github.com/LinDevHard/raspb-finder) - A tool to find a Raspberry Pi in the local network (not maintained)
 - [JakeWharton/plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [fossasia/susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
 
@@ -2660,6 +2660,7 @@
 
 ## Shell 
 
+- [AkihiroSuda/containerized-systemd](https://github.com/AkihiroSuda/containerized-systemd) - Dockerfile examples for containerized systemd (mainly for test environments)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
