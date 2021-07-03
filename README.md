@@ -107,6 +107,7 @@
 
 ## C 
 
+- [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
 - [BBN-Q/PCIe-FPGA](https://github.com/BBN-Q/PCIe-FPGA) - Linux kernel driver for memory mapped PCIe - FPGA communication.
 - [cyrillwork/FPGAdriver](https://github.com/cyrillwork/FPGAdriver) - Linux driver support FPGA with NVRAM, UART, I2C
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
