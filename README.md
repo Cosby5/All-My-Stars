@@ -722,7 +722,7 @@
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - Web based, Go IDE.
-- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Fulfill your lifelong dream. Format /etc/fstab automatically.
+- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [schultz-is/go-imsg](https://github.com/schultz-is/go-imsg) - Package imsg provides tools for working with OpenBSD's imsg library.
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
