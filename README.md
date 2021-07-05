@@ -290,6 +290,7 @@
 
 ## C# # 
 
+- [ArthurHub/HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer) - Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library.
 - [Alumniminium/PinePhoneCore](https://github.com/Alumniminium/PinePhoneCore) - NET5 Wrapper around the Kernel-Filesystem / CLI tools to fully control the pinephone
 - [Boris-Barboris/AtmosphereAutopilot](https://github.com/Boris-Barboris/AtmosphereAutopilot) - Plugin for Kerbal Space Program
 - [tinrab/Brain](https://github.com/tinrab/Brain) - 
@@ -1914,6 +1915,7 @@
 
 ## Java 
 
+- [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 - [Rudrakaniya/AndroidxWebkitDemo](https://github.com/Rudrakaniya/AndroidxWebkitDemo) - Demo app to implement Android webview, firebase notifications and more
 - [afsalashyana/FakeImageDetection](https://github.com/afsalashyana/FakeImageDetection) - Fake Image Detection Using Machine Learning
@@ -2166,6 +2168,7 @@
 
 ## Objective-C 
 
+- [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
 - [TurkeyTeo/WebviewJsCore](https://github.com/TurkeyTeo/WebviewJsCore) - Js call Objc
 - [OpenBCI/brainflow](https://github.com/OpenBCI/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [dhepper/font8x8](https://github.com/dhepper/font8x8) - 8x8 monochrome bitmap fonts for rendering
