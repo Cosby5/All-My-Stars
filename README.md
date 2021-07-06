@@ -52,7 +52,6 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
@@ -1714,7 +1713,7 @@
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [bblfsh/bblfshd](https://github.com/bblfsh/bblfshd) - A self-hosted server for source code parsing
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
+- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
 - [juruen/rmapi](https://github.com/juruen/rmapi) - Go app that allows you to access your reMarkable tablet files through the Cloud API
 - [sorter/gowatch](https://github.com/sorter/gowatch) - A basic command line utility that compares the active commit hash of a local git repository with its remote counterpart on GitHub, and issues a pull command if the remote counterpart reports a differing commit hash at its HEAD.
 - [erincandescent/ssh-emissary](https://github.com/erincandescent/ssh-emissary) - A better SSH agent
@@ -1885,6 +1884,7 @@
 
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
+- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -2652,10 +2652,6 @@
 - [neosmart/static-compress](https://github.com/neosmart/static-compress) - A utility for creating a compressed copy of all files in a tree
 - [MPIB/hazel](https://github.com/MPIB/hazel) - A Chocolatey-compatible multi-platform Package Server written in Rust
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
-
-## SCSS 
-
-- [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Scala 
 
