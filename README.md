@@ -9,6 +9,7 @@
   - [Arduino](#arduino)
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
+  - [Blade](#blade)
   - [Bluespec](#bluespec)
   - [Brightscript](#brightscript)
   - [C](#c)
@@ -94,6 +95,10 @@
 ## Batchfile 
 
 - [MrSmith33/rltut_2019](https://github.com/MrSmith33/rltut_2019) - Roguelike tutorial 2019 in Vox lang
+
+## Blade 
+
+- [tailwindcomponents/dashboard](https://github.com/tailwindcomponents/dashboard) - 🛩 🧶 Dashboard template built with Tailwind CSS.
 
 ## Bluespec 
 
@@ -2843,6 +2848,7 @@
 
 ## TypeScript 
 
+- [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
