@@ -347,6 +347,8 @@
 
 ## C++ 
 
+- [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.
 - [micropython/stm32lib](https://github.com/micropython/stm32lib) - STM32 Cube library - CMSIS and HAL for F4, F7 and L4 microcontrollers
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
@@ -700,6 +702,7 @@
 
 ## Go 
 
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [stuarthu/go-implement-your-object-storage](https://github.com/stuarthu/go-implement-your-object-storage) - 
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [niko/goconfd](https://github.com/niko/goconfd) - A simple configuration server (ready-to-download 0-dependency binaries included).
@@ -713,9 +716,7 @@
 - [ahmdrz/goinsta](https://github.com/ahmdrz/goinsta) - Unofficial Instagram API written in Golang
 - [Duet3D/DSF-APIs](https://github.com/Duet3D/DSF-APIs) - 
 - [wilriker/execonmcode](https://github.com/wilriker/execonmcode) - Small DuetSoftwareFramework extension that listens for a user-defined M code to run a user-defined command on the SBC.
-- [prologic/cinit](https://github.com/prologic/cinit) - cinit is a minimal and correctly functioning init (PID 1) for Docker Containers running in Swarm clusters.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [prologic/go-gopher](https://github.com/prologic/go-gopher) - Gopher (RFC 1436) protocol library for the Go (Golang) programming language supporting both client and server
 - [valyala/fastrpc](https://github.com/valyala/fastrpc) - Building blocks for fast rpc systems
 - [valyala/httpteleport](https://github.com/valyala/httpteleport) - Transfer 10Gbps http traffic over 1Gbps networks :)
 - [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
@@ -860,9 +861,7 @@
 - [dsnet/udptunnel](https://github.com/dsnet/udptunnel) - Daemon for creating a simple VPN over UDP.
 - [andrew-d/rssh](https://github.com/andrew-d/rssh) - Reverse shell over SSH
 - [gofaith/faithdroid](https://github.com/gofaith/faithdroid) - ☆Go语言的Android GUI框架☆Android GUI lib for Go
-- [prologic/magic-link-auth](https://github.com/prologic/magic-link-auth) - A simple Golang library for email based magic link authentication
 - [joneskoo/git-get](https://github.com/joneskoo/git-get) - Clones git repos with implied URL prefix to standard directory layout from anywhere.
-- [prologic/gopherclient](https://github.com/prologic/gopherclient) - gopherclient is a cross-platform Gopher (RFC 1436) GUI client written in Go using the native Webview components.
 - [miguelfermin/acme](https://github.com/miguelfermin/acme) - Acme Corp is a fictional company that has been selling insurance products for over 30 years. However, Acme hasn't keep up with technology and still sells its products manually (non-digital) - over the phone, in person, mail, etc. This repository is going to track Acme's ambitions to transform itself into a digital power house. This will consist of the following projects: .NET Core monolithic backend, iOS client app, Android client app, and a React web internal  app.
 - [VictorNine/syncthingclient](https://github.com/VictorNine/syncthingclient) - A lite client library for syncthing, for when you need to upload/download but don't want a full sync
 - [choria-io/go-updater](https://github.com/choria-io/go-updater) - In-place binary updater for Go applications
@@ -885,7 +884,6 @@
 - [rpkarlsson/downer](https://github.com/rpkarlsson/downer) - Commandline rss torrent downloader
 - [kiltum/go-disk-stat](https://github.com/kiltum/go-disk-stat) - Simple functions for accees info for free/total disk space
 - [lunemec/diskspace-notify](https://github.com/lunemec/diskspace-notify) - Running out of free space notificator.
-- [prologic/go-flite](https://github.com/prologic/go-flite) - Use Flite Text-to-Speech Synthesizer from Go
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [tj/go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
@@ -1048,7 +1046,6 @@
 - [Toroid-io/drone-mella](https://github.com/Toroid-io/drone-mella) - Drone plugin for uploading files using WebDAV. Based on mella.
 - [Toroid-io/drone-kicad](https://github.com/Toroid-io/drone-kicad) - Drone plugin for generating KiCad EDA output files
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [prologic/bitcask](https://github.com/prologic/bitcask) - 🔑A high performance Key/Value store written in Go with a predictable read/write performance and high throughput. Uses a Bitcask on-disk layout (LSM+WAL) similar to Riak.
 - [mat007/go-msi](https://github.com/mat007/go-msi) - MSI package creation tool
 - [moul/dockerself](https://github.com/moul/dockerself) - :whale: runtime self dockerizer
 - [joeguo/tldextract](https://github.com/joeguo/tldextract) - Extract root domain, subdomain name, and tld from a url, using the Public Suffix List.
@@ -1212,7 +1209,6 @@
 - [djeebus/go-plexcast](https://github.com/djeebus/go-plexcast) - Chromecast client feeding plex videos to a tv written in Golang
 - [siongui/instago](https://github.com/siongui/instago) - Download/access photos, videos, stories, story highlights, postlives, following and followers of Instagram
 - [T-Systems-MMS/vault-ocsp](https://github.com/T-Systems-MMS/vault-ocsp) - OCSP responder for Hashicorp Vault PKI
-- [prologic/shorturl](https://github.com/prologic/shorturl) - Self hosted web app for shortening urls (URL shortener)
 - [mdlayher/raw](https://github.com/mdlayher/raw) - Package raw enables reading and writing data at the device driver level for a network interface.  MIT Licensed.
 - [mdlayher/wol](https://github.com/mdlayher/wol) - Package wol implements a Wake-on-LAN client.  MIT Licensed.
 - [mdlayher/fibrechannel](https://github.com/mdlayher/fibrechannel) - Package fibrechannel implements marshaling and unmarshaling of Fibre Channel frames.  MIT Licensed.
@@ -1973,6 +1969,7 @@
 
 ## JavaScript 
 
+- [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
@@ -2215,7 +2212,6 @@
 - [torden/ngx_hidden_signature_patch](https://github.com/torden/ngx_hidden_signature_patch) - Just! a Hide Server Signature of Nginx Web Server in response header and in response error
 - [Hiklas/multi-wifi-vlan-routing-setup](https://github.com/Hiklas/multi-wifi-vlan-routing-setup) - Setup for ebtables to allow routing between multiple WiFi networks
 - [miles969/systemd-automount-template](https://github.com/miles969/systemd-automount-template) - These 2 templates can be used to automount network filesystems without editing fstab. It uses systemd's automount function to monitor access requests to local mountpoints and mount the corrosponding network filesystem on the fly
-- [prologic/awesome-go](https://github.com/prologic/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [jamescmartinez/nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - [Unmaintained] S3 file upload proxy using Nginx, complete with AWS authentication.
 - [CallMeFoxie/nginx-upsync](https://github.com/CallMeFoxie/nginx-upsync) - 
 - [moul/awesome-well-known](https://github.com/moul/awesome-well-known) - A curated list of well-known URIs, resources, guides and tools (RFC 5785)
