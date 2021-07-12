@@ -875,7 +875,7 @@
 - [sgreben/with-ssh-docker-socket](https://github.com/sgreben/with-ssh-docker-socket) - access a remote Docker daemon over SSH. single binary, no dependencies. linux, osx, windows.
 - [matryer/goblueprints](https://github.com/matryer/goblueprints) - Source code for Go Programming Blueprints
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [kamilsk/breaker](https://github.com/kamilsk/breaker) - 🚧 Flexible mechanism to make execution flow interruptible.
+- [octolab/breaker](https://github.com/octolab/breaker) - 🚧 Flexible mechanism to make execution flow interruptible.
 - [kooohei/sftps](https://github.com/kooohei/sftps) - sftps is an Package of the Golang for the FTP, FTPS and SFTP Clients.
 - [flaviostutz/dockerwall](https://github.com/flaviostutz/dockerwall) - A packet filter for communications from Docker containers to the Internet configurable by labels
 - [flaviostutz/ssh-jwt](https://github.com/flaviostutz/ssh-jwt) - A SSH server that authorizes PTY, remote or local port forwarding based on JWT token entered as password
