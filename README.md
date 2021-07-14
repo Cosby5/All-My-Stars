@@ -1958,7 +1958,6 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [DmitriiShamrikov/mslinks](https://github.com/DmitriiShamrikov/mslinks) - Java library for parsing and creating Windows shortcut files (.lnk)
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-- [apache/cordova-android](https://github.com/apache/cordova-android) - Apache Cordova Android
 - [MiniJavaCompiler/MiniJavaLLVM](https://github.com/MiniJavaCompiler/MiniJavaLLVM) - MiniJava x86, LLVM Compiler and Interpreter
 - [amishne/llvm-ir-editor](https://github.com/amishne/llvm-ir-editor) - An LLVM IR Editor plugin for Eclipse
 - [davidar/lljvm](https://github.com/davidar/lljvm) - Low Level Java Virtual Machine
@@ -2096,6 +2095,7 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [bgrins/videoconverter.js](https://github.com/bgrins/videoconverter.js) - [UNMAINTAINED] Convert videos in your browser
+- [apache/cordova-android](https://github.com/apache/cordova-android) - Apache Cordova Android
 - [ajlkn/skel](https://github.com/ajlkn/skel) - A lightweight responsive framework for the www
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [wso2-attic/mdm](https://github.com/wso2-attic/mdm) - WSO2Mobile - Mobile Device Management
