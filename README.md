@@ -410,7 +410,6 @@
 - [RobolinkInc/CoDrone](https://github.com/RobolinkInc/CoDrone) - 
 - [dmcgriffy/DroneControlSystem](https://github.com/dmcgriffy/DroneControlSystem) - Flight control and ground station code drom the book Make: Drones
 - [fossasia/neurolab-firmware](https://github.com/fossasia/neurolab-firmware) - Firmware for Neurolab Hardware
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [claritylab/djinn](https://github.com/claritylab/djinn) - Deep Neural Networks (DNNs) as a Service
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -651,6 +650,7 @@
 
 - [kingmercian/SonarrClient](https://github.com/kingmercian/SonarrClient) - 
 - [flutter/friendlychat-steps](https://github.com/flutter/friendlychat-steps) - 
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dockerfile 
