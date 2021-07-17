@@ -57,6 +57,7 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Starlark](#starlark)
+  - [Swift](#swift)
   - [SystemVerilog](#systemverilog)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -294,6 +295,7 @@
 
 ## C# # 
 
+- [kthompson/csharpos](https://github.com/kthompson/csharpos) - The beginnings of a CIL to x86 compiler
 - [ArthurHub/HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer) - Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library.
 - [Alumniminium/PinePhoneCore](https://github.com/Alumniminium/PinePhoneCore) - NET5 Wrapper around the Kernel-Filesystem / CLI tools to fully control the pinephone
 - [Boris-Barboris/AtmosphereAutopilot](https://github.com/Boris-Barboris/AtmosphereAutopilot) - Plugin for Kerbal Space Program
@@ -702,6 +704,8 @@
 
 ## Go 
 
+- [CurlyBrackets/GoNet](https://github.com/CurlyBrackets/GoNet) - A compiler that compiles Golang to CIL
+- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [stuarthu/go-implement-your-object-storage](https://github.com/stuarthu/go-implement-your-object-storage) - 
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
@@ -2832,6 +2836,10 @@
 ## Starlark 
 
 - [gebn/unifibackup](https://github.com/gebn/unifibackup) - Watches for new UniFi Controller backups and uploads them to S3.
+
+## Swift 
+
+- [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 
 ## SystemVerilog 
 
