@@ -295,6 +295,8 @@
 
 ## C# # 
 
+- [SharpNative/CS2C](https://github.com/SharpNative/CS2C) - C# code to C "compiler"
+- [SharpNative/CSharpLLVM](https://github.com/SharpNative/CSharpLLVM) - An LLVM-based compiler for IL/C# for kernels that compiles to native code
 - [kthompson/csharpos](https://github.com/kthompson/csharpos) - The beginnings of a CIL to x86 compiler
 - [ArthurHub/HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer) - Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library.
 - [Alumniminium/PinePhoneCore](https://github.com/Alumniminium/PinePhoneCore) - NET5 Wrapper around the Kernel-Filesystem / CLI tools to fully control the pinephone
@@ -903,7 +905,7 @@
 - [Project0/whaleguard](https://github.com/Project0/whaleguard) - WhaleGuard discovers docker to open dynamically your `ip6tables` firewall for your containers.
 - [ziporah/go-docker-iptables](https://github.com/ziporah/go-docker-iptables) - 
 - [andysingleton/doxie-receiver](https://github.com/andysingleton/doxie-receiver) - Simple tool to pull scans down from the Doxie Go SE over wifi
-- [pion/ion](https://github.com/pion/ion) - Distributed RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
 - [kevinwallace/gossip](https://github.com/kevinwallace/gossip) - Gossip-based multicast
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
