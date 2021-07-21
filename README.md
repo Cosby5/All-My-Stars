@@ -414,6 +414,7 @@
 - [RobolinkInc/CoDrone](https://github.com/RobolinkInc/CoDrone) - 
 - [dmcgriffy/DroneControlSystem](https://github.com/dmcgriffy/DroneControlSystem) - Flight control and ground station code drom the book Make: Drones
 - [fossasia/neurolab-firmware](https://github.com/fossasia/neurolab-firmware) - Firmware for Neurolab Hardware
+- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [claritylab/djinn](https://github.com/claritylab/djinn) - Deep Neural Networks (DNNs) as a Service
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -654,7 +655,6 @@
 
 - [kingmercian/SonarrClient](https://github.com/kingmercian/SonarrClient) - 
 - [flutter/friendlychat-steps](https://github.com/flutter/friendlychat-steps) - 
-- [flutter/engine](https://github.com/flutter/engine) - The Flutter engine
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 ## Dockerfile 
@@ -706,6 +706,7 @@
 
 ## Go 
 
+- [psanford/github-stars](https://github.com/psanford/github-stars) - CLI tool to list all starred repos by user
 - [CurlyBrackets/GoNet](https://github.com/CurlyBrackets/GoNet) - A compiler that compiles Golang to CIL
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -2342,9 +2343,10 @@
 
 ## Python 
 
+- [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Find and download top 10,000 starred github repositories written in Python
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
 - [dvingerh/PyInstaStories](https://github.com/dvingerh/PyInstaStories) - Python script to download Instagram stories from Instagram users.
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
 - [ChibaniMohamed/Polaris](https://github.com/ChibaniMohamed/Polaris) - Polaris is a Face recognition attendance system .
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [virtadpt/exocortex-halo](https://github.com/virtadpt/exocortex-halo) - Various and sundry additional pieces of software I've written to incorporate into my exocortex.
