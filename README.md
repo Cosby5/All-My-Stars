@@ -497,7 +497,6 @@
 
 - [shima-529/stm32OnDlang](https://github.com/shima-529/stm32OnDlang) - Bare Metal Programming for STM32 on D
 - [JinShil/stm32f42_discovery_demo](https://github.com/JinShil/stm32f42_discovery_demo) - A simple demonstration of using D to bare-metal program an STM32F29I Discovery board
-- [0xfad3/d_blockchain](https://github.com/0xfad3/d_blockchain) - Simple blockchain in D
 - [MartinNowak/lexer](https://github.com/MartinNowak/lexer) - lexer generator
 - [brianush1/framed](https://github.com/brianush1/framed) - 
 - [buggins/dlangide](https://github.com/buggins/dlangide) - D language IDE based on DlangUI
@@ -900,7 +899,6 @@
 - [ThatNerdyPikachu/metaproxy](https://github.com/ThatNerdyPikachu/metaproxy) - "Proxies" Plex requests to metadata endpoints to show subtitle and audio names
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [thealetheia/broccoli](https://github.com/thealetheia/broccoli) - Using brotli compression to embed static files in Go.
-- [nebula-chat/telegramd](https://github.com/nebula-chat/telegramd) - Unofficial open source telegram server written in golang
 - [extrame/xls](https://github.com/extrame/xls) - Pure Golang xls library
 - [xordataexchange/crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
 - [Project0/whaleguard](https://github.com/Project0/whaleguard) - WhaleGuard discovers docker to open dynamically your `ip6tables` firewall for your containers.
