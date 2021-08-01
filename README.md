@@ -295,6 +295,7 @@
 
 ## C# # 
 
+- [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [SharpNative/CS2C](https://github.com/SharpNative/CS2C) - C# code to C "compiler"
 - [SharpNative/CSharpLLVM](https://github.com/SharpNative/CSharpLLVM) - An LLVM-based compiler for IL/C# for kernels that compiles to native code
 - [kthompson/csharpos](https://github.com/kthompson/csharpos) - The beginnings of a CIL to x86 compiler
@@ -2341,6 +2342,7 @@
 
 ## Python 
 
+- [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Find and download top 10,000 starred github repositories written in Python
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
 - [dvingerh/PyInstaStories](https://github.com/dvingerh/PyInstaStories) - Python script to download Instagram stories from Instagram users.
