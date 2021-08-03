@@ -680,7 +680,6 @@
 - [prosody/prosody-docker](https://github.com/prosody/prosody-docker) - Docker image building system for the Prosody XMPP server
 - [jcbiellikltd/docker-dhcpd](https://github.com/jcbiellikltd/docker-dhcpd) - Simple containerized DHCP server running on Alpine Linux
 - [Drivetech/gitlab-deploy-ssh](https://github.com/Drivetech/gitlab-deploy-ssh) - Docker Image with alpine linux for deploy with ssh in gitlab ci
-- [hectorm/docker-qemu-reactos](https://github.com/hectorm/docker-qemu-reactos) - A Docker image for the ReactOS operating system.
 - [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux
 - [vank3f3/iptables](https://github.com/vank3f3/iptables) - iptables in docker
 - [retog/docker-x11-xpra](https://github.com/retog/docker-x11-xpra) - A docker image proving a basis for X application accessible via ssh with or without xpra and optionally use xephyr and i3
@@ -2151,6 +2150,7 @@
 - [b4fun/coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
+- [hectorm/docker-qemu-reactos](https://github.com/hectorm/docker-qemu-reactos) - A Docker image for the ReactOS operating system.
 - [Luzifer/project-status](https://github.com/Luzifer/project-status) - Template for a SVG image to be embedded into the README file of a Github repository.
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 - [cloudflavor/tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
@@ -2476,7 +2476,7 @@
 - [tnsy/cert_key_md5_comparison](https://github.com/tnsy/cert_key_md5_comparison) - Compare hashes of Certs and Keys on BIGIP
 - [fossasia/query-server](https://github.com/fossasia/query-server) - Query Server Search Engines https://query-server.herokuapp.com
 - [adfinis-sygroup/gitlab-docsbot](https://github.com/adfinis-sygroup/gitlab-docsbot) - The Docs Bot - A simple service which receives HTTP build triggers from GitLab and unpacks built artifacts inside a configured directory.
-- [facebookexperimental/doh-proxy](https://github.com/facebookexperimental/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
+- [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [Miserlou/omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [YokiToki/servicectl](https://github.com/YokiToki/servicectl) - GUI tray program to control systemd (systemctl) services
