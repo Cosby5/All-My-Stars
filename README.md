@@ -877,7 +877,6 @@
 - [ricoberger/dash](https://github.com/ricoberger/dash) - dash is a terminal dashboard solution inspired by Grafana, to visualize and explore your data.
 - [hydrogen18/memlistener](https://github.com/hydrogen18/memlistener) - An in memory listener for testing socket & HTTP servers in Golang
 - [jasonmf/chanlisten](https://github.com/jasonmf/chanlisten) - A go package that implements net.Listener with a channel of net.Conn.
-- [lazywhite/xpra-cmd](https://github.com/lazywhite/xpra-cmd) - a REST API developed by Go Mux framework to execute system command
 - [sgreben/with-ssh-docker-socket](https://github.com/sgreben/with-ssh-docker-socket) - access a remote Docker daemon over SSH. single binary, no dependencies. linux, osx, windows.
 - [matryer/goblueprints](https://github.com/matryer/goblueprints) - Source code for Go Programming Blueprints
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
