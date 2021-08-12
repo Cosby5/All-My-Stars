@@ -903,7 +903,7 @@
 - [Project0/whaleguard](https://github.com/Project0/whaleguard) - WhaleGuard discovers docker to open dynamically your `ip6tables` firewall for your containers.
 - [ziporah/go-docker-iptables](https://github.com/ziporah/go-docker-iptables) - 
 - [andysingleton/doxie-receiver](https://github.com/andysingleton/doxie-receiver) - Simple tool to pull scans down from the Doxie Go SE over wifi
-- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [kevinwallace/gossip](https://github.com/kevinwallace/gossip) - Gossip-based multicast
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
