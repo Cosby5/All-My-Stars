@@ -215,7 +215,7 @@
 - [stg/SYLT-FFT](https://github.com/stg/SYLT-FFT) - Optimized (I)FFT(R) for Cortex-M4
 - [funny-falcon/pyvm](https://github.com/funny-falcon/pyvm) - alternative python vm, example of lwc code (not mine, just saved)
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-- [qy7tt/elfloader](https://github.com/qy7tt/elfloader) - load so file into current memory space and run function
+- [r0ngwe1/elfloader](https://github.com/r0ngwe1/elfloader) - load so file into current memory space and run function
 - [thiz11/mediatek](https://github.com/thiz11/mediatek) - 
 - [LIFECorp/mediatek](https://github.com/LIFECorp/mediatek) - 
 - [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
@@ -2317,7 +2317,7 @@
 - [mwr666/protoDEV-coreXY](https://github.com/mwr666/protoDEV-coreXY) - http://hackaday.io/project/156697
 - [yappo/nginx-psgi-patchs](https://github.com/yappo/nginx-psgi-patchs) - Real PSIG support was written to nginx.
 - [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) - OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)
-- [dmgnx/lasagna-pl](https://github.com/dmgnx/lasagna-pl) - Lazy naxsi rules generator
+- [dimitrigence/lasagna-pl](https://github.com/dimitrigence/lasagna-pl) - Lazy naxsi rules generator
 - [weiss/ngx_http_upload](https://github.com/weiss/ngx_http_upload) - Nginx module to handle file uploads and downloads for XMPP servers
 - [nigelhorne/cmilter](https://github.com/nigelhorne/cmilter) - A milter to block emails from countries from which you don't wish to receive e-mails
 - [certnanny/CertNanny](https://github.com/certnanny/CertNanny) - Client-side program allowing fully automatic renewal of certificates using the SCEP protocol
