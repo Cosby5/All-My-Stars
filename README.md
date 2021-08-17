@@ -352,6 +352,7 @@
 
 ## C++ 
 
+- [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.
 - [micropython/stm32lib](https://github.com/micropython/stm32lib) - STM32 Cube library - CMSIS and HAL for F4, F7 and L4 microcontrollers
@@ -496,6 +497,8 @@
 
 ## D 
 
+- [hmmdyl/LWDR](https://github.com/hmmdyl/LWDR) - LightWeight D Runtime targeting ARM Cortex CPUs
+- [BradleyChatha/bcstd](https://github.com/BradleyChatha/bcstd) - 
 - [shima-529/stm32OnDlang](https://github.com/shima-529/stm32OnDlang) - Bare Metal Programming for STM32 on D
 - [JinShil/stm32f42_discovery_demo](https://github.com/JinShil/stm32f42_discovery_demo) - A simple demonstration of using D to bare-metal program an STM32F29I Discovery board
 - [MartinNowak/lexer](https://github.com/MartinNowak/lexer) - lexer generator
@@ -750,7 +753,7 @@
 - [fr3dch3n/jwt-auth](https://github.com/fr3dch3n/jwt-auth) - Authenticate requests with jwt, extensible claims and a specific jwks-set
 - [graphql-services/jwks-provider](https://github.com/graphql-services/jwks-provider) - Service providing JWKS for internal/public usage
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
-- [DQNEO/babygo](https://github.com/DQNEO/babygo) - Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
+- [DQNEO/babygo](https://github.com/DQNEO/babygo) - a Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
 - [key-consulting/simple-acme-server](https://github.com/key-consulting/simple-acme-server) - 
 - [leofishc/blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored in each block.
@@ -2332,7 +2335,7 @@
 
 ## PowerShell 
 
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
 
 ## Puppet 
