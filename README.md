@@ -804,7 +804,7 @@
 - [yosssi/gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
 - [mochi-co/mqtt](https://github.com/mochi-co/mqtt) - An embeddable lightweight, high-performance Go/Golang MQTT Server (broker) for IoT and PubSub
 - [jakewarren/backhub](https://github.com/jakewarren/backhub) - Back up starred repos & Gists from GitHub
-- [thecodingmachine/gotenberg](https://github.com/thecodingmachine/gotenberg) - A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats
 - [GreyRockSoft/docker-conf](https://github.com/GreyRockSoft/docker-conf) - Go program to take environment variables passed into a docker container and create config files from them.
 - [jinliming2/secure-dns](https://github.com/jinliming2/secure-dns) - A DNS client which implemented DoT and DoH, with load balancing, DNS cache, custom ECS and HOSTs.
