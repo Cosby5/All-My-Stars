@@ -932,7 +932,7 @@
 - [xyproto/simpleredis](https://github.com/xyproto/simpleredis) - :radio: Easy way to use Redis from Go
 - [xyproto/permissionsql](https://github.com/xyproto/permissionsql) - :lock_with_ink_pen: Middleware for keeping track of users, login states and permissions
 - [xyproto/burnfont](https://github.com/xyproto/burnfont) - Hand-crafted 6x6 pixel font, defined by code
-- [xyproto/mothership](https://github.com/xyproto/mothership) - :page_with_curl: Create mysterious PDF letters in an alien language
+- [xyproto/mothership](https://github.com/xyproto/mothership) - :page_with_curl: Create letters in an unknown language
 - [MiteshSharma/go-socialengine](https://github.com/MiteshSharma/go-socialengine) - Creating social engine in go which can handle all social tasks (like, comment on some object) for any applications
 - [Merovius/systemd](https://github.com/Merovius/systemd) - go implementation of systemd daemon-APIs
 - [samber/sync-ssh-keys](https://github.com/samber/sync-ssh-keys) - 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership.
