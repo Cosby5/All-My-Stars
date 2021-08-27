@@ -154,7 +154,7 @@
 - [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [starnight/LoRa](https://github.com/starnight/LoRa) - LoRa device driver as a kernel module
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
-- [freebsd/pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD. Help at #pkgng on Freenode or pkg@FreeBSD.org
+- [freebsd/pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD. Help at #pkg on Libera Chat or pkg@FreeBSD.org
 - [hairu/freelss](https://github.com/hairu/freelss) - FreeLSS is a laser scanning program for the Raspberry Pi.  It allows a Raspberry Pi to function as the core to a complete turn table laser scanning system.
 - [chobits/ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 - [WebFreak001/lxcd](https://github.com/WebFreak001/lxcd) - Deimos Bindings for lxc
