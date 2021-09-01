@@ -583,7 +583,7 @@
 - [tgehr/d-compiler](https://github.com/tgehr/d-compiler) - 
 - [Rikarin/Trinix](https://github.com/Rikarin/Trinix) - First operating system written in D lang v2
 - [dd86k/dd86](https://github.com/dd86k/dd86) - No longer maintained. See URL.
-- [p0nce/pfft](https://github.com/p0nce/pfft) - 
+- [p0nce/pfft](https://github.com/p0nce/pfft) - This is deprecated, use the dplug:fft package instead.
 - [dd86k/dnote](https://github.com/dd86k/dnote) - CLI Note App
 - [outlandkarasu-sandbox/pidos](https://github.com/outlandkarasu-sandbox/pidos) - 
 - [LunaTheFoxgirl/nicedesktopd](https://github.com/LunaTheFoxgirl/nicedesktopd) - A small application meant to be used as a wallpaper setting daemon for linux (and compatible). Written in D.
@@ -2123,7 +2123,6 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman) - [全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組
 - [tomasero/openSleep](https://github.com/tomasero/openSleep) - platform for sleep hacking and research
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech to Any toolkit.
 - [naokishibuya/car-finding-lane-lines](https://github.com/naokishibuya/car-finding-lane-lines) - Finding Lane Lines using Python and OpenCV
 - [kelu124/un0rick](https://github.com/kelu124/un0rick) - smallish ice40 / raspberrypi ultrasound hardware
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
@@ -2367,6 +2366,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [amoe/rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech to Any toolkit.
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
@@ -2701,7 +2701,7 @@
 - [Hermsi1337/docker-sshd](https://github.com/Hermsi1337/docker-sshd) - Dockerize your OpenSSH-server with rsync and bash installed, upon a customizable alpine-image
 - [AustinSaintAubin/Arduino_OTA-SSH](https://github.com/AustinSaintAubin/Arduino_OTA-SSH) - Arduino: Over the Air (OTA) Update though SSH on Raspberry Pi
 - [ViRb3/android-kernel-ci](https://github.com/ViRb3/android-kernel-ci) - Generic auto-build repo for Android kernels using various CI
-- [reHackable/scripts](https://github.com/reHackable/scripts) - A set of bash scripts that may enhance your reMarkable experience
+- [reHackable/scripts](https://github.com/reHackable/scripts) - [ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience
 - [Evidlo/remarkable_pdflets](https://github.com/Evidlo/remarkable_pdflets) - mini apps for reMarkable inside xochitl
 - [simonschllng/rm-sync](https://github.com/simonschllng/rm-sync) - Sync script for reMarkable paper tablet.
 - [josue/combine-etc-hosts](https://github.com/josue/combine-etc-hosts) - Manage separate host files, then combine them as one to update /etc/hosts.
