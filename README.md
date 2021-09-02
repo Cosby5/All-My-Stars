@@ -534,7 +534,7 @@
 - [ZILtoid1991/CPUblit](https://github.com/ZILtoid1991/CPUblit) - Image composing and drawing algorithms.
 - [dragon-lang/rund](https://github.com/dragon-lang/rund) - A compiler-wrapper that runs and caches D programs.
 - [Pure-D/DietComplete](https://github.com/Pure-D/DietComplete) - Error correcting diet parser with integrated auto-completion and neat AST tools
-- [voidblaster/reloaded-vibes](https://github.com/voidblaster/reloaded-vibes) - 🔄 Smart auto-reloading service and server for web development
+- [TheHydroCat/reloaded-vibes](https://github.com/TheHydroCat/reloaded-vibes) - 🔄 Smart auto-reloading service and server for web development
 - [WebFreak001/XKeyBinD](https://github.com/WebFreak001/XKeyBinD) - Interface for global keyboard shortcuts on X11 in D applications.
 - [WebFreak001/dmc](https://github.com/WebFreak001/dmc) - 
 - [WebFreak001/EventSystem](https://github.com/WebFreak001/EventSystem) - Tiny event system in D using delegates
@@ -2287,6 +2287,7 @@
 - [diegomarangoni/docker-hhvm](https://github.com/diegomarangoni/docker-hhvm) - HHVM from prebuilt or source, run as a cli or fastcgi for usage within a web server
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js) - Pure JavaScript Port of WebKit
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [qznc/d-money](https://github.com/qznc/d-money) - Handling amounts of money safely and efficiently
 
 ## PHP 
@@ -2836,7 +2837,6 @@
 - [fhd/init-script-template](https://github.com/fhd/init-script-template) - A template for simple System V init scripts
 - [pwaring/gcc-cross-compiler](https://github.com/pwaring/gcc-cross-compiler) - Cross compiling GCC for a range of targets
 - [tomuta/debian-mini-odroid-c1](https://github.com/tomuta/debian-mini-odroid-c1) - Script to build a minimal Debian sd card image.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 ## Standard ML 
 
