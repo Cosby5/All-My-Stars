@@ -355,7 +355,7 @@
 
 - [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 - [micropython/stm32lib](https://github.com/micropython/stm32lib) - STM32 Cube library - CMSIS and HAL for F4, F7 and L4 microcontrollers
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
@@ -1103,7 +1103,7 @@
 - [skyec/boltdb-server](https://github.com/skyec/boltdb-server) - HTTP server that wraps a Bolt DB https://github.com/boltdb/bolt
 - [subgraph/chromium-extension-packager](https://github.com/subgraph/chromium-extension-packager) - A program to maintain a list of Chromium extensions, check for updates and package them as Debian packages.
 - [tmthrgd/latestgo](https://github.com/tmthrgd/latestgo) - latestgo is a tool to automatically install the latest supported golang versions.
-- [david-sorm/gosimplebuild](https://github.com/david-sorm/gosimplebuild) - Cross-compiles and optimizes packages for Windows, Linux and macOS, no setup needed.
+- [dsorm/gosimplebuild](https://github.com/dsorm/gosimplebuild) - Cross-compiles and optimizes packages for Windows, Linux and macOS, no setup needed.
 - [lfkeitel/aptmirror-go](https://github.com/lfkeitel/aptmirror-go) - Mirror APT repositories for Debian or Ubuntu-based systems
 - [lfkeitel/docker-registry-auth](https://github.com/lfkeitel/docker-registry-auth) - Authentication server for Docker Registry v2
 - [SkygearIO/docker_registry_auth](https://github.com/SkygearIO/docker_registry_auth) - 
