@@ -8,7 +8,6 @@
   - [ANTLR](#antlr)
   - [Arduino](#arduino)
   - [Assembly](#assembly)
-  - [Batchfile](#batchfile)
   - [Blade](#blade)
   - [Bluespec](#bluespec)
   - [Brightscript](#brightscript)
@@ -93,10 +92,6 @@
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [mirrorer/libbpg](https://github.com/mirrorer/libbpg) - libbpg (copy of the source code for easy access)
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-## Batchfile 
-
-- [MrSmith33/rltut_2019](https://github.com/MrSmith33/rltut_2019) - Roguelike tutorial 2019 in Vox lang
 
 ## Blade 
 
@@ -511,6 +506,7 @@
 - [marler8997/dlangfeatures](https://github.com/marler8997/dlangfeatures) - A list of features that I think would benefit the D Programming Language
 - [marler8997/dmscorlib](https://github.com/marler8997/dmscorlib) - a repo directory to share the generated mscorlib D wrapper for the .NET library from https://github.com/marler8997/clrbridge
 - [marler8997/har](https://github.com/marler8997/har) - Human Archive Format
+- [MrSmith33/rltut_2019](https://github.com/MrSmith33/rltut_2019) - Roguelike tutorial 2019 in Vox lang
 - [adamdruppe/d_android](https://github.com/adamdruppe/d_android) - Helper programs and interfaces for using D on Android systems
 - [thewilsonator/dflat](https://github.com/thewilsonator/dflat) - C#/.NET wrapper library for the D programming language
 - [facebookarchive/dfuse](https://github.com/facebookarchive/dfuse) - dfuse is a binding for the fuse filesystem library written in D.
