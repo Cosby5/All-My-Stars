@@ -2209,7 +2209,7 @@
 - [Kels316/DIY-Air-Purifier](https://github.com/Kels316/DIY-Air-Purifier) - A small DIY air purifier using off-the-shelf components for under $100
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [herrbischoff/badbots](https://github.com/herrbischoff/badbots) - Current CIDR-formatted list of unwanted bots caught on my systems, updated hourly.
+- [herrbischoff/badbots](https://github.com/herrbischoff/badbots) - Current CIDR-formatted list of unwanted bots caught on my systems.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [builtbybel/debotnet](https://github.com/builtbybel/debotnet) - 🔥🚀 Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
 - [thirtythreeforty/3340_kicad](https://github.com/thirtythreeforty/3340_kicad) - My library of custom and collected KiCAD drawings
