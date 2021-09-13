@@ -2189,6 +2189,7 @@
 
 ## Others 
 
+- [my3dltd/OMG-V2-Extruder](https://github.com/my3dltd/OMG-V2-Extruder) - 3:1 reduction all-metal CNC extruder
 - [betrusted-io/betrusted-hardware](https://github.com/betrusted-io/betrusted-hardware) - Hardware design files for Betrusted
 - [betrusted-io/betrusted-wiki](https://github.com/betrusted-io/betrusted-wiki) - Looking for docs on Precursor/Betrusted? Start here.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
