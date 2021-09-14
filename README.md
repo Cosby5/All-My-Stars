@@ -477,6 +477,7 @@
 
 ## CSS 
 
+- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
 - [DesignRevision/shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
 - [themightykitten/ruTorrent-MaterialDesign](https://github.com/themightykitten/ruTorrent-MaterialDesign) - Flat and modern theme for the ruTorrent web ui
@@ -1977,7 +1978,6 @@
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [rogerdahl/floating-pointer](https://github.com/rogerdahl/floating-pointer) - Use your phone or tablet as a virtual mouse
 - [brinley/jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
-- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [NoMore201/playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [brrd/electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications
@@ -2056,7 +2056,6 @@
 - [gitlab-tools/gitlab-ldap-group-sync](https://github.com/gitlab-tools/gitlab-ldap-group-sync) - Manage your gitlab groups with ldap / active directory
 - [cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) - MPEG1 Video Player Based On JSMpeg.
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
-- [manhnguyenduc/ngx_ip_blacklist_admin](https://github.com/manhnguyenduc/ngx_ip_blacklist_admin) - nginx manage ip blacklist
 - [mishguruorg/docker-image-exists](https://github.com/mishguruorg/docker-image-exists) - Check if a specific docker image has been published to Docker Hub.
 - [sjitech/proxy-login-automator](https://github.com/sjitech/proxy-login-automator) - A single node.js script to automatically inject user/password to http proxy server via a local forwarder
 - [mauricesvay/sketchfab-portfolio](https://github.com/mauricesvay/sketchfab-portfolio) - Create an amazing porfolio for your Sketchfab profile
