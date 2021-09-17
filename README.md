@@ -266,6 +266,7 @@
 - [360trev/PELoadFromRam](https://github.com/360trev/PELoadFromRam) - Very very useful example of loading and relocating the (Win32) DLL from memory (!) which allows many possibilities and much more flexibility to dynamically link code from many sources including realtime download from the web and also code signing!
 - [joyent/illumos-joyent](https://github.com/joyent/illumos-joyent) - Community developed and maintained version of the OS/Net consolidation
 - [airbornemihir/PIOS](https://github.com/airbornemihir/PIOS) - Operating Systems Laboratory assignments
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [malisal/loaders](https://github.com/malisal/loaders) - Tiny loaders for various binary formats.
 - [mheily/libkqueue](https://github.com/mheily/libkqueue) - kqueue(2) compatibility library
 - [circle601/BytecodeVM](https://github.com/circle601/BytecodeVM) - 
@@ -457,7 +458,6 @@
 - [sin5678/sinpeloader](https://github.com/sin5678/sinpeloader) - manual load a pe file into memery and exec it
 - [abhisek/Pe-Loader-Sample](https://github.com/abhisek/Pe-Loader-Sample) - Proof of concept implementation of in-memory PE Loader based on ReflectiveDLLInjection Technique
 - [FrankStain/pe-loader](https://github.com/FrankStain/pe-loader) - library, which help to describe or load and execute PE files.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [nettitude/SimplePELoader](https://github.com/nettitude/SimplePELoader) - In-Memory PE Loader
 - [Legacy25/ValkyrieDB](https://github.com/Legacy25/ValkyrieDB) - A SQL-to-native-code compiler based on LLVM
 - [mheily/rooms](https://github.com/mheily/rooms) - A compartmentalization tool based on FreeBSD jails
@@ -2812,7 +2812,7 @@
 - [rom1v/rsshfs](https://github.com/rom1v/rsshfs) - Reverse of sshfs
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [marshyski/quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
-- [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
+- [FooBarWidget/traveling-ruby](https://github.com/FooBarWidget/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [sp4rkie/debian-on-termux](https://github.com/sp4rkie/debian-on-termux) - HOWTO install plain Debian 10 (buster) on your non-rooted Android smartphone
 - [rogaha/docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [SirNomad49/Update-Hosts](https://github.com/SirNomad49/Update-Hosts) - this script allows you to add entrys to your /etc/hosts file
