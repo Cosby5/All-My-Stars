@@ -349,6 +349,7 @@
 
 ## C++ 
 
+- [spark3dp/ember-firmware](https://github.com/spark3dp/ember-firmware) - Firmware for Autodesk Ember 3D printer
 - [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
