@@ -519,7 +519,7 @@
 - [yazd/elf-d](https://github.com/yazd/elf-d) - Read elf files
 - [kkontosis/dub-config](https://github.com/kkontosis/dub-config) - D language helper build utility that extracts library include paths from the dub package manager configuration
 - [jonathanballs/jamu](https://github.com/jonathanballs/jamu) - A rewindable emulator and assembler for a ARM-7TDMI like CPU.
-- [Philpax/skiron](https://github.com/Philpax/skiron) - Skiron is a basic 32-bit RISC-inspired CPU architecture.
+- [philpax/skiron](https://github.com/philpax/skiron) - Skiron is a basic 32-bit RISC-inspired CPU architecture.
 - [wolfwood/boomstick](https://github.com/wolfwood/boomstick) - a git based dependency manager (build environment, build script, package manager, init script)  for XOmB
 - [kai4785/DVM](https://github.com/kai4785/DVM) - A Java-ish VM written in D
 - [huntlabs/grpc-dlang](https://github.com/huntlabs/grpc-dlang) - Grpc for D programming language, hunt-http library based.
