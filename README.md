@@ -2444,7 +2444,7 @@
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
 - [AndrewJHart/plex_media_sorter](https://github.com/AndrewJHart/plex_media_sorter) - Automagically determines the type of media by filename, sorts it, & then moves it configured directories (movies or shows) so that plex knows what to do with them.
 - [suparngp/plex-personal-shows-agent.bundle](https://github.com/suparngp/plex-personal-shows-agent.bundle) - Plex Metadata agent to manage personal shows
-- [vishnugt/youtube-dl-plugin](https://github.com/vishnugt/youtube-dl-plugin) - A Python script to constantly watch your clipboard content, and download if its a youtube link!
+- [vishnugt/youtube-dl-plugin](https://github.com/vishnugt/youtube-dl-plugin) - A Python script to constantly watch your clipboard content, and download if it's an youtube link
 - [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [c3d2/rtorrent-syncer](https://github.com/c3d2/rtorrent-syncer) - syncs remote rtorrent vm's with local fileserver
 - [scottt/rtorrent-helper](https://github.com/scottt/rtorrent-helper) - Open magnet links and torrent files with rtorrent under Linux
