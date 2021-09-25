@@ -532,7 +532,7 @@
 - [ZILtoid1991/CPUblit](https://github.com/ZILtoid1991/CPUblit) - Image composing and drawing algorithms.
 - [dragon-lang/rund](https://github.com/dragon-lang/rund) - A compiler-wrapper that runs and caches D programs.
 - [Pure-D/DietComplete](https://github.com/Pure-D/DietComplete) - Error correcting diet parser with integrated auto-completion and neat AST tools
-- [TheHydroCat/reloaded-vibes](https://github.com/TheHydroCat/reloaded-vibes) - 🔄 Smart auto-reloading service and server for web development
+- [hydrocatOrg/reloaded-vibes](https://github.com/hydrocatOrg/reloaded-vibes) - 🔄 Smart auto-reloading service and server for web development
 - [WebFreak001/XKeyBinD](https://github.com/WebFreak001/XKeyBinD) - Interface for global keyboard shortcuts on X11 in D applications.
 - [WebFreak001/dmc](https://github.com/WebFreak001/dmc) - 
 - [WebFreak001/EventSystem](https://github.com/WebFreak001/EventSystem) - Tiny event system in D using delegates
