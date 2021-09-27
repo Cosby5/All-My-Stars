@@ -2070,7 +2070,7 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [iamtrask/Sonar](https://github.com/iamtrask/Sonar) - DEPRECATED - Decentralized Machine Learning Server (hosted on Blockchain)
 - [mappum/gitbanner](https://github.com/mappum/gitbanner) - :balloon: Generates a git repo to show a cool banner on your Github profile
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [ericktatsui/Touch-Menu-Like-Android](https://github.com/ericktatsui/Touch-Menu-Like-Android) - A touch menu like Navigation Drawer of Android.
 - [Liryna/FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
