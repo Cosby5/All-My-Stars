@@ -2724,7 +2724,6 @@
 - [scrathe/plexEncode](https://github.com/scrathe/plexEncode) - BASH post-processing script for Plex DVR, Shell, Sonarr, Radarr
 - [reHackable/maxio](https://github.com/reHackable/maxio) - Companion daemon for the reMarkable™ paper tablet
 - [imc-trading/dock2box](https://github.com/imc-trading/dock2box) - Apply Docker host images to Bare-Metal hardware using PXE boot
-- [mattolenik/sigmavpn-entware](https://github.com/mattolenik/sigmavpn-entware) - Build to produce IPK package of SigmaVPN for Entware
 - [samrocketman/my_internal_ca](https://github.com/samrocketman/my_internal_ca) - A set of basic scripts for managing an internal certificate authority.
 - [cmaitchison/git_diet](https://github.com/cmaitchison/git_diet) - When your git repo needs to lose some weight...
 - [fieu/gitlab-ci-discord-webhook](https://github.com/fieu/gitlab-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Gitlab CI to Discord as webhooks.
