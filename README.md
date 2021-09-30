@@ -696,7 +696,7 @@
 - [Comingle/PCBs](https://github.com/Comingle/PCBs) - All our our boards we are working on at Comingle
 - [brendan-byrne/Modi](https://github.com/brendan-byrne/Modi) - Modular Controller System
 - [Pwdr/Pwdr-Model-0.1](https://github.com/Pwdr/Pwdr-Model-0.1) - A powder substrate rapid prototyping machine
-- [mossmann/daisho](https://github.com/mossmann/daisho) - SuperSpeed USB 3.0 FPGA platform
+- [greatscottgadgets/daisho](https://github.com/greatscottgadgets/daisho) - SuperSpeed USB 3.0 FPGA platform
 - [jcchurch13/Mechaduino-Hardware](https://github.com/jcchurch13/Mechaduino-Hardware) - Mechaduino hardware design files.     Project logs:
 
 ## G-code 
