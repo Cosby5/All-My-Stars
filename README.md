@@ -314,7 +314,7 @@
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [NRTDP/quadruple](https://github.com/NRTDP/quadruple) - Signed 128-bit floating point data type library originally by Jeff Pasternack
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
-- [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
+- [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mongo2Go - MongoDB for .NET integration tests
 - [Angelinsky7/Docker-Volume-Watcher](https://github.com/Angelinsky7/Docker-Volume-Watcher) - Docker volume watcher is a service that creates a link between window file system and docker mounted volume
 - [acgessler/open3mod](https://github.com/acgessler/open3mod) - Open 3D Model Viewer - A quick and powerful 3D model viewer
 - [mcneel/RhinoMobile](https://github.com/mcneel/RhinoMobile) - Open source, cross-platform 3D library for mobile based on RhinoCommon and openNURBS
@@ -655,7 +655,7 @@
 ## Dart 
 
 - [kingmercian/SonarrClient](https://github.com/kingmercian/SonarrClient) - 
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
@@ -1787,7 +1787,7 @@
 - [mh-cbon/go-bin-rpm](https://github.com/mh-cbon/go-bin-rpm) - Create binary rpm package with ease
 - [randomvariable/go-rpmrepo](https://github.com/randomvariable/go-rpmrepo) - You know, go, for rpm repos
 - [apk/rpmserver](https://github.com/apk/rpmserver) - trivial self-indexing rpm repository server
-- [cavaliercoder/go-rpm](https://github.com/cavaliercoder/go-rpm) - A native implementation of the RPM file specification in Go
+- [cavaliergopher/go-rpm](https://github.com/cavaliergopher/go-rpm) - A native implementation of the RPM file specification in Go
 - [astax-t/gitlab-notbot](https://github.com/astax-t/gitlab-notbot) - GitLab bot that automatically adds "NOT" labels for all issues
 - [b2scrip/gitlabdownloader](https://github.com/b2scrip/gitlabdownloader) - golang version to download gitlab file
 - [agl/extract-nss-root-certs](https://github.com/agl/extract-nss-root-certs) - 
@@ -2683,7 +2683,7 @@
 - [serverok/squid-proxy-installer](https://github.com/serverok/squid-proxy-installer) - Install Sqid Proxy  on Ubuntu/Debian
 - [hardware/mailserver](https://github.com/hardware/mailserver) - :warning: UNMAINTAINED - Simple and full-featured mail server using Docker
 - [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments. [Author @ken-reitz]
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
 - [IamMohaiminul/MongoDB-Auto-Backup-S3](https://github.com/IamMohaiminul/MongoDB-Auto-Backup-S3) - Shell Script for Auto MongoDB Backup to Amazon S3 Periodically
 - [ipimpat/kodi-fullscreen-dual-monitor](https://github.com/ipimpat/kodi-fullscreen-dual-monitor) - Run XBMC in fullscreen on a single monitor in dual monitor setup (Linux)
 - [licensezero/prosperity-public-license](https://github.com/licensezero/prosperity-public-license) - The Prosperity Public License
