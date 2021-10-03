@@ -2718,7 +2718,7 @@
 - [activeeos/wireguard-docker](https://github.com/activeeos/wireguard-docker) - Docker image for Wireguard. Containerize your VPN!
 - [mviereck/runx](https://github.com/mviereck/runx) - Provide X server on MS Windows with cookie authentication.
 - [dnephin/dind](https://github.com/dnephin/dind) - Docker in Docker Images
-- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP / VoIP Packet Capture & Monitoring
+- [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP / VoIP / RTC Packet Capture & Monitoring
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 - [fireph/Radarr_Updater](https://github.com/fireph/Radarr_Updater) - Updates a Radarr installation automagically
 - [scrathe/plexEncode](https://github.com/scrathe/plexEncode) - BASH post-processing script for Plex DVR, Shell, Sonarr, Radarr
