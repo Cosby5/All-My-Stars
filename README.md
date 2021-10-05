@@ -53,6 +53,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
@@ -484,7 +485,6 @@
 - [themightykitten/ruTorrent-MaterialDesign](https://github.com/themightykitten/ruTorrent-MaterialDesign) - Flat and modern theme for the ruTorrent web ui
 - [ajlkn/baseline](https://github.com/ajlkn/baseline) - A simple boilerplate for new Skel projects.
 - [iFelix18/Darkerr](https://github.com/iFelix18/Darkerr) - A darker theme for Sonarr, Radarr & Lidarr
-- [OpenGarage/OpenGarage-App](https://github.com/OpenGarage/OpenGarage-App) - Designed to allow intuitive control of the OpenGarage garage door opener.
 - [duchenpaul/gitea-dark-theme](https://github.com/duchenpaul/gitea-dark-theme) - Another Gitea theme
 - [adchsm/Manhattan](https://github.com/adchsm/Manhattan) - A clean, lightweight and customisable CSS grid.
 
@@ -2664,6 +2664,10 @@
 - [neosmart/static-compress](https://github.com/neosmart/static-compress) - A utility for creating a compressed copy of all files in a tree
 - [MPIB/hazel](https://github.com/MPIB/hazel) - A Chocolatey-compatible multi-platform Package Server written in Rust
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
+
+## SCSS 
+
+- [OpenGarage/OpenGarage-App](https://github.com/OpenGarage/OpenGarage-App) - Designed to allow intuitive control of the OpenGarage garage door opener.
 
 ## Scala 
 
