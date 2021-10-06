@@ -2307,7 +2307,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [buckyroberts/Social-Network](https://github.com/buckyroberts/Social-Network) - Open source social network for thenewboston community.
-- [opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests.  It is available in 16 international languages.
+- [opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests.  It is available in 17 international languages.
 - [anahitasocial/anahita](https://github.com/anahitasocial/anahita) - Anahita is a platform and framework for developing open science and knowledge sharing applications on a social networking foundation.
 
 ## Pascal 
