@@ -267,7 +267,6 @@
 - [360trev/PELoadFromRam](https://github.com/360trev/PELoadFromRam) - Very very useful example of loading and relocating the (Win32) DLL from memory (!) which allows many possibilities and much more flexibility to dynamically link code from many sources including realtime download from the web and also code signing!
 - [joyent/illumos-joyent](https://github.com/joyent/illumos-joyent) - Community developed and maintained version of the OS/Net consolidation
 - [airbornemihir/PIOS](https://github.com/airbornemihir/PIOS) - Operating Systems Laboratory assignments
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [malisal/loaders](https://github.com/malisal/loaders) - Tiny loaders for various binary formats.
 - [mheily/libkqueue](https://github.com/mheily/libkqueue) - kqueue(2) compatibility library
 - [circle601/BytecodeVM](https://github.com/circle601/BytecodeVM) - 
@@ -1180,7 +1179,6 @@
 - [appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy) - easyssh-proxy provides a simple implementation of some SSH protocol features in Go
 - [gustavosbarreto/ssherial](https://github.com/gustavosbarreto/ssherial) - Serial console over SSH
 - [RoanBrand/SerialToTCPBridgeProtocol](https://github.com/RoanBrand/SerialToTCPBridgeProtocol) - An error tolerant serial UART to TCP connection, raw data bridge.
-- [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [spacemonkeygo/openssl](https://github.com/spacemonkeygo/openssl) - OpenSSL bindings for Go
 - [yunchih/s3-video-trans](https://github.com/yunchih/s3-video-trans) - Transcode video objects from s3-compatible storage
 - [dreamCodeMan/go-mediainfo](https://github.com/dreamCodeMan/go-mediainfo) - go-mediainfo:an mediainfo command-line parameter builder
@@ -2150,6 +2148,7 @@
 - [b4fun/coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
+- [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [hectorm/docker-qemu-reactos](https://github.com/hectorm/docker-qemu-reactos) - A Docker image for the ReactOS operating system.
 - [Luzifer/project-status](https://github.com/Luzifer/project-status) - Template for a SVG image to be embedded into the README file of a Github repository.
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
@@ -2591,6 +2590,7 @@
 - [Viq111/Vivado-CI](https://github.com/Viq111/Vivado-CI) - A simple Vivado (Verilog & VHDL) Continuous Integration tool with seamless integration to Travis-CI
 - [LinOTP/LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
 - [freecores/ssbcc](https://github.com/freecores/ssbcc) - Small Stack Based Computer Compiler
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [chrishumphreys/p2j](https://github.com/chrishumphreys/p2j) - Python to Java translator
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
