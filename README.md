@@ -1832,7 +1832,7 @@
 - [google/grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [fentas/docker-volume-davfs](https://github.com/fentas/docker-volume-davfs) - :whale: davfs docker volume plugin
 - [nvll/bd](https://github.com/nvll/bd) - Binary diff tool
-- [xor-gate/debpkg](https://github.com/xor-gate/debpkg) - Packaging Go application for Debian written in pure Golang
+- [xor-gate/debpkg](https://github.com/xor-gate/debpkg) - Package creation for Debian written in pure Golang
 - [OrlovEvgeny/godeb-repo](https://github.com/OrlovEvgeny/godeb-repo) - A mini apt repository server
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
@@ -2804,7 +2804,7 @@
 - [mdrjr/5422_BSP](https://github.com/mdrjr/5422_BSP) - 
 - [silarsis/docker-proxy](https://github.com/silarsis/docker-proxy) - Transparent proxy for docker containers, run in a docker container
 - [dramaturg/docker-debian-systemd](https://github.com/dramaturg/docker-debian-systemd) - Debian docker image using unprivileged systemd
-- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
+- [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [hypriot/os-rootfs](https://github.com/hypriot/os-rootfs) - The root filesystem of HypriotOS
 - [havfo/WEBRTC-to-SIP](https://github.com/havfo/WEBRTC-to-SIP) - Setup for a WEBRTC client and Kamailio server to call SIP clients
 - [Klowner/docker-gitlab-mirrors](https://github.com/Klowner/docker-gitlab-mirrors) - Mirror git/svn/hg/bzr to gitlab inside Docker
