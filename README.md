@@ -2347,7 +2347,7 @@
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Find and download top 10,000 starred github repositories written in Python
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
 - [dvingerh/PyInstaStories](https://github.com/dvingerh/PyInstaStories) - Python script to download Instagram stories from Instagram users.
-- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary translation services.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [ChibaniMohamed/Polaris](https://github.com/ChibaniMohamed/Polaris) - Polaris is a Face recognition attendance system .
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [virtadpt/exocortex-halo](https://github.com/virtadpt/exocortex-halo) - Various and sundry additional pieces of software I've written to incorporate into my exocortex.
