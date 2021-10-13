@@ -1699,7 +1699,7 @@
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Open source Slack-alternative in Golang and React - Mattermost
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [Azure/golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [tv42/alone](https://github.com/tv42/alone) - Go Alone is an experiment into running Go as an appliance-oriented operating system
 - [tv42/spindown-idle-disks](https://github.com/tv42/spindown-idle-disks) - Spin down idle SATA disks. Because hdparm -S 120 just won't work.
