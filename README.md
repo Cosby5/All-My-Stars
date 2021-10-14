@@ -1396,7 +1396,7 @@
 - [shazow/go-selfcompile](https://github.com/shazow/go-selfcompile) - Build self-recompiling Go binaries
 - [mitchellh/golicense](https://github.com/mitchellh/golicense) - Scan and analyze OSS dependencies and licenses from compiled Go binaries
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
-- [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - Download Go binaries as fast and easily as possible.
+- [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - [DEPRECATED] Download Go binaries as fast and easily as possible.
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
 - [kr/binarydist](https://github.com/kr/binarydist) - Go implementation of the bspatch algorithm
 - [beito123/binary](https://github.com/beito123/binary) - This is a very simple binary library written in Go.
