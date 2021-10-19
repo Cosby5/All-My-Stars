@@ -1919,7 +1919,7 @@
 ## Java 
 
 - [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [Rudrakaniya/AndroidxWebkitDemo](https://github.com/Rudrakaniya/AndroidxWebkitDemo) - Demo app to implement Android webview, firebase notifications and more
 - [afsalashyana/FakeImageDetection](https://github.com/afsalashyana/FakeImageDetection) - Fake Image Detection Using Machine Learning
 - [lordvadercito/AndroidNativefier](https://github.com/lordvadercito/AndroidNativefier) - Convert web applications to Android native app
