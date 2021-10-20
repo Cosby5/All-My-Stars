@@ -884,7 +884,7 @@
 - [flaviostutz/dockerwall](https://github.com/flaviostutz/dockerwall) - A packet filter for communications from Docker containers to the Internet configurable by labels
 - [flaviostutz/ssh-jwt](https://github.com/flaviostutz/ssh-jwt) - A SSH server that authorizes PTY, remote or local port forwarding based on JWT token entered as password
 - [app-nerds/fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open Source Photos App powered by Go and Google TensorFlow 🌈
 - [rpkarlsson/downer](https://github.com/rpkarlsson/downer) - Commandline rss torrent downloader
 - [kiltum/go-disk-stat](https://github.com/kiltum/go-disk-stat) - Simple functions for accees info for free/total disk space
 - [lunemec/diskspace-notify](https://github.com/lunemec/diskspace-notify) - Running out of free space notificator.
@@ -2300,7 +2300,6 @@
 - [Crivaledaz/Mattermost-LDAP](https://github.com/Crivaledaz/Mattermost-LDAP) - This module provides an external LDAP authentication in Mattermost for the Team Edition (free).
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
 - [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin) - Simple web interface to manage Redis databases.
-- [quidsup/notrack](https://github.com/quidsup/notrack) - NoTrack is a network-wide DNS server which blocks Tracking sites
 - [fabacab/data-structures-and-algorithms](https://github.com/fabacab/data-structures-and-algorithms) - :book::computer: A compendium for self-education geared for "people who do not have computer science degrees."
 - [cweiske/grauphel](https://github.com/cweiske/grauphel) - Tomboy note synchronization REST server nextcloud app
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
