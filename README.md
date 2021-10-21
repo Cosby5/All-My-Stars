@@ -1885,7 +1885,6 @@
 
 ## HTML 
 
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
@@ -1970,6 +1969,7 @@
 
 ## JavaScript 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
@@ -2362,7 +2362,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [amoe/rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech to Any toolkit.
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech toolkit.
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
@@ -2862,6 +2862,7 @@
 
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
