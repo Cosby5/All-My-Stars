@@ -1002,7 +1002,7 @@
 - [f-secure-foundry/tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [xanzy/multisyncer](https://github.com/xanzy/multisyncer) - MultiSyncer synchronizes access based on a given token
 - [LockGit/gochat](https://github.com/LockGit/gochat) - goim server write by golang !🚀
-- [belak/gitdir](https://github.com/belak/gitdir) - Simple and lightweight SSH git hosting with just a directory.
+- [belak/gitdir](https://github.com/belak/gitdir) - PoC of a self-contained, simple, and lightweight SSH git hosting with just a directory.
 - [parente/espeakbox](https://github.com/parente/espeakbox) - Text-to-speech server in a small (17.2 MB) Docker image
 - [mishak87/gitlab-packagist](https://github.com/mishak87/gitlab-packagist) - DEPRECATED: Simple no dependency in memory cached packages.json server. Composer finally supports GitLab natively :-)
 - [mirhec/dependency-resolver](https://github.com/mirhec/dependency-resolver) - A simple language independent dependency resolver that supports multiple registries to pull from.
