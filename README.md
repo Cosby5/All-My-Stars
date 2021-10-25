@@ -1411,7 +1411,7 @@
 - [johanbrandhorst/gopherjs-grpc-websocket](https://github.com/johanbrandhorst/gopherjs-grpc-websocket) - An example implementation of bridging gRPC with a GopherJS frontend over Websockets
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [gokrazy/tools](https://github.com/gokrazy/tools) - Tools for end-users of gokrazy (gokr-packer, …)
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a pure-Go userland for your Raspberry Pi 3 or 4 appliances
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [benmanns/goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
 - [itsabot/plugin_weather](https://github.com/itsabot/plugin_weather) - 
@@ -2362,7 +2362,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [amoe/rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A PaddlePaddle Speech toolkit.
+- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A Speech Toolkit based on PaddlePaddle.
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
