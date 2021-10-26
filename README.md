@@ -374,7 +374,7 @@
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 - [whitequark/unfork](https://github.com/whitequark/unfork) - unfork(2) is the inverse of fork(2).    sort of.
 - [davidshb19/AECU](https://github.com/davidshb19/AECU) - Arduino Engine Control Unit
-- [aswinnahrendra/ECU](https://github.com/aswinnahrendra/ECU) - Engine Control Unit Firmware implemented in Arduino Mega 2560 R3 to control Electronic Fuel Injection, based on PID Neural Network Control Algorithm
+- [anahrendra/ECU](https://github.com/anahrendra/ECU) - Engine Control Unit Firmware implemented in Arduino Mega 2560 R3 to control Electronic Fuel Injection, based on PID Neural Network Control Algorithm
 - [syncro16/dmn-edc](https://github.com/syncro16/dmn-edc) - Diesel engine control (Bosch VE / inline pumps)
 - [dvjcodec/SCG-ECU-1.0](https://github.com/dvjcodec/SCG-ECU-1.0) - Standalone ECU designed for Speeduino firmware
 - [ihitsov/TPMS](https://github.com/ihitsov/TPMS) - iTPMS based on canbus messages for wheel speed on T7 cars with ESP/TCS
