@@ -78,7 +78,6 @@
 ## Arduino 
 
 - [g3rard/OpenKnit](https://github.com/g3rard/OpenKnit) - an open project about a digital knitting machine
-- [tanmay-ty/BCI-thought-to-thought-using-arduino](https://github.com/tanmay-ty/BCI-thought-to-thought-using-arduino) - proof of concept for thought to thought communication system using a eeg headset.
 - [rsbohn/ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips.
 - [Comingle/Comingle_Example_Sketches](https://github.com/Comingle/Comingle_Example_Sketches) - Example Software sketches for our Sex toys, like The Mod or the Electric Eel
 - [bbustin/climaduino](https://github.com/bbustin/climaduino) - Open source thermostat with humidity control for the Arduino using the DHT22 sensor
@@ -1785,7 +1784,7 @@
 - [mh-cbon/go-bin-rpm](https://github.com/mh-cbon/go-bin-rpm) - Create binary rpm package with ease
 - [randomvariable/go-rpmrepo](https://github.com/randomvariable/go-rpmrepo) - You know, go, for rpm repos
 - [apk/rpmserver](https://github.com/apk/rpmserver) - trivial self-indexing rpm repository server
-- [cavaliergopher/go-rpm](https://github.com/cavaliergopher/go-rpm) - A native implementation of the RPM file specification in Go
+- [cavaliergopher/rpm](https://github.com/cavaliergopher/rpm) - A native implementation of the RPM file specification in Go
 - [astax-t/gitlab-notbot](https://github.com/astax-t/gitlab-notbot) - GitLab bot that automatically adds "NOT" labels for all issues
 - [b2scrip/gitlabdownloader](https://github.com/b2scrip/gitlabdownloader) - golang version to download gitlab file
 - [agl/extract-nss-root-certs](https://github.com/agl/extract-nss-root-certs) - 
