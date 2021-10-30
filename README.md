@@ -1784,7 +1784,7 @@
 - [mh-cbon/go-bin-rpm](https://github.com/mh-cbon/go-bin-rpm) - Create binary rpm package with ease
 - [randomvariable/go-rpmrepo](https://github.com/randomvariable/go-rpmrepo) - You know, go, for rpm repos
 - [apk/rpmserver](https://github.com/apk/rpmserver) - trivial self-indexing rpm repository server
-- [cavaliergopher/rpm](https://github.com/cavaliergopher/rpm) - A native implementation of the RPM file specification in Go
+- [cavaliergopher/rpm](https://github.com/cavaliergopher/rpm) - A Go implementation of the RPM file format
 - [astax-t/gitlab-notbot](https://github.com/astax-t/gitlab-notbot) - GitLab bot that automatically adds "NOT" labels for all issues
 - [b2scrip/gitlabdownloader](https://github.com/b2scrip/gitlabdownloader) - golang version to download gitlab file
 - [agl/extract-nss-root-certs](https://github.com/agl/extract-nss-root-certs) - 
@@ -2747,7 +2747,7 @@
 - [sameersbn/docker-browser-box](https://github.com/sameersbn/docker-browser-box) - Dockerized google-chome and tor-browser with audio support via pulseaudio
 - [felixd/git-releaser](https://github.com/felixd/git-releaser) - Git Releaser
 - [IlyaSemenov/gitlab-ci-git-push](https://github.com/IlyaSemenov/gitlab-ci-git-push) - Gitlab CI runner image that pushes to a remote Git repo (Dokku, Heroku, Deis, etc.)
-- [YongHaoWu/goHike](https://github.com/YongHaoWu/goHike) - A script of Go1.7 binary package generator, with a detail example.
+- [atlas-comstock/goHike](https://github.com/atlas-comstock/goHike) - A script of Go1.7 binary package generator, with a detail example.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Luzifer/git-changerelease](https://github.com/Luzifer/git-changerelease) - git-subcommand to write the changelog in a consistent format and tag it using semantic versioning
 - [pote/gpm](https://github.com/pote/gpm) - Barebones dependency manager for Go.
