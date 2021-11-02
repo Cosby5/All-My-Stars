@@ -657,7 +657,7 @@
 
 ## Dockerfile 
 
-- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 Windows
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [m1k1o/osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
 - [Miosame/nginx-blocker-docker-proxy](https://github.com/Miosame/nginx-blocker-docker-proxy) - nginx-ultimate-bad-bot-blocker dockerized and proxified
 - [adelton/sketchup-container](https://github.com/adelton/sketchup-container) - Running SketchUp Make in a container
