@@ -2186,6 +2186,7 @@
 
 ## Others 
 
+- [RiFi2k/unlimited-tethering](https://github.com/RiFi2k/unlimited-tethering) - Bypass tethering caps or throttling on cell phone unlimited data plans. Potentially cancel your internet and route your whole home though your unlimited data plan.
 - [my3dltd/OMG-V2-Extruder](https://github.com/my3dltd/OMG-V2-Extruder) - 3:1 reduction all-metal CNC extruder
 - [betrusted-io/betrusted-hardware](https://github.com/betrusted-io/betrusted-hardware) - Hardware design files for Betrusted
 - [betrusted-io/betrusted-wiki](https://github.com/betrusted-io/betrusted-wiki) - Looking for docs on Precursor/Betrusted? Start here.
@@ -2299,7 +2300,7 @@
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
 - [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin) - Simple web interface to manage Redis databases.
 - [fabacab/data-structures-and-algorithms](https://github.com/fabacab/data-structures-and-algorithms) - :book::computer: A compendium for self-education geared for "people who do not have computer science degrees."
-- [cweiske/grauphel](https://github.com/cweiske/grauphel) - Tomboy note synchronization REST server nextcloud app
+- [grosjo/grauphel](https://github.com/grosjo/grauphel) - Tomboy note synchronization REST server nextcloud app
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [buckyroberts/Social-Network](https://github.com/buckyroberts/Social-Network) - Open source social network for thenewboston community.
@@ -2341,7 +2342,7 @@
 ## Python 
 
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
-- [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Find and download top 10,000 starred github repositories written in Python
+- [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Download and get information about repositories from Github API using PyGithub
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
 - [dvingerh/PyInstaStories](https://github.com/dvingerh/PyInstaStories) - Python script to download Instagram stories from Instagram users.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
