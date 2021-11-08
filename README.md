@@ -1545,7 +1545,7 @@
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) - Package githubv4 is a client library for accessing GitHub GraphQL API v4 (https://docs.github.com/en/graphql).
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [kivutar/socialfs](https://github.com/kivutar/socialfs) - A peer2peer social network, written in go using 9p and tls
-- [kare/dotenv](https://github.com/kare/dotenv) - 
+- [kare/dotenv](https://github.com/kare/dotenv) - Dotenv is a Go implementation of zero-dependency module that loads environment variables from a .env file into process environment.
 - [kare/vanity](https://github.com/kare/vanity) - Go vanity domain HTTP handler
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [Luzifer/go-dhparam](https://github.com/Luzifer/go-dhparam) - Pure Go implementation of OpenSSL dhparam generator
