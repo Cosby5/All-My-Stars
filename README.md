@@ -703,6 +703,7 @@
 
 ## Go 
 
+- [evgeniy-klemin/webrtc-sip-client](https://github.com/evgeniy-klemin/webrtc-sip-client) - WebRTC SIP client on golang for FreeSwitch
 - [psanford/github-stars](https://github.com/psanford/github-stars) - CLI tool to list all starred repos by user
 - [CurlyBrackets/GoNet](https://github.com/CurlyBrackets/GoNet) - A compiler that compiles Golang to CIL
 - [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
@@ -2362,7 +2363,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [amoe/rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
-- [PaddlePaddle/DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) - A Speech Toolkit based on PaddlePaddle.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - A Speech Toolkit based on PaddlePaddle.
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
