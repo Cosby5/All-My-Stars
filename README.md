@@ -108,6 +108,7 @@
 
 ## C 
 
+- [mudita/MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
 - [BBN-Q/PCIe-FPGA](https://github.com/BBN-Q/PCIe-FPGA) - Linux kernel driver for memory mapped PCIe - FPGA communication.
 - [cyrillwork/FPGAdriver](https://github.com/cyrillwork/FPGAdriver) - Linux driver support FPGA with NVRAM, UART, I2C
@@ -703,6 +704,7 @@
 
 ## Go 
 
+- [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [evgeniy-klemin/webrtc-sip-client](https://github.com/evgeniy-klemin/webrtc-sip-client) - WebRTC SIP client on golang for FreeSwitch
 - [psanford/github-stars](https://github.com/psanford/github-stars) - CLI tool to list all starred repos by user
 - [CurlyBrackets/GoNet](https://github.com/CurlyBrackets/GoNet) - A compiler that compiles Golang to CIL
@@ -2187,6 +2189,7 @@
 
 ## Others 
 
+- [fuwn/xp](https://github.com/fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
 - [RiFi2k/unlimited-tethering](https://github.com/RiFi2k/unlimited-tethering) - Bypass tethering caps or throttling on cell phone unlimited data plans. Potentially cancel your internet and route your whole home though your unlimited data plan.
 - [my3dltd/OMG-V2-Extruder](https://github.com/my3dltd/OMG-V2-Extruder) - 3:1 reduction all-metal CNC extruder
 - [betrusted-io/betrusted-hardware](https://github.com/betrusted-io/betrusted-hardware) - Hardware design files for Betrusted
