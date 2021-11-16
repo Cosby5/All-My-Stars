@@ -2345,6 +2345,7 @@
 
 ## Python 
 
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Complete training data platform for machine learning delivered as a single application.
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Download and get information about repositories from Github API using PyGithub
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
