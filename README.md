@@ -2837,7 +2837,7 @@
 - [adamnew123456/USM](https://github.com/adamnew123456/USM) - The User Software Manager - Stores Your Compiled Programs
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [radiac/caman](https://github.com/radiac/caman) - A self-signing certificate authority manager
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside containers.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [fhd/init-script-template](https://github.com/fhd/init-script-template) - A template for simple System V init scripts
 - [pwaring/gcc-cross-compiler](https://github.com/pwaring/gcc-cross-compiler) - Cross compiling GCC for a range of targets
 - [tomuta/debian-mini-odroid-c1](https://github.com/tomuta/debian-mini-odroid-c1) - Script to build a minimal Debian sd card image.
