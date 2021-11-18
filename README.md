@@ -108,6 +108,7 @@
 
 ## C 
 
+- [tedkotz/ternary](https://github.com/tedkotz/ternary) - A storage place for my ternary experiments, including an emulator for a theoretical 27-trit CPU.
 - [mudita/MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
 - [BBN-Q/PCIe-FPGA](https://github.com/BBN-Q/PCIe-FPGA) - Linux kernel driver for memory mapped PCIe - FPGA communication.
@@ -1909,6 +1910,7 @@
 
 ## Haskell 
 
+- [zachjs/sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [destenson/ConsenSys--Fae](https://github.com/destenson/ConsenSys--Fae) - Functional alternative to Ethereum
 - [tommythorn/Reduceron](https://github.com/tommythorn/Reduceron) - FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection.  Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA.  A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome.
@@ -1971,6 +1973,7 @@
 
 ## JavaScript 
 
+- [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
@@ -2189,6 +2192,7 @@
 
 ## Others 
 
+- [Atharva-Raut/Electric_VLSI_Designs](https://github.com/Atharva-Raut/Electric_VLSI_Designs) - A collection of sample CMOS analog layouts in 0.6um technology, using Electric VLSI Design System
 - [fuwn/xp](https://github.com/fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
 - [RiFi2k/unlimited-tethering](https://github.com/RiFi2k/unlimited-tethering) - Bypass tethering caps or throttling on cell phone unlimited data plans. Potentially cancel your internet and route your whole home though your unlimited data plan.
 - [my3dltd/OMG-V2-Extruder](https://github.com/my3dltd/OMG-V2-Extruder) - 3:1 reduction all-metal CNC extruder
