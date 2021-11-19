@@ -705,6 +705,7 @@
 
 ## Go 
 
+- [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [evgeniy-klemin/webrtc-sip-client](https://github.com/evgeniy-klemin/webrtc-sip-client) - WebRTC SIP client on golang for FreeSwitch
 - [psanford/github-stars](https://github.com/psanford/github-stars) - CLI tool to list all starred repos by user
@@ -2746,7 +2747,6 @@
 - [Plexmation/Plexmation](https://github.com/Plexmation/Plexmation) - A simple script for setting up your automated Plex home media server
 - [OllieDay/sonarr-mp4-converter](https://github.com/OllieDay/sonarr-mp4-converter) - Sonarr post processing script to convert episodes to MP4 using FFmpeg
 - [OllieDay/radarr-mp4-converter](https://github.com/OllieDay/radarr-mp4-converter) - Radarr post processing script to convert movies to MP4 using FFmpeg
-- [aristosv/mediastack-debian](https://github.com/aristosv/mediastack-debian) - Bazarr - Deluge - Jackett - Plex - Portainer - Radarr - Sonarr
 - [huskar20/hostdiscovery](https://github.com/huskar20/hostdiscovery) - If set up as a cron job can discover and email given IP ranges to the network admin as to find out if a new host showed up in the network
 - [M1ndo/LiveHosts](https://github.com/M1ndo/LiveHosts) - A Shell Script To Find All Live Hosts On Your Network
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
