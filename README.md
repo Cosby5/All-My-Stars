@@ -705,6 +705,8 @@
 
 ## Go 
 
+- [jeffprestes/go-eddystone-url](https://github.com/jeffprestes/go-eddystone-url) - Broadcasting Eddystone URL using Go
+- [suapapa/go_eddystone](https://github.com/suapapa/go_eddystone) - Go package to support Eddystone
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [evgeniy-klemin/webrtc-sip-client](https://github.com/evgeniy-klemin/webrtc-sip-client) - WebRTC SIP client on golang for FreeSwitch
