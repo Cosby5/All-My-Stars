@@ -84,6 +84,7 @@
 
 ## Assembly 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [neilbox1/EvoX-Reverse-Engineering](https://github.com/neilbox1/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 - [MyTeletouch/MyTeletouchDongle](https://github.com/MyTeletouch/MyTeletouchDongle) - MyTeletouch USB Dongle
@@ -705,6 +706,7 @@
 
 ## Go 
 
+- [stenic/go-mail](https://github.com/stenic/go-mail) - Minimal mail implementation in go
 - [jeffprestes/go-eddystone-url](https://github.com/jeffprestes/go-eddystone-url) - Broadcasting Eddystone URL using Go
 - [suapapa/go_eddystone](https://github.com/suapapa/go_eddystone) - Go package to support Eddystone
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
@@ -2122,6 +2124,7 @@
 
 ## Jupyter Notebook 
 
+- [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman) - [全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組
 - [tomasero/openSleep](https://github.com/tomasero/openSleep) - platform for sleep hacking and research
 - [naokishibuya/car-finding-lane-lines](https://github.com/naokishibuya/car-finding-lane-lines) - Finding Lane Lines using Python and OpenCV
@@ -2195,6 +2198,7 @@
 
 ## Others 
 
+- [robertmuth/awesome-low-level-programming-languages](https://github.com/robertmuth/awesome-low-level-programming-languages) - A curated list of low level programming languages (i.e. suitable for OS and game programming)
 - [Atharva-Raut/Electric_VLSI_Designs](https://github.com/Atharva-Raut/Electric_VLSI_Designs) - A collection of sample CMOS analog layouts in 0.6um technology, using Electric VLSI Design System
 - [fuwn/xp](https://github.com/fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
 - [RiFi2k/unlimited-tethering](https://github.com/RiFi2k/unlimited-tethering) - Bypass tethering caps or throttling on cell phone unlimited data plans. Potentially cancel your internet and route your whole home though your unlimited data plan.
