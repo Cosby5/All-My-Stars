@@ -2672,7 +2672,7 @@
 
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Demikernel OS
+- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Demikernel libOS
 - [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [diodesign/diosix](https://github.com/diodesign/diosix) - A lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
