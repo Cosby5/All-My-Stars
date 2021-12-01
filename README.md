@@ -109,6 +109,7 @@
 
 ## C 
 
+- [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo.
 - [tedkotz/ternary](https://github.com/tedkotz/ternary) - A storage place for my ternary experiments, including an emulator for a theoretical 27-trit CPU.
 - [mudita/MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
@@ -706,6 +707,8 @@
 
 ## Go 
 
+- [soypat/ether-swtch](https://github.com/soypat/ether-swtch) - Low level Ethernet stack marshaller/unmarshaller for use in tiny places.
+- [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [stenic/go-mail](https://github.com/stenic/go-mail) - Minimal mail implementation in go
 - [jeffprestes/go-eddystone-url](https://github.com/jeffprestes/go-eddystone-url) - Broadcasting Eddystone URL using Go
 - [suapapa/go_eddystone](https://github.com/suapapa/go_eddystone) - Go package to support Eddystone
@@ -2120,6 +2123,7 @@
 
 ## Jinja 
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [anarres-org/anarres](https://github.com/anarres-org/anarres) - An ansible playbook to set up a GNU/Linux server. Services in docker. Security by default.
 
 ## Jupyter Notebook 
