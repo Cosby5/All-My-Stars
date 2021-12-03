@@ -517,7 +517,6 @@
 - [rjmcguire/goroutines4d](https://github.com/rjmcguire/goroutines4d) - Experiment with go!({}) routines,  channels, and some specialized channels such as Ticker and After
 - [symmetryinvestments/autowrap](https://github.com/symmetryinvestments/autowrap) - Wrap existing D code for use in Python, Excel, C#
 - [LightHouseSoftware/j1_cpu](https://github.com/LightHouseSoftware/j1_cpu) - Implementation of the J1 Forth CPU in D programming language
-- [Sobaya007/repl.d](https://github.com/Sobaya007/repl.d) - REPL of D programming language
 - [yazd/elf-d](https://github.com/yazd/elf-d) - Read elf files
 - [kkontosis/dub-config](https://github.com/kkontosis/dub-config) - D language helper build utility that extracts library include paths from the dub package manager configuration
 - [jonathanballs/jamu](https://github.com/jonathanballs/jamu) - A rewindable emulator and assembler for a ARM-7TDMI like CPU.
@@ -545,7 +544,7 @@
 - [jacob-carlborg/fiber_local_allocator](https://github.com/jacob-carlborg/fiber_local_allocator) - 
 - [adamdruppe/dtoh](https://github.com/adamdruppe/dtoh) - A D to C++ header file helper tool
 - [atilaneves/dpp](https://github.com/atilaneves/dpp) - Directly include C headers in D source code
-- [DYGV/img4d](https://github.com/DYGV/img4d) - PNG ImageProcessing with no dependencies
+- [DYGV/img4d](https://github.com/DYGV/img4d) - PNG ImageProcessing with no dependencies (ugly codes)
 - [Orvid/GC](https://github.com/Orvid/GC) - This repository will be for organizing the design of a new GC for D.
 - [Ingrater/thBase](https://github.com/Ingrater/thBase) - my GC free standard library for the D 2.0 programming language
 - [dlang-community/awesome-d](https://github.com/dlang-community/awesome-d) - A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
@@ -2392,7 +2391,7 @@
 - [eegsynth/eegsynth](https://github.com/eegsynth/eegsynth) - Converting real-time EEG into sounds, music and visual effects
 - [ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
-- [egnyte/gitlabform](https://github.com/egnyte/gitlabform) - Specialized "configuration as a code" tool for GitLab projects, groups and more using hierarchical configuration written in YAML
+- [gdubicki/gitlabform](https://github.com/gdubicki/gitlabform) - Specialized "configuration as a code" tool for GitLab projects, groups and more using hierarchical configuration written in YAML
 - [stuartmccoll/gitlab-attendant](https://github.com/stuartmccoll/gitlab-attendant) - 🤖 A GitLab bot that tidies and attends to repositories
 - [glensc/gitlab-registry-cleanup-hook](https://github.com/glensc/gitlab-registry-cleanup-hook) - Listens for incoming requests and deletes docker images if merge request is merged
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
@@ -2610,7 +2609,7 @@
 - [Viq111/Vivado-CI](https://github.com/Viq111/Vivado-CI) - A simple Vivado (Verilog & VHDL) Continuous Integration tool with seamless integration to Travis-CI
 - [LinOTP/LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
 - [freecores/ssbcc](https://github.com/freecores/ssbcc) - Small Stack Based Computer Compiler
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [chrishumphreys/p2j](https://github.com/chrishumphreys/p2j) - Python to Java translator
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -2894,7 +2893,7 @@
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private proxy registry build in Node.js
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
