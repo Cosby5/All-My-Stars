@@ -1485,7 +1485,7 @@
 - [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, differential equations.
 - [DQNEO/minigo](https://github.com/DQNEO/minigo) - minigo🐥is a small Go compiler made from scratch. It can compile itself.
 - [dave/jsgo](https://github.com/dave/jsgo) - GopherJS compiler, serving framework and CDN.
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [Theodus/go-transpiler](https://github.com/Theodus/go-transpiler) - Command-Line utility for compiling Go to Java or C++ using tardisgo or to JavaScript using GopherJS
 - [davidminor/uint128](https://github.com/davidminor/uint128) - Some basic unsigned 128 bit math and bitwise operations implemented in go
