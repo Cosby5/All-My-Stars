@@ -77,6 +77,7 @@
 
 ## Arduino 
 
+- [naldin/ArduinoServoDCMotor](https://github.com/naldin/ArduinoServoDCMotor) - An Arduino servo motor with DC motor and potentiometer
 - [g3rard/OpenKnit](https://github.com/g3rard/OpenKnit) - an open project about a digital knitting machine
 - [rsbohn/ArduinoISP](https://github.com/rsbohn/ArduinoISP) - Use the Arduino to program AVR chips.
 - [Comingle/Comingle_Example_Sketches](https://github.com/Comingle/Comingle_Example_Sketches) - Example Software sketches for our Sex toys, like The Mod or the Electric Eel
@@ -352,6 +353,8 @@
 
 ## C++ 
 
+- [cswiger/dcservodrive](https://github.com/cswiger/dcservodrive) - Arduino sketch to turn step / direction signals into DC servo motor position control - 'stepper simulator'
+- [julester23/DCMotorServo](https://github.com/julester23/DCMotorServo) - Arduino Library for controlling DC motors with rotary encoders.
 - [spark3dp/ember-firmware](https://github.com/spark3dp/ember-firmware) - Firmware for Autodesk Ember 3D printer
 - [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
@@ -2203,7 +2206,7 @@
 
 - [robertmuth/awesome-low-level-programming-languages](https://github.com/robertmuth/awesome-low-level-programming-languages) - A curated list of low level programming languages (i.e. suitable for OS and game programming)
 - [Atharva-Raut/Electric_VLSI_Designs](https://github.com/Atharva-Raut/Electric_VLSI_Designs) - A collection of sample CMOS analog layouts in 0.6um technology, using Electric VLSI Design System
-- [fuwn/xp](https://github.com/fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
+- [Fuwn/xp](https://github.com/Fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
 - [RiFi2k/unlimited-tethering](https://github.com/RiFi2k/unlimited-tethering) - Bypass tethering caps or throttling on cell phone unlimited data plans. Potentially cancel your internet and route your whole home though your unlimited data plan.
 - [my3dltd/OMG-V2-Extruder](https://github.com/my3dltd/OMG-V2-Extruder) - 3:1 reduction all-metal CNC extruder
 - [betrusted-io/betrusted-hardware](https://github.com/betrusted-io/betrusted-hardware) - Hardware design files for Betrusted
