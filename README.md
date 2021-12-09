@@ -2314,7 +2314,7 @@
 - [nklasio/repositeD](https://github.com/nklasio/repositeD) - A Laravel based Repository Manager for packageD
 - [AmplitudeDesignInc/abuseipdb-php-nginx-blacklist-create](https://github.com/AmplitudeDesignInc/abuseipdb-php-nginx-blacklist-create) - Uses PHP to generate an AbuseIpDB blacklist file for use in your Nginx configuration.
 - [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
-- [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Online Appointment Scheduling
+- [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Self Hosted Appointment Scheduler
 - [ctrl-freak/autodiscover](https://github.com/ctrl-freak/autodiscover) - Email Autodiscovery in PHP
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [Crivaledaz/Mattermost-LDAP](https://github.com/Crivaledaz/Mattermost-LDAP) - This module provides an external LDAP authentication in Mattermost for the Team Edition (free).
