@@ -995,7 +995,7 @@
 - [benishor/go-cnc-projects](https://github.com/benishor/go-cnc-projects) - Projects that generate G-CODE files for CNC programs
 - [albertito/systemd](https://github.com/albertito/systemd) - [mirror] Utilities to interact with systemd sockets in Go
 - [bearstech/restartd](https://github.com/bearstech/restartd) - Restart systemd stuff from a socket
-- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. ~~~~~~~~~~~~~~~~~~~ Demo: https://demo.linx-server.net/
+- [andreimarcu/linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [daniellawrence/debbie](https://github.com/daniellawrence/debbie) - Convert a directory into a simple debian package
 - [janeczku/go-dnsmasq](https://github.com/janeczku/go-dnsmasq) - :dolphin: Lightweight caching DNS server/forwarder
