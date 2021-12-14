@@ -114,6 +114,7 @@
 - [tedkotz/ternary](https://github.com/tedkotz/ternary) - A storage place for my ternary experiments, including an emulator for a theoretical 27-trit CPU.
 - [mudita/MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
+- [micropython/stm32lib](https://github.com/micropython/stm32lib) - STM32 Cube library - CMSIS and HAL for F4, F7 and L4 microcontrollers
 - [BBN-Q/PCIe-FPGA](https://github.com/BBN-Q/PCIe-FPGA) - Linux kernel driver for memory mapped PCIe - FPGA communication.
 - [cyrillwork/FPGAdriver](https://github.com/cyrillwork/FPGAdriver) - Linux driver support FPGA with NVRAM, UART, I2C
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -359,7 +360,6 @@
 - [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
-- [micropython/stm32lib](https://github.com/micropython/stm32lib) - STM32 Cube library - CMSIS and HAL for F4, F7 and L4 microcontrollers
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
