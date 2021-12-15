@@ -1853,7 +1853,7 @@
 - [jamescun/switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push back. Oh yeah, it dedupes too and offers directory versioning.
 - [agrison/harpoon](https://github.com/agrison/harpoon) - GitHub WebHook server written in Go
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [yzlin/docker-volume-nfs](https://github.com/yzlin/docker-volume-nfs) - NFS v3/4 plugin for Docker
 - [PI-Victor/miniovol](https://github.com/PI-Victor/miniovol) - Minio Docker volume plugin. Create docker volumes that mount Minio buckets. Minio is S3 compatible.
 - [vertexclique/docker-volume-redis](https://github.com/vertexclique/docker-volume-redis) - Redis based volume plugin for Docker
