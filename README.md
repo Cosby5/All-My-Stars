@@ -1167,7 +1167,7 @@
 - [KyleBanks/goggles](https://github.com/KyleBanks/goggles) - 🔭  Goggles is a cross-platform GUI for your $GOPATH!
 - [bwmarrin/dgvoice](https://github.com/bwmarrin/dgvoice) - Discordgo Voice - A sub project to work on voice implementation for Discordgo
 - [middelink/go-parse-torrent-name](https://github.com/middelink/go-parse-torrent-name) - Extract media information from a torrent filename
-- [cdr/sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
+- [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [alcarithemad/tcpmuxerd](https://github.com/alcarithemad/tcpmuxerd) - A simple TCPMUX (RFC 1078) implementation.
 - [djhworld/simple-computer](https://github.com/djhworld/simple-computer) - the scott CPU from "But How Do It Know?" by J. Clark Scott
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
@@ -2893,7 +2893,7 @@
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
