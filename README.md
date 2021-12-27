@@ -2361,6 +2361,7 @@
 
 ## Python 
 
+- [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
 - [mekberg/boar](https://github.com/mekberg/boar) - Automatically exported from code.google.com/p/boar
 - [diffgram/diffgram](https://github.com/diffgram/diffgram) - Complete training data platform for machine learning delivered as a single application.
