@@ -85,7 +85,7 @@
 
 ## Assembly 
 
-- [neilbox1/EvoX-Reverse-Engineering](https://github.com/neilbox1/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
+- [neilgonzalez/EvoX-Reverse-Engineering](https://github.com/neilgonzalez/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 - [MyTeletouch/MyTeletouchDongle](https://github.com/MyTeletouch/MyTeletouchDongle) - MyTeletouch USB Dongle
 - [guitmz/memrun](https://github.com/guitmz/memrun) - Small tool to run ELF binaries from memory with a given process name
@@ -811,7 +811,7 @@
 - [brimstone/docker-volume-rclone](https://github.com/brimstone/docker-volume-rclone) - Docker volume plugin for rclone
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [aluttik/go-crossplane](https://github.com/aluttik/go-crossplane) - An unofficial Go port of the NGINX config/JSON converter crossplane
-- [teacat/gitremotes](https://github.com/teacat/gitremotes) - 透過 `.gitremotes` 建立多個 Origin 遠端，而不需要手動逐一輸入遠端路徑。
+- [teacat/gitremotes](https://github.com/teacat/gitremotes) - 🛠️ Create multiple Git Remotes with just a `.gitremotes` file
 - [yosssi/gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
 - [mochi-co/mqtt](https://github.com/mochi-co/mqtt) - An embeddable lightweight, high-performance Go/Golang MQTT Server (broker) for IoT and PubSub
 - [jakewarren/backhub](https://github.com/jakewarren/backhub) - Back up starred repos & Gists from GitHub
