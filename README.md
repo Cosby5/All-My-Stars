@@ -708,6 +708,7 @@
 
 ## Go 
 
+- [appleboy/graceful](https://github.com/appleboy/graceful) - graceful shutdown package when a service is turned off by software function
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [soypat/ether-swtch](https://github.com/soypat/ether-swtch) - Low level Ethernet stack marshaller/unmarshaller for use in tiny places.
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -1355,7 +1356,7 @@
 - [dustin/gitmirror](https://github.com/dustin/gitmirror) - A web server to receive webhooks and mirror git repos.
 - [die-net/lrucache](https://github.com/die-net/lrucache) - LruCache is a thread-safe, in-memory, byte-size-limited httpcache.Cache implementation
 - [gbevan/github-insttoken](https://github.com/gbevan/github-insttoken) - Go binary to get a GitHub App ephemeral Installation token for a repository to allow git `clone` / `pull` etc operations over https (e.g. if in a network where ssh access is not permitted)
-- [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available with Github actions!
+- [posener/goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Now available as a Github action!
 - [posener/goreadme-server](https://github.com/posener/goreadme-server) - Github App for goreadme package
 - [filewalkwithme/fake-github-webhook](https://github.com/filewalkwithme/fake-github-webhook) - App that simulates github webhooks
 - [src-d/docsrv](https://github.com/src-d/docsrv) - docsrv is an app to serve versioned documentation for GitHub projects on demand
