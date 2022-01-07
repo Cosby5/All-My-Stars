@@ -982,7 +982,7 @@
 - [qur/repo_server](https://github.com/qur/repo_server) - A standalone remotely controllable apt repository server
 - [beleidy/go-log-server](https://github.com/beleidy/go-log-server) - This repo is a mirror, please visit gitlab repo for issues, MRs or otherwise
 - [kevinwallace/crontab](https://github.com/kevinwallace/crontab) - Parser for crontab files, along with logic to determine the next execution time of a task
-- [signalnerve/gitlab-create-repo](https://github.com/signalnerve/gitlab-create-repo) - 
+- [codewithkristian/gitlab-create-repo](https://github.com/codewithkristian/gitlab-create-repo) - 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [gol4ng/signal](https://github.com/gol4ng/signal) - This repository provides helpers with `os.Signal` std library
 - [itscaro/gitlab-utils](https://github.com/itscaro/gitlab-utils) - A command to apply labels on Merge Requests
