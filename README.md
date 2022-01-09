@@ -2391,7 +2391,7 @@
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
-- [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission
+- [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
 - [AnilOsmanTur/Brain-Computer-Interface-with-Neurosky](https://github.com/AnilOsmanTur/Brain-Computer-Interface-with-Neurosky) - Brain Computer Interface (BCI) with Neurosky Mindwave Mobile 2 that enables anyone to use computer, mobilephone etc. with his/her thoughts.
 - [jacobstein123/EEG_Robotic_Arm](https://github.com/jacobstein123/EEG_Robotic_Arm) - An arduino-powered robotic arm controlled by brain activity
 - [eegsynth/eegsynth](https://github.com/eegsynth/eegsynth) - Converting real-time EEG into sounds, music and visual effects
