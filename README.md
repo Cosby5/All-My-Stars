@@ -1730,7 +1730,7 @@
 - [danderson/netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting
 - [bblfsh/bblfshd](https://github.com/bblfsh/bblfshd) - A self-hosted server for source code parsing
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [juruen/rmapi](https://github.com/juruen/rmapi) - Go app that allows you to access your reMarkable tablet files through the Cloud API
 - [sorter/gowatch](https://github.com/sorter/gowatch) - A basic command line utility that compares the active commit hash of a local git repository with its remote counterpart on GitHub, and issues a pull command if the remote counterpart reports a differing commit hash at its HEAD.
 - [erincandescent/ssh-emissary](https://github.com/erincandescent/ssh-emissary) - A better SSH agent
