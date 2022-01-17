@@ -352,6 +352,7 @@
 
 ## C++ 
 
+- [baziotis/minijava-cpp](https://github.com/baziotis/minijava-cpp) - A MiniJava compiler written in C++, focusing on speed of compilation, simplicity and (somewhat) nice error messages.
 - [cswiger/dcservodrive](https://github.com/cswiger/dcservodrive) - Arduino sketch to turn step / direction signals into DC servo motor position control - 'stepper simulator'
 - [julester23/DCMotorServo](https://github.com/julester23/DCMotorServo) - Arduino Library for controlling DC motors with rotary encoders.
 - [spark3dp/ember-firmware](https://github.com/spark3dp/ember-firmware) - Firmware for Autodesk Ember 3D printer
@@ -497,6 +498,12 @@
 
 ## D 
 
+- [rcorre/enumap](https://github.com/rcorre/enumap) - A D type that provides a lightweight mapping of enum members to values.
+- [cirnatdan/butterlibc](https://github.com/cirnatdan/butterlibc) - A standard C library implemented in D (experiment)
+- [hmmdyl/record](https://github.com/hmmdyl/record) - C# like records for D
+- [nin-jin/go.d](https://github.com/nin-jin/go.d) - Wait free thread communication
+- [Laeeth/tioport](https://github.com/Laeeth/tioport) - revival of tioport Java to D converter from dsource
+- [iamtakingiteasy/puredruntime](https://github.com/iamtakingiteasy/puredruntime) - Pure D runtime, without libc dependency, for bare-metal targets such as wasm32 (WebAssembly that is)
 - [hmmdyl/LWDR](https://github.com/hmmdyl/LWDR) - LightWeight D Runtime targeting ARM Cortex CPUs
 - [BradleyChatha/bcstd](https://github.com/BradleyChatha/bcstd) - 
 - [shima-529/stm32OnDlang](https://github.com/shima-529/stm32OnDlang) - Bare Metal Programming for STM32 on D
@@ -897,7 +904,7 @@
 - [flaviostutz/dockerwall](https://github.com/flaviostutz/dockerwall) - A packet filter for communications from Docker containers to the Internet configurable by labels
 - [flaviostutz/ssh-jwt](https://github.com/flaviostutz/ssh-jwt) - A SSH server that authorizes PTY, remote or local port forwarding based on JWT token entered as password
 - [app-nerds/fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [rpkarlsson/downer](https://github.com/rpkarlsson/downer) - Commandline rss torrent downloader
 - [kiltum/go-disk-stat](https://github.com/kiltum/go-disk-stat) - Simple functions for accees info for free/total disk space
 - [lunemec/diskspace-notify](https://github.com/lunemec/diskspace-notify) - Running out of free space notificator.
