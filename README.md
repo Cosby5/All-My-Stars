@@ -68,6 +68,7 @@
   - [Vue](#vue)
   - [XC](#xc)
   - [XSLT](#xslt)
+  - [Yacc](#yacc)
   - [Zig](#zig)
 
 ## ANTLR 
@@ -295,6 +296,7 @@
 
 ## C# # 
 
+- [twiglet/cs2j](https://github.com/twiglet/cs2j) - C# to Java Converter
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [SharpNative/CS2C](https://github.com/SharpNative/CS2C) - C# code to C "compiler"
 - [SharpNative/CSharpLLVM](https://github.com/SharpNative/CSharpLLVM) - An LLVM-based compiler for IL/C# for kernels that compiles to native code
@@ -352,6 +354,7 @@
 
 ## C++ 
 
+- [tvcutsem/tinyc](https://github.com/tvcutsem/tinyc) - Compiler course project: compile a C-like language to JVM bytecode
 - [baziotis/minijava-cpp](https://github.com/baziotis/minijava-cpp) - A MiniJava compiler written in C++, focusing on speed of compilation, simplicity and (somewhat) nice error messages.
 - [cswiger/dcservodrive](https://github.com/cswiger/dcservodrive) - Arduino sketch to turn step / direction signals into DC servo motor position control - 'stepper simulator'
 - [julester23/DCMotorServo](https://github.com/julester23/DCMotorServo) - Arduino Library for controlling DC motors with rotary encoders.
@@ -498,6 +501,7 @@
 
 ## D 
 
+- [snazzy-d/SDC](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler
 - [rcorre/enumap](https://github.com/rcorre/enumap) - A D type that provides a lightweight mapping of enum members to values.
 - [cirnatdan/butterlibc](https://github.com/cirnatdan/butterlibc) - A standard C library implemented in D (experiment)
 - [hmmdyl/record](https://github.com/hmmdyl/record) - C# like records for D
@@ -2987,6 +2991,10 @@
 ## XSLT 
 
 - [proemergotech/nginx-rtmp-opentracing](https://github.com/proemergotech/nginx-rtmp-opentracing) - A Dockerfile installing Openresty based Nginx with the default Openresty modules, nginx-rtmp-module, Nginx Opentracing module with Jaeger tracer and FFmpeg from source with default settings for HLS live streaming and nvidia GPU support.
+
+## Yacc 
+
+- [Jadezzz/microC-compiler](https://github.com/Jadezzz/microC-compiler) - A simple compiler that can compile micro-C (a subset of C) to JVM instructions.
 
 ## Zig 
 
