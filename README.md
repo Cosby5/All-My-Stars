@@ -2437,7 +2437,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [semihkekul/gitlab-folder-uploader](https://github.com/semihkekul/gitlab-folder-uploader) - this script uploads a hybrid (git folders and regular folders) folder to gitlab
 - [stephenl03/itunes4radarr](https://github.com/stephenl03/itunes4radarr) - rss feed generator for radarr
-- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+- [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [nick8325/remarkable-fs](https://github.com/nick8325/remarkable-fs) - A FUSE filesystem wrapper for the reMarkable tablet
 - [richeymichael/remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet
 - [chillout2k/ldap-acl-milter](https://github.com/chillout2k/ldap-acl-milter) - A LDAP based authorization milter to control inbound/outbound email traffic
