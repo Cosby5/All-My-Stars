@@ -557,7 +557,7 @@
 - [jacob-carlborg/fiber_local_allocator](https://github.com/jacob-carlborg/fiber_local_allocator) - 
 - [adamdruppe/dtoh](https://github.com/adamdruppe/dtoh) - A D to C++ header file helper tool
 - [atilaneves/dpp](https://github.com/atilaneves/dpp) - Directly include C headers in D source code
-- [DYGV/img4d](https://github.com/DYGV/img4d) - PNG ImageProcessing with no dependencies (ugly codes)
+- [DYGV/img4d](https://github.com/DYGV/img4d) - PNG decoding / encoding / image processing with no dependencies (ugly codes)
 - [Orvid/GC](https://github.com/Orvid/GC) - This repository will be for organizing the design of a new GC for D.
 - [Ingrater/thBase](https://github.com/Ingrater/thBase) - my GC free standard library for the D 2.0 programming language
 - [dlang-community/awesome-d](https://github.com/dlang-community/awesome-d) - A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
@@ -2348,7 +2348,7 @@
 - [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) - OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)
 - [dimitrigence/lasagna-pl](https://github.com/dimitrigence/lasagna-pl) - Lazy naxsi rules generator
 - [weiss/ngx_http_upload](https://github.com/weiss/ngx_http_upload) - Nginx module to handle file uploads and downloads for XMPP servers
-- [nigelhorne/cmilter](https://github.com/nigelhorne/cmilter) - A milter to block emails from countries from which you don't wish to receive e-mails
+- [nigelhorne/cmilter](https://github.com/nigelhorne/cmilter) - A mail filter to block emails from countries from which you don't wish to receive e-mails
 - [certnanny/CertNanny](https://github.com/certnanny/CertNanny) - Client-side program allowing fully automatic renewal of certificates using the SCEP protocol
 - [fusiondirectory/schema2ldif](https://github.com/fusiondirectory/schema2ldif) - Schema 2 ldif : tool to convert .schema to .ldif files and mange them live into an openldap server
 - [steven-maasch/apt-batch-install](https://github.com/steven-maasch/apt-batch-install) - Perl script that automatic installs apt-packages from a csv file.
