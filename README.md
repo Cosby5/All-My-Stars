@@ -201,7 +201,6 @@
 - [xiaokai-wang/nginx-stream-upsync-module](https://github.com/xiaokai-wang/nginx-stream-upsync-module) - For stream protocol. syncing upstreams from etcd or consul and so on, dynamically updating backend servers attribute, not need to reload nginx for tcp protocol, stream configure.
 - [weibocom/nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) - For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx
 - [HatsuneMiku3939/ngx_upstream_resolveMK](https://github.com/HatsuneMiku3939/ngx_upstream_resolveMK) - An nginx upstream resolve module using DNS SRV record. Works nicely with Mesos-DNS.
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [alximw/AndroidNativeService-meets-ASHMEM](https://github.com/alximw/AndroidNativeService-meets-ASHMEM) - This is a very simple project dealing with native binder communication and ashmem (Android's  memory sharing mechanism)
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [nigelhorne/blacklist-milter](https://github.com/nigelhorne/blacklist-milter) - Block connections from remote sites that are sending spam, thus reducing load on your mail server.
@@ -1673,6 +1672,7 @@
 - [cskr/pubsub](https://github.com/cskr/pubsub) - A simple pubsub package for go.
 - [kavu/go_reuseport](https://github.com/kavu/go_reuseport) - Brings SO_REUSEPORT into your Go server
 - [dutchcoders/go-clamd](https://github.com/dutchcoders/go-clamd) - Interface to clamd (clamav daemon). You can use go-clamd to implement virus detection capabilities to your application.
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [twitchyliquid64/subnet](https://github.com/twitchyliquid64/subnet) - Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN.
 - [ringtail/lucas](https://github.com/ringtail/lucas) - etcd v3 api browser especially for learning kubernetes
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
