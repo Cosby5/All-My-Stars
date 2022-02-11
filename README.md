@@ -751,7 +751,7 @@
 - [valyala/fastrpc](https://github.com/valyala/fastrpc) - Building blocks for fast rpc systems
 - [valyala/httpteleport](https://github.com/valyala/httpteleport) - Transfer 10Gbps http traffic over 1Gbps networks :)
 - [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
-- [imroc/req](https://github.com/imroc/req) - Simplified Golang HTTP client library with Black Magic, Less Code and More Efficiency
+- [imroc/req](https://github.com/imroc/req) - Simplified Golang HTTP client library with Black Magic, Less code and More efficiency
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [crisadamo/gochain](https://github.com/crisadamo/gochain) - A basic implementation of Blockchain
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
