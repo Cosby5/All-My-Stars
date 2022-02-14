@@ -1964,7 +1964,7 @@
 - [boyter/searchcode-server](https://github.com/boyter/searchcode-server) - The offical home of searchcode-server where you can run searchcode locally. Note that master is generally unstable in the sense that it is not a release. Check releases for release versions https://github.com/boyter/searchcode-server/releases
 - [c4ffein/OOS-firmware-updater](https://github.com/c4ffein/OOS-firmware-updater) - Extract firmware from an OxygenOS ROM to a custom flashable firmwareupdater.zip
 - [opentelecoms-org/smsrouter](https://github.com/opentelecoms-org/smsrouter) - Free and convenient server process for routing SMS text messages between your applications and SMPP gateways. Interacts with your applications using JMS, HTTP/REST, SMTP, SIP, XMPP and other protocols supported by Apache Camel.
-- [Kaljurand/K6nele](https://github.com/Kaljurand/K6nele) - An Android app that offers speech-to-text services and user interfaces to other apps
+- [Kaljurand/K6nele](https://github.com/Kaljurand/K6nele) - An Android app that offers speech-to-text user interfaces to other apps
 - [meefik/busybox](https://github.com/meefik/busybox) - BusyBox for Android
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [claritylab/clarity-mobile](https://github.com/claritylab/clarity-mobile) - Mobile applications developed for Clarity based applications
