@@ -752,7 +752,7 @@
 - [valyala/fastrpc](https://github.com/valyala/fastrpc) - Building blocks for fast rpc systems
 - [valyala/httpteleport](https://github.com/valyala/httpteleport) - Transfer 10Gbps http traffic over 1Gbps networks :)
 - [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
-- [imroc/req](https://github.com/imroc/req) - Simplified Golang HTTP client library with Black Magic, Less code and More efficiency
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency)
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [crisadamo/gochain](https://github.com/crisadamo/gochain) - A basic implementation of Blockchain
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -2902,7 +2902,7 @@
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript empowers you to access native platform APIs from JavaScript directly. Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
