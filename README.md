@@ -1686,7 +1686,7 @@
 - [ahmetb/coredns-grpc-backend-sample](https://github.com/ahmetb/coredns-grpc-backend-sample) - Sample CoreDNS gRPC proxy backend written in Go
 - [albertito/dnss](https://github.com/albertito/dnss) - DNS over HTTPS [mirror]
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go
+- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - 
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
