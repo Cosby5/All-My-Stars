@@ -153,7 +153,7 @@
 - [vladykin/systemd-askpass-remdev](https://github.com/vladykin/systemd-askpass-remdev) - Systemd password agent that reads password from removable drive
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [starnight/LoRa](https://github.com/starnight/LoRa) - LoRa device driver as a kernel module
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [freebsd/pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD. Help at #pkg on Libera Chat or pkg@FreeBSD.org
@@ -752,7 +752,7 @@
 - [valyala/fastrpc](https://github.com/valyala/fastrpc) - Building blocks for fast rpc systems
 - [valyala/httpteleport](https://github.com/valyala/httpteleport) - Transfer 10Gbps http traffic over 1Gbps networks :)
 - [schollz/peerdiscovery](https://github.com/schollz/peerdiscovery) - Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency)
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [crisadamo/gochain](https://github.com/crisadamo/gochain) - A basic implementation of Blockchain
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
