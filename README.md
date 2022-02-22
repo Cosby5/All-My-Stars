@@ -1424,7 +1424,7 @@
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [goreleaser/godownloader](https://github.com/goreleaser/godownloader) - [DEPRECATED] Download Go binaries as fast and easily as possible.
 - [unixpickle/gobfuscate](https://github.com/unixpickle/gobfuscate) - Obfuscate Go binaries and packages
-- [kr/binarydist](https://github.com/kr/binarydist) - Go implementation of the bspatch algorithm
+- [kr/binarydist](https://github.com/kr/binarydist) - Go implementation of bsdiff & bspatch
 - [beito123/binary](https://github.com/beito123/binary) - This is a very simple binary library written in Go.
 - [equinox-io/equinox](https://github.com/equinox-io/equinox) - equinox SDK to check/apply updates
 - [davidlares/golang-web-chat](https://github.com/davidlares/golang-web-chat) - A simple experimental Chat Server (Websockets y GoLang) with Gorilla Mux and Gorilla Websockets
@@ -2341,6 +2341,7 @@
 
 ## Pascal 
 
+- [shusaura85/notparadoxlauncher](https://github.com/shusaura85/notparadoxlauncher) - Alternative for Paradox Launcher
 - [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
 - [ibv/LDAP-Admin](https://github.com/ibv/LDAP-Admin) - LDAP Admin for Linux
 
