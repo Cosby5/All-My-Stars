@@ -161,7 +161,6 @@
 - [chobits/ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 - [WebFreak001/lxcd](https://github.com/WebFreak001/lxcd) - Deimos Bindings for lxc
 - [linux-sunxi/mali-400-kernel-drivers](https://github.com/linux-sunxi/mali-400-kernel-drivers) - Mali-400 kernel drivers for external compilation for use with linux-sunxi kernel.
-- [rockchip-linux/libmali](https://github.com/rockchip-linux/libmali) - The Mali GPU library used in Rockchip Platform
 - [JohnBergago/mali_bifrost_gpu_kernel_drivers](https://github.com/JohnBergago/mali_bifrost_gpu_kernel_drivers) - https://developer.arm.com/products/software/mali-drivers/bifrost-kernel
 - [tinkrmind/programmable-air](https://github.com/tinkrmind/programmable-air) - A hardware kit to experiment with inflatable and vacuum based soft robotics.
 - [kaltura/nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager
