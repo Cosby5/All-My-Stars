@@ -201,7 +201,6 @@
 - [weibocom/nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) - For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx
 - [HatsuneMiku3939/ngx_upstream_resolveMK](https://github.com/HatsuneMiku3939/ngx_upstream_resolveMK) - An nginx upstream resolve module using DNS SRV record. Works nicely with Mesos-DNS.
 - [alximw/AndroidNativeService-meets-ASHMEM](https://github.com/alximw/AndroidNativeService-meets-ASHMEM) - This is a very simple project dealing with native binder communication and ashmem (Android's  memory sharing mechanism)
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [nigelhorne/blacklist-milter](https://github.com/nigelhorne/blacklist-milter) - Block connections from remote sites that are sending spam, thus reducing load on your mail server.
 - [flant/nginx-http-rdns](https://github.com/flant/nginx-http-rdns) - Nginx HTTP rDNS module
 - [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required.
@@ -2518,6 +2517,7 @@
 - [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) - A simple CLI client for the Gotify REST-API
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [pantheon-systems/docker_iptables](https://github.com/pantheon-systems/docker_iptables) - Utility to help manually manage iptables port mappings of Docker containers
 - [mensink/milter-sysuser](https://github.com/mensink/milter-sysuser) - A postfix/sendmail milter that determines/blocks the system user for local SMTP connections
 - [jokismo/S3-Milter](https://github.com/jokismo/S3-Milter) - Postfix milter to send attachments to S3
