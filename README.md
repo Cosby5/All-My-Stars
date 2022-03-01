@@ -948,7 +948,7 @@
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [xyproto/diskmoose](https://github.com/xyproto/diskmoose) - Out of disk space checker
 - [kennysong/goeliza](https://github.com/kennysong/goeliza) - A Go implementation of the ELIZA chatbot.
-- [xyproto/calendar](https://github.com/xyproto/calendar) - :calendar: Calendar package for Go
+- [xyproto/calendar](https://github.com/xyproto/calendar) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/simpleredis](https://github.com/xyproto/simpleredis) - :radio: Easy way to use Redis from Go
 - [xyproto/permissionsql](https://github.com/xyproto/permissionsql) - :lock_with_ink_pen: Middleware for keeping track of users, login states and permissions
 - [xyproto/burnfont](https://github.com/xyproto/burnfont) - Hand-crafted 6x6 pixel font, defined by code
