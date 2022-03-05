@@ -110,6 +110,7 @@
 
 ## C 
 
+- [cl91/NeptuneOS](https://github.com/cl91/NeptuneOS) - Neptune OS: A Windows NT personality for the seL4 microkernel
 - [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
 - [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo.
 - [tedkotz/ternary](https://github.com/tedkotz/ternary) - A storage place for my ternary experiments, including an emulator for a theoretical 27-trit CPU.
@@ -499,6 +500,7 @@
 
 ## D 
 
+- [AuburnSounds/printed](https://github.com/AuburnSounds/printed) - Generate reproducible PDF and SVG documents with D, with a Canvas-style API. Now with a simple document emitter.
 - [snazzy-d/SDC](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler
 - [rcorre/enumap](https://github.com/rcorre/enumap) - A D type that provides a lightweight mapping of enum members to values.
 - [cirnatdan/butterlibc](https://github.com/cirnatdan/butterlibc) - A standard C library implemented in D (experiment)
@@ -718,6 +720,7 @@
 
 ## Go 
 
+- [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [appleboy/graceful](https://github.com/appleboy/graceful) - graceful shutdown package when a service is turned off by software function
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [soypat/ether-swtch](https://github.com/soypat/ether-swtch) - Low level Ethernet stack marshaller/unmarshaller for use in tiny places.
@@ -2371,6 +2374,7 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
 - [mekberg/boar](https://github.com/mekberg/boar) - Automatically exported from code.google.com/p/boar
