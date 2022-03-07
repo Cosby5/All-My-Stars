@@ -62,7 +62,6 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VHDL](#vhdl)
-  - [Vala](#vala)
   - [Verilog](#verilog)
   - [Visual Basic](#visual-basic)
   - [Vue](#vue)
@@ -101,7 +100,6 @@
 
 ## Bluespec 
 
-- [lightstor/ssd-controller](https://github.com/lightstor/ssd-controller) - Open Source SSD Controller. NVMe and Lightstor variants
 - [CTSRD-CHERI/beri](https://github.com/CTSRD-CHERI/beri) - The BERI and CHERI processor and hardware platform
 
 ## Brightscript 
@@ -110,6 +108,11 @@
 
 ## C 
 
+- [OpenE2K/qemu-e2k](https://github.com/OpenE2K/qemu-e2k) - QEMU with Elbrus emulation
+- [sigmaxz/bcd_alu](https://github.com/sigmaxz/bcd_alu) - alu from architecture course
+- [SubNader/DecimalALU](https://github.com/SubNader/DecimalALU) - Decimal ALU software that carries out arithmetic and logical operations on decimal operands.
+- [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+- [symmetryinvestments/xlsxd](https://github.com/symmetryinvestments/xlsxd) - A thin wrapper around libxlsx to write excel spreadsheets
 - [cl91/NeptuneOS](https://github.com/cl91/NeptuneOS) - Neptune OS: A Windows NT personality for the seL4 microkernel
 - [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
 - [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo.
@@ -296,6 +299,9 @@
 
 ## C# # 
 
+- [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+- [mbdavid/LiteDB.WebAssembly](https://github.com/mbdavid/LiteDB.WebAssembly) - WebAssembly version of LiteDB to run on client (browser)
+- [symmetryinvestments/clrbridge](https://github.com/symmetryinvestments/clrbridge) - Call .NET code from other languages
 - [twiglet/cs2j](https://github.com/twiglet/cs2j) - C# to Java Converter
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [SharpNative/CS2C](https://github.com/SharpNative/CS2C) - C# code to C "compiler"
@@ -354,6 +360,9 @@
 
 ## C++ 
 
+- [JasurN/SelfDrivingCar](https://github.com/JasurN/SelfDrivingCar) - This is Self Driving Car project has capability to trace line, avoid objects, finding shortest path and using deep learning identify traffic signs and react to them
+- [ssloy/triador](https://github.com/ssloy/triador) - Ternary computer emulator
+- [bryanclark90/TrinaryTree](https://github.com/bryanclark90/TrinaryTree) - A Basic Trinary Tree. Ported from Microsoft Visual Studio
 - [tvcutsem/tinyc](https://github.com/tvcutsem/tinyc) - Compiler course project: compile a C-like language to JVM bytecode
 - [baziotis/minijava-cpp](https://github.com/baziotis/minijava-cpp) - A MiniJava compiler written in C++, focusing on speed of compilation, simplicity and (somewhat) nice error messages.
 - [cswiger/dcservodrive](https://github.com/cswiger/dcservodrive) - Arduino sketch to turn step / direction signals into DC servo motor position control - 'stepper simulator'
@@ -500,6 +509,13 @@
 
 ## D 
 
+- [ajbonkoski/dynvm](https://github.com/ajbonkoski/dynvm) - DynVM is a high-level VM intended as a target for dynamic languages. DynVM executes a high-level assembly language modeled after the Lua IR. This high-level assembly laguage (hlasm) can be the target dynamic language compiler, analogous to static compilation to machine code. Internal DynVM uses dynamic/JIT compilation techniques to achieve performance.
+- [msgpack-rpc/msgpack-rpc-d](https://github.com/msgpack-rpc/msgpack-rpc-d) - MessagePack-RPC for D
+- [jpf91/msgpack-ll](https://github.com/jpf91/msgpack-ll) - A low level @nogc, nothrow, @safe, pure and betterC compatible msgpack.org[D] library
+- [andre2007/dub-package-collector](https://github.com/andre2007/dub-package-collector) - Collects source code files of dub package and relevant dependencies
+- [Pure-D/workspace-d](https://github.com/Pure-D/workspace-d) - CLI deprecated, API + functionality moved into https://github.com/Pure-D/serve-d
+- [skoppe/private-dub](https://github.com/skoppe/private-dub) - Private dub registry with minimal config
+- [symmetryinvestments/dubproxy](https://github.com/symmetryinvestments/dubproxy) - A small library and cli to bypass code.dlang.org in a way transparent to dub
 - [AuburnSounds/printed](https://github.com/AuburnSounds/printed) - Generate reproducible PDF and SVG documents with D, with a Canvas-style API. Now with a simple document emitter.
 - [snazzy-d/SDC](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler
 - [rcorre/enumap](https://github.com/rcorre/enumap) - A D type that provides a lightweight mapping of enum members to values.
@@ -720,6 +736,17 @@
 
 ## Go 
 
+- [mfuentesg/localdns](https://github.com/mfuentesg/localdns) - Simple DNS server built to handle local records and thought to be easy, fast and small.
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
+- [blugelabs/bluge](https://github.com/blugelabs/bluge) - indexing library for Go
+- [prabhatsharma/bluges3](https://github.com/prabhatsharma/bluges3) - A sample implementation that allows bluge indexes to be stored in s3
+- [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [rahulg/gl-deploy](https://github.com/rahulg/gl-deploy) - GitLab web hook receiver
+- [lorenz/go-zfs](https://github.com/lorenz/go-zfs) - GoZFS is a pure-Go implementation of ZFS userspace
+- [leighmcculloch/vangen](https://github.com/leighmcculloch/vangen) - Tool for generating static HTML for Go vanity import paths.
+- [movsb/sgits](https://github.com/movsb/sgits) - A simple git server, using only your local git installation.
+- [gleich/solar](https://github.com/gleich/solar) - 🛰️ Clone all your starred GitHub repos
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [appleboy/graceful](https://github.com/appleboy/graceful) - graceful shutdown package when a service is turned off by software function
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
@@ -1945,6 +1972,11 @@
 
 ## Java 
 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [claritylab/CoreNLP](https://github.com/claritylab/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [k0105/lucidagenericbackend](https://github.com/k0105/lucidagenericbackend) - This is a generic backend for Lucida that supports asynchronous Thrift and REST.
+- [BoltThrower/TrinaryTree](https://github.com/BoltThrower/TrinaryTree) - A trinary tree is like a binary tree, but there are up to three children per node. The middle child is equal to its parent, the left child is less than its parent, and the right child is greater than its parent. The project was written in Java.
+- [claritylab/ensemble](https://github.com/claritylab/ensemble) - An ensemble for QA systems, keyphrase extraction and distributional semantics.
 - [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [Rudrakaniya/AndroidxWebkitDemo](https://github.com/Rudrakaniya/AndroidxWebkitDemo) - Demo app to implement Android webview, firebase notifications and more
@@ -1997,6 +2029,7 @@
 
 ## JavaScript 
 
+- [claritylab/lucida-website](https://github.com/claritylab/lucida-website) - 
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
@@ -2145,6 +2178,7 @@
 
 ## Jupyter Notebook 
 
+- [theAdarshSrivastava/Hand-Wriiten-digit-classifier](https://github.com/theAdarshSrivastava/Hand-Wriiten-digit-classifier) - This project is a demonstration of the capability of deep learning techniques in object recognition in image data. It is a handwritten digit recognition model using the MNIST dataset.
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman) - [全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組
 - [tomasero/openSleep](https://github.com/tomasero/openSleep) - platform for sleep hacking and research
@@ -2215,6 +2249,9 @@
 
 ## Others 
 
+- [aaronchantrill/NaomiPresentation](https://github.com/aaronchantrill/NaomiPresentation) - An Impress presentation to accompany my talks on the Naomi Voice Activated Assistant
+- [NaomiProject/naomi-plugins](https://github.com/NaomiProject/naomi-plugins) - This repository contains plugin repository information for Naomi.
+- [abe-taylor-970/TrinaryTree](https://github.com/abe-taylor-970/TrinaryTree) - This is a Trinary Tree (similar to binary tree, except a middle child node for duplicates), implementing insert and delete.
 - [robertmuth/awesome-low-level-programming-languages](https://github.com/robertmuth/awesome-low-level-programming-languages) - A curated list of low level programming languages (i.e. suitable for OS and game programming)
 - [Atharva-Raut/Electric_VLSI_Designs](https://github.com/Atharva-Raut/Electric_VLSI_Designs) - A collection of sample CMOS analog layouts in 0.6um technology, using Electric VLSI Design System
 - [Fuwn/xp](https://github.com/Fuwn/xp) - 💻 Windows XP All Editions Universal Product Keys Collection
@@ -2256,6 +2293,7 @@
 - [jakeday/linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
 - [kirilkirkov/postfix-dovecot-mysql](https://github.com/kirilkirkov/postfix-dovecot-mysql) - Correct configuration for mail server on Ubuntu with spf and dkim authentication
 - [jamesog/yubikey-ssh](https://github.com/jamesog/yubikey-ssh) - How to use a Yubikey with OpenSSH without GPG
+- [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [cedwards/nginx-pkg-cdn](https://github.com/cedwards/nginx-pkg-cdn) - Bastille Template: nginx caching proxy to FreeBSD pkg mirrors
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
@@ -2374,6 +2412,27 @@
 
 ## Python 
 
+- [ucb-bar/hammer](https://github.com/ucb-bar/hammer) - HAMMER: Highly Agile Masks Made Effortlessly from RTL
+- [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
+- [aaronchantrill/YoureWelcome](https://github.com/aaronchantrill/YoureWelcome) - Simple speechhandler plugin, just responds to "Thank you" with "You're welcome"
+- [aaronchantrill/DeepSpeechTrain](https://github.com/aaronchantrill/DeepSpeechTrain) - Using the contents of Naomi's audiolog to train a deepspeech model.
+- [aaronchantrill/jasper-client](https://github.com/aaronchantrill/jasper-client) - Client code for Jasper voice computing platform
+- [aaronchantrill/HowAreYou](https://github.com/aaronchantrill/HowAreYou) - Naomi plugin that implements the Eliza chatbot from the 1970's
+- [aaronchantrill/Naomi-Google-Calendar](https://github.com/aaronchantrill/Naomi-Google-Calendar) - Naomi Google Calendar Plugin
+- [aaronchantrill/naomi_plugin_skeletons](https://github.com/aaronchantrill/naomi_plugin_skeletons) - A set of skeleton plugins for developers to use as a starting point for creating new plugins
+- [aaronchantrill/Count](https://github.com/aaronchantrill/Count) - Let Naomi count up and down
+- [aaronchantrill/DateTime](https://github.com/aaronchantrill/DateTime) - Naomi can tell you the time, date, & day of the week
+- [aaronchantrill/VersionChecker](https://github.com/aaronchantrill/VersionChecker) - Lets Naomi tell you what version it is running and if you have autoupdates enabled
+- [aaronchantrill/pocketsphinx_kws](https://github.com/aaronchantrill/pocketsphinx_kws) - Use pocketsphinx keyword spotting mode for passive listening
+- [aaronchantrill/naomi_announcements](https://github.com/aaronchantrill/naomi_announcements) - This plugin allows Naomi to make announcements on a pre-determined schedule.
+- [aaronchantrill/NaomiNetworkCheck](https://github.com/aaronchantrill/NaomiNetworkCheck) - Simple speechhandler plugin,  allows Naomi to report if it is connected to a network and what its IP addresses are.
+- [f-droid/repomaker](https://github.com/f-droid/repomaker) - mirror of https://gitlab.com/fdroid/repomaker
+- [gotsunami/docker-fdroid](https://github.com/gotsunami/docker-fdroid) - A Docker image for publishing your own Android application store using F-Droid
+- [adfinis-sygroup/pyproject](https://github.com/adfinis-sygroup/pyproject) - Common Files for Python Projects
+- [shellreef/trinary](https://github.com/shellreef/trinary) - Trinary Computer Simulator
+- [claritylab/kaldi-gstreamer-server](https://github.com/claritylab/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
+- [NaomiProject/Naomi](https://github.com/NaomiProject/Naomi) - The Naomi Project is an open source, technology agnostic platform for developing always-on, voice-controlled applications!
+- [VLSIDA/OpenCache](https://github.com/VLSIDA/OpenCache) - An open-source custom cache generator.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
@@ -2707,6 +2766,8 @@
 
 ## Scala 
 
+- [sifive/fpga-shells](https://github.com/sifive/fpga-shells) - 
+- [ucb-bar/gemmini](https://github.com/ucb-bar/gemmini) - Berkeley's Spatial Array Generator
 - [jbush001/ChiselGPU](https://github.com/jbush001/ChiselGPU) - Experiments with fixed function renderers and Chisel HDL
 - [eBay/Neutrino](https://github.com/eBay/Neutrino) - Neutrino is a software load balancer(SLB)
 
@@ -2887,10 +2948,16 @@
 
 ## SystemVerilog 
 
+- [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
+- [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
+- [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator
+- [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
 - [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - 
 
 ## TeX 
 
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
+- [ucb-bar/esp-opcodes](https://github.com/ucb-bar/esp-opcodes) - Custom extensions to the RISC-V opcodes for the UCB-BAR ESP project
 - [ycoroneos/G.E.R.T](https://github.com/ycoroneos/G.E.R.T) - 
 - [jsloan256/dpll](https://github.com/jsloan256/dpll) - A simple Verilog digital phase-locked loop based on TI's SDLA005B application note
 
@@ -2925,6 +2992,23 @@
 
 ## VHDL 
 
+- [jardelufc/FTJop](https://github.com/jardelufc/FTJop) - Fault Tolerant Java Optimized Processor
+- [PacoReinaCampo/PU-RISCV](https://github.com/PacoReinaCampo/PU-RISCV) - Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
+- [majdoss/Bfloat16-Floating-Point-Arithmetic-Unit](https://github.com/majdoss/Bfloat16-Floating-Point-Arithmetic-Unit) - Design and implementation of a pipelined Bfloat16 Floating Point Arithmetic Unit using VHDL. This unit can perform addition, subtraction, multiplication, division and fused multiply-add/subtract operations. Bfloat16 is a 16-bit floating-point data type developed at Google and currently used in their Tensor Processing Units (TPU's). Thanks to its dynamic range, the Bfloat16 format can be useful for Machine Learning applications that work well with low-precision representations of data. This Bfloat16 unit will be used to add custom RISC-V floating-point instructions to a RISC-V processor that can potentially be used as a hardware accelerator for Machine Learning applications. This model will also be tested on and FPGA and possibly modified to achieve optimal performance. Work is still in progress.
+- [DHLSan/ModArithAccel](https://github.com/DHLSan/ModArithAccel) - Efficient modulo arithmetic accelerator design (mod add, mod sub, mod mul, mod exp) for fixed/arbitrary prime numbers at RTL-level (VHDL/Verilog).
+- [thaolt/icculus-manticore](https://github.com/thaolt/icculus-manticore) - A copy of http://svn.icculus.org/manticore/ . Manticore is an open source hardware design for a 3D graphics accelerator
+- [EthChil/Ray-Tracing](https://github.com/EthChil/Ray-Tracing) - Initial attempt at creating a ray tracing accelerator with an FPGA
+- [mfkiwl/RISC-V_Vector_Accelerator_For_ML](https://github.com/mfkiwl/RISC-V_Vector_Accelerator_For_ML) - 
+- [rahulsridhar5/FFT_Accelerator](https://github.com/rahulsridhar5/FFT_Accelerator) - Designing an Accelerator to speed up FFT Calculation on FPGA using Verilog
+- [DanieleParravicini/regex_coprocessor](https://github.com/DanieleParravicini/regex_coprocessor) - An accelerator to which you can offload RE matching and that does not use backtracking
+- [EPFL-LAP/fpga19-MOMS](https://github.com/EPFL-LAP/fpga19-MOMS) - 
+- [m-asiatici/MSHR-rich](https://github.com/m-asiatici/MSHR-rich) - A multi-banked non-blocking cache that handles efficiently thousands of outstanding misses, especially suited for bandwidth-bound latency-insensitive hardware accelerators with irregular memory access patterns.
+- [andrade824/2D-Graphics-Accelerator-IP](https://github.com/andrade824/2D-Graphics-Accelerator-IP) - 2D Graphics Accelerator IP (with a full Linux software stack) used to create custom video game consoles and arcade machines
+- [fpgasystems/erbium](https://github.com/fpgasystems/erbium) - Business Rule Engine Hardware Accelerator
+- [jviki/mem_swapping](https://github.com/jviki/mem_swapping) - VHDL simulation component. Provides a dual port memory that can swap its contents to disk. It is useful for using huge memory sizes in simulations.
+- [bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm](https://github.com/bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm) - I have designed square root calculation with binary search tree algorithm.
+- [NathanBeal/WimpFi_Wireless_Network](https://github.com/NathanBeal/WimpFi_Wireless_Network) - A localized wireless communication system capable of transmitting and receiving data packets to and from peer systems. This project was developed in SystemVerilog and deployed to an FPGA board.
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A size-optimized, customizable MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [Domipheus/RPU](https://github.com/Domipheus/RPU) - Basic RISC-V CPU implementation in VHDL.
 - [OlafsAploks/MatrixCoprocessor](https://github.com/OlafsAploks/MatrixCoprocessor) - 
 - [hanchenye/matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
@@ -2948,12 +3032,21 @@
 - [Electraudio/ofdm](https://github.com/Electraudio/ofdm) - 
 - [ghdl/ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator
 
-## Vala 
-
-- [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
-
 ## Verilog 
 
+- [kuanwoo/SYMPL64_FloatingPoint_RISC-](https://github.com/kuanwoo/SYMPL64_FloatingPoint_RISC-) - SYMPLYON 64-bit GP-GPU Compute Unit ISA and synthesizable Verilog RTL model for IEEE754-2008 Compute applications.  This is a single floating-point compute unit with four, interleaving threads.  It features FloPoCo-generated floating-point operators.
+- [erickahmed/square-one](https://github.com/erickahmed/square-one) - Square One is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler, whilst at the very high level Java is implemented
+- [scarv/scarv-cpu](https://github.com/scarv/scarv-cpu) - SCARV: a side-channel hardened RISC-V platform
+- [wd5gnr/DensePackDecimal](https://github.com/wd5gnr/DensePackDecimal) - Need to fit 3 decimal digits in 10 bits with no multiplying or dividing? Here you go...
+- [RichmondJohnson/Content-Integrity-Checker-on-LED-screens-using-MD-5-Hash-Hardware-Accelerator](https://github.com/RichmondJohnson/Content-Integrity-Checker-on-LED-screens-using-MD-5-Hash-Hardware-Accelerator) - A hardware accelerator and a supporting software stack validate the contents displayed on digital screens using a custom pipelined hardware
+- [GabeRoque97/CMPE-140-Assignment-8](https://github.com/GabeRoque97/CMPE-140-Assignment-8) - Piplined Extended MIPS Processor with Factorial Accelerator
+- [7asebat/DCNN-Accelerator-FC](https://github.com/7asebat/DCNN-Accelerator-FC) - The fully-connected layer for an Image Processing ASIC.
+- [yongatek/caravel_yonga-serv-accelerator](https://github.com/yongatek/caravel_yonga-serv-accelerator) - YONGA-SERV Accelerator
+- [saikat27/riscvofdm](https://github.com/saikat27/riscvofdm) - An OFDM Accelerator for RISC-V based Processors
+- [TianheYu/SMEM_Fully_Pipelined_Design](https://github.com/TianheYu/SMEM_Fully_Pipelined_Design) - SMEM++, A Fully Pipelined and Time-Multiplexed SMEM Seeding Accelerator for Genome Sequencing
+- [maidenone/ORGFXSoC](https://github.com/maidenone/ORGFXSoC) - An Example implementation of Open Source Graphics Accelerator, (A fixed point, fixed function pipeline GPU)
+- [fpgasystems/Centaur](https://github.com/fpgasystems/Centaur) - Centaur, a framework for hybrid CPU-FPGA databases
+- [mcjtag/tcam](https://github.com/mcjtag/tcam) - TCAM ( Ternary Content-Addressable Memory) on Verilog
 - [freecores/theia_gpu](https://github.com/freecores/theia_gpu) - Theia: ray graphic processing unit
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [mfidaali/Pipeline-ALU](https://github.com/mfidaali/Pipeline-ALU) - Basic ALU with pipeline
