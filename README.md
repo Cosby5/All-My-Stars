@@ -2029,6 +2029,7 @@
 
 ## JavaScript 
 
+- [adafruit/Adafruit-Pi-Finder](https://github.com/adafruit/Adafruit-Pi-Finder) - Find and set up your brand new Raspberry Pi
 - [claritylab/lucida-website](https://github.com/claritylab/lucida-website) - 
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
@@ -3035,7 +3036,7 @@
 ## Verilog 
 
 - [kuanwoo/SYMPL64_FloatingPoint_RISC-](https://github.com/kuanwoo/SYMPL64_FloatingPoint_RISC-) - SYMPLYON 64-bit GP-GPU Compute Unit ISA and synthesizable Verilog RTL model for IEEE754-2008 Compute applications.  This is a single floating-point compute unit with four, interleaving threads.  It features FloPoCo-generated floating-point operators.
-- [erickahmed/square-one](https://github.com/erickahmed/square-one) - Square One is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler, whilst at the very high level Java is implemented
+- [erickahmed/square-one](https://github.com/erickahmed/square-one) - Square One is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler (in developement), whilst at the very high level Java will be implemented
 - [scarv/scarv-cpu](https://github.com/scarv/scarv-cpu) - SCARV: a side-channel hardened RISC-V platform
 - [wd5gnr/DensePackDecimal](https://github.com/wd5gnr/DensePackDecimal) - Need to fit 3 decimal digits in 10 bits with no multiplying or dividing? Here you go...
 - [RichmondJohnson/Content-Integrity-Checker-on-LED-screens-using-MD-5-Hash-Hardware-Accelerator](https://github.com/RichmondJohnson/Content-Integrity-Checker-on-LED-screens-using-MD-5-Hash-Hardware-Accelerator) - A hardware accelerator and a supporting software stack validate the contents displayed on digital screens using a custom pipelined hardware
