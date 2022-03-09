@@ -736,6 +736,8 @@
 
 ## Go 
 
+- [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
+- [neurocollective/go_chainable](https://github.com/neurocollective/go_chainable) - With generics, allowing chainable .Map(func(...)).Reduce(func(...)) syntax in go
 - [mfuentesg/localdns](https://github.com/mfuentesg/localdns) - Simple DNS server built to handle local records and thought to be easy, fast and small.
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
@@ -2964,6 +2966,7 @@
 
 ## TypeScript 
 
+- [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
