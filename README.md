@@ -108,6 +108,7 @@
 
 ## C 
 
+- [sundp159/PlatformDriver](https://github.com/sundp159/PlatformDriver) - DSP C66x driver lib project
 - [OpenE2K/qemu-e2k](https://github.com/OpenE2K/qemu-e2k) - QEMU with Elbrus emulation
 - [sigmaxz/bcd_alu](https://github.com/sigmaxz/bcd_alu) - alu from architecture course
 - [SubNader/DecimalALU](https://github.com/SubNader/DecimalALU) - Decimal ALU software that carries out arithmetic and logical operations on decimal operands.
@@ -299,6 +300,7 @@
 
 ## C# # 
 
+- [bruhov/WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader) - WinThumbsPreloader is a simple open source tool for preloading thumbnails in Windows Explorer.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [mbdavid/LiteDB.WebAssembly](https://github.com/mbdavid/LiteDB.WebAssembly) - WebAssembly version of LiteDB to run on client (browser)
 - [symmetryinvestments/clrbridge](https://github.com/symmetryinvestments/clrbridge) - Call .NET code from other languages
@@ -736,6 +738,7 @@
 
 ## Go 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [neurocollective/go_chainable](https://github.com/neurocollective/go_chainable) - With generics, allowing chainable .Map(func(...)).Reduce(func(...)) syntax in go
 - [mfuentesg/localdns](https://github.com/mfuentesg/localdns) - Simple DNS server built to handle local records and thought to be easy, fast and small.
@@ -2777,7 +2780,7 @@
 ## Shell 
 
 - [AkihiroSuda/containerized-systemd](https://github.com/AkihiroSuda/containerized-systemd) - Dockerfile examples for containerized systemd (mainly for test environments)
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [ms-jpq/windows-in-docker](https://github.com/ms-jpq/windows-in-docker) - WHY? So you can run Windows "as a container"
 - [frntn/pki-manager](https://github.com/frntn/pki-manager) - IT Freelancers : Manage small PKI for multiple projects (or clients) with 2 bash scripts
