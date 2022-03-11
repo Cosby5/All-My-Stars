@@ -362,6 +362,7 @@
 
 ## C++ 
 
+- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [JasurN/SelfDrivingCar](https://github.com/JasurN/SelfDrivingCar) - This is Self Driving Car project has capability to trace line, avoid objects, finding shortest path and using deep learning identify traffic signs and react to them
 - [ssloy/triador](https://github.com/ssloy/triador) - Ternary computer emulator
 - [bryanclark90/TrinaryTree](https://github.com/bryanclark90/TrinaryTree) - A Basic Trinary Tree. Ported from Microsoft Visual Studio
@@ -738,6 +739,10 @@
 
 ## Go 
 
+- [metal3d/kurento-go](https://github.com/metal3d/kurento-go) - Go package to communicate with Kurento
+- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
+- [jart/gosip](https://github.com/jart/gosip) - Public Switched Telecommunications Network Unleashed
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [neurocollective/go_chainable](https://github.com/neurocollective/go_chainable) - With generics, allowing chainable .Map(func(...)).Reduce(func(...)) syntax in go
@@ -2255,6 +2260,7 @@
 
 ## Others 
 
+- [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
 - [aaronchantrill/NaomiPresentation](https://github.com/aaronchantrill/NaomiPresentation) - An Impress presentation to accompany my talks on the Naomi Voice Activated Assistant
 - [NaomiProject/naomi-plugins](https://github.com/NaomiProject/naomi-plugins) - This repository contains plugin repository information for Naomi.
 - [abe-taylor-970/TrinaryTree](https://github.com/abe-taylor-970/TrinaryTree) - This is a Trinary Tree (similar to binary tree, except a middle child node for duplicates), implementing insert and delete.
@@ -2418,6 +2424,7 @@
 
 ## Python 
 
+- [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
 - [ucb-bar/hammer](https://github.com/ucb-bar/hammer) - HAMMER: Highly Agile Masks Made Effortlessly from RTL
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [aaronchantrill/YoureWelcome](https://github.com/aaronchantrill/YoureWelcome) - Simple speechhandler plugin, just responds to "Thank you" with "You're welcome"
@@ -2954,6 +2961,7 @@
 
 ## SystemVerilog 
 
+- [openhwgroup/cv32e40s](https://github.com/openhwgroup/cv32e40s) - 4 stage, in-order, secure RISC-V core based on the CV32E40P
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
 - [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator
@@ -2969,6 +2977,7 @@
 
 ## TypeScript 
 
+- [EvgenyMuryshkin/CarBodyDesigner](https://github.com/EvgenyMuryshkin/CarBodyDesigner) - Source code for Car Body Designer app
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -2999,6 +3008,7 @@
 
 ## VHDL 
 
+- [hdhzero/Hivek](https://github.com/hdhzero/Hivek) - A VLIW soft processor in VHDL.
 - [jardelufc/FTJop](https://github.com/jardelufc/FTJop) - Fault Tolerant Java Optimized Processor
 - [PacoReinaCampo/PU-RISCV](https://github.com/PacoReinaCampo/PU-RISCV) - Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
 - [majdoss/Bfloat16-Floating-Point-Arithmetic-Unit](https://github.com/majdoss/Bfloat16-Floating-Point-Arithmetic-Unit) - Design and implementation of a pipelined Bfloat16 Floating Point Arithmetic Unit using VHDL. This unit can perform addition, subtraction, multiplication, division and fused multiply-add/subtract operations. Bfloat16 is a 16-bit floating-point data type developed at Google and currently used in their Tensor Processing Units (TPU's). Thanks to its dynamic range, the Bfloat16 format can be useful for Machine Learning applications that work well with low-precision representations of data. This Bfloat16 unit will be used to add custom RISC-V floating-point instructions to a RISC-V processor that can potentially be used as a hardware accelerator for Machine Learning applications. This model will also be tested on and FPGA and possibly modified to achieve optimal performance. Work is still in progress.
@@ -3041,6 +3051,8 @@
 
 ## Verilog 
 
+- [thegamingbot/VLIW-Architecture](https://github.com/thegamingbot/VLIW-Architecture) - A Python - Verilog combination that simulates the working of a 32-bit 5-stage pipelined VLIW processor from input assembly code while monitoring the updates in the processor register file.
+- [EvgenyMuryshkin/qusoc](https://github.com/EvgenyMuryshkin/qusoc) - QuSoC demo projects and template
 - [kuanwoo/SYMPL64_FloatingPoint_RISC-](https://github.com/kuanwoo/SYMPL64_FloatingPoint_RISC-) - SYMPLYON 64-bit GP-GPU Compute Unit ISA and synthesizable Verilog RTL model for IEEE754-2008 Compute applications.  This is a single floating-point compute unit with four, interleaving threads.  It features FloPoCo-generated floating-point operators.
 - [erickahmed/square-one](https://github.com/erickahmed/square-one) - Square One is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler (in developement), whilst at the very high level Java will be implemented
 - [scarv/scarv-cpu](https://github.com/scarv/scarv-cpu) - SCARV: a side-channel hardened RISC-V platform
