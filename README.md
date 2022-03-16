@@ -739,6 +739,11 @@
 
 ## Go 
 
+- [arriqaaq/rbt](https://github.com/arriqaaq/rbt) - Red-Black Tree Implementation
+- [arriqaaq/bst](https://github.com/arriqaaq/bst) - Binary Search tree implementation
+- [arriqaaq/aol](https://github.com/arriqaaq/aol) - An Append-only log in Go
+- [arriqaaq/cuckoo](https://github.com/arriqaaq/cuckoo) - Implementing a Cuckoo filter, based on the paper Cuckoo Filter: Practically Better Than Bloom
+- [arriqaaq/flashdb](https://github.com/arriqaaq/flashdb) - FlashDB is an embeddable, in-memory key/value database in Go (with Redis like commands and super easy to read)
 - [metal3d/kurento-go](https://github.com/metal3d/kurento-go) - Go package to communicate with Kurento
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [jart/gosip](https://github.com/jart/gosip) - Public Switched Telecommunications Network Unleashed
