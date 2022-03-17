@@ -1067,7 +1067,7 @@
 - [tsurubee/gosshd](https://github.com/tsurubee/gosshd) - Simple SSH server implemented by Golang.
 - [tsurubee/sshr](https://github.com/tsurubee/sshr) - Proxy server for routing SSH connections
 - [tj/go-terminput](https://github.com/tj/go-terminput) - Package terminput provides terminal keyboard input for interactive command-line tools.
-- [f-secure-foundry/tamago](https://github.com/f-secure-foundry/tamago) - TamaGo - bare metal Go for ARM SoCs
+- [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go for ARM SoCs
 - [xanzy/multisyncer](https://github.com/xanzy/multisyncer) - MultiSyncer synchronizes access based on a given token
 - [LockGit/gochat](https://github.com/LockGit/gochat) - goim server write by golang !🚀
 - [belak/gitdir](https://github.com/belak/gitdir) - PoC of a self-contained, simple, and lightweight SSH git hosting with just a directory.
