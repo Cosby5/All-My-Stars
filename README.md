@@ -300,6 +300,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [bruhov/WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader) - WinThumbsPreloader is a simple open source tool for preloading thumbnails in Windows Explorer.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [mbdavid/LiteDB.WebAssembly](https://github.com/mbdavid/LiteDB.WebAssembly) - WebAssembly version of LiteDB to run on client (browser)
@@ -519,7 +520,7 @@
 - [Pure-D/workspace-d](https://github.com/Pure-D/workspace-d) - CLI deprecated, API + functionality moved into https://github.com/Pure-D/serve-d
 - [skoppe/private-dub](https://github.com/skoppe/private-dub) - Private dub registry with minimal config
 - [symmetryinvestments/dubproxy](https://github.com/symmetryinvestments/dubproxy) - A small library and cli to bypass code.dlang.org in a way transparent to dub
-- [AuburnSounds/printed](https://github.com/AuburnSounds/printed) - Generate reproducible PDF and SVG documents with D, with a Canvas-style API. Now with a simple document emitter.
+- [AuburnSounds/printed](https://github.com/AuburnSounds/printed) - Generate PDF/SVG/HTML with D, with a Canvas-style API. Now with a flow document emitter.
 - [snazzy-d/SDC](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler
 - [rcorre/enumap](https://github.com/rcorre/enumap) - A D type that provides a lightweight mapping of enum members to values.
 - [cirnatdan/butterlibc](https://github.com/cirnatdan/butterlibc) - A standard C library implemented in D (experiment)
@@ -739,6 +740,9 @@
 
 ## Go 
 
+- [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
+- [schollz/streamyouraudio](https://github.com/schollz/streamyouraudio) - Easily stream audio from any computer to the internet.
+- [arriqaaq/art](https://github.com/arriqaaq/art) - An Adaptive Radix Tree (ART) implementation in Go
 - [arriqaaq/rbt](https://github.com/arriqaaq/rbt) - Red-Black Tree Implementation
 - [arriqaaq/bst](https://github.com/arriqaaq/bst) - Binary Search tree implementation
 - [arriqaaq/aol](https://github.com/arriqaaq/aol) - An Append-only log in Go
@@ -2769,7 +2773,7 @@
 
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Kernel-Bypass libOS Architecture
+- [demikernel/demikernel](https://github.com/demikernel/demikernel) - Kernel-Bypass LibOS Architecture
 - [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
 - [diodesign/diosix](https://github.com/diodesign/diosix) - A lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
