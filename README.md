@@ -692,6 +692,7 @@
 
 ## Dockerfile 
 
+- [RektInator/msbuild-docker](https://github.com/RektInator/msbuild-docker) - A docker container to run msbuild on linux!
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [m1k1o/osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
 - [Miosame/nginx-blocker-docker-proxy](https://github.com/Miosame/nginx-blocker-docker-proxy) - nginx-ultimate-bad-bot-blocker dockerized and proxified
@@ -740,8 +741,8 @@
 
 ## Go 
 
+- [kenmoini/go-zones](https://github.com/kenmoini/go-zones) - Go Zones takes a YAML structure and creates BIND compliant DNS Zone files and Configuration
 - [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
-- [schollz/streamyouraudio](https://github.com/schollz/streamyouraudio) - Easily stream audio from any computer to the internet.
 - [arriqaaq/art](https://github.com/arriqaaq/art) - An Adaptive Radix Tree (ART) implementation in Go
 - [arriqaaq/rbt](https://github.com/arriqaaq/rbt) - Red-Black Tree Implementation
 - [arriqaaq/bst](https://github.com/arriqaaq/bst) - Binary Search tree implementation
@@ -1958,6 +1959,7 @@
 
 ## HTML 
 
+- [schollz/streammyaudio](https://github.com/schollz/streammyaudio) - Easily stream audio from any computer to the internet.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
@@ -2433,6 +2435,7 @@
 
 ## Python 
 
+- [danrl/zonefiler](https://github.com/danrl/zonefiler) - A tool for creating forward and reverse zone files for hosts described in YAML.
 - [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
 - [ucb-bar/hammer](https://github.com/ucb-bar/hammer) - HAMMER: Highly Agile Masks Made Effortlessly from RTL
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
