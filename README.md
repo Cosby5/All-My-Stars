@@ -741,6 +741,7 @@
 
 ## Go 
 
+- [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [kenmoini/go-zones](https://github.com/kenmoini/go-zones) - Go Zones takes a YAML structure and creates BIND compliant DNS Zone files and Configuration
 - [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
 - [arriqaaq/art](https://github.com/arriqaaq/art) - An Adaptive Radix Tree (ART) implementation in Go
@@ -1877,7 +1878,7 @@
 - [kanga333/coredns-register](https://github.com/kanga333/coredns-register) - Coredns-register is an agent that registers dns records in CoreDNS with etcd as the backend.
 - [Freeaqingme/ClueGetter](https://github.com/Freeaqingme/ClueGetter) - Access and Auditing Milter for Postfix
 - [phalaaxx/extmilter](https://github.com/phalaaxx/extmilter) - A postfix milter service for blacklisting attachments with executable files.
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 💪🇺🇦❤️ High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [summerwind/etcdap](https://github.com/summerwind/etcdap) - The experimental LDAP gateway for etcd
 - [mattn/etcdenv](https://github.com/mattn/etcdenv) - 
 - [gambol99/config-fs](https://github.com/gambol99/config-fs) - Docker configuration directory backed against K/V (etcd) and service discovery (consul) with confd like templating
