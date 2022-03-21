@@ -1485,7 +1485,7 @@
 - [johanbrandhorst/gopherjs-grpc-websocket](https://github.com/johanbrandhorst/gopherjs-grpc-websocket) - An example implementation of bridging gRPC with a GopherJS frontend over Websockets
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [gokrazy/tools](https://github.com/gokrazy/tools) - Tools for end-users of gokrazy (gokr-packer, …)
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [benmanns/goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
 - [itsabot/plugin_weather](https://github.com/itsabot/plugin_weather) - 
@@ -2858,7 +2858,6 @@
 - [hectorm/docker-winamp](https://github.com/hectorm/docker-winamp) - A Docker image for the legendary Winamp 2.95 media player.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [marvinpinto/docker-media-converter](https://github.com/marvinpinto/docker-media-converter) - A docker container to convert your `mkv` files to an `mp4` format which Plex is capable of direct streaming.
-- [Plexmation/Plexmation](https://github.com/Plexmation/Plexmation) - A simple script for setting up your automated Plex home media server
 - [OllieDay/sonarr-mp4-converter](https://github.com/OllieDay/sonarr-mp4-converter) - Sonarr post processing script to convert episodes to MP4 using FFmpeg
 - [OllieDay/radarr-mp4-converter](https://github.com/OllieDay/radarr-mp4-converter) - Radarr post processing script to convert movies to MP4 using FFmpeg
 - [huskar20/hostdiscovery](https://github.com/huskar20/hostdiscovery) - If set up as a cron job can discover and email given IP ranges to the network admin as to find out if a new host showed up in the network
