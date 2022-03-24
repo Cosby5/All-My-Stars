@@ -108,6 +108,7 @@
 
 ## C 
 
+- [powervr-graphics/PowerVR-Series1](https://github.com/powervr-graphics/PowerVR-Series1) - Original source code for the PowerVR Series 1 GPUs : Midas Arcade, PCX1 and PCX2
 - [sundp159/PlatformDriver](https://github.com/sundp159/PlatformDriver) - DSP C66x driver lib project
 - [OpenE2K/qemu-e2k](https://github.com/OpenE2K/qemu-e2k) - QEMU with Elbrus emulation
 - [sigmaxz/bcd_alu](https://github.com/sigmaxz/bcd_alu) - alu from architecture course
@@ -300,6 +301,7 @@
 
 ## C# # 
 
+- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [bruhov/WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader) - WinThumbsPreloader is a simple open source tool for preloading thumbnails in Windows Explorer.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
@@ -741,6 +743,10 @@
 
 ## Go 
 
+- [pswilde/mailautoconf](https://github.com/pswilde/mailautoconf) - MailAutoConf - a simple, configurable autodiscover/autoconfig service for distributed and self-hosted groupware services.
+- [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
+- [hxt365/CopeGaming](https://github.com/hxt365/CopeGaming) - Cloud-based gaming platform that allows users to let other users remotely play games on their computers and make money
+- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - 
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [kenmoini/go-zones](https://github.com/kenmoini/go-zones) - Go Zones takes a YAML structure and creates BIND compliant DNS Zone files and Configuration
 - [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
@@ -2775,6 +2781,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [demikernel/demikernel](https://github.com/demikernel/demikernel) - Kernel-Bypass LibOS Architecture
@@ -2974,6 +2981,7 @@
 ## SystemVerilog 
 
 - [openhwgroup/cv32e40s](https://github.com/openhwgroup/cv32e40s) - 4 stage, in-order, secure RISC-V core based on the CV32E40P
+- [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler (in developement), whilst at the very high level Java will be implemented
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
 - [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator
@@ -3063,10 +3071,10 @@
 
 ## Verilog 
 
+- [MoonbaseOtago/vroom](https://github.com/MoonbaseOtago/vroom) - VRoom! RISC-V CPU
 - [thegamingbot/VLIW-Architecture](https://github.com/thegamingbot/VLIW-Architecture) - A Python - Verilog combination that simulates the working of a 32-bit 5-stage pipelined VLIW processor from input assembly code while monitoring the updates in the processor register file.
 - [EvgenyMuryshkin/qusoc](https://github.com/EvgenyMuryshkin/qusoc) - QuSoC demo projects and template
 - [kuanwoo/SYMPL64_FloatingPoint_RISC-](https://github.com/kuanwoo/SYMPL64_FloatingPoint_RISC-) - SYMPLYON 64-bit GP-GPU Compute Unit ISA and synthesizable Verilog RTL model for IEEE754-2008 Compute applications.  This is a single floating-point compute unit with four, interleaving threads.  It features FloPoCo-generated floating-point operators.
-- [erickahmed/square-one](https://github.com/erickahmed/square-one) - Square One is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler (in developement), whilst at the very high level Java will be implemented
 - [scarv/scarv-cpu](https://github.com/scarv/scarv-cpu) - SCARV: a side-channel hardened RISC-V platform
 - [wd5gnr/DensePackDecimal](https://github.com/wd5gnr/DensePackDecimal) - Need to fit 3 decimal digits in 10 bits with no multiplying or dividing? Here you go...
 - [RichmondJohnson/Content-Integrity-Checker-on-LED-screens-using-MD-5-Hash-Hardware-Accelerator](https://github.com/RichmondJohnson/Content-Integrity-Checker-on-LED-screens-using-MD-5-Hash-Hardware-Accelerator) - A hardware accelerator and a supporting software stack validate the contents displayed on digital screens using a custom pipelined hardware
