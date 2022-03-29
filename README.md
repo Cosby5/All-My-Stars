@@ -746,7 +746,7 @@
 - [pswilde/mailautoconf](https://github.com/pswilde/mailautoconf) - MailAutoConf - a simple, configurable autodiscover/autoconfig service for distributed and self-hosted groupware services.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [hxt365/CopeGaming](https://github.com/hxt365/CopeGaming) - Cloud-based gaming platform that allows users to let other users remotely play games on their computers and make money.
-- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - 
+- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [kenmoini/go-zones](https://github.com/kenmoini/go-zones) - Go Zones takes a YAML structure and creates BIND compliant DNS Zone files and Configuration
 - [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
