@@ -1019,7 +1019,7 @@
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [rpcxio/rpcx-gateway](https://github.com/rpcxio/rpcx-gateway) - http gateway for rpcx services. Clients in any programming languages can call them
 - [rpcxio/rpcx-examples](https://github.com/rpcxio/rpcx-examples) - examples for the latest rpcx
-- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱!
+- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for clound!
 - [xyproto/permissionbolt](https://github.com/xyproto/permissionbolt) - :nut_and_bolt: Middleware for keeping track of users, login states and permissions
 - [xyproto/mattersend](https://github.com/xyproto/mattersend) - :cyclone: Easy way to send messages to Mattermost
 - [xyproto/jit](https://github.com/xyproto/jit) - :vulcan_salute: Go module for executing machine code directly
