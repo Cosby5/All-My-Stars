@@ -1022,7 +1022,7 @@
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for clound!
 - [xyproto/permissionbolt](https://github.com/xyproto/permissionbolt) - :nut_and_bolt: Middleware for keeping track of users, login states and permissions
 - [xyproto/mattersend](https://github.com/xyproto/mattersend) - :cyclone: Easy way to send messages to Mattermost
-- [xyproto/jit](https://github.com/xyproto/jit) - :vulcan_salute: Go module for executing machine code directly
+- [xyproto/jit](https://github.com/xyproto/jit) - :vulcan_salute: Go module for executing machine code directly and a machine code interpreter.
 - [pointlander/peg](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 - [heyitsanthony/grammars](https://github.com/heyitsanthony/grammars) - PEG grammars and tools
 - [quarnster/parser](https://github.com/quarnster/parser) - Self-generating Parser expression grammar (PEG) parser + tools
