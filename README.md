@@ -276,7 +276,7 @@
 - [rpjohnst/kernel](https://github.com/rpjohnst/kernel) - Capability-based exokernel for x86_64
 - [turbo/flinux](https://github.com/turbo/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
 - [360trev/PELoadFromRam](https://github.com/360trev/PELoadFromRam) - Very very useful example of loading and relocating the (Win32) DLL from memory (!) which allows many possibilities and much more flexibility to dynamically link code from many sources including realtime download from the web and also code signing!
-- [joyent/illumos-joyent](https://github.com/joyent/illumos-joyent) - Community developed and maintained version of the OS/Net consolidation
+- [TritonDataCenter/illumos-joyent](https://github.com/TritonDataCenter/illumos-joyent) - Community developed and maintained version of the OS/Net consolidation
 - [airbornemihir/PIOS](https://github.com/airbornemihir/PIOS) - Operating Systems Laboratory assignments
 - [malisal/loaders](https://github.com/malisal/loaders) - Tiny loaders for various binary formats.
 - [mheily/libkqueue](https://github.com/mheily/libkqueue) - kqueue(2) compatibility library
