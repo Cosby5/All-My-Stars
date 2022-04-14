@@ -367,6 +367,7 @@
 
 ## C++ 
 
+- [markniu/PandaSegmentHeatBed](https://github.com/markniu/PandaSegmentHeatBed) - SoftMasterI2C for arduino
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [JasurN/SelfDrivingCar](https://github.com/JasurN/SelfDrivingCar) - This is Self Driving Car project has capability to trace line, avoid objects, finding shortest path and using deep learning identify traffic signs and react to them
 - [ssloy/triador](https://github.com/ssloy/triador) - Ternary computer emulator
@@ -2948,7 +2949,7 @@
 - [rom1v/rsshfs](https://github.com/rom1v/rsshfs) - Reverse of sshfs
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
 - [marshyski/quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
-- [FooBarWidget/traveling-ruby](https://github.com/FooBarWidget/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
+- [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [sp4rkie/debian-on-termux](https://github.com/sp4rkie/debian-on-termux) - HOWTO install plain Debian 10 (buster) on your non-rooted Android smartphone
 - [rogaha/docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
 - [SirNomad49/Update-Hosts](https://github.com/SirNomad49/Update-Hosts) - this script allows you to add entrys to your /etc/hosts file
@@ -3054,7 +3055,7 @@
 - [jviki/mem_swapping](https://github.com/jviki/mem_swapping) - VHDL simulation component. Provides a dual port memory that can swap its contents to disk. It is useful for using huge memory sizes in simulations.
 - [bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm](https://github.com/bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm) - I have designed square root calculation with binary search tree algorithm.
 - [NathanBeal/WimpFi_Wireless_Network](https://github.com/NathanBeal/WimpFi_Wireless_Network) - A localized wireless communication system capable of transmitting and receiving data packets to and from peer systems. This project was developed in SystemVerilog and deployed to an FPGA board.
-- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A size-optimized, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [Domipheus/RPU](https://github.com/Domipheus/RPU) - Basic RISC-V CPU implementation in VHDL.
 - [OlafsAploks/MatrixCoprocessor](https://github.com/OlafsAploks/MatrixCoprocessor) - 
 - [hanchenye/matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
