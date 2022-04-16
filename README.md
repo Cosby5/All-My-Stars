@@ -388,7 +388,7 @@
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [rasa/dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
 - [HollyDi/MyLoadLibrary](https://github.com/HollyDi/MyLoadLibrary) - 自己实现LoadLibrary函数的操作
 - [brainhack-ch/plastic-brain](https://github.com/brainhack-ch/plastic-brain) - OG 2019 - Project 07: PlasticBrain: real-time brain activity on a 3D printed brain
@@ -840,7 +840,7 @@
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
 - [DQNEO/babygo](https://github.com/DQNEO/babygo) - a Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
-- [key-consulting/simple-acme-server](https://github.com/key-consulting/simple-acme-server) - 
+- [archivekc/simple-acme-server](https://github.com/archivekc/simple-acme-server) - 
 - [leofishc/blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored in each block.
 - [ukontainer/runu](https://github.com/ukontainer/runu) - OCI runtime for frankenlibc unikernel
 - [seletskiy/go-android-rpc](https://github.com/seletskiy/go-android-rpc) - Native Android UI via shared Golang library
@@ -1975,6 +1975,7 @@
 ## HTML 
 
 - [schollz/streammyaudio](https://github.com/schollz/streammyaudio) - Easily stream audio from any computer to the internet.
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
@@ -3011,7 +3012,6 @@
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
