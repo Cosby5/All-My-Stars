@@ -751,6 +751,10 @@
 
 ## Go 
 
+- [InfuseAI/ArtiVC](https://github.com/InfuseAI/ArtiVC) - A version control system to manage large files.
+- [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
+- [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) - Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
 - [pswilde/mailautoconf](https://github.com/pswilde/mailautoconf) - MailAutoConf - a simple, configurable autodiscover/autoconfig service for distributed and self-hosted groupware services.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [hxt365/CopeGaming](https://github.com/hxt365/CopeGaming) - Cloud-based gaming platform that allows users to let other users remotely play games on their computers and make money.
@@ -2066,6 +2070,7 @@
 
 ## JavaScript 
 
+- [deepch/RTSPtoHLSLL](https://github.com/deepch/RTSPtoHLSLL) - RTSP Stream to WebBrowser HLS Low Latency over HTTP based MP4 segments
 - [adafruit/Adafruit-Pi-Finder](https://github.com/adafruit/Adafruit-Pi-Finder) - Find and set up your brand new Raspberry Pi
 - [claritylab/lucida-website](https://github.com/claritylab/lucida-website) - 
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -3008,6 +3013,8 @@
 
 ## TypeScript 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror) - An open source project for coffee enthusiasts.
 - [EvgenyMuryshkin/CarBodyDesigner](https://github.com/EvgenyMuryshkin/CarBodyDesigner) - Source code for Car Body Designer app
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
