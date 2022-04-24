@@ -527,7 +527,7 @@
 - [skoppe/private-dub](https://github.com/skoppe/private-dub) - Private dub registry with minimal config
 - [symmetryinvestments/dubproxy](https://github.com/symmetryinvestments/dubproxy) - A small library and cli to bypass code.dlang.org in a way transparent to dub
 - [AuburnSounds/printed](https://github.com/AuburnSounds/printed) - Generate PDF/SVG/HTML with D, with a Canvas-style API. Now with a flow document emitter.
-- [snazzy-d/SDC](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler
+- [snazzy-d/sdc](https://github.com/snazzy-d/sdc) - The Snazzy D Compiler
 - [rcorre/enumap](https://github.com/rcorre/enumap) - A D type that provides a lightweight mapping of enum members to values.
 - [cirnatdan/butterlibc](https://github.com/cirnatdan/butterlibc) - A standard C library implemented in D (experiment)
 - [hmmdyl/record](https://github.com/hmmdyl/record) - C# like records for D
