@@ -388,7 +388,7 @@
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [rasa/dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
 - [HollyDi/MyLoadLibrary](https://github.com/HollyDi/MyLoadLibrary) - 自己实现LoadLibrary函数的操作
 - [brainhack-ch/plastic-brain](https://github.com/brainhack-ch/plastic-brain) - OG 2019 - Project 07: PlasticBrain: real-time brain activity on a 3D printed brain
