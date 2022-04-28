@@ -751,6 +751,7 @@
 
 ## Go 
 
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [InfuseAI/ArtiVC](https://github.com/InfuseAI/ArtiVC) - A version control system to manage large files.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -2238,7 +2239,7 @@
 
 ## Lua 
 
-- [vlipco/srv-router](https://github.com/vlipco/srv-router) - OpenResty (nginx+lua) that discovers upstream servers from SRV records
+- [wompi-co/srv-router](https://github.com/wompi-co/srv-router) - OpenResty (nginx+lua) that discovers upstream servers from SRV records
 - [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [micmac/ngx-lua-log-syslog](https://github.com/micmac/ngx-lua-log-syslog) - Playground for generating access log from nginx to a syslog server and forwarding syslog to scribe
 - [jcbf/smf-spf](https://github.com/jcbf/smf-spf) - It's a lightweight, fast and reliable Sendmail milter that implements the Sender Policy Framework
@@ -3013,6 +3014,7 @@
 
 ## TypeScript 
 
+- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror) - An open source project for coffee enthusiasts.
 - [EvgenyMuryshkin/CarBodyDesigner](https://github.com/EvgenyMuryshkin/CarBodyDesigner) - Source code for Car Body Designer app
