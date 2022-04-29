@@ -751,6 +751,7 @@
 
 ## Go 
 
+- [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment (TEE)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [InfuseAI/ArtiVC](https://github.com/InfuseAI/ArtiVC) - A version control system to manage large files.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
@@ -2292,6 +2293,7 @@
 
 ## Others 
 
+- [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
 - [aaronchantrill/NaomiPresentation](https://github.com/aaronchantrill/NaomiPresentation) - An Impress presentation to accompany my talks on the Naomi Voice Activated Assistant
 - [NaomiProject/naomi-plugins](https://github.com/NaomiProject/naomi-plugins) - This repository contains plugin repository information for Naomi.
