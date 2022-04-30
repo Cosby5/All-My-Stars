@@ -978,7 +978,7 @@
 - [flaviostutz/dockerwall](https://github.com/flaviostutz/dockerwall) - A packet filter for communications from Docker containers to the Internet configurable by labels
 - [flaviostutz/ssh-jwt](https://github.com/flaviostutz/ssh-jwt) - A SSH server that authorizes PTY, remote or local port forwarding based on JWT token entered as password
 - [app-nerds/fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [rpkarlsson/downer](https://github.com/rpkarlsson/downer) - Commandline rss torrent downloader
 - [kiltum/go-disk-stat](https://github.com/kiltum/go-disk-stat) - Simple functions for accees info for free/total disk space
 - [lunemec/diskspace-notify](https://github.com/lunemec/diskspace-notify) - Running out of free space notificator.
@@ -1785,7 +1785,7 @@
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [coreos/go-etcd](https://github.com/coreos/go-etcd) - DEPRECATED - please use the official client at https://github.com/coreos/etcd/tree/master/client
 - [genuinetools/netns](https://github.com/genuinetools/netns) - Runc hook (OCI compatible) for setting up default bridge networking for containers.
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [galexrt/go-gitlab-webhooks](https://github.com/galexrt/go-gitlab-webhooks) - Go GitLab webhooks struct
 - [soupdiver/go-gitlab-webhook](https://github.com/soupdiver/go-gitlab-webhook) - A GitLab webhook receiver written in Go
 - [xanzy/go-gitlab](https://github.com/xanzy/go-gitlab) - GitLab Go SDK
@@ -1990,6 +1990,7 @@
 - [Ardumower/ardumower](https://github.com/Ardumower/ardumower) - Develop an open source robotic lawn mower (HW+SW reference platform)
 - [anthrax3/http-error-pages](https://github.com/anthrax3/http-error-pages) - A simple to use generator for static pages with errors to replace the default error pages that come with any web server like Nginx or Apache.
 - [denysvitali/nginx-error-pages](https://github.com/denysvitali/nginx-error-pages) - Cute Error Pages for your nginx web server
+- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [Senpai1/Anti-accidental-browser-close](https://github.com/Senpai1/Anti-accidental-browser-close) - Prevents the browser from accidental close (E.G in chrome the browser won't warn you if you have multiple tabs open that you wanna close the browser. Note: pressing ctrl + shift + T will restore your previous browser session)
 - [peterhoward42/godesktopgui](https://github.com/peterhoward42/godesktopgui) - This program demonstrates the potential of Go to create a standalone desktop application with a sophisticated GUI.
 - [cyyynthia/TypedGit](https://github.com/cyyynthia/TypedGit) - A small go server made to serve GitHub and GitLab files with correct Content-Type
@@ -2586,7 +2587,6 @@
 - [AndrewJHart/plex_media_sorter](https://github.com/AndrewJHart/plex_media_sorter) - Automagically determines the type of media by filename, sorts it, & then moves it configured directories (movies or shows) so that plex knows what to do with them.
 - [suparngp/plex-personal-shows-agent.bundle](https://github.com/suparngp/plex-personal-shows-agent.bundle) - Plex Metadata agent to manage personal shows
 - [vishnugt/youtube-dl-plugin](https://github.com/vishnugt/youtube-dl-plugin) - A Python script to constantly watch your clipboard content, and download if it's an youtube link
-- [manbearwiz/youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) - Web / REST interface for downloading youtube videos onto a server.
 - [c3d2/rtorrent-syncer](https://github.com/c3d2/rtorrent-syncer) - syncs remote rtorrent vm's with local fileserver
 - [scottt/rtorrent-helper](https://github.com/scottt/rtorrent-helper) - Open magnet links and torrent files with rtorrent under Linux
 - [evilhero/myazo](https://github.com/evilhero/myazo) - Self-hosted, cross-platform Gyazo alternative
