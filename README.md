@@ -57,7 +57,6 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
-  - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [SystemVerilog](#systemverilog)
@@ -751,6 +750,13 @@
 
 ## Go 
 
+- [yofu/dxf](https://github.com/yofu/dxf) - dxf for golang
+- [blevesearch/blevex](https://github.com/blevesearch/blevex) - Bleve Extensions
+- [blevesearch/bleve-wiki-indexer](https://github.com/blevesearch/bleve-wiki-indexer) - maintains a bleve index of markdown files in the specified directory, exposes search on port 8099
+- [ajvb/kala](https://github.com/ajvb/kala) - Modern Job Scheduler
+- [blue-jay/blueprint](https://github.com/blue-jay/blueprint) - Blueprint for your next web application in Go.
+- [josephspurrier/gowebapp](https://github.com/josephspurrier/gowebapp) - Basic MVC Web Application in Go
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) - Go Trusted Execution Environment (TEE)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [InfuseAI/ArtiVC](https://github.com/InfuseAI/ArtiVC) - A version control system to manage large files.
@@ -1215,6 +1221,7 @@
 - [dnephin/dobi](https://github.com/dnephin/dobi) - A build automation tool for Docker applications
 - [miekg/dinit](https://github.com/miekg/dinit) - An init for use inside Docker containers
 - [NoUseFreak/docker-multi-cache](https://github.com/NoUseFreak/docker-multi-cache) - Handle caching for multi-stage builds
+- [gebn/unifibackup](https://github.com/gebn/unifibackup) - Watches for new UniFi Controller backups and uploads them to S3.
 - [phillebaba/ucnb](https://github.com/phillebaba/ucnb) - Unifi Controller Notification Bridge
 - [adamenger/happy-caching-proxy](https://github.com/adamenger/happy-caching-proxy) - Transparent Apt/Gem package caching utility written in Go
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) - Go utilities for Debian APT repositories
@@ -2294,6 +2301,7 @@
 
 ## Others 
 
+- [e3donline/ToolChanger](https://github.com/e3donline/ToolChanger) - STPs / STLs / DXFs / PDFs
 - [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
 - [aaronchantrill/NaomiPresentation](https://github.com/aaronchantrill/NaomiPresentation) - An Impress presentation to accompany my talks on the Naomi Voice Activated Assistant
@@ -2459,6 +2467,9 @@
 
 ## Python 
 
+- [yorikvanhavre/Draft-dxf-importer](https://github.com/yorikvanhavre/Draft-dxf-importer) - Libraries to enable dxf support in FreeCAD
+- [mozman/ezdxf](https://github.com/mozman/ezdxf) - Python interface to DXF
+- [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [danrl/zonefiler](https://github.com/danrl/zonefiler) - A tool for creating forward and reverse zone files for hosts described in YAML.
 - [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
 - [ucb-bar/hammer](https://github.com/ucb-bar/hammer) - HAMMER: Highly Agile Masks Made Effortlessly from RTL
@@ -2983,10 +2994,6 @@
 ## Standard ML 
 
 - [garyatpt/7688_repo](https://github.com/garyatpt/7688_repo) - ipk for 7688
-
-## Starlark 
-
-- [gebn/unifibackup](https://github.com/gebn/unifibackup) - Watches for new UniFi Controller backups and uploads them to S3.
 
 ## Svelte 
 
