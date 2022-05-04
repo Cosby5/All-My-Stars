@@ -723,7 +723,7 @@
 - [vank3f3/iptables](https://github.com/vank3f3/iptables) - iptables in docker
 - [retog/docker-x11-xpra](https://github.com/retog/docker-x11-xpra) - A docker image proving a basis for X application accessible via ssh with or without xpra and optionally use xephyr and i3
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
-- [tiredofit/docker-self-service-password](https://github.com/tiredofit/docker-self-service-password) - Docker LDAP Toolbox Self-Service Password changer Image w/nginx, php-fpm with S6 overlay, and Zabbix monitoring support based on Alpine
+- [tiredofit/docker-self-service-password](https://github.com/tiredofit/docker-self-service-password) - Dockerized LDAP Tollbox Self Service Password Changer with manhy customizable options
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [dockerimages/docker-systemd](https://github.com/dockerimages/docker-systemd) - This is a Ubuntu Baseimage Running SystemD Init System inside a container it can idealy be applyed over any other ubuntu or fedora img
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
@@ -1003,7 +1003,6 @@
 - [ziporah/go-docker-iptables](https://github.com/ziporah/go-docker-iptables) - 
 - [andysingleton/doxie-receiver](https://github.com/andysingleton/doxie-receiver) - Simple tool to pull scans down from the Doxie Go SE over wifi
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
-- [kevinwallace/gossip](https://github.com/kevinwallace/gossip) - Gossip-based multicast
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
 - [tinrab/go-tensorflow-image-recognition](https://github.com/tinrab/go-tensorflow-image-recognition) - Image Recognition API in Go using TensorFlow
@@ -1067,7 +1066,6 @@
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [qur/repo_server](https://github.com/qur/repo_server) - A standalone remotely controllable apt repository server
 - [beleidy/go-log-server](https://github.com/beleidy/go-log-server) - This repo is a mirror, please visit gitlab repo for issues, MRs or otherwise
-- [kevinwallace/crontab](https://github.com/kevinwallace/crontab) - Parser for crontab files, along with logic to determine the next execution time of a task
 - [codewithkristian/gitlab-create-repo](https://github.com/codewithkristian/gitlab-create-repo) - 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [gol4ng/signal](https://github.com/gol4ng/signal) - This repository provides helpers with `os.Signal` std library
@@ -1755,7 +1753,7 @@
 - [jiachengxu/idetcd](https://github.com/jiachengxu/idetcd) - An etcd-based CoreDNS plugin used for identifying nodes in a cluster without domain name collisions.
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [mtso/goget](https://github.com/mtso/goget) - go get all the repos
 - [megawubs/get](https://github.com/megawubs/get) - Get a git project by its url and clone it in the go directory structure
 - [ahmetb/coredns-grpc-backend-sample](https://github.com/ahmetb/coredns-grpc-backend-sample) - Sample CoreDNS gRPC proxy backend written in Go
@@ -1829,7 +1827,6 @@
 - [phalaaxx/pf-milters](https://github.com/phalaaxx/pf-milters) - Milter services for postfix.
 - [aakso/ssh-inscribe](https://github.com/aakso/ssh-inscribe) - SSH CA Client/Server
 - [rakyll/globalconf](https://github.com/rakyll/globalconf) - Persist flag values into an ini file
-- [kevinwallace/crony](https://github.com/kevinwallace/crony) - Crony runs cron-like tasks that modify a git repository
 - [yamazaki164/csrmaker-echo](https://github.com/yamazaki164/csrmaker-echo) - CSR generator, CSR decoder, and Certificate decoder
 - [jstarks/npiperelay](https://github.com/jstarks/npiperelay) - npiperelay allows you to access Windows named pipes from WSL
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
@@ -2581,7 +2578,7 @@
 - [bbustin/Climaduino-web-controller](https://github.com/bbustin/Climaduino-web-controller) - Web interface for the Climaduino controller. Provides the ability to modify parameters and view historical data. Web pages are optimized for viewing on a phone. Tested on iPhone.
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [mosquito/pypi-server](https://github.com/mosquito/pypi-server) - Tornado based server like pypi.python.org. With caching from pypi.
-- [platformio/platformio-core](https://github.com/platformio/platformio-core) - PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in!
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - A professional collaborative platform for safety-critical and declarative embedded development :alien:
 - [BramRausch/PiPod](https://github.com/BramRausch/PiPod) - PiPod Hardware and Software
 - [BramRausch/PlayerUI](https://github.com/BramRausch/PlayerUI) - https://hackaday.io/project/26157-pipod
 - [bluecoast/SolderSCAD](https://github.com/bluecoast/SolderSCAD) - Solder stencil gerber -&gt; OpenSCAD converter
