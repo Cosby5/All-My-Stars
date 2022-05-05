@@ -984,7 +984,7 @@
 - [flaviostutz/dockerwall](https://github.com/flaviostutz/dockerwall) - A packet filter for communications from Docker containers to the Internet configurable by labels
 - [flaviostutz/ssh-jwt](https://github.com/flaviostutz/ssh-jwt) - A SSH server that authorizes PTY, remote or local port forwarding based on JWT token entered as password
 - [app-nerds/fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [rpkarlsson/downer](https://github.com/rpkarlsson/downer) - Commandline rss torrent downloader
 - [kiltum/go-disk-stat](https://github.com/kiltum/go-disk-stat) - Simple functions for accees info for free/total disk space
 - [lunemec/diskspace-notify](https://github.com/lunemec/diskspace-notify) - Running out of free space notificator.
@@ -2578,7 +2578,7 @@
 - [bbustin/Climaduino-web-controller](https://github.com/bbustin/Climaduino-web-controller) - Web interface for the Climaduino controller. Provides the ability to modify parameters and view historical data. Web pages are optimized for viewing on a phone. Tested on iPhone.
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [mosquito/pypi-server](https://github.com/mosquito/pypi-server) - Tornado based server like pypi.python.org. With caching from pypi.
-- [platformio/platformio-core](https://github.com/platformio/platformio-core) - A professional collaborative platform for safety-critical and declarative embedded development :alien:
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - A professional collaborative platform for embedded development :alien:
 - [BramRausch/PiPod](https://github.com/BramRausch/PiPod) - PiPod Hardware and Software
 - [BramRausch/PlayerUI](https://github.com/BramRausch/PlayerUI) - https://hackaday.io/project/26157-pipod
 - [bluecoast/SolderSCAD](https://github.com/bluecoast/SolderSCAD) - Solder stencil gerber -&gt; OpenSCAD converter
