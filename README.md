@@ -109,6 +109,7 @@
 
 ## C 
 
+- [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [powervr-graphics/PowerVR-Series1](https://github.com/powervr-graphics/PowerVR-Series1) - Original source code for the PowerVR Series 1 GPUs : Midas Arcade, PCX1 and PCX2
 - [sundp159/PlatformDriver](https://github.com/sundp159/PlatformDriver) - DSP C66x driver lib project
 - [OpenE2K/qemu-e2k](https://github.com/OpenE2K/qemu-e2k) - QEMU with Elbrus emulation
@@ -748,6 +749,13 @@
 
 ## Go 
 
+- [yanolab/gotransfer](https://github.com/yanolab/gotransfer) - RPC-based file transfer client and server written by golang
+- [jpillora/serve](https://github.com/jpillora/serve) - Your personal HTTP file server in Go
+- [lanycrost/whois-server](https://github.com/lanycrost/whois-server) - WHOIS server builded in Golang and using Postgres as a DB.
+- [mergestat/go-mysql-sqlite-server](https://github.com/mergestat/go-mysql-sqlite-server) - Experimental implementation of a SQLite backend for go-mysql-server
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [spacemeshos/go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 - [yofu/dxf](https://github.com/yofu/dxf) - dxf for golang
 - [blevesearch/blevex](https://github.com/blevesearch/blevex) - Bleve Extensions
 - [blevesearch/bleve-wiki-indexer](https://github.com/blevesearch/bleve-wiki-indexer) - maintains a bleve index of markdown files in the specified directory, exposes search on port 8099
@@ -2075,6 +2083,7 @@
 
 ## JavaScript 
 
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [deepch/RTSPtoHLSLL](https://github.com/deepch/RTSPtoHLSLL) - RTSP Stream to WebBrowser HLS Low Latency over HTTP based MP4 segments
 - [adafruit/Adafruit-Pi-Finder](https://github.com/adafruit/Adafruit-Pi-Finder) - Find and set up your brand new Raspberry Pi
 - [claritylab/lucida-website](https://github.com/claritylab/lucida-website) - 
@@ -3001,7 +3010,7 @@
 - [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler (in developement), whilst at the very high level JVM will be implemented
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
-- [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator
+- [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator: https://barvinn.readthedocs.io/en/latest/
 - [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
 - [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - 
 
