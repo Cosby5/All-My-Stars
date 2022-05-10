@@ -1030,7 +1030,7 @@
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [xyproto/diskmoose](https://github.com/xyproto/diskmoose) - Out of disk space checker
 - [kennysong/goeliza](https://github.com/kennysong/goeliza) - A Go implementation of the ELIZA chatbot.
-- [xyproto/calendar](https://github.com/xyproto/calendar) - :card_index: Utility with red days and flag flying days + calendar package for Go
+- [xyproto/kal](https://github.com/xyproto/kal) - :card_index: Utility with red days and flag flying days + calendar package for Go
 - [xyproto/simpleredis](https://github.com/xyproto/simpleredis) - :radio: Easy way to use Redis from Go
 - [xyproto/permissionsql](https://github.com/xyproto/permissionsql) - :lock_with_ink_pen: Middleware for keeping track of users, login states and permissions
 - [xyproto/burnfont](https://github.com/xyproto/burnfont) - Hand-crafted 6x6 pixel font, defined by code
@@ -1756,7 +1756,7 @@
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [jiachengxu/idetcd](https://github.com/jiachengxu/idetcd) - An etcd-based CoreDNS plugin used for identifying nodes in a cluster without domain name collisions.
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
-- [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
 - [mtso/goget](https://github.com/mtso/goget) - go get all the repos
 - [megawubs/get](https://github.com/megawubs/get) - Get a git project by its url and clone it in the go directory structure
