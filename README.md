@@ -749,6 +749,8 @@
 
 ## Go 
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [yanolab/gotransfer](https://github.com/yanolab/gotransfer) - RPC-based file transfer client and server written by golang
 - [jpillora/serve](https://github.com/jpillora/serve) - Your personal HTTP file server in Go
 - [lanycrost/whois-server](https://github.com/lanycrost/whois-server) - WHOIS server builded in Golang and using Postgres as a DB.
@@ -891,7 +893,7 @@
 - [alexflint/go-filemutex](https://github.com/alexflint/go-filemutex) - Like sync.Mutex, but works across processes
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pankona/gomo-simra](https://github.com/pankona/gomo-simra) - GOMObile SIMple wRApper
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [polyrabbit/etcdfs](https://github.com/polyrabbit/etcdfs) - :file_folder: Mount etcd into a local directory
 - [hakwerk/labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
@@ -1672,7 +1674,7 @@
 - [BurntSushi/goim](https://github.com/BurntSushi/goim) - Goim is a robust command line utility to maintain and query the Internet Movie Database (IMDb).
 - [kz26/gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
 - [olivere/elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
-- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
+- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
 - [evalphobia/go-yml2sql](https://github.com/evalphobia/go-yml2sql) - Create SQL INSERT statement from YAML file
 - [dockito/compose2bash](https://github.com/dockito/compose2bash) - Tool that converts docker-compose.yml files to bash scripts
