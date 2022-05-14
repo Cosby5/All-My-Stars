@@ -230,7 +230,6 @@
 - [klange/toaru-netboot](https://github.com/klange/toaru-netboot) - Tools to make netboot images for ToaruOS
 - [efidroid/bootloader_lk](https://github.com/efidroid/bootloader_lk) - LK embedded kernel
 - [klange/toaruos](https://github.com/klange/toaruos) - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network st
-- [littlekernel/lkuser](https://github.com/littlekernel/lkuser) - framework for a simple user space for lk
 - [tsgan/allwinner_a10](https://github.com/tsgan/allwinner_a10) - Allwinner A10 support for FreeBSD
 - [tsgan/qualcomm](https://github.com/tsgan/qualcomm) - Snapdragon S4 Pro/APQ8064 support for FreeBSD
 - [seppo0010/rlite](https://github.com/seppo0010/rlite) - self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.
@@ -461,6 +460,7 @@
 - [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
 - [nnliaohua/CIL2EBC-ToolChain](https://github.com/nnliaohua/CIL2EBC-ToolChain) - From Visual Studio 2013 compiler's CIL output, create UEFI EBC(EFI Byte Code) application. Used for create UEFI Boot Loader, UEFI diagnosing, troubleshooting, and so on.
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
+- [littlekernel/lkuser](https://github.com/littlekernel/lkuser) - framework for a simple user space for lk
 - [GregBowyer/turbovax](https://github.com/GregBowyer/turbovax) - VAX MP - a multiprocessor VAX simulator
 - [3drepo/3drepobouncer](https://github.com/3drepo/3drepobouncer) - A C++ library providing 3D Repo Scene Graph definition, repository management logic and manipulation logic. It is is essentially the refactored 3DRepoCore and (parts of) 3DRepoGUI
 - [DMDcoin/Diamond](https://github.com/DMDcoin/Diamond) - Diamond V3
