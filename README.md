@@ -109,6 +109,7 @@
 
 ## C 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [powervr-graphics/PowerVR-Series1](https://github.com/powervr-graphics/PowerVR-Series1) - Original source code for the PowerVR Series 1 GPUs : Midas Arcade, PCX1 and PCX2
 - [sundp159/PlatformDriver](https://github.com/sundp159/PlatformDriver) - DSP C66x driver lib project
@@ -129,6 +130,7 @@
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
+- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
@@ -383,7 +385,6 @@
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
@@ -749,6 +750,10 @@
 
 ## Go 
 
+- [gumelarme/yava](https://github.com/gumelarme/yava) - mini-Java compiler implemented in go
+- [backwards-rat-race/go-on-jvm](https://github.com/backwards-rat-race/go-on-jvm) - Experimental Compiler for Go targeting the JVM
+- [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
+- [yamnikov-oleg/nasmfmt](https://github.com/yamnikov-oleg/nasmfmt) - Formatter for NASM source files
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [yanolab/gotransfer](https://github.com/yanolab/gotransfer) - RPC-based file transfer client and server written by golang
@@ -2303,6 +2308,7 @@
 
 ## OpenSCAD 
 
+- [ervanalb/keygen](https://github.com/ervanalb/keygen) - OpenSCAD tools for generating physical keys
 - [simoninns/PinePhone-Dev-Stand](https://github.com/simoninns/PinePhone-Dev-Stand) - A stand for the PinePhone to assist with software development and test
 
 ## Others 
