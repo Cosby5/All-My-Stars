@@ -223,7 +223,7 @@
 - [kvspb/nginx-auth-ldap](https://github.com/kvspb/nginx-auth-ldap) - LDAP authentication module for nginx
 - [simaov/nginx-oauth2-module](https://github.com/simaov/nginx-oauth2-module) - 
 - [stg/SYLT-FFT](https://github.com/stg/SYLT-FFT) - Optimized (I)FFT(R) for Cortex-M4
-- [funny-falcon/pyvm](https://github.com/funny-falcon/pyvm) - alternative python vm, example of lwc code (not mine, just saved)
+- [funny-falcon/pyvm_old](https://github.com/funny-falcon/pyvm_old) - alternative python vm, example of lwc code (not mine, just saved)
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [r0ngwe1/elfloader](https://github.com/r0ngwe1/elfloader) - load so file into current memory space and run function
 - [thiz11/mediatek](https://github.com/thiz11/mediatek) - 
@@ -2402,7 +2402,7 @@
 - [anudeepND/pihole-unbound](https://github.com/anudeepND/pihole-unbound) - Guide to setup Unbound recursive DNS resolver with Pi-Hole. With additional configs for speed and security!! 🚀🔒
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Android4Lumia/bootloader_msm8227](https://github.com/Android4Lumia/bootloader_msm8227) - LittleKernel bootloader for Qualcomm MSM8227 based Lumias
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
