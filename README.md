@@ -85,7 +85,6 @@
 
 ## Assembly 
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [neilgonzalez/EvoX-Reverse-Engineering](https://github.com/neilgonzalez/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 - [MyTeletouch/MyTeletouchDongle](https://github.com/MyTeletouch/MyTeletouchDongle) - MyTeletouch USB Dongle
@@ -813,6 +812,7 @@
 - [soypat/ether-swtch](https://github.com/soypat/ether-swtch) - Low level Ethernet stack marshaller/unmarshaller for use in tiny places.
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [stenic/go-mail](https://github.com/stenic/go-mail) - Minimal mail implementation in go
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [jeffprestes/go-eddystone-url](https://github.com/jeffprestes/go-eddystone-url) - Broadcasting Eddystone URL using Go
 - [suapapa/go_eddystone](https://github.com/suapapa/go_eddystone) - Go package to support Eddystone
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
@@ -1764,7 +1764,7 @@
 - [jiachengxu/idetcd](https://github.com/jiachengxu/idetcd) - An etcd-based CoreDNS plugin used for identifying nodes in a cluster without domain name collisions.
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed hybrid transaction/analytical  database compatible with the MySQL protocol
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
 - [mtso/goget](https://github.com/mtso/goget) - go get all the repos
 - [megawubs/get](https://github.com/megawubs/get) - Get a git project by its url and clone it in the go directory structure
 - [ahmetb/coredns-grpc-backend-sample](https://github.com/ahmetb/coredns-grpc-backend-sample) - Sample CoreDNS gRPC proxy backend written in Go
@@ -1868,6 +1868,7 @@
 - [suryagaddipati/docker-cache-volume-plugin](https://github.com/suryagaddipati/docker-cache-volume-plugin) - Docker volume driver to cache container artifacts
 - [codetainerapp/codetainer](https://github.com/codetainerapp/codetainer) - A Docker container in your browser.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [rapidloop/rtop-bot](https://github.com/rapidloop/rtop-bot) - A Bot for Remote Server Monitoring over SSH
 - [benjojo/dos_ssh](https://github.com/benjojo/dos_ssh) - Use BIOS ram hacks to make a SSH server out of any INT 10 13h app (MS-DOS is one of those)
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
@@ -2154,7 +2155,6 @@
 - [henszey/etcd-browser](https://github.com/henszey/etcd-browser) - A quick and easy way to view/edit basic keys in etcd.
 - [HttpErrorPages/HttpErrorPages](https://github.com/HttpErrorPages/HttpErrorPages) - :fast_forward: Simple HTTP Error Page Generator
 - [cmrunton/tls-dashboard](https://github.com/cmrunton/tls-dashboard) - A dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [explooosion/vscode-sync](https://github.com/explooosion/vscode-sync) - Synchronize your Visual Studio Code Extensions.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
