@@ -366,6 +366,7 @@
 
 ## C++ 
 
+- [abolz/Drachennest](https://github.com/abolz/Drachennest) - Different algorithms for converting binary to decimal floating-point numbers
 - [markniu/PandaSegmentHeatBed](https://github.com/markniu/PandaSegmentHeatBed) - SoftMasterI2C for arduino
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [JasurN/SelfDrivingCar](https://github.com/JasurN/SelfDrivingCar) - This is Self Driving Car project has capability to trace line, avoid objects, finding shortest path and using deep learning identify traffic signs and react to them
@@ -749,6 +750,11 @@
 
 ## Go 
 
+- [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
+- [malwaredllc/minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both HTTP/gRPC interfaces secured with mTLS.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
+- [mahesh-hegde/rrip](https://github.com/mahesh-hegde/rrip) - Bulk image downloader for reddit.
+- [CamusEnergy/kinney](https://github.com/CamusEnergy/kinney) - Real-time campus microgrid management for solar, EVs, HVAC, etc.
 - [gumelarme/yava](https://github.com/gumelarme/yava) - mini-Java compiler implemented in go
 - [backwards-rat-race/go-on-jvm](https://github.com/backwards-rat-race/go-on-jvm) - Experimental Compiler for Go targeting the JVM
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
@@ -3014,6 +3020,7 @@
 
 ## SystemVerilog 
 
+- [openhwgroup/core-v-mcu](https://github.com/openhwgroup/core-v-mcu) - This is the CORE-V MCU project, hosting CORE-V's embedded-class cores.
 - [openhwgroup/cv32e40s](https://github.com/openhwgroup/cv32e40s) - 4 stage, in-order, secure RISC-V core based on the CV32E40P
 - [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler (in developement), whilst at the very high level JVM will be implemented
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
