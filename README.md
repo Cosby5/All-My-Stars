@@ -612,8 +612,8 @@
 - [WebFreak001/FSWatch](https://github.com/WebFreak001/FSWatch) - A cross-platform folder & file watching library using win32, inotify or std.file
 - [wilkie/djehuty](https://github.com/wilkie/djehuty) - Fully verifiable operating system and API written in D in the public domain.
 - [vibe-d/vibe.d](https://github.com/vibe-d/vibe.d) - Official vibe.d development
-- [kubasz/HyperonXi](https://github.com/kubasz/HyperonXi) - An operating system in developed in D, based off my previous experiences with NovuOS and other projects
-- [kubasz/derelict-mono](https://github.com/kubasz/derelict-mono) - Dynamic binding of the Mono Runtime C API to the D Programming Language
+- [eigenraven/HyperonXi](https://github.com/eigenraven/HyperonXi) - An operating system in developed in D, based off my previous experiences with NovuOS and other projects
+- [eigenraven/derelict-mono](https://github.com/eigenraven/derelict-mono) - Dynamic binding of the Mono Runtime C API to the D Programming Language
 - [alexiusacademia/hydroflow](https://github.com/alexiusacademia/hydroflow) - D Library for Hydraulics Engineering calculations.
 - [dlang/dub-registry](https://github.com/dlang/dub-registry) - Online registry for dub packages
 - [tgehr/d-compiler](https://github.com/tgehr/d-compiler) - 
@@ -649,7 +649,7 @@
 - [xomboverlord/xomb](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 - [sociomantic-tsunami/d1to2fix](https://github.com/sociomantic-tsunami/d1to2fix) - Tool to automatically port code from D1 to D2 (based on dfix)
 - [AntonMeep/covered](https://github.com/AntonMeep/covered) - :cookie: Processes output of code coverage analysis performed by the D language compiler
-- [kubasz/monobound](https://github.com/kubasz/monobound) - A Mono&lt;-&gt;D bridge for easy interfacing of native code to the CLR ecosystem.
+- [eigenraven/monobound](https://github.com/eigenraven/monobound) - A Mono&lt;-&gt;D bridge for easy interfacing of native code to the CLR ecosystem.
 - [ariovistus/pyd](https://github.com/ariovistus/pyd) - Interoperability between Python and D
 - [DigitalMars/DMDScript](https://github.com/DigitalMars/DMDScript) - An implementation of the ECMA 262 (Javascript) programming language
 - [Nafees10/qscript](https://github.com/Nafees10/qscript) - A Simple Scripting Language
@@ -671,7 +671,7 @@
 - [PhilippeSigaud/Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module, using the D programming language.
 - [NCrashed/j2d](https://github.com/NCrashed/j2d) - Experimental convertor from Java to D
 - [Domain/java](https://github.com/Domain/java) - Java in D
-- [kubasz/NovuOS](https://github.com/kubasz/NovuOS) - An operating system written in D+Assembler
+- [eigenraven/NovuOS](https://github.com/eigenraven/NovuOS) - An operating system written in D+Assembler
 - [dlang-community/drepl](https://github.com/dlang-community/drepl) - A REPL for D
 - [eBookingServices/bobby](https://github.com/eBookingServices/bobby) - Simple process and HTTP availability monitor
 - [rainers/druntime](https://github.com/rainers/druntime) - Low level runtime library for the D programming language
@@ -684,7 +684,7 @@
 - [etcimon/botan](https://github.com/etcimon/botan) - Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.
 - [rikkimax/Cmsed](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 - [burner/dmcd](https://github.com/burner/dmcd) - Distributed multithreaded caching D compiler
-- [kubasz/uefi-d](https://github.com/kubasz/uefi-d) - D bindings for UEFI specifications
+- [eigenraven/uefi-d](https://github.com/eigenraven/uefi-d) - D bindings for UEFI specifications
 - [gecko0307/cook2](https://github.com/gecko0307/cook2) - Build automation tool for D
 - [yebblies/dmd](https://github.com/yebblies/dmd) - dmd D Programming Language compiler
 - [Vild/CPV](https://github.com/Vild/CPV) - Control panel for Vibe.d websites
@@ -706,7 +706,7 @@
 - [nulab/nginx-too-many-requests-retryafter-patch](https://github.com/nulab/nginx-too-many-requests-retryafter-patch) - 
 - [raeidsaqur/docker-kaldi-gstreamer-server](https://github.com/raeidsaqur/docker-kaldi-gstreamer-server) - Docker deployment of kaldi based ASR solution
 - [javiersantos/android-ci](https://github.com/javiersantos/android-ci) - A docker image for building Android apps. Supports multiple SDK Build Tools.
-- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image based on Alpine Linux
+- [crazy-max/docker-rtorrent-rutorrent](https://github.com/crazy-max/docker-rtorrent-rutorrent) - rTorrent and ruTorrent Docker image
 - [go-training/drone-bash-plugin](https://github.com/go-training/drone-bash-plugin) - Example Bash Plugin for Drone CI/CD service.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [mviereck/dockerfile-x11docker-xwayland](https://github.com/mviereck/dockerfile-x11docker-xwayland) - Xwayland X server in docker image
@@ -719,7 +719,7 @@
 - [prosody/prosody-docker](https://github.com/prosody/prosody-docker) - Docker image building system for the Prosody XMPP server
 - [jcbiellikltd/docker-dhcpd](https://github.com/jcbiellikltd/docker-dhcpd) - Simple containerized DHCP server running on Alpine Linux
 - [Drivetech/gitlab-deploy-ssh](https://github.com/Drivetech/gitlab-deploy-ssh) - Docker Image with alpine linux for deploy with ssh in gitlab ci
-- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image based on Alpine Linux
+- [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image
 - [vank3f3/iptables](https://github.com/vank3f3/iptables) - iptables in docker
 - [retog/docker-x11-xpra](https://github.com/retog/docker-x11-xpra) - A docker image proving a basis for X application accessible via ssh with or without xpra and optionally use xephyr and i3
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
