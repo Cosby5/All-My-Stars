@@ -750,6 +750,7 @@
 
 ## Go 
 
+- [dspinhirne/netaddr-go](https://github.com/dspinhirne/netaddr-go) - A Go library for performing calculations on IPv4 and IPv6 subnets.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
 - [malwaredllc/minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both HTTP/gRPC interfaces secured with mTLS.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
