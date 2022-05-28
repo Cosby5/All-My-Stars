@@ -387,7 +387,7 @@
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [rasa/dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
 - [HollyDi/MyLoadLibrary](https://github.com/HollyDi/MyLoadLibrary) - 自己实现LoadLibrary函数的操作
 - [brainhack-ch/plastic-brain](https://github.com/brainhack-ch/plastic-brain) - OG 2019 - Project 07: PlasticBrain: real-time brain activity on a 3D printed brain
@@ -697,6 +697,8 @@
 
 ## Dockerfile 
 
+- [phlummox/android-studio-docker](https://github.com/phlummox/android-studio-docker) - Run Android Studio as a cloud-based IDE using Gitpod
+- [gitpod-io/definitely-gp](https://github.com/gitpod-io/definitely-gp) - External `.gitpod.yml` files.
 - [RektInator/msbuild-docker](https://github.com/RektInator/msbuild-docker) - A docker container to run msbuild on linux!
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [m1k1o/osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
@@ -750,6 +752,11 @@
 
 ## Go 
 
+- [roylee0704/gron](https://github.com/roylee0704/gron) - gron, Cron Jobs in Go.
+- [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [ProtonMail/go-mailserver](https://github.com/ProtonMail/go-mailserver) - An IMAP library written in Go and C++
+- [pioz/god](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines
 - [dspinhirne/netaddr-go](https://github.com/dspinhirne/netaddr-go) - A Go library for performing calculations on IPv4 and IPv6 subnets.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
 - [malwaredllc/minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both HTTP/gRPC interfaces secured with mTLS.
@@ -2319,6 +2326,8 @@
 
 ## Others 
 
+- [run-as-root/gitlab-pipeline-templates](https://github.com/run-as-root/gitlab-pipeline-templates) - A collection of drop-in gitlab pipeline steps, easy to use, sharable, maintainable.
+- [rrrrrrrr-stack/rrrrrrrr](https://github.com/rrrrrrrr-stack/rrrrrrrr) - 
 - [e3donline/ToolChanger](https://github.com/e3donline/ToolChanger) - STPs / STLs / DXFs / PDFs
 - [VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
 - [drom/awesome-hdl](https://github.com/drom/awesome-hdl) - Hardware Description Languages
@@ -2846,6 +2855,7 @@
 
 ## Shell 
 
+- [MrSimonEmms/gitpod-single-instance](https://github.com/MrSimonEmms/gitpod-single-instance) - Run Gitpod on your local machine
 - [AkihiroSuda/containerized-systemd](https://github.com/AkihiroSuda/containerized-systemd) - Dockerfile examples for containerized systemd (mainly for test environments)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
