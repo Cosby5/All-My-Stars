@@ -752,6 +752,15 @@
 
 ## Go 
 
+- [fyne-io/fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
+- [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install Apple ipa and Android apk in web.
+- [gooid/gooid](https://github.com/gooid/gooid) - Go bindings for Android NDK
+- [xlab/android-go](https://github.com/xlab/android-go) - The android-go project provides a platform for writing native Android apps in Go programming language.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [xtaci/safebox](https://github.com/xtaci/safebox) - One key to derive all
+- [xtaci/gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang。golangのための高性能非同期io(proactor)ネットワーキング
+- [xtaci/kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
+- [app-nerds/kit](https://github.com/app-nerds/kit) - Standard library for Go applications
 - [roylee0704/gron](https://github.com/roylee0704/gron) - gron, Cron Jobs in Go.
 - [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
