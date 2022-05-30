@@ -777,7 +777,7 @@
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [yamnikov-oleg/nasmfmt](https://github.com/yamnikov-oleg/nasmfmt) - Formatter for NASM source files
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [yanolab/gotransfer](https://github.com/yanolab/gotransfer) - RPC-based file transfer client and server written by golang
 - [jpillora/serve](https://github.com/jpillora/serve) - Your personal HTTP file server in Go
 - [lanycrost/whois-server](https://github.com/lanycrost/whois-server) - WHOIS server builded in Golang and using Postgres as a DB.
