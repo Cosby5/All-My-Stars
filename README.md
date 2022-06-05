@@ -2559,7 +2559,7 @@
 - [jacobstein123/EEG_Robotic_Arm](https://github.com/jacobstein123/EEG_Robotic_Arm) - An arduino-powered robotic arm controlled by brain activity
 - [eegsynth/eegsynth](https://github.com/eegsynth/eegsynth) - Converting real-time EEG into sounds, music and visual effects
 - [ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)
-- [gdubicki/gitlabform](https://github.com/gdubicki/gitlabform) - Specialized "configuration as a code" tool for GitLab projects, groups and more using hierarchical configuration written in YAML
+- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - Specialized "configuration as a code" tool for GitLab projects, groups and more using hierarchical configuration written in YAML
 - [stuartmccoll/gitlab-attendant](https://github.com/stuartmccoll/gitlab-attendant) - 🤖 A GitLab bot that tidies and attends to repositories
 - [glensc/gitlab-registry-cleanup-hook](https://github.com/glensc/gitlab-registry-cleanup-hook) - Listens for incoming requests and deletes docker images if merge request is merged
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
