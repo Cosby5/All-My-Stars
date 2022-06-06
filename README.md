@@ -366,6 +366,8 @@
 
 ## C++ 
 
+- [ysc3839/AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+
+- [d03n3rfr1tz3/HC-SR04](https://github.com/d03n3rfr1tz3/HC-SR04) - Library for measuring distance with the HC-SR04 UltraSonic Sensor, by utilizing temperature correction and multiple echo pins in parallel.
 - [abolz/Drachennest](https://github.com/abolz/Drachennest) - Different algorithms for converting binary to decimal floating-point numbers
 - [markniu/PandaSegmentHeatBed](https://github.com/markniu/PandaSegmentHeatBed) - SoftMasterI2C for arduino
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
@@ -751,6 +753,16 @@
 
 ## Go 
 
+- [ricallinson/tpms](https://github.com/ricallinson/tpms) - Go Library for the ZEEPIN TPMS Sensor Bluetooth Tire Pressure Monitoring System
+- [MarinX/goble](https://github.com/MarinX/goble) - Bluetooth Low Energy for Go
+- [muka/go-bluetooth](https://github.com/muka/go-bluetooth) - Golang bluetooth client based on bluez DBus interfaces
+- [GAumala/MediaServer](https://github.com/GAumala/MediaServer) - Media Server for streaming videos over local network written in Go
+- [saljam/mjpeg](https://github.com/saljam/mjpeg) - MJPEG streaming for Go.
+- [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO
+- [djherbis/fscache](https://github.com/djherbis/fscache) - Streaming File Cache for #golang
+- [soundscapecloud/soundscape](https://github.com/soundscapecloud/soundscape) - Soundscape - a personal music streaming server
+- [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
+- [tardisx/linkwallet](https://github.com/tardisx/linkwallet) - A self-hosted bookmark database with full-text page content search
 - [fyne-io/fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install Apple ipa and Android apk in web.
 - [gooid/gooid](https://github.com/gooid/gooid) - Go bindings for Android NDK
@@ -1785,7 +1797,7 @@
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [jiachengxu/idetcd](https://github.com/jiachengxu/idetcd) - An etcd-based CoreDNS plugin used for identifying nodes in a cluster without domain name collisions.
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
 - [mtso/goget](https://github.com/mtso/goget) - go get all the repos
 - [megawubs/get](https://github.com/megawubs/get) - Get a git project by its url and clone it in the go directory structure
@@ -2055,6 +2067,7 @@
 
 ## Java 
 
+- [OnlyInAmerica/BLEMeshChat](https://github.com/OnlyInAmerica/BLEMeshChat) - Android client for iOS to Android chat application over Bluetooth LE, using Android L APIs
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [claritylab/CoreNLP](https://github.com/claritylab/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [k0105/lucidagenericbackend](https://github.com/k0105/lucidagenericbackend) - This is a generic backend for Lucida that supports asynchronous Thrift and REST.
@@ -2320,6 +2333,7 @@
 
 ## Objective-C 
 
+- [chrisballinger/BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat) - Bluetooth LE Mesh Chat for iOS and Android
 - [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
 - [TurkeyTeo/WebviewJsCore](https://github.com/TurkeyTeo/WebviewJsCore) - Js call Objc
 - [OpenBCI/brainflow](https://github.com/OpenBCI/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
@@ -2334,6 +2348,7 @@
 
 ## Others 
 
+- [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [run-as-root/gitlab-pipeline-templates](https://github.com/run-as-root/gitlab-pipeline-templates) - A collection of drop-in gitlab pipeline steps, easy to use, sharable, maintainable.
 - [rrrrrrrr-stack/rrrrrrrr](https://github.com/rrrrrrrr-stack/rrrrrrrr) - 
 - [e3donline/ToolChanger](https://github.com/e3donline/ToolChanger) - STPs / STLs / DXFs / PDFs
