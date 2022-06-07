@@ -366,6 +366,7 @@
 
 ## C++ 
 
+- [indeterminatedesign/TractionControl](https://github.com/indeterminatedesign/TractionControl) - 
 - [ysc3839/AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+
 - [d03n3rfr1tz3/HC-SR04](https://github.com/d03n3rfr1tz3/HC-SR04) - Library for measuring distance with the HC-SR04 UltraSonic Sensor, by utilizing temperature correction and multiple echo pins in parallel.
 - [abolz/Drachennest](https://github.com/abolz/Drachennest) - Different algorithms for converting binary to decimal floating-point numbers
@@ -753,6 +754,7 @@
 
 ## Go 
 
+- [PoCInnovation/PoCLab](https://github.com/PoCInnovation/PoCLab) - 
 - [ricallinson/tpms](https://github.com/ricallinson/tpms) - Go Library for the ZEEPIN TPMS Sensor Bluetooth Tire Pressure Monitoring System
 - [MarinX/goble](https://github.com/MarinX/goble) - Bluetooth Low Energy for Go
 - [muka/go-bluetooth](https://github.com/muka/go-bluetooth) - Golang bluetooth client based on bluez DBus interfaces
