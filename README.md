@@ -1983,7 +1983,6 @@
 - [xor-gate/debpkg](https://github.com/xor-gate/debpkg) - Package creation for Debian written in pure Golang
 - [OrlovEvgeny/godeb-repo](https://github.com/OrlovEvgeny/godeb-repo) - A mini apt repository server
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
-- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [linuxerwang/debmaker](https://github.com/linuxerwang/debmaker) - A debian package maker in Golang
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [jamescun/switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port
@@ -2050,6 +2049,7 @@
 - [sosedoff/go-craigslist](https://github.com/sosedoff/go-craigslist) - Craigslist.org wrapper for Go
 - [kesavankrishnan/etcd-browser-with-access](https://github.com/kesavankrishnan/etcd-browser-with-access) - Etcd browser with role access
 - [elendirx/web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
+- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
