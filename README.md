@@ -303,6 +303,7 @@
 
 ## C# # 
 
+- [blueOkiris/clonger](https://github.com/blueOkiris/clonger) - A tool for designing conlangs
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [bruhov/WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader) - WinThumbsPreloader is a simple open source tool for preloading thumbnails in Windows Explorer.
@@ -1334,7 +1335,7 @@
 - [nxsre/sshfs-go](https://github.com/nxsre/sshfs-go) - A network filesystem client to connect to SSH servers [ implementation by golang ]
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [huacnlee/gobackup](https://github.com/huacnlee/gobackup) - 🗄 Simple tool for backup your databases, files to FTP / SCP / S3 storages.
-- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for Postgres
+- [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ppacher/go-sftp](https://github.com/ppacher/go-sftp) - An sftp client and server library for GoLang
 - [rootrl/Mancy](https://github.com/rootrl/Mancy) - Mancy is a file watcher which supported to auto upload the changes to remote server via ssh/sftp.
 - [genshen/ssh-web-console](https://github.com/genshen/ssh-web-console) - Connect to your linux machine via ssh in your browser.
@@ -2128,6 +2129,7 @@
 
 ## JavaScript 
 
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [deepch/RTSPtoHLSLL](https://github.com/deepch/RTSPtoHLSLL) - RTSP Stream to WebBrowser HLS Low Latency over HTTP based MP4 segments
 - [adafruit/Adafruit-Pi-Finder](https://github.com/adafruit/Adafruit-Pi-Finder) - Find and set up your brand new Raspberry Pi
@@ -3172,7 +3174,7 @@
 - [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 - [mfidaali/Pipeline-ALU](https://github.com/mfidaali/Pipeline-ALU) - Basic ALU with pipeline
 - [wubinyi/Convolutional-Neural-Network-Accelerator](https://github.com/wubinyi/Convolutional-Neural-Network-Accelerator) - Deep learning accelerator for convolutional layer (convolution operation) and fully-connected layer(matrix-multiplication).
-- [timetraveler05/MIPS_Pipelining_Matrix_multiplier](https://github.com/timetraveler05/MIPS_Pipelining_Matrix_multiplier) - 
+- [RazeNaan/MIPS_Pipelining_Matrix_multiplier](https://github.com/RazeNaan/MIPS_Pipelining_Matrix_multiplier) - 
 - [BlazeCode2/ABRUTECH_processor_automatic](https://github.com/BlazeCode2/ABRUTECH_processor_automatic) - FPGA based custom matrix manipulation processor implementation. This is the automatic version
 - [wtiandong/Hardware_circular_buffer_controller](https://github.com/wtiandong/Hardware_circular_buffer_controller) - This is a circular buffer controller used in FPGA.
 - [tmbinc/ov](https://github.com/tmbinc/ov) - 
