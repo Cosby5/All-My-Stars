@@ -1984,6 +1984,7 @@
 - [xor-gate/debpkg](https://github.com/xor-gate/debpkg) - Package creation for Debian written in pure Golang
 - [OrlovEvgeny/godeb-repo](https://github.com/OrlovEvgeny/godeb-repo) - A mini apt repository server
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
+- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [linuxerwang/debmaker](https://github.com/linuxerwang/debmaker) - A debian package maker in Golang
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [jamescun/switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port
@@ -2050,7 +2051,6 @@
 - [sosedoff/go-craigslist](https://github.com/sosedoff/go-craigslist) - Craigslist.org wrapper for Go
 - [kesavankrishnan/etcd-browser-with-access](https://github.com/kesavankrishnan/etcd-browser-with-access) - Etcd browser with role access
 - [elendirx/web2web](https://github.com/elendirx/web2web) - P2P web powered by torrents and blockchain.
-- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [umpirsky/country-list](https://github.com/umpirsky/country-list) - :globe_with_meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
@@ -2279,6 +2279,7 @@
 
 ## Jupyter Notebook 
 
+- [RadheTians/International-Phonetic-Alphabet-Comparison](https://github.com/RadheTians/International-Phonetic-Alphabet-Comparison) - The International Phonetic Alphabet (IPA) is an alphabetic system of phonetic notation based primarily on the Latin alphabet. It was devised by the International Phonetic Association in the late 19th 
 - [theAdarshSrivastava/Hand-Wriiten-digit-classifier](https://github.com/theAdarshSrivastava/Hand-Wriiten-digit-classifier) - This project is a demonstration of the capability of deep learning techniques in object recognition in image data. It is a handwritten digit recognition model using the MNIST dataset.
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman) - [全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組
@@ -3065,7 +3066,7 @@
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
 - [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator: https://barvinn.readthedocs.io/en/latest/
 - [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
-- [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - 
+- [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - pulp_soc is the core building component of PULP based SoCs
 
 ## TeX 
 
@@ -3095,7 +3096,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
