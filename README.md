@@ -108,6 +108,7 @@
 
 ## C 
 
+- [richRemer/svg2x](https://github.com/richRemer/svg2x) - command-line tool to convert SVG to raster image
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [powervr-graphics/PowerVR-Series1](https://github.com/powervr-graphics/PowerVR-Series1) - Original source code for the PowerVR Series 1 GPUs : Midas Arcade, PCX1 and PCX2
@@ -755,6 +756,10 @@
 
 ## Go 
 
+- [isgasho/webgopher](https://github.com/isgasho/webgopher) - A Web to Gopher proxy that allows you to access artbitrary Web resource over the Gopher protocol.
+- [therainingmonkey/gopher](https://github.com/therainingmonkey/gopher) - A terminal browser for the Gopher protocol.
+- [stryan/go-gopher](https://github.com/stryan/go-gopher) - Gopher (RFC 1436) protocol library for the Go (Golang) programming language supporting both client and server
+- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
 - [PoCInnovation/PoCLab](https://github.com/PoCInnovation/PoCLab) - 
 - [ricallinson/tpms](https://github.com/ricallinson/tpms) - Go Library for the ZEEPIN TPMS Sensor Bluetooth Tire Pressure Monitoring System
 - [MarinX/goble](https://github.com/MarinX/goble) - Bluetooth Low Energy for Go
@@ -2129,6 +2134,7 @@
 
 ## JavaScript 
 
+- [Nikhil1602/font-maker](https://github.com/Nikhil1602/font-maker) - Convert your handwriting into the custom font file.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [deepch/RTSPtoHLSLL](https://github.com/deepch/RTSPtoHLSLL) - RTSP Stream to WebBrowser HLS Low Latency over HTTP based MP4 segments
@@ -2519,6 +2525,7 @@
 
 ## Python 
 
+- [sloumdrone/burrow](https://github.com/sloumdrone/burrow) - A GUI based gopher (protocol) client
 - [yorikvanhavre/Draft-dxf-importer](https://github.com/yorikvanhavre/Draft-dxf-importer) - Libraries to enable dxf support in FreeCAD
 - [mozman/ezdxf](https://github.com/mozman/ezdxf) - Python interface to DXF
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -2884,6 +2891,7 @@
 
 ## Shell 
 
+- [essentialkaos/gopack](https://github.com/essentialkaos/gopack) - A simple tool for packing Go packages sources with all dependencies
 - [MrSimonEmms/gitpod-single-instance](https://github.com/MrSimonEmms/gitpod-single-instance) - Run Gitpod on your local machine
 - [AkihiroSuda/containerized-systemd](https://github.com/AkihiroSuda/containerized-systemd) - Dockerfile examples for containerized systemd (mainly for test environments)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
