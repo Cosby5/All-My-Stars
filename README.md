@@ -2040,7 +2040,6 @@
 ## HTML 
 
 - [schollz/streammyaudio](https://github.com/schollz/streammyaudio) - Easily stream audio from any computer to the internet.
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
@@ -2211,7 +2210,7 @@
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [kevinbolton/DNSOverHTTPS](https://github.com/kevinbolton/DNSOverHTTPS) - 
 - [ynloultratech/web2apk](https://github.com/ynloultratech/web2apk) - 🌎 ➡️ 📱 Cordova project and script to build android APK from given url
-- [koehlma/jaspy](https://github.com/koehlma/jaspy) - a Python VM written entirely from scratch in JavaScript with some unique features
+- [koehlma/jaspy](https://github.com/koehlma/jaspy) - A Python byte code VM written entirely from scratch in JavaScript with some unique features.
 - [mafintosh/torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -2525,6 +2524,7 @@
 
 ## Python 
 
+- [IlanFrumer/phoenician-keyboard](https://github.com/IlanFrumer/phoenician-keyboard) - Phoenician keyboard for linux
 - [sloumdrone/burrow](https://github.com/sloumdrone/burrow) - A GUI based gopher (protocol) client
 - [yorikvanhavre/Draft-dxf-importer](https://github.com/yorikvanhavre/Draft-dxf-importer) - Libraries to enable dxf support in FreeCAD
 - [mozman/ezdxf](https://github.com/mozman/ezdxf) - Python interface to DXF
@@ -3092,6 +3092,7 @@
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
