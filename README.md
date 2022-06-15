@@ -33,6 +33,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [M4](#m4)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Nginx](#nginx)
@@ -756,6 +757,7 @@
 
 ## Go 
 
+- [elsanussi-s-mneina/hebrew-to-arabic-transliteration](https://github.com/elsanussi-s-mneina/hebrew-to-arabic-transliteration) - Convert Hebrew letters to Arabic letters.
 - [isgasho/webgopher](https://github.com/isgasho/webgopher) - A Web to Gopher proxy that allows you to access artbitrary Web resource over the Gopher protocol.
 - [therainingmonkey/gopher](https://github.com/therainingmonkey/gopher) - A terminal browser for the Gopher protocol.
 - [stryan/go-gopher](https://github.com/stryan/go-gopher) - Gopher (RFC 1436) protocol library for the Go (Golang) programming language supporting both client and server
@@ -2309,6 +2311,10 @@
 - [jcbf/smf-spf](https://github.com/jcbf/smf-spf) - It's a lightweight, fast and reliable Sendmail milter that implements the Sender Policy Framework
 - [juce/lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server
 
+## M4 
+
+- [hectorm/docker-qemu-reactos](https://github.com/hectorm/docker-qemu-reactos) - A Docker image for the ReactOS operating system.
+
 ## MATLAB 
 
 - [michtesar/emotion_reader](https://github.com/michtesar/emotion_reader) - Hackaton Hack-The-Brain project of reading emotion in real time with Biosemi ActiveTwo EEG
@@ -2322,7 +2328,6 @@
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
 - [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
-- [hectorm/docker-qemu-reactos](https://github.com/hectorm/docker-qemu-reactos) - A Docker image for the ReactOS operating system.
 - [Luzifer/project-status](https://github.com/Luzifer/project-status) - Template for a SVG image to be embedded into the README file of a Github repository.
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 - [cloudflavor/tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
