@@ -2363,6 +2363,7 @@
 
 ## Others 
 
+- [rkh/astro-data](https://github.com/rkh/astro-data) - Pre-calculated lunar and solar cycles.
 - [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [run-as-root/gitlab-pipeline-templates](https://github.com/run-as-root/gitlab-pipeline-templates) - A collection of drop-in gitlab pipeline steps, easy to use, sharable, maintainable.
 - [rrrrrrrr-stack/rrrrrrrr](https://github.com/rrrrrrrr-stack/rrrrrrrr) - 
