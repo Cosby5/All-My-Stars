@@ -524,6 +524,7 @@
 
 ## D 
 
+- [andrenatal/PsContinuous](https://github.com/andrenatal/PsContinuous) - Continuous speech recognition on Android using pocketsphinx
 - [ajbonkoski/dynvm](https://github.com/ajbonkoski/dynvm) - DynVM is a high-level VM intended as a target for dynamic languages. DynVM executes a high-level assembly language modeled after the Lua IR. This high-level assembly laguage (hlasm) can be the target 
 - [msgpack-rpc/msgpack-rpc-d](https://github.com/msgpack-rpc/msgpack-rpc-d) - MessagePack-RPC for D
 - [jpf91/msgpack-ll](https://github.com/jpf91/msgpack-ll) - A low level @nogc, nothrow, @safe, pure and betterC compatible msgpack.org[D] library
@@ -757,6 +758,7 @@
 
 ## Go 
 
+- [mathuin/equinox](https://github.com/mathuin/equinox) - Tools to calculate dates of equinoxes, solstices, and cross-quarter days.
 - [elsanussi-s-mneina/hebrew-to-arabic-transliteration](https://github.com/elsanussi-s-mneina/hebrew-to-arabic-transliteration) - Convert Hebrew letters to Arabic letters.
 - [isgasho/webgopher](https://github.com/isgasho/webgopher) - A Web to Gopher proxy that allows you to access artbitrary Web resource over the Gopher protocol.
 - [therainingmonkey/gopher](https://github.com/therainingmonkey/gopher) - A terminal browser for the Gopher protocol.
