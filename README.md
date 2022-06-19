@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ANTLR](#antlr)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Blade](#blade)
@@ -71,10 +70,6 @@
 - [XSLT](#xslt)
 - [Yacc](#yacc)
 - [Zig](#zig)
-
-## ANTLR 
-
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
 ## Arduino 
 
@@ -524,6 +519,10 @@
 
 ## D 
 
+- [alvinliu725/rtos](https://github.com/alvinliu725/rtos) - Real time operating system assignment
+- [kmosegaard/timeserver](https://github.com/kmosegaard/timeserver) - Implementing RFC868 in different languages.
+- [boolangery/d-ntp-client](https://github.com/boolangery/d-ntp-client) - 
+- [ilmanzo/ntpclient](https://github.com/ilmanzo/ntpclient) - a very simple NTP client written in D
 - [andrenatal/PsContinuous](https://github.com/andrenatal/PsContinuous) - Continuous speech recognition on Android using pocketsphinx
 - [ajbonkoski/dynvm](https://github.com/ajbonkoski/dynvm) - DynVM is a high-level VM intended as a target for dynamic languages. DynVM executes a high-level assembly language modeled after the Lua IR. This high-level assembly laguage (hlasm) can be the target 
 - [msgpack-rpc/msgpack-rpc-d](https://github.com/msgpack-rpc/msgpack-rpc-d) - MessagePack-RPC for D
@@ -700,6 +699,7 @@
 
 - [kingmercian/SonarrClient](https://github.com/kingmercian/SonarrClient) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
 ## Dockerfile 
 
