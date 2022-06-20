@@ -104,6 +104,7 @@
 
 ## C 
 
+- [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
 - [richRemer/svg2x](https://github.com/richRemer/svg2x) - command-line tool to convert SVG to raster image
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
@@ -364,6 +365,7 @@
 
 ## C++ 
 
+- [peercoin/peercoin](https://github.com/peercoin/peercoin) - Reference implementation of the Peercoin protocol.
 - [indeterminatedesign/TractionControl](https://github.com/indeterminatedesign/TractionControl) - 
 - [ysc3839/AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+
 - [d03n3rfr1tz3/HC-SR04](https://github.com/d03n3rfr1tz3/HC-SR04) - Library for measuring distance with the HC-SR04 UltraSonic Sensor, by utilizing temperature correction and multiple echo pins in parallel.
@@ -758,6 +760,15 @@
 
 ## Go 
 
+- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
+- [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
+- [alexamies/chinesenotes-go](https://github.com/alexamies/chinesenotes-go) - Go web application for Chinese-English dictionary
+- [verbumby/verbum](https://github.com/verbumby/verbum) - Online dictionary platform
+- [knadh/dictmaker](https://github.com/knadh/dictmaker) - A stand-alone web server app for rapidly building and publishing full fledged dictionary websites and APIs for any language.
+- [TimothyYe/ydict](https://github.com/TimothyYe/ydict) - Yet another command-line youdao dictionary for geeks!
+- [m13253/gophertun](https://github.com/m13253/gophertun) - Go interface for TUN/TAP and other userland tunnels
+- [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [soniakeys/meeus](https://github.com/soniakeys/meeus) - Implementation of "Astronomical Algorithms" by Jean Meeus
 - [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location
 - [floAr/calendargo](https://github.com/floAr/calendargo) - Generate monthly calendar templates to print or use with devices like the reMarkable2.
@@ -2084,6 +2095,7 @@
 
 ## Java 
 
+- [afonsotrepa/PocketGopher](https://github.com/afonsotrepa/PocketGopher) - Gopher browser for android written in java
 - [OnlyInAmerica/BLEMeshChat](https://github.com/OnlyInAmerica/BLEMeshChat) - Android client for iOS to Android chat application over Bluetooth LE, using Android L APIs
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [claritylab/CoreNLP](https://github.com/claritylab/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
@@ -3099,6 +3111,7 @@
 
 ## TypeScript 
 
+- [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror) - An open source project for coffee enthusiasts.
@@ -3177,6 +3190,7 @@
 
 ## Verilog 
 
+- [OpenTimer/Parser-Verilog](https://github.com/OpenTimer/Parser-Verilog) - A Standalone Structural Verilog Parser
 - [MoonbaseOtago/vroom](https://github.com/MoonbaseOtago/vroom) - VRoom! RISC-V CPU
 - [thegamingbot/VLIW-Architecture](https://github.com/thegamingbot/VLIW-Architecture) - A Python - Verilog combination that simulates the working of a 32-bit 5-stage pipelined VLIW processor from input assembly code while monitoring the updates in the processor register file.
 - [EvgenyMuryshkin/qusoc](https://github.com/EvgenyMuryshkin/qusoc) - QuSoC demo projects and template
