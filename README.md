@@ -104,6 +104,7 @@
 
 ## C 
 
+- [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
 - [richRemer/svg2x](https://github.com/richRemer/svg2x) - command-line tool to convert SVG to raster image
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -365,6 +366,9 @@
 
 ## C++ 
 
+- [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
+- [me-no-dev/AsyncTCP](https://github.com/me-no-dev/AsyncTCP) - Async TCP Library for ESP32
+- [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 - [peercoin/peercoin](https://github.com/peercoin/peercoin) - Reference implementation of the Peercoin protocol.
 - [indeterminatedesign/TractionControl](https://github.com/indeterminatedesign/TractionControl) - 
 - [ysc3839/AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+
@@ -521,6 +525,7 @@
 
 ## D 
 
+- [huntlabs/hunt-entity](https://github.com/huntlabs/hunt-entity) - An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.
 - [alvinliu725/rtos](https://github.com/alvinliu725/rtos) - Real time operating system assignment
 - [kmosegaard/timeserver](https://github.com/kmosegaard/timeserver) - Implementing RFC868 in different languages.
 - [boolangery/d-ntp-client](https://github.com/boolangery/d-ntp-client) - 
