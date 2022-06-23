@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ANTLR](#antlr)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Blade](#blade)
@@ -71,6 +72,10 @@
 - [Yacc](#yacc)
 - [Zig](#zig)
 
+## ANTLR 
+
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
 ## Arduino 
 
 - [naldin/ArduinoServoDCMotor](https://github.com/naldin/ArduinoServoDCMotor) - An Arduino servo motor with DC motor and potentiometer
@@ -104,6 +109,7 @@
 
 ## C 
 
+- [imt-atlantique/Arduino-IPv6Stack](https://github.com/imt-atlantique/Arduino-IPv6Stack) - IPv6 stack for Arduino and Xbee based on Contiki OS network stack
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
 - [richRemer/svg2x](https://github.com/richRemer/svg2x) - command-line tool to convert SVG to raster image
@@ -366,6 +372,9 @@
 
 ## C++ 
 
+- [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
+- [rweather/arduinolibs](https://github.com/rweather/arduinolibs) - Arduino Cryptography Library
+- [neu-rah/ArduinoMenu](https://github.com/neu-rah/ArduinoMenu) - Arduino generic menu/interactivity system
 - [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) - A internet radio and bluetooth speaker project for the Espressif ESP32
 - [me-no-dev/AsyncTCP](https://github.com/me-no-dev/AsyncTCP) - Async TCP Library for ESP32
 - [me-no-dev/ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
@@ -706,7 +715,6 @@
 
 - [kingmercian/SonarrClient](https://github.com/kingmercian/SonarrClient) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
 ## Dockerfile 
 
@@ -2388,6 +2396,7 @@
 
 ## Others 
 
+- [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [rkh/astro-data](https://github.com/rkh/astro-data) - Pre-calculated lunar and solar cycles.
 - [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [run-as-root/gitlab-pipeline-templates](https://github.com/run-as-root/gitlab-pipeline-templates) - A collection of drop-in gitlab pipeline steps, easy to use, sharable, maintainable.
@@ -2922,6 +2931,7 @@
 
 ## Shell 
 
+- [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script
 - [essentialkaos/gopack](https://github.com/essentialkaos/gopack) - A simple tool for packing Go packages sources with all dependencies
 - [MrSimonEmms/gitpod-single-instance](https://github.com/MrSimonEmms/gitpod-single-instance) - Run Gitpod on your local machine
 - [AkihiroSuda/containerized-systemd](https://github.com/AkihiroSuda/containerized-systemd) - Dockerfile examples for containerized systemd (mainly for test environments)
