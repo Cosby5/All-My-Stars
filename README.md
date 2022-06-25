@@ -925,7 +925,6 @@
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - Web based, Go IDE.
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
-- [schultz-is/go-imsg](https://github.com/schultz-is/go-imsg) - Package imsg provides tools for working with OpenBSD's imsg library.
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
 - [namsral/multipass](https://github.com/namsral/multipass) - Better authentication for HTTP
 - [zikes/gopkg](https://github.com/zikes/gopkg) - A Caddy plugin to add gopkg-like functionality to your own web sites
