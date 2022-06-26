@@ -308,6 +308,8 @@
 
 ## C# # 
 
+- [sketchpunk/openkeyboard](https://github.com/sketchpunk/openkeyboard) - Virtual keyboard with dynamic user defined layouts
+- [YuriyGuts/unicode-virtual-keyboard](https://github.com/YuriyGuts/unicode-virtual-keyboard) - Windows utility that simplifies the input of Unicode characters by displaying a handy on-demand virtual keyboard with powerful character search functionality and global hotkey support.
 - [blueOkiris/clonger](https://github.com/blueOkiris/clonger) - A tool for designing conlangs
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
@@ -534,6 +536,7 @@
 
 ## D 
 
+- [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
 - [huntlabs/hunt-entity](https://github.com/huntlabs/hunt-entity) - An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.
 - [alvinliu725/rtos](https://github.com/alvinliu725/rtos) - Real time operating system assignment
 - [kmosegaard/timeserver](https://github.com/kmosegaard/timeserver) - Implementing RFC868 in different languages.
@@ -773,6 +776,12 @@
 
 ## Go 
 
+- [lwch/rdesktop](https://github.com/lwch/rdesktop) - golang desktop controller
+- [pqsec/passkb](https://github.com/pqsec/passkb) - A simple virtual keyboard to paste your passwords into forms which block paste
+- [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
