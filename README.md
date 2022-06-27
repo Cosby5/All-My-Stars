@@ -109,6 +109,7 @@
 
 ## C 
 
+- [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [imt-atlantique/Arduino-IPv6Stack](https://github.com/imt-atlantique/Arduino-IPv6Stack) - IPv6 stack for Arduino and Xbee based on Contiki OS network stack
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
 - [timmbogner/Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
@@ -776,6 +777,9 @@
 
 ## Go 
 
+- [IoIxD/PNGToSVG](https://github.com/IoIxD/PNGToSVG) - Program for converting pixel art into optimized SVGs, which you can then swap in for PNGs to get consistent scaling on modern browsers.
+- [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
+- [akosmarton/vunikbd](https://github.com/akosmarton/vunikbd) - Virtual Unicode Keyboard for Linux in Go
 - [lwch/rdesktop](https://github.com/lwch/rdesktop) - golang desktop controller
 - [pqsec/passkb](https://github.com/pqsec/passkb) - A simple virtual keyboard to paste your passwords into forms which block paste
 - [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
@@ -787,7 +791,7 @@
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
 - [alexamies/chinesenotes-go](https://github.com/alexamies/chinesenotes-go) - Go web application for Chinese-English dictionary
 - [verbumby/verbum](https://github.com/verbumby/verbum) - Online dictionary platform
-- [knadh/dictmaker](https://github.com/knadh/dictmaker) - A stand-alone web server app for rapidly building and publishing full fledged dictionary websites and APIs for any language.
+- [knadh/dictmaker](https://github.com/knadh/dictmaker) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
 - [TimothyYe/ydict](https://github.com/TimothyYe/ydict) - Yet another command-line youdao dictionary for geeks!
 - [m13253/gophertun](https://github.com/m13253/gophertun) - Go interface for TUN/TAP and other userland tunnels
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
@@ -1722,7 +1726,7 @@
 - [nu7hatch/gouuid](https://github.com/nu7hatch/gouuid) - Go binding for libuuid
 - [ianschenck/envflag](https://github.com/ianschenck/envflag) - envflag - flags for the environment
 - [tools/godep](https://github.com/tools/godep) - dependency tool for go
-- [dodo-cli/dodo](https://github.com/dodo-cli/dodo) - like sudo, but for docker
+- [wabenet/dodo](https://github.com/wabenet/dodo) - like sudo, but for docker
 - [refi64/usudo](https://github.com/refi64/usudo) - A lightweight, command-line-friendly sudo for Windows
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
@@ -2117,6 +2121,7 @@
 
 ## Java 
 
+- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [DraqueT/PolyGlot](https://github.com/DraqueT/PolyGlot) - PolyGlot is a conlang construction toolkit.
 - [afonsotrepa/PocketGopher](https://github.com/afonsotrepa/PocketGopher) - Gopher browser for android written in java
 - [OnlyInAmerica/BLEMeshChat](https://github.com/OnlyInAmerica/BLEMeshChat) - Android client for iOS to Android chat application over Bluetooth LE, using Android L APIs
@@ -2518,6 +2523,7 @@
 
 ## PHP 
 
+- [markjaquith/WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository. I use this as a base when creating a new repo.
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [HuasoFoundries/phpPgAdmin6](https://github.com/HuasoFoundries/phpPgAdmin6) - PHP7+ Based administration tool for PostgreSQL 9.3+
@@ -2574,6 +2580,8 @@
 
 ## Python 
 
+- [leifgehrmann/fontforge-svg-importer](https://github.com/leifgehrmann/fontforge-svg-importer) - A tool to easily import SVGs into a FontForge file
+- [ianmackinnon/png2svg](https://github.com/ianmackinnon/png2svg) - Convert PNG images to SVG.
 - [IlanFrumer/phoenician-keyboard](https://github.com/IlanFrumer/phoenician-keyboard) - Phoenician keyboard for linux
 - [sloumdrone/burrow](https://github.com/sloumdrone/burrow) - A GUI based gopher (protocol) client
 - [yorikvanhavre/Draft-dxf-importer](https://github.com/yorikvanhavre/Draft-dxf-importer) - Libraries to enable dxf support in FreeCAD
@@ -3136,6 +3144,7 @@
 
 ## TypeScript 
 
+- [dmaziad/Phoenician-Keyboard](https://github.com/dmaziad/Phoenician-Keyboard) - 
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
