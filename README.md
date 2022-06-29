@@ -375,6 +375,12 @@
 
 ## C++ 
 
+- [justcallmekoko/MarauderCentauri](https://github.com/justcallmekoko/MarauderCentauri) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 and ESP8266
+- [nathangrove/esp32-ble-keyboard](https://github.com/nathangrove/esp32-ble-keyboard) - Firmware for my homemade mechanical bluetooth keyboard based around an ESP32
+- [T-vK/alexa-jammer](https://github.com/T-vK/alexa-jammer) - Jamming the Wifi connection and microphones of all Amazon Echo and Google Home devices surrounding you
+- [T-vK/ESP32-BLE-Mouse](https://github.com/T-vK/ESP32-BLE-Mouse) - Bluetooth LE Mouse library for the ESP32 (Arduino IDE compatible)
+- [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)
+- [Dakror/UnicodeInput](https://github.com/Dakror/UnicodeInput) - Simple Windows background program to write unicode characters like emojis. Usable as macro system
 - [JAndrassy/ArduinoOTA](https://github.com/JAndrassy/ArduinoOTA) - Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries
 - [rweather/arduinolibs](https://github.com/rweather/arduinolibs) - Arduino Cryptography Library
 - [neu-rah/ArduinoMenu](https://github.com/neu-rah/ArduinoMenu) - Arduino generic menu/interactivity system
@@ -2411,6 +2417,7 @@
 
 ## Others 
 
+- [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [rkh/astro-data](https://github.com/rkh/astro-data) - Pre-calculated lunar and solar cycles.
 - [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
@@ -2949,6 +2956,7 @@
 
 ## Shell 
 
+- [T-vK/Termux-DeepSpeech](https://github.com/T-vK/Termux-DeepSpeech) - Open source offline speech recognition for Android using Mozilla's DeepSpeech in Termux
 - [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script
 - [essentialkaos/gopack](https://github.com/essentialkaos/gopack) - A simple tool for packing Go packages sources with all dependencies
 - [MrSimonEmms/gitpod-single-instance](https://github.com/MrSimonEmms/gitpod-single-instance) - Run Gitpod on your local machine
