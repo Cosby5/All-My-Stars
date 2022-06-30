@@ -57,6 +57,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -109,6 +110,7 @@
 
 ## C 
 
+- [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [imt-atlantique/Arduino-IPv6Stack](https://github.com/imt-atlantique/Arduino-IPv6Stack) - IPv6 stack for Arduino and Xbee based on Contiki OS network stack
 - [martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router) - A simple NAT Router for the ESP32
@@ -1612,7 +1614,7 @@
 - [tmc/scp](https://github.com/tmc/scp) - A basic implementation of scp for go.
 - [skratchdot/open-golang](https://github.com/skratchdot/open-golang) - Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go
-- [xtaci/smux](https://github.com/xtaci/smux) - A Stream Multiplexing Library for golang with least memory usage
+- [xtaci/smux](https://github.com/xtaci/smux) - A Stream Multiplexing Library for golang with least memory usage(TDMA)
 - [johanbrandhorst/chunker](https://github.com/johanbrandhorst/chunker) - Small demo of a server splitting binary blobs into streamed chunks
 - [johanbrandhorst/gopherjs-grpc-websocket](https://github.com/johanbrandhorst/gopherjs-grpc-websocket) - An example implementation of bridging gRPC with a GopherJS frontend over Websockets
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
@@ -2189,6 +2191,7 @@
 
 ## JavaScript 
 
+- [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [Nikhil1602/font-maker](https://github.com/Nikhil1602/font-maker) - Convert your handwriting into the custom font file.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
@@ -2587,6 +2590,9 @@
 
 ## Python 
 
+- [jeffminton/keyboard_stl_generator](https://github.com/jeffminton/keyboard_stl_generator) - Generate a 3D model from a keyboard design from keyboard layout editor and split up the design so it can be printed on a 3D printer
+- [CurrentResident/BoardBuilder](https://github.com/CurrentResident/BoardBuilder) - Generate keyboard plate OpenSCAD drawings from keyboard-layout-editor.com JSON files
+- [Kirpal/Keyboard-Layout-Editor-for-Blender](https://github.com/Kirpal/Keyboard-Layout-Editor-for-Blender) - Allows you to import keyboard layouts into blender and render them in 3d
 - [leifgehrmann/fontforge-svg-importer](https://github.com/leifgehrmann/fontforge-svg-importer) - A tool to easily import SVGs into a FontForge file
 - [ianmackinnon/png2svg](https://github.com/ianmackinnon/png2svg) - Convert PNG images to SVG.
 - [IlanFrumer/phoenician-keyboard](https://github.com/IlanFrumer/phoenician-keyboard) - Phoenician keyboard for linux
@@ -2956,6 +2962,7 @@
 
 ## Shell 
 
+- [GitFr33/app-icon-resizer](https://github.com/GitFr33/app-icon-resizer) - A small and handy shell script for generating all 24 different icon sizes needed for an iOS + Android app from inkskape SVG.
 - [T-vK/Termux-DeepSpeech](https://github.com/T-vK/Termux-DeepSpeech) - Open source offline speech recognition for Android using Mozilla's DeepSpeech in Termux
 - [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script
 - [essentialkaos/gopack](https://github.com/essentialkaos/gopack) - A simple tool for packing Go packages sources with all dependencies
@@ -3118,6 +3125,10 @@
 - [fhd/init-script-template](https://github.com/fhd/init-script-template) - A template for simple System V init scripts
 - [pwaring/gcc-cross-compiler](https://github.com/pwaring/gcc-cross-compiler) - Cross compiling GCC for a range of targets
 - [tomuta/debian-mini-odroid-c1](https://github.com/tomuta/debian-mini-odroid-c1) - Script to build a minimal Debian sd card image.
+
+## Smarty 
+
+- [jeroen94704/klepcbgen](https://github.com/jeroen94704/klepcbgen) - Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input
 
 ## Standard ML 
 
