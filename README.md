@@ -137,7 +137,6 @@
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
-- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
@@ -412,6 +411,7 @@
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
+- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [rasa/dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
@@ -1337,7 +1337,7 @@
 - [tianon/go-aptsources](https://github.com/tianon/go-aptsources) - WIP package to deal with apt sources, especially generating "sources.list"; see also https://pault.ag/go/debian
 - [cheggaaa/pb](https://github.com/cheggaaa/pb) - Console progress bar for Golang
 - [atomatt/plexible](https://github.com/atomatt/plexible) - Go Plex client package and lightweight, headless audio player
-- [pcarrier/gauth](https://github.com/pcarrier/gauth) - Google Authenticator on your laptop
+- [pcarrier/gauth](https://github.com/pcarrier/gauth) - Google Authenticator in your terminal
 - [robbiev/two-factor-auth](https://github.com/robbiev/two-factor-auth) - Generate 2FA tokens compatible with Google Authenticator
 - [Merovius/srvfb](https://github.com/Merovius/srvfb) - Stream a framebuffer device over HTTP
 - [xrstf/milter-archive](https://github.com/xrstf/milter-archive) - Sendmail milter that passively archives incoming e-mails
@@ -2946,7 +2946,7 @@
 - [diodesign/diosix](https://github.com/diodesign/diosix) - A lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [neosmart/static-compress](https://github.com/neosmart/static-compress) - A utility for creating a compressed copy of all files in a tree
+- [mqudsi/static-compress](https://github.com/mqudsi/static-compress) - A utility for creating a compressed copy of all files in a tree
 - [MPIB/hazel](https://github.com/MPIB/hazel) - A Chocolatey-compatible multi-platform Package Server written in Rust
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 
