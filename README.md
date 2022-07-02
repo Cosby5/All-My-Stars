@@ -110,6 +110,8 @@
 
 ## C 
 
+- [sammycage/plutovg](https://github.com/sammycage/plutovg) - Tiny 2D vector graphics library in C
+- [sammycage/plutosvg](https://github.com/sammycage/plutosvg) - Tiny SVG rendering library in C
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [imt-atlantique/Arduino-IPv6Stack](https://github.com/imt-atlantique/Arduino-IPv6Stack) - IPv6 stack for Arduino and Xbee based on Contiki OS network stack
@@ -376,6 +378,7 @@
 
 ## C++ 
 
+- [donbright/font_to_svg](https://github.com/donbright/font_to_svg) - Render characters from font files into an SVG path
 - [justcallmekoko/MarauderCentauri](https://github.com/justcallmekoko/MarauderCentauri) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 and ESP8266
 - [nathangrove/esp32-ble-keyboard](https://github.com/nathangrove/esp32-ble-keyboard) - Firmware for my homemade mechanical bluetooth keyboard based around an ESP32
 - [T-vK/alexa-jammer](https://github.com/T-vK/alexa-jammer) - Jamming the Wifi connection and microphones of all Amazon Echo and Google Home devices surrounding you
@@ -785,6 +788,7 @@
 
 ## Go 
 
+- [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either the golang vector or a derivative of the freetype anti-aliaser.
 - [IoIxD/PNGToSVG](https://github.com/IoIxD/PNGToSVG) - Program for converting pixel art into optimized SVGs, which you can then swap in for PNGs to get consistent scaling on modern browsers.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [akosmarton/vunikbd](https://github.com/akosmarton/vunikbd) - Virtual Unicode Keyboard for Linux in Go
@@ -1470,7 +1474,6 @@
 - [jazzboME/hangoutjson](https://github.com/jazzboME/hangoutjson) - Go package to aid in decoding json files generated for Google Hangouts in Takeout
 - [jforman/hangbot](https://github.com/jforman/hangbot) - Google Hangouts Chat Bot using PubSub
 - [gophergala/gopher_talkie](https://github.com/gophergala/gopher_talkie) - Secure voice messaging tool for geeks
-- [ehmry/smtptoxmpp](https://github.com/ehmry/smtptoxmpp) - Shitty Mail Transfer Protocol to Jabber
 - [toha/go-xmpp-http-upload](https://github.com/toha/go-xmpp-http-upload) - An implementation of a custom upload service for XEP-0363: HTTP File Upload written in Go. Its tested and documented for usage with the Ejabberd server and Postgres as database to store upload slots a
 - [sheenobu/go-xco](https://github.com/sheenobu/go-xco) - Library for building XMPP/Jabber ( XEP-0114 ) components in golang.
 - [unixpickle/fbmsgr](https://github.com/unixpickle/fbmsgr) - Reverse engineering Facebook Messenger
@@ -2093,6 +2096,8 @@
 
 ## HTML 
 
+- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+- [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [RalphBayer/ConWiki](https://github.com/RalphBayer/ConWiki) - A free, private, PC hosted Wiki for world building, conlanging and other nerdy projects
 - [schollz/streammyaudio](https://github.com/schollz/streammyaudio) - Easily stream audio from any computer to the internet.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
@@ -2191,6 +2196,7 @@
 
 ## JavaScript 
 
+- [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and ouput an SVG font
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [Nikhil1602/font-maker](https://github.com/Nikhil1602/font-maker) - Convert your handwriting into the custom font file.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -2379,6 +2385,7 @@
 
 ## Makefile 
 
+- [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13.1 emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [ericpruitt/static-glibc-nginx](https://github.com/ericpruitt/static-glibc-nginx) - Makefile and patch to build an NGINX binary statically linked against GNU libc.
 - [b4fun/coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
@@ -2590,6 +2597,7 @@
 
 ## Python 
 
+- [seanyeh/fontawesome-svgs](https://github.com/seanyeh/fontawesome-svgs) - Font Awesome icons in SVG format
 - [jeffminton/keyboard_stl_generator](https://github.com/jeffminton/keyboard_stl_generator) - Generate a 3D model from a keyboard design from keyboard layout editor and split up the design so it can be printed on a 3D printer
 - [CurrentResident/BoardBuilder](https://github.com/CurrentResident/BoardBuilder) - Generate keyboard plate OpenSCAD drawings from keyboard-layout-editor.com JSON files
 - [Kirpal/Keyboard-Layout-Editor-for-Blender](https://github.com/Kirpal/Keyboard-Layout-Editor-for-Blender) - Allows you to import keyboard layouts into blender and render them in 3d
@@ -3163,6 +3171,10 @@
 
 ## TypeScript 
 
+- [svgmoji/svgmoji](https://github.com/svgmoji/svgmoji) - Popular open source emoji libraries available as svg sprites
+- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 100+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
+- [IPS-LMU/EMU-webApp](https://github.com/IPS-LMU/EMU-webApp) - The EMU-webApp is an online and offline web application for labeling, visualizing and correcting speech and derived speech data.
 - [dmaziad/Phoenician-Keyboard](https://github.com/dmaziad/Phoenician-Keyboard) - 
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
