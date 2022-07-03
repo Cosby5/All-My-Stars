@@ -788,6 +788,7 @@
 
 ## Go 
 
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - 
 - [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either the golang vector or a derivative of the freetype anti-aliaser.
 - [IoIxD/PNGToSVG](https://github.com/IoIxD/PNGToSVG) - Program for converting pixel art into optimized SVGs, which you can then swap in for PNGs to get consistent scaling on modern browsers.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
@@ -2134,6 +2135,7 @@
 
 ## Java 
 
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [DraqueT/PolyGlot](https://github.com/DraqueT/PolyGlot) - PolyGlot is a conlang construction toolkit.
 - [afonsotrepa/PocketGopher](https://github.com/afonsotrepa/PocketGopher) - Gopher browser for android written in java
@@ -2970,6 +2972,7 @@
 
 ## Shell 
 
+- [MrEddX/nextcloud-zero](https://github.com/MrEddX/nextcloud-zero) - New Nextcloud auto-installer script
 - [GitFr33/app-icon-resizer](https://github.com/GitFr33/app-icon-resizer) - A small and handy shell script for generating all 24 different icon sizes needed for an iOS + Android app from inkskape SVG.
 - [T-vK/Termux-DeepSpeech](https://github.com/T-vK/Termux-DeepSpeech) - Open source offline speech recognition for Android using Mozilla's DeepSpeech in Termux
 - [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script
