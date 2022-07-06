@@ -297,7 +297,7 @@
 - [davidgiven/piface](https://github.com/davidgiven/piface) - Bare metal boot loader for the Raspberry Pi's VideoCore processor (no ARM!)
 - [payne92/bare-metal-arm](https://github.com/payne92/bare-metal-arm) - A "bare metal" ARM runtime example built with the GCC toolchain
 - [cmusphinx/sphinxbase](https://github.com/cmusphinx/sphinxbase) - 
-- [cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
+- [cmusphinx/pocketsphinx](https://github.com/cmusphinx/pocketsphinx) - A small speech recognizer
 - [sorbo/tcpcrypt](https://github.com/sorbo/tcpcrypt) - Fast TCP encryption
 - [cisco/thor](https://github.com/cisco/thor) - Thor Video Codec
 - [miselin/pedigree](https://github.com/miselin/pedigree) - The Pedigree Operating System
@@ -618,7 +618,7 @@
 - [jacob-carlborg/fiber_local_allocator](https://github.com/jacob-carlborg/fiber_local_allocator) - 
 - [adamdruppe/dtoh](https://github.com/adamdruppe/dtoh) - A D to C++ header file helper tool
 - [atilaneves/dpp](https://github.com/atilaneves/dpp) - Directly include C headers in D source code
-- [DYGV/img4d](https://github.com/DYGV/img4d) - PNG decoding / encoding / image processing with no dependencies (ugly codes)
+- [DYGV/img4d](https://github.com/DYGV/img4d) - PNG decoding / encoding / image processing with no dependencies
 - [Orvid/GC](https://github.com/Orvid/GC) - This repository will be for organizing the design of a new GC for D.
 - [Ingrater/thBase](https://github.com/Ingrater/thBase) - my GC free standard library for the D 2.0 programming language
 - [dlang-community/awesome-d](https://github.com/dlang-community/awesome-d) - A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
