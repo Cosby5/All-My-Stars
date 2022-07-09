@@ -2713,6 +2713,7 @@
 - [weskerfoot/DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
 - [eco37/pkgmirror](https://github.com/eco37/pkgmirror) - A FreeBSD pkg repo mirror tool thats scrapes a freebsd repo webpage and stores it localy to easier setup a local repo.
 - [stewartpark/git-play](https://github.com/stewartpark/git-play) - Git-play is a custom git command for deploying an application server very easily from a remote git repository.
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [olipo186/Git-Auto-Deploy](https://github.com/olipo186/Git-Auto-Deploy) - Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or webhooks using this small HTTP server written in Python. Continuous deployment in it's most simple form.
 - [WARP-LAB/Blender-Network-Render-Additions](https://github.com/WARP-LAB/Blender-Network-Render-Additions) - Added functionality for Blender Network Render
 - [janten/dpt-rp1-py](https://github.com/janten/dpt-rp1-py) - Python script to manage a Sony DPT-RP1 without the Digital Paper App
@@ -3035,7 +3036,6 @@
 - [fieu/gitlab-ci-discord-webhook](https://github.com/fieu/gitlab-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Gitlab CI to Discord as webhooks.
 - [danrue/oneoff-pkg-create](https://github.com/danrue/oneoff-pkg-create) - Create a FreeBSD pkgng-style package from an arbitrary directory of files.
 - [hectorm/docker-winamp](https://github.com/hectorm/docker-winamp) - A Docker image for the legendary Winamp 2.95 media player.
-- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [marvinpinto/docker-media-converter](https://github.com/marvinpinto/docker-media-converter) - A docker container to convert your `mkv` files to an `mp4` format which Plex is capable of direct streaming.
 - [OllieDay/sonarr-mp4-converter](https://github.com/OllieDay/sonarr-mp4-converter) - Sonarr post processing script to convert episodes to MP4 using FFmpeg
 - [OllieDay/radarr-mp4-converter](https://github.com/OllieDay/radarr-mp4-converter) - Radarr post processing script to convert movies to MP4 using FFmpeg
