@@ -788,6 +788,7 @@
 
 ## Go 
 
+- [gofiber/storage](https://github.com/gofiber/storage) - 📦 Premade storage drivers for 🚀 Fiber
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
 - [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either the golang vector or a derivative of the freetype anti-aliaser.
 - [IoIxD/PNGToSVG](https://github.com/IoIxD/PNGToSVG) - Program for converting pixel art into optimized SVGs, which you can then swap in for PNGs to get consistent scaling on modern browsers.
@@ -3204,7 +3205,7 @@
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [jayeshgoyal/pos-frontend](https://github.com/jayeshgoyal/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
+- [mrjg1/pos-frontend](https://github.com/mrjg1/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
 - [tigerxy/VSCode-ShareCode](https://github.com/tigerxy/VSCode-ShareCode) - Share Code is an Extension for Visual Studio Code. You can find it on marketplace.
 - [3drepo/3drepo.io](https://github.com/3drepo/3drepo.io) - 3D Repo web server
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
