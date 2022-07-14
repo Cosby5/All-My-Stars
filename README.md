@@ -788,6 +788,8 @@
 
 ## Go 
 
+- [fxnn/gone](https://github.com/fxnn/gone) - KISS wiki engine. Edits any text file. Written in Go.
+- [lucas-clemente/goldfish](https://github.com/lucas-clemente/goldfish) - A personal wiki / notes blend powered by markdown and git
 - [gofiber/storage](https://github.com/gofiber/storage) - 📦 Premade storage drivers for 🚀 Fiber
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
 - [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either the golang vector or a derivative of the freetype anti-aliaser.
