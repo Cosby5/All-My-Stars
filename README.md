@@ -378,6 +378,7 @@
 
 ## C++ 
 
+- [openwebos/smartkey-hun](https://github.com/openwebos/smartkey-hun) - The webOS service used for spell checking, converted to use Hunspell
 - [donbright/font_to_svg](https://github.com/donbright/font_to_svg) - Render characters from font files into an SVG path
 - [justcallmekoko/MarauderCentauri](https://github.com/justcallmekoko/MarauderCentauri) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 and ESP8266
 - [nathangrove/esp32-ble-keyboard](https://github.com/nathangrove/esp32-ble-keyboard) - Firmware for my homemade mechanical bluetooth keyboard based around an ESP32
@@ -788,6 +789,9 @@
 
 ## Go 
 
+- [Qs-F/doc-server](https://github.com/Qs-F/doc-server) - markdown formatted documents to html web document server.
+- [nocd5/md2html](https://github.com/nocd5/md2html) - Markdown to single HTML
+- [sajari/fuzzy](https://github.com/sajari/fuzzy) - Spell checking and fuzzy search suggestion written in Go
 - [fxnn/gone](https://github.com/fxnn/gone) - KISS wiki engine. Edits any text file. Written in Go.
 - [lucas-clemente/goldfish](https://github.com/lucas-clemente/goldfish) - A personal wiki / notes blend powered by markdown and git
 - [gofiber/storage](https://github.com/gofiber/storage) - 📦 Premade storage drivers for 🚀 Fiber
@@ -3177,6 +3181,7 @@
 
 ## TypeScript 
 
+- [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [svgmoji/svgmoji](https://github.com/svgmoji/svgmoji) - Popular open source emoji libraries available as svg sprites
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 100+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
