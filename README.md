@@ -139,7 +139,6 @@
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
-- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
@@ -266,7 +265,6 @@
 - [wishstudio/flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
 - [xrgtn/nullfs](https://github.com/xrgtn/nullfs) - FUSE nullfs drivers
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
-- [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 - [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 - [cofyc/dnscrypt-wrapper](https://github.com/cofyc/dnscrypt-wrapper) - This is dnscrypt wrapper (server-side dnscrypt proxy), which helps to add dnscrypt support to any name resolver.
 - [pam-pgsql/pam-pgsql](https://github.com/pam-pgsql/pam-pgsql) - Support to authenticate against PostgreSQL for PAM-enabled appliations
@@ -416,6 +414,7 @@
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
+- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [rasa/dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
@@ -555,7 +554,6 @@
 - [kmosegaard/timeserver](https://github.com/kmosegaard/timeserver) - Implementing RFC868 in different languages.
 - [boolangery/d-ntp-client](https://github.com/boolangery/d-ntp-client) - 
 - [ilmanzo/ntpclient](https://github.com/ilmanzo/ntpclient) - a very simple NTP client written in D
-- [andrenatal/PsContinuous](https://github.com/andrenatal/PsContinuous) - Continuous speech recognition on Android using pocketsphinx
 - [ajbonkoski/dynvm](https://github.com/ajbonkoski/dynvm) - DynVM is a high-level VM intended as a target for dynamic languages. DynVM executes a high-level assembly language modeled after the Lua IR. This high-level assembly laguage (hlasm) can be the target 
 - [msgpack-rpc/msgpack-rpc-d](https://github.com/msgpack-rpc/msgpack-rpc-d) - MessagePack-RPC for D
 - [jpf91/msgpack-ll](https://github.com/jpf91/msgpack-ll) - A low level @nogc, nothrow, @safe, pure and betterC compatible msgpack.org[D] library
@@ -2368,6 +2366,7 @@
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [yu4u/age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
+- [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 
 ## Kotlin 
 
@@ -2395,6 +2394,7 @@
 ## Makefile 
 
 - [eosrei/twemoji-color-font](https://github.com/eosrei/twemoji-color-font) - Twitter Unicode 13.1 emoji color OpenType-SVG font for Linux/MacOS/Windows
+- [andrenatal/PsContinuous](https://github.com/andrenatal/PsContinuous) - Continuous speech recognition on Android using pocketsphinx
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [ericpruitt/static-glibc-nginx](https://github.com/ericpruitt/static-glibc-nginx) - Makefile and patch to build an NGINX binary statically linked against GNU libc.
 - [b4fun/coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
