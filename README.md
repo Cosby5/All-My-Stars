@@ -139,6 +139,7 @@
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
+- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
@@ -414,7 +415,6 @@
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
 - [srsran/srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
-- [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [rasa/dskwipe](https://github.com/rasa/dskwipe) - Securely wipe disk media
@@ -423,7 +423,7 @@
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino) - Arduino electronics hacking
 - [CryptoManiac/AssemblyLoader](https://github.com/CryptoManiac/AssemblyLoader) - CLI assembly parser, in the progress
-- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - Examples for getting started with SDL2, for over 18 different programming languages
+- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - Sample projects for SDL2, for 20 different programming languages
 - [cuhk-eda/ripple-fpga](https://github.com/cuhk-eda/ripple-fpga) - RippleFPGA, A Simultaneous Pack-and-Place Algorithm for UltraScale FPGA
 - [facebookincubator/mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
