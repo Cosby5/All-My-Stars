@@ -110,6 +110,7 @@
 
 ## C 
 
+- [behindthepixels/EDXUtil](https://github.com/behindthepixels/EDXUtil) - An utility library including many containers, threading, OS, GUI and many other things.
 - [sammycage/plutovg](https://github.com/sammycage/plutovg) - Tiny 2D vector graphics library in C
 - [sammycage/plutosvg](https://github.com/sammycage/plutosvg) - Tiny SVG rendering library in C
 - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware
@@ -378,6 +379,9 @@
 
 ## C++ 
 
+- [behindthepixels/EDXRaster](https://github.com/behindthepixels/EDXRaster) - A highly optimized CPU software rasterizer, which implements most of the common D3D pipeline stages.
+- [CallMeZhou/Puresoft3D](https://github.com/CallMeZhou/Puresoft3D) - Software programmable graphics pipeline (scanline rasterzation based 3D renderer)
+- [Cosby5/Puresoft3D](https://github.com/Cosby5/Puresoft3D) - Software programmable graphics pipeline (scanline rasterzation based 3D renderer)
 - [openwebos/smartkey-hun](https://github.com/openwebos/smartkey-hun) - The webOS service used for spell checking, converted to use Hunspell
 - [donbright/font_to_svg](https://github.com/donbright/font_to_svg) - Render characters from font files into an SVG path
 - [justcallmekoko/MarauderCentauri](https://github.com/justcallmekoko/MarauderCentauri) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 and ESP8266
@@ -852,7 +856,7 @@
 - [pioz/god](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines
 - [dspinhirne/netaddr-go](https://github.com/dspinhirne/netaddr-go) - A Go library for performing calculations on IPv4 and IPv6 subnets.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
-- [malwaredllc/minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both HTTP/gRPC interfaces secured with mTLS.
+- [malwaredllc/minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [mahesh-hegde/rrip](https://github.com/mahesh-hegde/rrip) - Bulk image downloader for reddit.
 - [CamusEnergy/kinney](https://github.com/CamusEnergy/kinney) - Real-time campus microgrid management for solar, EVs, HVAC, etc.
@@ -2606,6 +2610,7 @@
 
 ## Python 
 
+- [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [seanyeh/fontawesome-svgs](https://github.com/seanyeh/fontawesome-svgs) - Font Awesome icons in SVG format
 - [jeffminton/keyboard_stl_generator](https://github.com/jeffminton/keyboard_stl_generator) - Generate a 3D model from a keyboard design from keyboard layout editor and split up the design so it can be printed on a 3D printer
 - [CurrentResident/BoardBuilder](https://github.com/CurrentResident/BoardBuilder) - Generate keyboard plate OpenSCAD drawings from keyboard-layout-editor.com JSON files
