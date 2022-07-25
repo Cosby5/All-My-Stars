@@ -957,7 +957,7 @@
 - [hartmond/certbutler](https://github.com/hartmond/certbutler) - Certbutler is an acme client that simplifies wildcard certificates by selfhosting dns-01 challenges
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
-- [thestrukture/IDE](https://github.com/thestrukture/IDE) - Web based, Go code editor.
+- [thestrukture/IDE](https://github.com/thestrukture/IDE) - Just a Go code editor.
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
