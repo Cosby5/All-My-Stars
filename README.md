@@ -957,7 +957,7 @@
 - [hartmond/certbutler](https://github.com/hartmond/certbutler) - Certbutler is an acme client that simplifies wildcard certificates by selfhosting dns-01 challenges
 - [yields/ant](https://github.com/yields/ant) - A web crawler for Go
 - [superbrothers/opener](https://github.com/superbrothers/opener) - Open URL in your local web browser from the SSH-connected remote environment.
-- [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete
+- [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete. 一个 Go 代码编辑器，具有 DEBUGGING 和 AUTOCOMPLETE
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
 - [bspaans/jit-compiler](https://github.com/bspaans/jit-compiler) - JIT compiler in Go
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
@@ -1160,7 +1160,7 @@
 - [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
 - [rpcxio/rpcx-gateway](https://github.com/rpcxio/rpcx-gateway) - http gateway for rpcx services. Clients in any programming languages can call them
 - [rpcxio/rpcx-examples](https://github.com/rpcxio/rpcx-examples) - examples for the latest rpcx
-- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for clound!
+- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [xyproto/permissionbolt](https://github.com/xyproto/permissionbolt) - :nut_and_bolt: Middleware for keeping track of users, login states and permissions
 - [xyproto/mattersend](https://github.com/xyproto/mattersend) - :cyclone: Easy way to send messages to Mattermost
 - [xyproto/jit](https://github.com/xyproto/jit) - :vulcan_salute: Go module for executing machine code directly and a machine code interpreter.
