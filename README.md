@@ -36,6 +36,7 @@
 - [M4](#m4)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
+- [Mathematica](#mathematica)
 - [Nginx](#nginx)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -313,6 +314,7 @@
 
 ## C# # 
 
+- [akaStanley/BeamNG_Car](https://github.com/akaStanley/BeamNG_Car) - Re-creating a 1974 MG Midget as accuratley as possible in BeamNG.Drive.
 - [sketchpunk/openkeyboard](https://github.com/sketchpunk/openkeyboard) - Virtual keyboard with dynamic user defined layouts
 - [YuriyGuts/unicode-virtual-keyboard](https://github.com/YuriyGuts/unicode-virtual-keyboard) - Windows utility that simplifies the input of Unicode characters by displaying a handy on-demand virtual keyboard with powerful character search functionality and global hotkey support.
 - [blueOkiris/clonger](https://github.com/blueOkiris/clonger) - A tool for designing conlangs
@@ -2412,6 +2414,10 @@
 - [jaymoulin/docker-plex](https://github.com/jaymoulin/docker-plex) - Plex Media Server - Docker Image (Multiarch + Raspberry Pi)
 - [WanghongLin/StandaloneDVM](https://github.com/WanghongLin/StandaloneDVM) - Run the standalone dalvik virtual machine
 
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
 ## Nginx 
 
 - [nginx-modules/nginx_send_minimum_rate](https://github.com/nginx-modules/nginx_send_minimum_rate) - Adaptive timeout slow downloads for NGINX
@@ -2610,6 +2616,7 @@
 
 ## Python 
 
+- [MOsmanis/BeamNG-Cruise-Control](https://github.com/MOsmanis/BeamNG-Cruise-Control) - Cruise Control PID algorithm implementation in Python for BeamNG.research. Using BeamNGpy API to control throttle and map in BeamNG.research.(https://github.com/BeamNG/BeamNGpy) Later extended to Adap
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [seanyeh/fontawesome-svgs](https://github.com/seanyeh/fontawesome-svgs) - Font Awesome icons in SVG format
 - [jeffminton/keyboard_stl_generator](https://github.com/jeffminton/keyboard_stl_generator) - Generate a 3D model from a keyboard design from keyboard layout editor and split up the design so it can be printed on a 3D printer
@@ -2854,7 +2861,6 @@
 - [buckyroberts/YouTube-Crawler](https://github.com/buckyroberts/YouTube-Crawler) - Crawler for adding videos to thenewboston.com
 - [anybox/buttervolume](https://github.com/anybox/buttervolume) - BTRFS Volume plugin for Docker
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [yask123/fixalbumart](https://github.com/yask123/fixalbumart) - Automagically fix album arts of mp3 files, Even with incorrect tags!!!
 - [fbchat-dev/fbchat](https://github.com/fbchat-dev/fbchat) - Facebook Chat (Messenger) for Python
