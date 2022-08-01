@@ -36,7 +36,6 @@
 - [M4](#m4)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
-- [Mathematica](#mathematica)
 - [Nginx](#nginx)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -314,6 +313,7 @@
 
 ## C# # 
 
+- [Rybo713/V8Swaps](https://github.com/Rybo713/V8Swaps) - Insane V8 Swaps for most stock cars
 - [akaStanley/BeamNG_Car](https://github.com/akaStanley/BeamNG_Car) - Re-creating a 1974 MG Midget as accuratley as possible in BeamNG.Drive.
 - [sketchpunk/openkeyboard](https://github.com/sketchpunk/openkeyboard) - Virtual keyboard with dynamic user defined layouts
 - [YuriyGuts/unicode-virtual-keyboard](https://github.com/YuriyGuts/unicode-virtual-keyboard) - Windows utility that simplifies the input of Unicode characters by displaying a handy on-demand virtual keyboard with powerful character search functionality and global hotkey support.
@@ -381,6 +381,7 @@
 
 ## C++ 
 
+- [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interac
 - [behindthepixels/EDXRaster](https://github.com/behindthepixels/EDXRaster) - A highly optimized CPU software rasterizer, which implements most of the common D3D pipeline stages.
 - [CallMeZhou/Puresoft3D](https://github.com/CallMeZhou/Puresoft3D) - Software programmable graphics pipeline (scanline rasterzation based 3D renderer)
 - [Cosby5/Puresoft3D](https://github.com/Cosby5/Puresoft3D) - Software programmable graphics pipeline (scanline rasterzation based 3D renderer)
@@ -429,7 +430,7 @@
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino) - Arduino electronics hacking
 - [CryptoManiac/AssemblyLoader](https://github.com/CryptoManiac/AssemblyLoader) - CLI assembly parser, in the progress
-- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - Sample projects for SDL2, for 20 different programming languages
+- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 20 different programming languages
 - [cuhk-eda/ripple-fpga](https://github.com/cuhk-eda/ripple-fpga) - RippleFPGA, A Simultaneous Pack-and-Place Algorithm for UltraScale FPGA
 - [facebookincubator/mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
@@ -2414,10 +2415,6 @@
 - [jaymoulin/docker-plex](https://github.com/jaymoulin/docker-plex) - Plex Media Server - Docker Image (Multiarch + Raspberry Pi)
 - [WanghongLin/StandaloneDVM](https://github.com/WanghongLin/StandaloneDVM) - Run the standalone dalvik virtual machine
 
-## Mathematica 
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## Nginx 
 
 - [nginx-modules/nginx_send_minimum_rate](https://github.com/nginx-modules/nginx_send_minimum_rate) - Adaptive timeout slow downloads for NGINX
@@ -2861,6 +2858,7 @@
 - [buckyroberts/YouTube-Crawler](https://github.com/buckyroberts/YouTube-Crawler) - Crawler for adding videos to thenewboston.com
 - [anybox/buttervolume](https://github.com/anybox/buttervolume) - BTRFS Volume plugin for Docker
 - [subuser-security/subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [yask123/fixalbumart](https://github.com/yask123/fixalbumart) - Automagically fix album arts of mp3 files, Even with incorrect tags!!!
 - [fbchat-dev/fbchat](https://github.com/fbchat-dev/fbchat) - Facebook Chat (Messenger) for Python
