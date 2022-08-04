@@ -313,6 +313,7 @@
 
 ## C# # 
 
+- [SageMade/VmDotNet](https://github.com/SageMade/VmDotNet) - A Virtual Machine and compiler written in C# based on the B32 virtual machine
 - [Rybo713/V8Swaps](https://github.com/Rybo713/V8Swaps) - Insane V8 Swaps for most stock cars
 - [akaStanley/BeamNG_Car](https://github.com/akaStanley/BeamNG_Car) - Re-creating a 1974 MG Midget as accuratley as possible in BeamNG.Drive.
 - [sketchpunk/openkeyboard](https://github.com/sketchpunk/openkeyboard) - Virtual keyboard with dynamic user defined layouts
@@ -2644,7 +2645,7 @@
 - [aaronchantrill/NaomiNetworkCheck](https://github.com/aaronchantrill/NaomiNetworkCheck) - Simple speechhandler plugin,  allows Naomi to report if it is connected to a network and what its IP addresses are.
 - [f-droid/repomaker](https://github.com/f-droid/repomaker) - mirror of https://gitlab.com/fdroid/repomaker
 - [gotsunami/docker-fdroid](https://github.com/gotsunami/docker-fdroid) - A Docker image for publishing your own Android application store using F-Droid
-- [adfinis-sygroup/pyproject](https://github.com/adfinis-sygroup/pyproject) - Common Files for Python Projects
+- [adfinis/pyproject](https://github.com/adfinis/pyproject) - Common Files for Python Projects
 - [shellreef/trinary](https://github.com/shellreef/trinary) - Trinary Computer Simulator
 - [claritylab/kaldi-gstreamer-server](https://github.com/claritylab/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [NaomiProject/Naomi](https://github.com/NaomiProject/Naomi) - The Naomi Project is an open source, technology agnostic platform for developing always-on, voice-controlled applications!
@@ -2787,7 +2788,7 @@
 - [nginxinc/crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
 - [tnsy/cert_key_md5_comparison](https://github.com/tnsy/cert_key_md5_comparison) - Compare hashes of Certs and Keys on BIGIP
 - [fossasia/query-server](https://github.com/fossasia/query-server) - Query Server Search Engines https://query-server.herokuapp.com
-- [adfinis-sygroup/gitlab-docsbot](https://github.com/adfinis-sygroup/gitlab-docsbot) - The Docs Bot - A simple service which receives HTTP build triggers from GitLab and unpacks built artifacts inside a configured directory.
+- [adfinis/gitlab-docsbot](https://github.com/adfinis/gitlab-docsbot) - The Docs Bot - A simple service which receives HTTP build triggers from GitLab and unpacks built artifacts inside a configured directory.
 - [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [Miserlou/omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -2892,7 +2893,7 @@
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [claudyus/ci-yml](https://github.com/claudyus/ci-yml) - A .ci.yml parser/runner for Gitlab-CI
-- [adfinis-sygroup/gitlab-pkgbot](https://github.com/adfinis-sygroup/gitlab-pkgbot) - The Package Bot - A simple service which receives HTTP build triggers from GitLab, gets the built packages and puts them in aptly and RPM repos.
+- [adfinis/gitlab-pkgbot](https://github.com/adfinis/gitlab-pkgbot) - The Package Bot - A simple service which receives HTTP build triggers from GitLab, gets the built packages and puts them in aptly and RPM repos.
 - [ParkerK/selfrestraint](https://github.com/ParkerK/selfrestraint) - Are certain websites a distraction? SelfRestraint is a cross platform application which blocks access to websites for a predetermined period of time. It can not be undone by the app or by a restart – 
 - [sorz/nsupdate-web](https://github.com/sorz/nsupdate-web) - Simple DDNS (dynamic DNS) web API service with nsupdate.
 - [pklaus/WhatsMyIP](https://github.com/pklaus/WhatsMyIP) - This is an HTTP Server that simply returns the Remote Address, your IP. In other words, it's a simple text-only "What's My IP" service implemented in a few lines of Python. Works for IPv4 and IPv6.
