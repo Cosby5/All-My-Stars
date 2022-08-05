@@ -313,6 +313,8 @@
 
 ## C# # 
 
+- [jonathanvdc/ecsc](https://github.com/jonathanvdc/ecsc) - A Flame-based EC# compiler
+- [jonathanvdc/flame-llvm](https://github.com/jonathanvdc/flame-llvm) - LLVM front-end that consumes Flame IR; can be used to compile C# to native code.
 - [SageMade/VmDotNet](https://github.com/SageMade/VmDotNet) - A Virtual Machine and compiler written in C# based on the B32 virtual machine
 - [Rybo713/V8Swaps](https://github.com/Rybo713/V8Swaps) - Insane V8 Swaps for most stock cars
 - [akaStanley/BeamNG_Car](https://github.com/akaStanley/BeamNG_Car) - Re-creating a 1974 MG Midget as accuratley as possible in BeamNG.Drive.
@@ -795,6 +797,7 @@
 
 ## Go 
 
+- [quarnster/completion](https://github.com/quarnster/completion) - This project aims to implement an editor and language agnostic backend
 - [Qs-F/doc-server](https://github.com/Qs-F/doc-server) - markdown formatted documents to html web document server.
 - [nocd5/md2html](https://github.com/nocd5/md2html) - Markdown to single HTML
 - [sajari/fuzzy](https://github.com/sajari/fuzzy) - Spell checking and fuzzy search suggestion written in Go
@@ -2286,6 +2289,7 @@
 - [ajlkn/skel.old](https://github.com/ajlkn/skel.old) - (Old version) A lightweight responsive framework for the www
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [semantic-release/gitlab](https://github.com/semantic-release/gitlab) - :fox_face: semantic-release plugin to publish a GitLab release
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [kevinbolton/DNSOverHTTPS](https://github.com/kevinbolton/DNSOverHTTPS) - 
@@ -3220,7 +3224,6 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A fast, offline-first, reactive database for JavaScript Applications
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [mrjg1/pos-frontend](https://github.com/mrjg1/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
 - [tigerxy/VSCode-ShareCode](https://github.com/tigerxy/VSCode-ShareCode) - Share Code is an Extension for Visual Studio Code. You can find it on marketplace.
