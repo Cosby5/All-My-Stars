@@ -62,6 +62,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
@@ -589,7 +590,6 @@
 - [MrcSnm/D-Lang-on-Android](https://github.com/MrcSnm/D-Lang-on-Android) - My attempt to compile D-Lang to Android on linux
 - [LunaTheFoxgirl/CRISC](https://github.com/LunaTheFoxgirl/CRISC) - Clipsey's Reduced Instruction Set Computing virtual toy processor and assembler.
 - [Andrepuel/shellbridgefs](https://github.com/Andrepuel/shellbridgefs) - FUSE filesystem that redirect calls to a shell subprocess
-- [rumbu13/decimal](https://github.com/rumbu13/decimal) - D implementation of floating point decimal data type according to IEEE754-2008
 - [marler8997/dlangfeatures](https://github.com/marler8997/dlangfeatures) - A list of features that I think would benefit the D Programming Language
 - [marler8997/dmscorlib](https://github.com/marler8997/dmscorlib) - a repo directory to share the generated mscorlib D wrapper for the .NET library from https://github.com/marler8997/clrbridge
 - [marler8997/har](https://github.com/marler8997/har) - Human Archive Format
@@ -3182,9 +3182,12 @@
 - [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler (in developement), whilst at the very high level JVM will be implemented
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
-- [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator: https://barvinn.readthedocs.io/en/latest/
 - [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
 - [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - pulp_soc is the core building component of PULP based SoCs
+
+## Tcl 
+
+- [hossein1387/BARVINN](https://github.com/hossein1387/BARVINN) - BARVINN: A Barrel RISC-V Neural Network Accelerator: https://barvinn.readthedocs.io/en/latest/
 
 ## TeX 
 
