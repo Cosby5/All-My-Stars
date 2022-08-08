@@ -1889,7 +1889,7 @@
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - 
-- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 - [plasma-umass/systemgo](https://github.com/plasma-umass/systemgo) - Init system in Go, intended to run on Browsix and other Unix-like OS. Part of GSoC 2016 project.
 - [driusan/dainit](https://github.com/driusan/dainit) - A simple pure-Go Linux init system
 - [AGWA/sms-over-xmpp](https://github.com/AGWA/sms-over-xmpp) - XMPP Component (XEP-0114) to send and receive SMS
@@ -2069,7 +2069,7 @@
 - [jamescun/switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
 - [agrison/harpoon](https://github.com/agrison/harpoon) - GitHub WebHook server written in Go
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [yzlin/docker-volume-nfs](https://github.com/yzlin/docker-volume-nfs) - NFS v3/4 plugin for Docker
 - [PI-Victor/miniovol](https://github.com/PI-Victor/miniovol) - Minio Docker volume plugin. Create docker volumes that mount Minio buckets. Minio is S3 compatible.
 - [vertexclique/docker-volume-redis](https://github.com/vertexclique/docker-volume-redis) - Redis based volume plugin for Docker
