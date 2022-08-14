@@ -385,6 +385,7 @@
 
 ## C++ 
 
+- [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interac
 - [behindthepixels/EDXRaster](https://github.com/behindthepixels/EDXRaster) - A highly optimized CPU software rasterizer, which implements most of the common D3D pipeline stages.
 - [CallMeZhou/Puresoft3D](https://github.com/CallMeZhou/Puresoft3D) - Software programmable graphics pipeline (scanline rasterzation based 3D renderer)
@@ -2424,7 +2425,6 @@
 
 - [nginx-modules/nginx_send_minimum_rate](https://github.com/nginx-modules/nginx_send_minimum_rate) - Adaptive timeout slow downloads for NGINX
 - [C0nw0nk/Nginx-Lua-Secure-Link-Anti-Hotlinking](https://github.com/C0nw0nk/Nginx-Lua-Secure-Link-Anti-Hotlinking) - My soloution to those who try to hotlink / steal or waste bandwidth from your sites and servers will also help with DoS / DDoS / Slowloris attacks it works the same as the secure_link module but i did
-- [oulman/docker-nginx-ldap](https://github.com/oulman/docker-nginx-ldap) - nginx + ldap auth docker container based on the nginxinc official repo
 - [gnilchee/pipcache](https://github.com/gnilchee/pipcache) - Work to cache pip requests to https://pypi.python.org
 
 ## OCaml 
