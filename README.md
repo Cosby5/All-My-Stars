@@ -2905,7 +2905,7 @@
 - [Viq111/Vivado-CI](https://github.com/Viq111/Vivado-CI) - A simple Vivado (Verilog & VHDL) Continuous Integration tool with seamless integration to Travis-CI
 - [LinOTP/LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
 - [freecores/ssbcc](https://github.com/freecores/ssbcc) - Small Stack Based Computer Compiler
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [chrishumphreys/p2j](https://github.com/chrishumphreys/p2j) - Python to Java translator
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
