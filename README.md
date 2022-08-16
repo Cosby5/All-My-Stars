@@ -88,6 +88,7 @@
 
 ## Assembly 
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [neilgonzalez/EvoX-Reverse-Engineering](https://github.com/neilgonzalez/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 - [MyTeletouch/MyTeletouchDongle](https://github.com/MyTeletouch/MyTeletouchDongle) - MyTeletouch USB Dongle
@@ -931,7 +932,6 @@
 - [soypat/ether-swtch](https://github.com/soypat/ether-swtch) - Low level Ethernet stack marshaller/unmarshaller for use in tiny places.
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [stenic/go-mail](https://github.com/stenic/go-mail) - Minimal mail implementation in go
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [jeffprestes/go-eddystone-url](https://github.com/jeffprestes/go-eddystone-url) - Broadcasting Eddystone URL using Go
 - [suapapa/go_eddystone](https://github.com/suapapa/go_eddystone) - Go package to support Eddystone
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
