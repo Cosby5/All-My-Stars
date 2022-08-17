@@ -895,7 +895,6 @@
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) - Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
-- [pswilde/mailautoconf](https://github.com/pswilde/mailautoconf) - MailAutoConf - a simple, configurable autodiscover/autoconfig service for distributed and self-hosted groupware services.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [hxt365/CopeGaming](https://github.com/hxt365/CopeGaming) - Cloud-based gaming platform that allows users to let other users remotely play games on their computers and make money.
 - [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
@@ -1795,7 +1794,7 @@
 - [ccding/go-stun](https://github.com/ccding/go-stun) - A go implementation of the STUN client (RFC 3489 and RFC 5389)
 - [BurntSushi/goim](https://github.com/BurntSushi/goim) - Goim is a robust command line utility to maintain and query the Internet Movie Database (IMDb).
 - [kz26/gohls](https://github.com/kz26/gohls) - gohls - Downloader for HTTP Live Streaming (HLS) streams, written in Golang
-- [olivere/elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
+- [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
 - [evalphobia/go-yml2sql](https://github.com/evalphobia/go-yml2sql) - Create SQL INSERT statement from YAML file
