@@ -2113,6 +2113,7 @@
 
 ## HTML 
 
+- [jackweinbender/akkadian-verbs](https://github.com/jackweinbender/akkadian-verbs) - A filtering list of Akkadian Verbs/Roots for quick reference.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [RalphBayer/ConWiki](https://github.com/RalphBayer/ConWiki) - A free, private, PC hosted Wiki for world building, conlanging and other nerdy projects
@@ -2617,6 +2618,7 @@
 
 ## Python 
 
+- [dbamman/akkadian-morph-analyzer](https://github.com/dbamman/akkadian-morph-analyzer) - Morphological Analyzer for Akkadian
 - [MOsmanis/BeamNG-Cruise-Control](https://github.com/MOsmanis/BeamNG-Cruise-Control) - Cruise Control PID algorithm implementation in Python for BeamNG.research. Using BeamNGpy API to control throttle and map in BeamNG.research.(https://github.com/BeamNG/BeamNGpy) Later extended to Adap
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [seanyeh/fontawesome-svgs](https://github.com/seanyeh/fontawesome-svgs) - Font Awesome icons in SVG format
