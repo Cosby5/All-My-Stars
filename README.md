@@ -2617,6 +2617,9 @@
 
 ## Python 
 
+- [AbhiK002/virtual-keyboard](https://github.com/AbhiK002/virtual-keyboard) - GUI based app made in python using tkinter
+- [vsltech/virtualkeyboard](https://github.com/vsltech/virtualkeyboard) - Virtual Keyboard using Python PyQt4 & DirectX Programming for Game Controls
+- [Faylixe/pygame-vkeyboard](https://github.com/Faylixe/pygame-vkeyboard) - Visual keyboard for Pygame engine.
 - [dbamman/akkadian-morph-analyzer](https://github.com/dbamman/akkadian-morph-analyzer) - Morphological Analyzer for Akkadian
 - [MOsmanis/BeamNG-Cruise-Control](https://github.com/MOsmanis/BeamNG-Cruise-Control) - Cruise Control PID algorithm implementation in Python for BeamNG.research. Using BeamNGpy API to control throttle and map in BeamNG.research.(https://github.com/BeamNG/BeamNGpy) Later extended to Adap
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
@@ -2970,6 +2973,10 @@
 
 ## Rust 
 
+- [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
+- [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
+- [HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf) - A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol.(用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
