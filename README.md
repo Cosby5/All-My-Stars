@@ -2973,6 +2973,7 @@
 
 ## Rust 
 
+- [daviddrysdale/mdbook-footnote](https://github.com/daviddrysdale/mdbook-footnote) - 
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
 - [HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf) - A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol.(用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)
@@ -3191,6 +3192,7 @@
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
 - [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
 - [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - pulp_soc is the core building component of PULP based SoCs
+- [jsloan256/dpll](https://github.com/jsloan256/dpll) - A simple Verilog digital phase-locked loop based on TI's SDLA005B application note
 
 ## Tcl 
 
@@ -3201,7 +3203,6 @@
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
 - [ucb-bar/esp-opcodes](https://github.com/ucb-bar/esp-opcodes) - Custom extensions to the RISC-V opcodes for the UCB-BAR ESP project
 - [ycoroneos/G.E.R.T](https://github.com/ycoroneos/G.E.R.T) - 
-- [jsloan256/dpll](https://github.com/jsloan256/dpll) - A simple Verilog digital phase-locked loop based on TI's SDLA005B application note
 
 ## TypeScript 
 
