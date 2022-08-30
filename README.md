@@ -3265,7 +3265,7 @@
 - [jviki/mem_swapping](https://github.com/jviki/mem_swapping) - VHDL simulation component. Provides a dual port memory that can swap its contents to disk. It is useful for using huge memory sizes in simulations.
 - [bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm](https://github.com/bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm) - I have designed square root calculation with binary search tree algorithm.
 - [NathanBeal/WimpFi_Wireless_Network](https://github.com/NathanBeal/WimpFi_Wireless_Network) - A localized wireless communication system capable of transmitting and receiving data packets to and from peer systems. This project was developed in SystemVerilog and deployed to an FPGA board.
-- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - 🖥️ A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [Domipheus/RPU](https://github.com/Domipheus/RPU) - Basic RISC-V CPU implementation in VHDL.
 - [OlafsAploks/MatrixCoprocessor](https://github.com/OlafsAploks/MatrixCoprocessor) - 
 - [hanchenye/matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
