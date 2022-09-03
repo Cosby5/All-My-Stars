@@ -113,6 +113,7 @@
 
 ## C 
 
+- [mod-loader/engine-sim-modloader](https://github.com/mod-loader/engine-sim-modloader) - A mod loader for the engine-sim project by ange-yaghi
 - [behindthepixels/EDXUtil](https://github.com/behindthepixels/EDXUtil) - An utility library including many containers, threading, OS, GUI and many other things.
 - [sammycage/plutovg](https://github.com/sammycage/plutovg) - Tiny 2D vector graphics library in C
 - [sammycage/plutosvg](https://github.com/sammycage/plutosvg) - Tiny SVG rendering library in C
@@ -386,6 +387,7 @@
 
 ## C++ 
 
+- [DDev247/engine-sim](https://github.com/DDev247/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interac
 - [behindthepixels/EDXRaster](https://github.com/behindthepixels/EDXRaster) - A highly optimized CPU software rasterizer, which implements most of the common D3D pipeline stages.
@@ -2447,6 +2449,7 @@
 
 ## Others 
 
+- [kirbyguy22/engine-sim-garage](https://github.com/kirbyguy22/engine-sim-garage) - A repository for custom parts and engines for AngeTheGreat's Engine Simulator: https://github.com/ange-yaghi/engine-sim
 - [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [rkh/astro-data](https://github.com/rkh/astro-data) - Pre-calculated lunar and solar cycles.
