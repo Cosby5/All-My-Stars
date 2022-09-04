@@ -2216,6 +2216,7 @@
 
 ## JavaScript 
 
+- [kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner) - 
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and ouput an SVG font
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [Nikhil1602/font-maker](https://github.com/Nikhil1602/font-maker) - Convert your handwriting into the custom font file.
@@ -2453,7 +2454,7 @@
 - [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 - [rkh/astro-data](https://github.com/rkh/astro-data) - Pre-calculated lunar and solar cycles.
-- [jasonelle/jasonelle](https://github.com/jasonelle/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
+- [jasonelle-archive/jasonelle](https://github.com/jasonelle-archive/jasonelle) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [run-as-root/gitlab-pipeline-templates](https://github.com/run-as-root/gitlab-pipeline-templates) - A collection of drop-in gitlab pipeline steps, easy to use, sharable, maintainable.
 - [rrrrrrrr-stack/rrrrrrrr](https://github.com/rrrrrrrr-stack/rrrrrrrr) - 
 - [e3donline/ToolChanger](https://github.com/e3donline/ToolChanger) - STPs / STLs / DXFs / PDFs
@@ -2620,6 +2621,7 @@
 
 ## Python 
 
+- [urduweb/Char2Lig](https://github.com/urduweb/Char2Lig) - Generate ligature based fonts from character based fonts for complex script languages.
 - [AbhiK002/virtual-keyboard](https://github.com/AbhiK002/virtual-keyboard) - GUI based app made in python using tkinter
 - [vsltech/virtualkeyboard](https://github.com/vsltech/virtualkeyboard) - Virtual Keyboard using Python PyQt4 & DirectX Programming for Game Controls
 - [Faylixe/pygame-vkeyboard](https://github.com/Faylixe/pygame-vkeyboard) - Visual keyboard for Pygame engine.
