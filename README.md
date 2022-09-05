@@ -945,7 +945,6 @@
 - [stuarthu/go-implement-your-object-storage](https://github.com/stuarthu/go-implement-your-object-storage) - 
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
 - [niko/goconfd](https://github.com/niko/goconfd) - A simple configuration server (ready-to-download 0-dependency binaries included).
-- [localleon/DockerSave](https://github.com/localleon/DockerSave) - Download Container-Images from DockerHub without the Docker Toolchain. DockerSave is a simple binary without any bullshit.
 - [egeneralov/gitlab-system-hooks](https://github.com/egeneralov/gitlab-system-hooks) - 
 - [pthomison/yadr](https://github.com/pthomison/yadr) - Yet Another Docker Registry
 - [aquasecurity/testdocker](https://github.com/aquasecurity/testdocker) - Test utilities for Docker Engine/Registry
