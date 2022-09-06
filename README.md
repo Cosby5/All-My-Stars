@@ -1781,7 +1781,7 @@
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [zeeraw/nginx-confd](https://github.com/zeeraw/nginx-confd) - Service discovery for NGINX configured through confd
+- [zeevallin/nginx-confd](https://github.com/zeevallin/nginx-confd) - Service discovery for NGINX configured through confd
 - [cubicdaiya/nginx-build](https://github.com/cubicdaiya/nginx-build) - Seamless nginx builder
 - [leesper/go_rng](https://github.com/leesper/go_rng) - A pseudo-random number generator wriiten in Golang
 - [flike/kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
