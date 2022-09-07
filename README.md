@@ -898,7 +898,7 @@
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) - Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
-- [hxt365/CopeGaming](https://github.com/hxt365/CopeGaming) - Cloud-based gaming platform that allows users to let other users remotely play games on their computers and make money.
+- [hxt365/CopeGaming](https://github.com/hxt365/CopeGaming) - A cloud-based gaming platform that allows users to let other users remotely play games on their computers and make money
 - [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [kenmoini/go-zones](https://github.com/kenmoini/go-zones) - Go Zones takes a YAML structure and creates BIND compliant DNS Zone files and Configuration
@@ -2620,6 +2620,7 @@
 
 ## Python 
 
+- [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [urduweb/Char2Lig](https://github.com/urduweb/Char2Lig) - Generate ligature based fonts from character based fonts for complex script languages.
 - [AbhiK002/virtual-keyboard](https://github.com/AbhiK002/virtual-keyboard) - GUI based app made in python using tkinter
 - [vsltech/virtualkeyboard](https://github.com/vsltech/virtualkeyboard) - Virtual Keyboard using Python PyQt4 & DirectX Programming for Game Controls
