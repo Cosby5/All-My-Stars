@@ -809,7 +809,7 @@
 - [lucas-clemente/goldfish](https://github.com/lucas-clemente/goldfish) - A personal wiki / notes blend powered by markdown and git
 - [gofiber/storage](https://github.com/gofiber/storage) - 📦 Premade storage drivers for 🚀 Fiber
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
-- [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either the golang vector or a derivative of the freetype anti-aliaser.
+- [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either scany, the golang vector or a derivative of the freetype anti-aliaser.
 - [IoIxD/PNGToSVG](https://github.com/IoIxD/PNGToSVG) - Program for converting pixel art into optimized SVGs, which you can then swap in for PNGs to get consistent scaling on modern browsers.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [akosmarton/vunikbd](https://github.com/akosmarton/vunikbd) - Virtual Unicode Keyboard for Linux in Go
