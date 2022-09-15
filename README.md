@@ -508,7 +508,7 @@
 - [littlekernel/lkuser](https://github.com/littlekernel/lkuser) - framework for a simple user space for lk
 - [GregBowyer/turbovax](https://github.com/GregBowyer/turbovax) - VAX MP - a multiprocessor VAX simulator
 - [3drepo/3drepobouncer](https://github.com/3drepo/3drepobouncer) - A C++ library providing 3D Repo Scene Graph definition, repository management logic and manipulation logic. It is is essentially the refactored 3DRepoCore and (parts of) 3DRepoGUI
-- [DMDcoin/Diamond](https://github.com/DMDcoin/Diamond) - Diamond V3
+- [DMDcoin/Diamond](https://github.com/DMDcoin/Diamond) - DMD V3
 - [kblewellen/echo-keyvalue](https://github.com/kblewellen/echo-keyvalue) - The research prototype of a versioned key-value store for non-volatile main-memory.
 - [cdaffara/symbiandump-os1](https://github.com/cdaffara/symbiandump-os1) - Dump of the last open source code for the Symbian mobile operating system - os1
 - [stealth/sshttp](https://github.com/stealth/sshttp) - SSH/HTTP(S) multiplexer. Run a webserver and a sshd on the same port w/o changes.
