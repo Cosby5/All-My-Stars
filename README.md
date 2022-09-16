@@ -1228,7 +1228,7 @@
 - [tsurubee/gosshd](https://github.com/tsurubee/gosshd) - Simple SSH server implemented by Golang.
 - [tsurubee/sshr](https://github.com/tsurubee/sshr) - Proxy server for routing SSH connections
 - [tj/go-terminput](https://github.com/tj/go-terminput) - Package terminput provides terminal keyboard input for interactive command-line tools.
-- [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go for ARM SoCs
+- [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - ARM/RISC-V bare metal Go
 - [xanzy/multisyncer](https://github.com/xanzy/multisyncer) - MultiSyncer synchronizes access based on a given token
 - [LockGit/gochat](https://github.com/LockGit/gochat) - goim server write by golang !🚀
 - [belak/gitdir](https://github.com/belak/gitdir) - PoC of a self-contained, simple, and lightweight SSH git hosting with just a directory.
@@ -3256,7 +3256,6 @@
 - [hdhzero/Hivek](https://github.com/hdhzero/Hivek) - A VLIW soft processor in VHDL.
 - [jardelufc/FTJop](https://github.com/jardelufc/FTJop) - Fault Tolerant Java Optimized Processor
 - [PacoReinaCampo/PU-RISCV](https://github.com/PacoReinaCampo/PU-RISCV) - Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
-- [majdoss/Bfloat16-Floating-Point-Arithmetic-Unit](https://github.com/majdoss/Bfloat16-Floating-Point-Arithmetic-Unit) - Design and implementation of a pipelined Bfloat16 Floating Point Arithmetic Unit using VHDL. This unit can perform addition, subtraction, multiplication, division and fused multiply-add/subtract opera
 - [DHLSan/ModArithAccel](https://github.com/DHLSan/ModArithAccel) - Efficient modulo arithmetic accelerator design (mod add, mod sub, mod mul, mod exp) for fixed/arbitrary prime numbers at RTL-level (VHDL/Verilog).
 - [thaolt/icculus-manticore](https://github.com/thaolt/icculus-manticore) - A copy of http://svn.icculus.org/manticore/ . Manticore is an open source hardware design for a 3D graphics accelerator
 - [EthChil/Ray-Tracing](https://github.com/EthChil/Ray-Tracing) - Initial attempt at creating a ray tracing accelerator with an FPGA
