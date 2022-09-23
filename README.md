@@ -113,6 +113,7 @@
 
 ## C 
 
+- [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [mod-loader/engine-sim-modloader](https://github.com/mod-loader/engine-sim-modloader) - A mod loader for the engine-sim project by ange-yaghi
 - [behindthepixels/EDXUtil](https://github.com/behindthepixels/EDXUtil) - An utility library including many containers, threading, OS, GUI and many other things.
 - [sammycage/plutovg](https://github.com/sammycage/plutovg) - Tiny 2D vector graphics library in C
@@ -1964,7 +1965,7 @@
 - [hagna/xyz](https://github.com/hagna/xyz) - Listen on external ports, even behind NAT, and more.
 - [sprucehealth/go-proxy-protocol](https://github.com/sprucehealth/go-proxy-protocol) - Proxy protocol implementation for Go
 - [mongodb-labs/mongoproxy](https://github.com/mongodb-labs/mongoproxy) - A server that speaks the MongoDB wire protocol and can analyze/transform requests and responses - This Repository is NOT a supported MongoDB product
-- [yankeguo/minit](https://github.com/yankeguo/minit) - minimal init daemon for container, support systemd service files
+- [guoyk-deprecated/minit-8422ce2d](https://github.com/guoyk-deprecated/minit-8422ce2d) - minimal init daemon for container, support systemd service files
 - [mback2k/docker-systemd-shim](https://github.com/mback2k/docker-systemd-shim) - Shim to allow easy docker container control via systemd service units
 - [msekletar/ci-builder-systemd](https://github.com/msekletar/ci-builder-systemd) - 
 - [yuvipanda/systemd-simple-containment](https://github.com/yuvipanda/systemd-simple-containment) - Super simple systemd based containment for applications
