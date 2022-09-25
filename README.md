@@ -317,6 +317,9 @@
 
 ## C# # 
 
+- [cobbr/SharpShell](https://github.com/cobbr/SharpShell) - SharpShell is a proof-of-concept offensive C# scripting engine that utilizes the Rosyln C# compiler to quickly cross-compile .NET Framework console applications or libraries.
+- [altimesh/hybridizer-basic-samples](https://github.com/altimesh/hybridizer-basic-samples) - Examples of C# code compiled to GPU by hybridizer
+- [NYAN-x-CAT/Nyan-Compiler](https://github.com/NYAN-x-CAT/Nyan-Compiler) - a basic IDE compiler for C# and VB.NET using codedom
 - [jonathanvdc/ecsc](https://github.com/jonathanvdc/ecsc) - A Flame-based EC# compiler
 - [jonathanvdc/flame-llvm](https://github.com/jonathanvdc/flame-llvm) - LLVM front-end that consumes Flame IR; can be used to compile C# to native code.
 - [SageMade/VmDotNet](https://github.com/SageMade/VmDotNet) - A Virtual Machine and compiler written in C# based on the B32 virtual machine
@@ -388,6 +391,7 @@
 
 ## C++ 
 
+- [meshtastic/Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
 - [DDev247/engine-sim](https://github.com/DDev247/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interac
@@ -802,6 +806,8 @@
 
 ## Go 
 
+- [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [quarnster/completion](https://github.com/quarnster/completion) - This project aims to implement an editor and language agnostic backend
 - [Qs-F/doc-server](https://github.com/Qs-F/doc-server) - markdown formatted documents to html web document server.
 - [nocd5/md2html](https://github.com/nocd5/md2html) - Markdown to single HTML
@@ -1115,7 +1121,6 @@
 - [kooohei/sftps](https://github.com/kooohei/sftps) - sftps is an Package of the Golang for the FTP, FTPS and SFTP Clients.
 - [flaviostutz/dockerwall](https://github.com/flaviostutz/dockerwall) - A packet filter for communications from Docker containers to the Internet configurable by labels
 - [flaviostutz/ssh-jwt](https://github.com/flaviostutz/ssh-jwt) - A SSH server that authorizes PTY, remote or local port forwarding based on JWT token entered as password
-- [app-nerds/fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [rpkarlsson/downer](https://github.com/rpkarlsson/downer) - Commandline rss torrent downloader
 - [kiltum/go-disk-stat](https://github.com/kiltum/go-disk-stat) - Simple functions for accees info for free/total disk space
@@ -1285,7 +1290,7 @@
 - [foomo/simplecert](https://github.com/foomo/simplecert) - golang autocert library for letsencrypt
 - [Cazzar/corednsplugins](https://github.com/Cazzar/corednsplugins) - Custom plugins for CoreDNS
 - [ipref/coredns-plugin-ipref](https://github.com/ipref/coredns-plugin-ipref) - IPREF DNS resolver plugin for coredns (based on coredns/unbound)
-- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [adrianmo/go-nmea](https://github.com/adrianmo/go-nmea) - A NMEA parser library in pure Go
 - [davewongillies/duckdns-updater](https://github.com/davewongillies/duckdns-updater) - A simple Duck DNS update client
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -2240,6 +2245,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [evildecay/etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
+- [app-nerds/fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [icesun963/ApolloClr](https://github.com/icesun963/ApolloClr) - IL VM的一个 C# 实现  并且能运行在Web上
 - [CryptoManiac/PicoVM](https://github.com/CryptoManiac/PicoVM) - Restricted implementation of CLR on a top of Node.js
