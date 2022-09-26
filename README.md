@@ -317,6 +317,7 @@
 
 ## C# # 
 
+- [arcanecfg/Windows-10-Update-Killer](https://github.com/arcanecfg/Windows-10-Update-Killer) - Forcefully stops the services related to Windows 10 background updates.
 - [cobbr/SharpShell](https://github.com/cobbr/SharpShell) - SharpShell is a proof-of-concept offensive C# scripting engine that utilizes the Rosyln C# compiler to quickly cross-compile .NET Framework console applications or libraries.
 - [altimesh/hybridizer-basic-samples](https://github.com/altimesh/hybridizer-basic-samples) - Examples of C# code compiled to GPU by hybridizer
 - [NYAN-x-CAT/Nyan-Compiler](https://github.com/NYAN-x-CAT/Nyan-Compiler) - a basic IDE compiler for C# and VB.NET using codedom
@@ -874,7 +875,7 @@
 - [pioz/god](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines
 - [dspinhirne/netaddr-go](https://github.com/dspinhirne/netaddr-go) - A Go library for performing calculations on IPv4 and IPv6 subnets.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
-- [malwaredllc/minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS.
+- [danielvegamyhre/minicache](https://github.com/danielvegamyhre/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [mahesh-hegde/rrip](https://github.com/mahesh-hegde/rrip) - Bulk image downloader for reddit.
 - [CamusEnergy/kinney](https://github.com/CamusEnergy/kinney) - Real-time campus microgrid management for solar, EVs, HVAC, etc.
@@ -2618,6 +2619,8 @@
 
 ## PowerShell 
 
+- [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 and Windows 11 installations
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatw
 
