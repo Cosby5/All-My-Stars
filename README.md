@@ -807,6 +807,7 @@
 
 ## Go 
 
+- [inkeliz/gowebview](https://github.com/inkeliz/gowebview) - Simple WebView for Golang, avoiding CGO for Windows.
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [quarnster/completion](https://github.com/quarnster/completion) - This project aims to implement an editor and language agnostic backend
@@ -1035,7 +1036,7 @@
 - [Clivern/Cluster](https://github.com/Clivern/Cluster) - Golang Package for System Clustering.
 - [Redundancy/go-sync](https://github.com/Redundancy/go-sync) - gosync is a library for Golang styled around zsync / rsync, written with the intent that it enables efficient differential file transfer in a number of ways. NB: I am unable to contribute to this at t
 - [brimstone/docker-volume-rclone](https://github.com/brimstone/docker-volume-rclone) - Docker volume plugin for rclone
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [aluttik/go-crossplane](https://github.com/aluttik/go-crossplane) - An unofficial Go port of the NGINX config/JSON converter crossplane
 - [teacat/gitremotes](https://github.com/teacat/gitremotes) - 🛠️ Create multiple Git Remotes with just a `.gitremotes` file
 - [yosssi/gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
@@ -1896,7 +1897,7 @@
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
-- [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - 
+- [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 - [plasma-umass/systemgo](https://github.com/plasma-umass/systemgo) - Init system in Go, intended to run on Browsix and other Unix-like OS. Part of GSoC 2016 project.
 - [driusan/dainit](https://github.com/driusan/dainit) - A simple pure-Go Linux init system
@@ -2121,6 +2122,8 @@
 
 ## HTML 
 
+- [WebDevBooster/Dvorak-Booster-Keyboard-Layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout) - Dvorak-Booster keyboard layout is better optimized for typing in English than standard Dvorak & better optimized for programming than Programmer Dvorak. It makes typing in dozenal (base 12) easy & mos
+- [adumb-codes/adumb-codes.github.io](https://github.com/adumb-codes/adumb-codes.github.io) - 
 - [jackweinbender/akkadian-verbs](https://github.com/jackweinbender/akkadian-verbs) - A filtering list of Akkadian Verbs/Roots for quick reference.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
