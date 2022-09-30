@@ -2123,7 +2123,6 @@
 ## HTML 
 
 - [WebDevBooster/Dvorak-Booster-Keyboard-Layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout) - Dvorak-Booster keyboard layout is better optimized for typing in English than standard Dvorak & better optimized for programming than Programmer Dvorak. It makes typing in dozenal (base 12) easy & mos
-- [adumb-codes/adumb-codes.github.io](https://github.com/adumb-codes/adumb-codes.github.io) - 
 - [jackweinbender/akkadian-verbs](https://github.com/jackweinbender/akkadian-verbs) - A filtering list of Akkadian Verbs/Roots for quick reference.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
@@ -2579,7 +2578,6 @@
 - [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [HuasoFoundries/phpPgAdmin6](https://github.com/HuasoFoundries/phpPgAdmin6) - PHP7+ Based administration tool for PostgreSQL 9.3+
 - [nklasio/repositeD](https://github.com/nklasio/repositeD) - A Laravel based Repository Manager for packageD
-- [AmplitudeDesignInc/abuseipdb-php-nginx-blacklist-create](https://github.com/AmplitudeDesignInc/abuseipdb-php-nginx-blacklist-create) - Uses PHP to generate an AbuseIpDB blacklist file for use in your Nginx configuration.
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [InvoicePlane/InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open source application for managing your invoices, clients and payments.
 - [alextselegidis/easyappointments](https://github.com/alextselegidis/easyappointments) - :date: Easy!Appointments - Self Hosted Appointment Scheduler
