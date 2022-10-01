@@ -392,6 +392,7 @@
 
 ## C++ 
 
+- [miniant-git/REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on Windows 10
 - [meshtastic/Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
 - [DDev247/engine-sim](https://github.com/DDev247/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
