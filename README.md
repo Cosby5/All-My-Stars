@@ -314,6 +314,7 @@
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [BenjaminNie/Virtual-Memory-Manager](https://github.com/BenjaminNie/Virtual-Memory-Manager) - Virtual memory handler w/ page table & TLBs
+- [D-Programming-Deimos/openssl](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for openssl
 
 ## C# # 
 
@@ -734,7 +735,6 @@
 - [mintyfresh/handle](https://github.com/mintyfresh/handle) - D library for handles
 - [mintyfresh/autoloader](https://github.com/mintyfresh/autoloader) - An automatic class-loader for D.
 - [Soulsbane/VariantConfig](https://github.com/Soulsbane/VariantConfig) - A key/value config file format for the D programming language(Dlang).
-- [D-Programming-Deimos/openssl](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for openssl
 - [etcimon/spd](https://github.com/etcimon/spd) - Library of tools using ScopedPool RAII garbage collection with the GC as fallback
 - [etcimon/daemonize](https://github.com/etcimon/daemonize) - Simplifies daemons and services creation for GNU/Linux and Windows
 - [etcimon/botan](https://github.com/etcimon/botan) - Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.
@@ -2679,7 +2679,7 @@
 - [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
 - [mekberg/boar](https://github.com/mekberg/boar) - Automatically exported from code.google.com/p/boar
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Training Data (Data Labeling, Annotation, Catalog, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Training Data (Annotation, Catalog, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Download and get information about repositories from Github API using PyGithub
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
