@@ -421,7 +421,6 @@
 - [d03n3rfr1tz3/HC-SR04](https://github.com/d03n3rfr1tz3/HC-SR04) - Library for measuring distance with the HC-SR04 UltraSonic Sensor, by utilizing temperature correction and multiple echo pins in parallel.
 - [abolz/Drachennest](https://github.com/abolz/Drachennest) - Different algorithms for converting binary to decimal floating-point numbers
 - [markniu/PandaSegmentHeatBed](https://github.com/markniu/PandaSegmentHeatBed) - SoftMasterI2C for arduino
-- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [JasurN/SelfDrivingCar](https://github.com/JasurN/SelfDrivingCar) - This is Self Driving Car project has capability to trace line, avoid objects, finding shortest path and using deep learning identify traffic signs and react to them
 - [ssloy/triador](https://github.com/ssloy/triador) - Ternary computer emulator
 - [bryanclark90/TrinaryTree](https://github.com/bryanclark90/TrinaryTree) - A Basic Trinary Tree. Ported from Microsoft Visual Studio
@@ -2122,6 +2121,7 @@
 
 ## HTML 
 
+- [vaverix/Native-Virtual-Keyboard-chrome-extension](https://github.com/vaverix/Native-Virtual-Keyboard-chrome-extension) - Native on-screen keyboard for touch screen devices. What differs it from any other keyboard on WebStore? Well, it sends native javascript events on every keystroke, so it works on any website, with an
 - [WebDevBooster/Dvorak-Booster-Keyboard-Layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout) - Dvorak-Booster keyboard layout is better optimized for typing in English than standard Dvorak & better optimized for programming than Programmer Dvorak. It makes typing in dozenal (base 12) easy & mos
 - [jackweinbender/akkadian-verbs](https://github.com/jackweinbender/akkadian-verbs) - A filtering list of Akkadian Verbs/Roots for quick reference.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -2224,6 +2224,7 @@
 
 ## JavaScript 
 
+- [words/moby](https://github.com/words/moby) - :closed_book: The largest English-language thesaurus
 - [kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner) - 
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and ouput an SVG font
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
@@ -3204,6 +3205,7 @@
 ## SystemVerilog 
 
 - [openhwgroup/core-v-mcu](https://github.com/openhwgroup/core-v-mcu) - This is the CORE-V MCU project, hosting CORE-V's embedded-class cores.
+- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [openhwgroup/cv32e40s](https://github.com/openhwgroup/cv32e40s) - 4 stage, in-order, secure RISC-V core based on the CV32E40P
 - [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler that will run programs written in more high level languages
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
@@ -3224,6 +3226,7 @@
 
 ## TypeScript 
 
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [svgmoji/svgmoji](https://github.com/svgmoji/svgmoji) - Popular open source emoji libraries available as svg sprites
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 100+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
