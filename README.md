@@ -221,7 +221,6 @@
 - [xiaokai-wang/nginx-discovery](https://github.com/xiaokai-wang/nginx-discovery) - supply three method for service discovery, pull from consul, push to nginx, based on dns, all needn't reload nginx
 - [xiaokai-wang/nginx-upconf-module](https://github.com/xiaokai-wang/nginx-upconf-module) - module provides an HTTP interface for adding, removing, and modifying back-end servers dynamically and without having to reload the configuration
 - [xiaokai-wang/nginx_stream_upstream_check_module](https://github.com/xiaokai-wang/nginx_stream_upstream_check_module) - For stream protocol. Health checks stream upstreams for nginx，support dynamic health check interface for adding servers.
-- [xiaokai-wang/nginx_upstream_check_module](https://github.com/xiaokai-wang/nginx_upstream_check_module) - For http protocol. Health checks upstreams for nginx，support dynamic health check interface for adding servers, transplat from tengine based on upstream_check_module
 - [xiaokai-wang/nginx-stream-upsync-module](https://github.com/xiaokai-wang/nginx-stream-upsync-module) - For stream protocol. syncing upstreams from etcd or consul and so on, dynamically updating backend servers attribute, not need to reload nginx for tcp protocol, stream configure.
 - [weibocom/nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) - For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx
 - [HatsuneMiku3939/ngx_upstream_resolveMK](https://github.com/HatsuneMiku3939/ngx_upstream_resolveMK) - An nginx upstream resolve module using DNS SRV record. Works nicely with Mesos-DNS.
@@ -555,6 +554,7 @@
 
 ## CSS 
 
+- [Volorf/850words](https://github.com/Volorf/850words) - App helps to learn a list of 850 basic english words.
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
 - [DesignRevision/shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
@@ -2609,6 +2609,7 @@
 - [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) - OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)
 - [dimitrigence/lasagna-pl](https://github.com/dimitrigence/lasagna-pl) - Lazy naxsi rules generator
 - [weiss/ngx_http_upload](https://github.com/weiss/ngx_http_upload) - Nginx module to handle file uploads and downloads for XMPP servers
+- [xiaokai-wang/nginx_upstream_check_module](https://github.com/xiaokai-wang/nginx_upstream_check_module) - For http protocol. Health checks upstreams for nginx，support dynamic health check interface for adding servers, transplat from tengine based on upstream_check_module
 - [nigelhorne/cmilter](https://github.com/nigelhorne/cmilter) - A mail filter to block emails from countries from which you don't wish to receive e-mails
 - [certnanny/CertNanny](https://github.com/certnanny/CertNanny) - Client-side program allowing fully automatic renewal of certificates using the SCEP protocol
 - [fusiondirectory/schema2ldif](https://github.com/fusiondirectory/schema2ldif) - Schema 2 ldif : tool to convert .schema to .ldif files and mange them live into an openldap server
