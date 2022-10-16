@@ -807,6 +807,10 @@
 
 ## Go 
 
+- [awnumar/fastrand](https://github.com/awnumar/fastrand) - 10x faster than crypto/rand. Uses securely allocated memory. Forked from https://gitlab.com/NebulousLabs/fastrand
+- [benjojo/yubiTLS](https://github.com/benjojo/yubiTLS) - A Go TLS/HTTPS server demo that uses a Yubikey as the backend for it's private key
+- [brendonmatos/golive](https://github.com/brendonmatos/golive) - ⚡ Live views for GoLang with reactive HTML over WebSockets 🔌
+- [vanng822/go-premailer](https://github.com/vanng822/go-premailer) - Inline styling for html mail in golang
 - [SubhadeepSen/QuickText-ChatServer](https://github.com/SubhadeepSen/QuickText-ChatServer) - An instant messaging application with the following features. The backend of this project is written in Go Language and the front end is written in HTML, CSS and Javascript.
 - [inkeliz/gowebview](https://github.com/inkeliz/gowebview) - Simple WebView for Golang, avoiding CGO for Windows.
 - [glauth/glauth](https://github.com/glauth/glauth) - A lightweight LDAP server for development, home use, or CI
