@@ -747,6 +747,7 @@
 
 ## Dart 
 
+- [mytja/flutter_browser](https://github.com/mytja/flutter_browser) - A revolutionary new browser. HTML to Flutter transpiler. Written in Go (using Dart FFI) and Flutter.
 - [kingmercian/SonarrClient](https://github.com/kingmercian/SonarrClient) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -807,6 +808,9 @@
 
 ## Go 
 
+- [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
+- [go-li/mapast](https://github.com/go-li/mapast) - Map based Abstract Syntax Tree
+- [go-li/transpiler](https://github.com/go-li/transpiler) - Translator from go-li language to golang. Cross-package calling of generic functions disallowed (vendor your code).
 - [awnumar/fastrand](https://github.com/awnumar/fastrand) - 10x faster than crypto/rand. Uses securely allocated memory. Forked from https://gitlab.com/NebulousLabs/fastrand
 - [benjojo/yubiTLS](https://github.com/benjojo/yubiTLS) - A Go TLS/HTTPS server demo that uses a Yubikey as the backend for it's private key
 - [brendonmatos/golive](https://github.com/brendonmatos/golive) - ⚡ Live views for GoLang with reactive HTML over WebSockets 🔌
