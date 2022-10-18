@@ -808,6 +808,12 @@
 
 ## Go 
 
+- [kamildrazkiewicz/go-stanford-nlp](https://github.com/kamildrazkiewicz/go-stanford-nlp) - Go Stanford NLP POS Tagger wrapper
+- [mhilker/transcriber](https://github.com/mhilker/transcriber) - Convert audio speech to text
+- [shunsukeaihara/go-pocketsphinx](https://github.com/shunsukeaihara/go-pocketsphinx) - Pocketsphinx binding for Golang
+- [macdub/go-wiktionary-parse](https://github.com/macdub/go-wiktionary-parse) - Tool to parse wiktionary dump into a sqlite database file
+- [hajimehoshi/oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
+- [nlpodyssey/cybertron](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [go-li/mapast](https://github.com/go-li/mapast) - Map based Abstract Syntax Tree
 - [go-li/transpiler](https://github.com/go-li/transpiler) - Translator from go-li language to golang. Cross-package calling of generic functions disallowed (vendor your code).
@@ -2169,6 +2175,7 @@
 
 ## Java 
 
+- [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [DraqueT/PolyGlot](https://github.com/DraqueT/PolyGlot) - PolyGlot is a conlang construction toolkit.
@@ -2469,6 +2476,7 @@
 
 ## Others 
 
+- [cmusphinx/cmudict](https://github.com/cmusphinx/cmudict) - CMU US English Dictionary
 - [kirbyguy22/engine-sim-garage](https://github.com/kirbyguy22/engine-sim-garage) - A repository for custom parts and engines for AngeTheGreat's Engine Simulator: https://github.com/ange-yaghi/engine-sim
 - [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [agucova/awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
@@ -2642,6 +2650,8 @@
 
 ## Python 
 
+- [cmusphinx/g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) - G2P with Tensorflow
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [urduweb/Char2Lig](https://github.com/urduweb/Char2Lig) - Generate ligature based fonts from character based fonts for complex script languages.
 - [AbhiK002/virtual-keyboard](https://github.com/AbhiK002/virtual-keyboard) - GUI based app made in python using tkinter
@@ -3030,6 +3040,7 @@
 
 ## Shell 
 
+- [marytts/marytts-installer](https://github.com/marytts/marytts-installer) - Standalone installer for MaryTTS
 - [MrEddX/nextcloud-zero](https://github.com/MrEddX/nextcloud-zero) - New Nextcloud auto-installer script
 - [GitFr33/app-icon-resizer](https://github.com/GitFr33/app-icon-resizer) - A small and handy shell script for generating all 24 different icon sizes needed for an iOS + Android app from inkskape SVG.
 - [T-vK/Termux-DeepSpeech](https://github.com/T-vK/Termux-DeepSpeech) - Open source offline speech recognition for Android using Mozilla's DeepSpeech in Termux
@@ -3235,6 +3246,7 @@
 
 ## TypeScript 
 
+- [DanielSWolf/wiki-pronunciation-dict](https://github.com/DanielSWolf/wiki-pronunciation-dict) - Pronunciation dictionaries for several languages, based on Wiktionary data.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [svgmoji/svgmoji](https://github.com/svgmoji/svgmoji) - Popular open source emoji libraries available as svg sprites
