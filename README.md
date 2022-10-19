@@ -808,6 +808,7 @@
 
 ## Go 
 
+- [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [kamildrazkiewicz/go-stanford-nlp](https://github.com/kamildrazkiewicz/go-stanford-nlp) - Go Stanford NLP POS Tagger wrapper
 - [mhilker/transcriber](https://github.com/mhilker/transcriber) - Convert audio speech to text
 - [shunsukeaihara/go-pocketsphinx](https://github.com/shunsukeaihara/go-pocketsphinx) - Pocketsphinx binding for Golang
@@ -2387,7 +2388,6 @@
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [kba7/trugithub](https://github.com/kba7/trugithub) - 
 - [SocketCluster/loadbalancer](https://github.com/SocketCluster/loadbalancer) - A sticky load balancer optimized for realtime apps
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [maqetta/maqetta](https://github.com/maqetta/maqetta) - Maqetta Designer
 
 ## Jinja 
@@ -3287,6 +3287,7 @@
 - [tedb-org/teDB](https://github.com/tedb-org/teDB) - TypeScript Embedded Database
 - [melpon/wandbox](https://github.com/melpon/wandbox) - Social Compilation Service
 - [ziahamza/DefinitelyTyped](https://github.com/ziahamza/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 
 ## VHDL 
 
