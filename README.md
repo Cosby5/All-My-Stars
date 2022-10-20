@@ -808,6 +808,8 @@
 
 ## Go 
 
+- [gookit/event](https://github.com/gookit/event) - 📢 Lightweight event manager and dispatcher implements by Go. Go实现的轻量级的事件管理、调度程序库, 支持设置监听器的优先级, 支持根据事件名称来进行一组事件的监听
+- [Kwynto/lru](https://github.com/Kwynto/lru) - A simple and fast implementation of LRU for caching with old data preemption and constant access time.
 - [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [kamildrazkiewicz/go-stanford-nlp](https://github.com/kamildrazkiewicz/go-stanford-nlp) - Go Stanford NLP POS Tagger wrapper
 - [mhilker/transcriber](https://github.com/mhilker/transcriber) - Convert audio speech to text
@@ -843,7 +845,7 @@
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
-- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server, SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
 - [alexamies/chinesenotes-go](https://github.com/alexamies/chinesenotes-go) - Go web application for Chinese-English dictionary
@@ -1676,7 +1678,6 @@
 - [kevinlebrun/documentalist](https://github.com/kevinlebrun/documentalist) - A little tool to generate and serve documentation.
 - [drone/go-scm](https://github.com/drone/go-scm) - Package scm provides a unified interface to multiple source code management systems.
 - [mrz1836/go-sanitize](https://github.com/mrz1836/go-sanitize) - :bathtub: Golang library of simple to use sanitation functions
-- [simplesurance/automatix](https://github.com/simplesurance/automatix) - Github Bot to Update Go Module Dependencies
 - [otternq/gitmod2gomod](https://github.com/otternq/gitmod2gomod) - Converts git submodules in a vendor directory to a go.mod file
 - [knieriem/gomodsrv](https://github.com/knieriem/gomodsrv) - A Go module proxy serving modules from local Git or Mercurial repositories
 - [alextanhongpin/go-modules](https://github.com/alextanhongpin/go-modules) - Docker + go modules in go1.11
