@@ -392,6 +392,7 @@
 
 ## C++ 
 
+- [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [miniant-git/REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on Windows 10
 - [meshtastic/Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
 - [DDev247/engine-sim](https://github.com/DDev247/engine-sim) - Combustion engine simulator that generates realistic audio.
@@ -773,7 +774,7 @@
 - [JosephPaulAntonetti/CodeServerHaskell](https://github.com/JosephPaulAntonetti/CodeServerHaskell) - CodeServer Dockerfile for a Haskell Development Environment
 - [alehaa/docker-debian-systemd](https://github.com/alehaa/docker-debian-systemd) - Run a full Debian OS inside a Docker container
 - [j8r/dockerfiles](https://github.com/j8r/dockerfiles) - Repository for my dockerfiles
-- [unrelentingtech/docker-freebsd-cross](https://github.com/unrelentingtech/docker-freebsd-cross) - Docker image for cross-compiling to FreeBSD. With pkg!!
+- [valpackett/docker-freebsd-cross](https://github.com/valpackett/docker-freebsd-cross) - Docker image for cross-compiling to FreeBSD. With pkg!!
 - [prosody/prosody-docker](https://github.com/prosody/prosody-docker) - Docker image building system for the Prosody XMPP server
 - [jcbiellikltd/docker-dhcpd](https://github.com/jcbiellikltd/docker-dhcpd) - Simple containerized DHCP server running on Alpine Linux
 - [Drivetech/gitlab-deploy-ssh](https://github.com/Drivetech/gitlab-deploy-ssh) - Docker Image with alpine linux for deploy with ssh in gitlab ci
@@ -1205,7 +1206,7 @@
 - [nilium/codf](https://github.com/nilium/codf) - Config file parser for Go in the style of nginx (Migrated to https://git.sr.ht/~nilium/codf)
 - [jodoherty/httpsreversesshproxy](https://github.com/jodoherty/httpsreversesshproxy) - HTTPS reverse proxy through an SSH tunnel
 - [mdlayher/sshttp](https://github.com/mdlayher/sshttp) - Package sshttp provides functionality that enables some functionality of Go's net/http package to be used with SSH servers using SFTP.  MIT Licensed.
-- [unrelentingtech/443d](https://github.com/unrelentingtech/443d) - TLS with HTTP/2 proxying, demultiplexed with SSH, on your port 443
+- [valpackett/443d](https://github.com/valpackett/443d) - TLS with HTTP/2 proxying, demultiplexed with SSH, on your port 443
 - [shawnl/multiplexd](https://github.com/shawnl/multiplexd) - run ssh, https, and openvpn on the same port
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
 - [marguerite/network-real-online](https://github.com/marguerite/network-real-online) - systemd service to check if your network is really online by visiting baidu.com
