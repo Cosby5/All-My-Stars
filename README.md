@@ -1155,7 +1155,7 @@
 - [thealetheia/broccoli](https://github.com/thealetheia/broccoli) - Using brotli compression to embed static files in Go.
 - [extrame/xls](https://github.com/extrame/xls) - Pure Golang xls library
 - [xordataexchange/crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
-- [Project0/whaleguard](https://github.com/Project0/whaleguard) - WhaleGuard discovers docker to open dynamically your `ip6tables` firewall for your containers.
+- [project0/whaleguard](https://github.com/project0/whaleguard) - WhaleGuard discovers docker to open dynamically your `ip6tables` firewall for your containers.
 - [ziporah/go-docker-iptables](https://github.com/ziporah/go-docker-iptables) - 
 - [andysingleton/doxie-receiver](https://github.com/andysingleton/doxie-receiver) - Simple tool to pull scans down from the Doxie Go SE over wifi
 - [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
@@ -1446,8 +1446,8 @@
 - [rootrl/Mancy](https://github.com/rootrl/Mancy) - Mancy is a file watcher which supported to auto upload the changes to remote server via ssh/sftp.
 - [genshen/ssh-web-console](https://github.com/genshen/ssh-web-console) - Connect to your linux machine via ssh in your browser.
 - [leeview/goscgi](https://github.com/leeview/goscgi) - SimpleCGI protocol implementation for Go. Allows creation of a basic HTTP server if used with Nginx or other SCGI capable web server.
-- [Project0/cronify](https://github.com/Project0/cronify) - Run your scheduled jobs in the context to a docker container, discovered by docker labels.
-- [Project0/certjunkie](https://github.com/Project0/certjunkie) - An REST based server to receive certs from an ACME Server with limited DNS server for challenge.
+- [project0/cronify](https://github.com/project0/cronify) - Run your scheduled jobs in the context to a docker container, discovered by docker labels.
+- [project0/certjunkie](https://github.com/project0/certjunkie) - An REST based server to receive certs from an ACME Server with limited DNS server for challenge.
 - [rootsongjc/docker-ipam-plugin](https://github.com/rootsongjc/docker-ipam-plugin) - Docker network plugin to make a L2 flat network.
 - [blins/l2vlan](https://github.com/blins/l2vlan) - Docker network plugin https://hub.docker.com/p/blins1999/l2vlan
 - [ntt-nflex/ipam-driver](https://github.com/ntt-nflex/ipam-driver) - Docker IPAM Plugin for Overlay Networking
