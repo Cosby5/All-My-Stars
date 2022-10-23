@@ -809,6 +809,11 @@
 
 ## Go 
 
+- [JasonYuan/cmutex](https://github.com/JasonYuan/cmutex) - mutex with context
+- [vburenin/nsync](https://github.com/vburenin/nsync) - GoLang extended synchronization primitives: Named mutex, non blocking mutex, semaphore.
+- [djhworld/simpleCPU](https://github.com/djhworld/simpleCPU) - 
+- [Codehardt/go-cpulimit](https://github.com/Codehardt/go-cpulimit) - Throttle the CPU usage to a maximum
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [gookit/event](https://github.com/gookit/event) - 📢 Lightweight event manager and dispatcher implements by Go. Go实现的轻量级的事件管理、调度程序库, 支持设置监听器的优先级, 支持根据事件名称来进行一组事件的监听
 - [Kwynto/lru](https://github.com/Kwynto/lru) - A simple and fast implementation of LRU for caching with old data preemption and constant access time.
 - [johnfercher/maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
@@ -2478,6 +2483,7 @@
 
 ## Others 
 
+- [sheepla/awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - 🐚 A list of useful commands in the Unix shell one liner
 - [cmusphinx/cmudict](https://github.com/cmusphinx/cmudict) - CMU US English Dictionary
 - [kirbyguy22/engine-sim-garage](https://github.com/kirbyguy22/engine-sim-garage) - A repository for custom parts and engines for AngeTheGreat's Engine Simulator: https://github.com/ange-yaghi/engine-sim
 - [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
