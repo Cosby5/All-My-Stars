@@ -394,7 +394,7 @@
 
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [miniant-git/REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on Windows 10
-- [meshtastic/Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [DDev247/engine-sim](https://github.com/DDev247/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interac
@@ -809,6 +809,8 @@
 
 ## Go 
 
+- [deNULL/utf-c](https://github.com/deNULL/utf-c) - A compact way to encode Unicode strings
+- [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 - [JasonYuan/cmutex](https://github.com/JasonYuan/cmutex) - mutex with context
 - [vburenin/nsync](https://github.com/vburenin/nsync) - GoLang extended synchronization primitives: Named mutex, non blocking mutex, semaphore.
 - [djhworld/simpleCPU](https://github.com/djhworld/simpleCPU) - 
