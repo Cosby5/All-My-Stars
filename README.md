@@ -1990,7 +1990,7 @@
 - [jstarks/npiperelay](https://github.com/jstarks/npiperelay) - npiperelay allows you to access Windows named pipes from WSL
 - [genuinetools/binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [mback2k/smtp-dkim-signer](https://github.com/mback2k/smtp-dkim-signer) - SMTP-proxy that DKIM-signs e-mails before submission to an upstream SMTP-server.
-- [mike-seagull/domain_pecker](https://github.com/mike-seagull/domain_pecker) - checks to see if a domain is available
+- [mike-seagull/peck](https://github.com/mike-seagull/peck) - checks to see if a domain is available
 - [kaneg/httpshell](https://github.com/kaneg/httpshell) - SSH like Shell via http protocol
 - [hagna/xyz](https://github.com/hagna/xyz) - Listen on external ports, even behind NAT, and more.
 - [sprucehealth/go-proxy-protocol](https://github.com/sprucehealth/go-proxy-protocol) - Proxy protocol implementation for Go
