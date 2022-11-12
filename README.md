@@ -59,7 +59,6 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Standard ML](#standard-ml)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [Tcl](#tcl)
@@ -2292,6 +2291,7 @@
 - [marksmall/gl-hierarchy](https://github.com/marksmall/gl-hierarchy) - NodeJS script to create a GitLab Group/Sub-Group/Project hierarchy
 - [jdrydn/electron-plex-menubar](https://github.com/jdrydn/electron-plex-menubar) - A static menubar player for Plex
 - [nextcloud/nextcloud-filelink](https://github.com/nextcloud/nextcloud-filelink) - :envelope: :outbox_tray: "Nextcloud for Filelink" is a Thunderbird extension which makes it easy to send large attachments with Thunderbird by uploading them first to a Nextcloud server and by then in
+- [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
 - [mattallty/muguet](https://github.com/mattallty/muguet) - DNS Server & Reverse proxy for Docker - Compatible with docker-compose, boot2docker and docker-machine
 - [Ardumower/ControlCenter](https://github.com/Ardumower/ControlCenter) - 
 - [paulgrove/auto-transcode-manager](https://github.com/paulgrove/auto-transcode-manager) - Manage the transcoding of a media library
@@ -3222,10 +3222,6 @@
 ## Standard ML 
 
 - [garyatpt/7688_repo](https://github.com/garyatpt/7688_repo) - ipk for 7688
-
-## Svelte 
-
-- [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension) - WebExtension: Adds an option to the context menu to search with an image on various services.
 
 ## Swift 
 
