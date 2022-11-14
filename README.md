@@ -2414,7 +2414,6 @@
 - [naokishibuya/car-finding-lane-lines](https://github.com/naokishibuya/car-finding-lane-lines) - Finding Lane Lines using Python and OpenCV
 - [kelu124/un0rick](https://github.com/kelu124/un0rick) - smallish ice40 / raspberrypi ultrasound hardware
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [yu4u/age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
 
@@ -2938,6 +2937,7 @@
 - [ZachGoldberg/Cerebro](https://github.com/ZachGoldberg/Cerebro) - Self hosted automated cloud deployment and management.
 - [ZachGoldberg/Personal-Cluster-Manager](https://github.com/ZachGoldberg/Personal-Cluster-Manager) - (new name forthcoming) utilities to manage one's own personal unix based ssh-capable clusters
 - [SwoopSearch/pyaddress](https://github.com/SwoopSearch/pyaddress) - pyaddress is an address parsing library, taking the guesswork out of using addresses in your applications. We use it as part of our apartment search and apartment spider applications.
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [dasmith/stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for Stanford CoreNLP tools v3.4.1
 - [diegomorin8/Deep-Neural-Networks-for-Piano-Music-Transcription](https://github.com/diegomorin8/Deep-Neural-Networks-for-Piano-Music-Transcription) - Deep Neural Networks for Piano Music Transcription - Project for the course DT2119 - Speech and Speaker recognition KTH
 - [BTBurke/speaker-recognition](https://github.com/BTBurke/speaker-recognition) - Implements a proof-of-concept of a multi-level clustering algorithm designed to enable extremely fast approximate match search in a large database of voice samples.
