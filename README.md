@@ -2880,7 +2880,6 @@
 - [moba/pgpmilter](https://github.com/moba/pgpmilter) - PGPMilter is a demo milter (mail filter) that rejects non-PGP mail by scanning the mail body.
 - [mjiricka/MailFrom_DNSBL_Milter](https://github.com/mjiricka/MailFrom_DNSBL_Milter) - Milter for filtering emails according MAIL FROM domain.
 - [psyriccio/fdroid-multirepo](https://github.com/psyriccio/fdroid-multirepo) - Scripts to organize an F-Droid Android software repository with automatic package migration from another repos or from play market
-- [arc298/instagram-scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [georgeglessner/CoinbaseTrader](https://github.com/georgeglessner/CoinbaseTrader) - A coinbase application to buy and sell Bitcoin and Ethereum
 - [JPStrydom/Crypto-Trading-Bot](https://github.com/JPStrydom/Crypto-Trading-Bot) - Automated Bittrex crypto-currency technical analysis and trading tool
