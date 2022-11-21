@@ -2659,6 +2659,7 @@
 
 ## Python 
 
+- [yuvadm/krakensdr_pr](https://github.com/yuvadm/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [cmusphinx/g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) - G2P with Tensorflow
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
