@@ -3057,7 +3057,7 @@
 - [T-vK/Termux-DeepSpeech](https://github.com/T-vK/Termux-DeepSpeech) - Open source offline speech recognition for Android using Mozilla's DeepSpeech in Termux
 - [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino) - A curated list of awesome Arduino hardwares, libraries and softwares with update script
 - [essentialkaos/gopack](https://github.com/essentialkaos/gopack) - A simple tool for packing Go packages sources with all dependencies
-- [MrSimonEmms/gitpod-single-instance](https://github.com/MrSimonEmms/gitpod-single-instance) - Run Gitpod on your local machine
+- [mrsimonemms/gitpod-single-instance](https://github.com/mrsimonemms/gitpod-single-instance) - Run Gitpod on your local machine
 - [AkihiroSuda/containerized-systemd](https://github.com/AkihiroSuda/containerized-systemd) - Dockerfile examples for containerized systemd (mainly for test environments)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
