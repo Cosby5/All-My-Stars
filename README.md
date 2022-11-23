@@ -3137,7 +3137,7 @@
 - [mitchellkrogza/Fail2Ban.WebExploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits) - This custom Fail2Ban filter and jail will deal with all scans for common Wordpress, Joomla and other Web Exploits being scanned for by automated bots and those seeking to find exploitable web sites.
 - [angristan/nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile NGINX from source with custom modules and patches on Debian and Ubuntu
 - [northox/2sshfp](https://github.com/northox/2sshfp) - Build SSHFP DNS records - xmss, ecdsa & ed25519 support
-- [ajclark/plex-auto-update](https://github.com/ajclark/plex-auto-update) - Super simple script to automatically update Plex Media Server for Linux systems
+- [ajclark/plex-auto-update](https://github.com/ajclark/plex-auto-update) - Automatically update the Plex Media Server package on Linux systems
 - [taskcluster/nginx-s3-proxy](https://github.com/taskcluster/nginx-s3-proxy) - Caching cross region S3 requests...
 - [FeepingCreature/neatbot](https://github.com/FeepingCreature/neatbot) - An IRC bot platform in Neat
 - [kooltux/git-cache](https://github.com/kooltux/git-cache) - Git extension to cache upstream repos on a local server
