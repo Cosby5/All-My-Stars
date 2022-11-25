@@ -317,6 +317,7 @@
 
 ## C# # 
 
+- [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
 - [arcanecfg/Windows-10-Update-Killer](https://github.com/arcanecfg/Windows-10-Update-Killer) - Forcefully stops the services related to Windows 10 background updates.
 - [cobbr/SharpShell](https://github.com/cobbr/SharpShell) - SharpShell is a proof-of-concept offensive C# scripting engine that utilizes the Rosyln C# compiler to quickly cross-compile .NET Framework console applications or libraries.
 - [altimesh/hybridizer-basic-samples](https://github.com/altimesh/hybridizer-basic-samples) - Examples of C# code compiled to GPU by hybridizer
