@@ -239,7 +239,7 @@
 - [stg/SYLT-FFT](https://github.com/stg/SYLT-FFT) - Optimized (I)FFT(R) for Cortex-M4
 - [funny-falcon/pyvm_old](https://github.com/funny-falcon/pyvm_old) - alternative python vm, example of lwc code (not mine, just saved)
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-- [r0ngwe1/elfloader](https://github.com/r0ngwe1/elfloader) - load so file into current memory space and run function
+- [xrw67/elfloader](https://github.com/xrw67/elfloader) - load so file into current memory space and run function
 - [thiz11/mediatek](https://github.com/thiz11/mediatek) - 
 - [LIFECorp/mediatek](https://github.com/LIFECorp/mediatek) - 
 - [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
@@ -1101,7 +1101,7 @@
 - [madewithlinux/sshsync](https://github.com/madewithlinux/sshsync) - 
 - [emptyinterface/knownhosts](https://github.com/emptyinterface/knownhosts) - ~/.ssh/known_hosts verification in go
 - [cmars/sshlurp](https://github.com/cmars/sshlurp) - Retrieve SSH public keys from remote hosts.
-- [jpillora/sshd-lite](https://github.com/jpillora/sshd-lite) - A feature-light sshd(8) written in Go
+- [jpillora/sshd-lite](https://github.com/jpillora/sshd-lite) - A feature-light sshd(8) for Windows, Mac, and Linux written in Go
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [mikkeloscar/sshconfig](https://github.com/mikkeloscar/sshconfig) - Golang OpenSSH config parser
 - [crosbymichael/slex](https://github.com/crosbymichael/slex) - SSH multiplex
