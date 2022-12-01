@@ -45,6 +45,7 @@
 - [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [Processing](#processing)
 - [Puppet](#puppet)
 - [Python](#python)
 - [Racket](#racket)
@@ -393,6 +394,7 @@
 
 ## C++ 
 
+- [ranenbg/Arduino-FFB-wheel](https://github.com/ranenbg/Arduino-FFB-wheel) - Stand alone USB device recognized as a joystick with force feedback functionality, based on BR Wheel by Fernando Igor from 2017
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [miniant-git/REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on Windows 10
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
@@ -897,7 +899,7 @@
 - [roylee0704/gron](https://github.com/roylee0704/gron) - gron, Cron Jobs in Go.
 - [oklog/run](https://github.com/oklog/run) - A universal mechanism to manage goroutine lifecycles
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP library written in Go and C++
+- [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go and C++
 - [pioz/god](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines
 - [dspinhirne/netaddr-go](https://github.com/dspinhirne/netaddr-go) - A Go library for performing calculations on IPv4 and IPv6 subnets.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
@@ -2653,6 +2655,10 @@
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatw
+
+## Processing 
+
+- [ranenbg/Arduino-FFB-gui](https://github.com/ranenbg/Arduino-FFB-gui) - Graphical user interface for controlling and monitoring all aspects of the Arduino FFB wheel via serial port
 
 ## Puppet 
 
