@@ -69,7 +69,6 @@
 - [Verilog](#verilog)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
-- [WebAssembly](#webassembly)
 - [Wren](#wren)
 - [XC](#xc)
 - [XSLT](#xslt)
@@ -434,6 +433,7 @@
 - [spark3dp/ember-firmware](https://github.com/spark3dp/ember-firmware) - Firmware for Autodesk Ember 3D printer
 - [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
@@ -3312,7 +3312,7 @@
 - [thaolt/icculus-manticore](https://github.com/thaolt/icculus-manticore) - A copy of http://svn.icculus.org/manticore/ . Manticore is an open source hardware design for a 3D graphics accelerator
 - [EthChil/Ray-Tracing](https://github.com/EthChil/Ray-Tracing) - Initial attempt at creating a ray tracing accelerator with an FPGA
 - [mfkiwl/RISC-V_Vector_Accelerator_For_ML](https://github.com/mfkiwl/RISC-V_Vector_Accelerator_For_ML) - 
-- [rahulsridhar5/FFT_Accelerator](https://github.com/rahulsridhar5/FFT_Accelerator) - Designing an Accelerator to speed up FFT Calculation on FPGA using Verilog
+- [rah-sr/FFT_Accelerator](https://github.com/rah-sr/FFT_Accelerator) - Designing an Accelerator to speed up FFT Calculation on FPGA using Verilog
 - [DanieleParravicini/regex_coprocessor](https://github.com/DanieleParravicini/regex_coprocessor) - An accelerator to which you can offload RE matching and that does not use backtracking
 - [EPFL-LAP/fpga19-MOMS](https://github.com/EPFL-LAP/fpga19-MOMS) - 
 - [m-asiatici/MSHR-rich](https://github.com/m-asiatici/MSHR-rich) - A multi-banked non-blocking cache that handles efficiently thousands of outstanding misses, especially suited for bandwidth-bound latency-insensitive hardware accelerators with irregular memory access
@@ -3397,10 +3397,6 @@
 
 - [rpcx-ecosystem/rpcx-demo](https://github.com/rpcx-ecosystem/rpcx-demo) - 一个rpcx的演示程序 - 电子商城
 - [timoschwarzer/gitlab-monitor](https://github.com/timoschwarzer/gitlab-monitor) - A web-based monitor dashboard for GitLab CI
-
-## WebAssembly 
-
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 
 ## Wren 
 
