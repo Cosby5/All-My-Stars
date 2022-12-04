@@ -3260,6 +3260,7 @@
 
 ## TypeScript 
 
+- [illogical/ShortcutDashboardNode](https://github.com/illogical/ShortcutDashboardNode) - A customizable button dashboard web app that sends commands to a Windows PC.
 - [DanielSWolf/wiki-pronunciation-dict](https://github.com/DanielSWolf/wiki-pronunciation-dict) - Pronunciation dictionaries for several languages, based on Wiktionary data.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
