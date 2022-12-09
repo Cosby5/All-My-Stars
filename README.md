@@ -1449,7 +1449,7 @@
 - [hexial/gitea-migrate](https://github.com/hexial/gitea-migrate) - 
 - [nxsre/sshfs-go](https://github.com/nxsre/sshfs-go) - A network filesystem client to connect to SSH servers [ implementation by golang ]
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [huacnlee/gobackup](https://github.com/huacnlee/gobackup) - 🗄 CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ppacher/go-sftp](https://github.com/ppacher/go-sftp) - An sftp client and server library for GoLang
 - [rootrl/Mancy](https://github.com/rootrl/Mancy) - Mancy is a file watcher which supported to auto upload the changes to remote server via ssh/sftp.
