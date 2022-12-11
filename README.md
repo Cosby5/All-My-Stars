@@ -777,7 +777,6 @@
 - [alehaa/docker-debian-systemd](https://github.com/alehaa/docker-debian-systemd) - Run a full Debian OS inside a Docker container
 - [j8r/dockerfiles](https://github.com/j8r/dockerfiles) - Repository for my dockerfiles
 - [valpackett/docker-freebsd-cross](https://github.com/valpackett/docker-freebsd-cross) - Docker image for cross-compiling to FreeBSD. With pkg!!
-- [prosody/prosody-docker](https://github.com/prosody/prosody-docker) - Docker image building system for the Prosody XMPP server
 - [jcbiellikltd/docker-dhcpd](https://github.com/jcbiellikltd/docker-dhcpd) - Simple containerized DHCP server running on Alpine Linux
 - [Drivetech/gitlab-deploy-ssh](https://github.com/Drivetech/gitlab-deploy-ssh) - Docker Image with alpine linux for deploy with ssh in gitlab ci
 - [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban) - Fail2ban Docker image
@@ -1066,7 +1065,7 @@
 - [aluttik/go-crossplane](https://github.com/aluttik/go-crossplane) - An unofficial Go port of the NGINX config/JSON converter crossplane
 - [teacat/gitremotes](https://github.com/teacat/gitremotes) - 🛠️ Create multiple Git Remotes with just a `.gitremotes` file
 - [yosssi/gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
-- [mochi-co/mqtt](https://github.com/mochi-co/mqtt) - An embeddable lightweight, high-performance Go/Golang MQTT Server (broker) for IoT and PubSub
+- [mochi-co/mqtt](https://github.com/mochi-co/mqtt) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub
 - [jakewarren/backhub](https://github.com/jakewarren/backhub) - Back up starred repos & Gists from GitHub
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats
@@ -2431,6 +2430,7 @@
 - [wompi-co/srv-router](https://github.com/wompi-co/srv-router) - OpenResty (nginx+lua) that discovers upstream servers from SRV records
 - [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [micmac/ngx-lua-log-syslog](https://github.com/micmac/ngx-lua-log-syslog) - Playground for generating access log from nginx to a syslog server and forwarding syslog to scribe
+- [prosody/prosody-docker](https://github.com/prosody/prosody-docker) - Docker image building system for the Prosody XMPP server
 - [jcbf/smf-spf](https://github.com/jcbf/smf-spf) - It's a lightweight, fast and reliable Sendmail milter that implements the Sender Policy Framework
 - [juce/lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server
 
@@ -2671,7 +2671,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [urduweb/Char2Lig](https://github.com/urduweb/Char2Lig) - Generate ligature based fonts from character based fonts for complex script languages.
-- [AbhiK002/virtual-keyboard](https://github.com/AbhiK002/virtual-keyboard) - GUI based app made in python using tkinter
+- [AbhiK002/virtual-keyboard](https://github.com/AbhiK002/virtual-keyboard) - Virtual Keyboard made with tkinter
 - [vsltech/virtualkeyboard](https://github.com/vsltech/virtualkeyboard) - Virtual Keyboard using Python PyQt4 & DirectX Programming for Game Controls
 - [Faylixe/pygame-vkeyboard](https://github.com/Faylixe/pygame-vkeyboard) - Visual keyboard for Pygame engine.
 - [dbamman/akkadian-morph-analyzer](https://github.com/dbamman/akkadian-morph-analyzer) - Morphological Analyzer for Akkadian
