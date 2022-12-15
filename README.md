@@ -317,6 +317,7 @@
 
 ## C# # 
 
+- [DDev247/EngineSimRecorder](https://github.com/DDev247/EngineSimRecorder) - A recorder for engine-sim with BeamNG.drive exporting capability
 - [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
 - [arcanecfg/Windows-10-Update-Killer](https://github.com/arcanecfg/Windows-10-Update-Killer) - Forcefully stops the services related to Windows 10 background updates.
 - [cobbr/SharpShell](https://github.com/cobbr/SharpShell) - SharpShell is a proof-of-concept offensive C# scripting engine that utilizes the Rosyln C# compiler to quickly cross-compile .NET Framework console applications or libraries.
@@ -2250,6 +2251,7 @@
 
 ## JavaScript 
 
+- [Enginette/enginette](https://github.com/Enginette/enginette) - Engine editor for the engine-sim
 - [words/moby](https://github.com/words/moby) - :closed_book: The largest English-language thesaurus
 - [kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner) - 
 - [nfroidure/svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont) - Concatenate SVG icons and ouput an SVG font
@@ -2728,6 +2730,7 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
@@ -3278,7 +3281,6 @@
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
