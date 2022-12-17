@@ -785,7 +785,6 @@
 - [retog/docker-x11-xpra](https://github.com/retog/docker-x11-xpra) - A docker image proving a basis for X application accessible via ssh with or without xpra and optionally use xephyr and i3
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [tiredofit/docker-self-service-password](https://github.com/tiredofit/docker-self-service-password) - Dockerized LDAP Tollbox Self Service Password Changer with many customizable options
-- [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [dockerimages/docker-systemd](https://github.com/dockerimages/docker-systemd) - This is a Ubuntu Baseimage Running SystemD Init System inside a container it can idealy be applyed over any other ubuntu or fedora img
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [jangrewe/gitlab-ci-android](https://github.com/jangrewe/gitlab-ci-android) - GitLab CI image for building Android apps
@@ -906,7 +905,6 @@
 - [danielvegamyhre/minicache](https://github.com/danielvegamyhre/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [mahesh-hegde/rrip](https://github.com/mahesh-hegde/rrip) - Bulk image downloader for reddit.
-- [CamusEnergy/kinney](https://github.com/CamusEnergy/kinney) - Real-time campus microgrid management for solar, EVs, HVAC, etc.
 - [gumelarme/yava](https://github.com/gumelarme/yava) - mini-Java compiler implemented in go
 - [backwards-rat-race/go-on-jvm](https://github.com/backwards-rat-race/go-on-jvm) - Experimental Compiler for Go targeting the JVM
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
@@ -2587,6 +2585,7 @@
 - [anudeepND/pihole-unbound](https://github.com/anudeepND/pihole-unbound) - Guide to setup Unbound recursive DNS resolver with Pi-Hole. With additional configs for speed and security!! 🚀🔒
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
+- [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Android4Lumia/bootloader_msm8227](https://github.com/Android4Lumia/bootloader_msm8227) - LittleKernel bootloader for Qualcomm MSM8227 based Lumias
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
@@ -2730,7 +2729,6 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
@@ -3281,6 +3279,7 @@
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
