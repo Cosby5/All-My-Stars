@@ -577,7 +577,6 @@
 - [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
 - [huntlabs/hunt-entity](https://github.com/huntlabs/hunt-entity) - An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.
 - [alvinliu725/rtos](https://github.com/alvinliu725/rtos) - Real time operating system assignment
-- [kmosegaard/timeserver](https://github.com/kmosegaard/timeserver) - Implementing RFC868 in different languages.
 - [boolangery/d-ntp-client](https://github.com/boolangery/d-ntp-client) - 
 - [ilmanzo/ntpclient](https://github.com/ilmanzo/ntpclient) - a very simple NTP client written in D
 - [ajbonkoski/dynvm](https://github.com/ajbonkoski/dynvm) - DynVM is a high-level VM intended as a target for dynamic languages. DynVM executes a high-level assembly language modeled after the Lua IR. This high-level assembly laguage (hlasm) can be the target 
@@ -2729,6 +2728,7 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
@@ -3279,7 +3279,6 @@
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
