@@ -522,7 +522,7 @@
 - [kblewellen/echo-keyvalue](https://github.com/kblewellen/echo-keyvalue) - The research prototype of a versioned key-value store for non-volatile main-memory.
 - [cdaffara/symbiandump-os1](https://github.com/cdaffara/symbiandump-os1) - Dump of the last open source code for the Symbian mobile operating system - os1
 - [stealth/sshttp](https://github.com/stealth/sshttp) - SSH/HTTP(S) multiplexer. Run a webserver and a sshd on the same port w/o changes.
-- [timdiels/sysintercept](https://github.com/timdiels/sysintercept) - System call interceptor (for windows)
+- [timdiels/sysintercept](https://github.com/timdiels/sysintercept) - System call interceptor for windows
 - [floodyberry/genwrapper](https://github.com/floodyberry/genwrapper) - A tool to generate DLL wrappers
 - [qeeg/leviathan](https://github.com/qeeg/leviathan) - A fork of the Exodus Emulation Platform.
 - [drycpp/machinery](https://github.com/drycpp/machinery) - [Inactive] Toolchain machinery for compilers, code generators, assemblers, linkers, and emulators.
@@ -2456,7 +2456,7 @@
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 - [cloudflavor/tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
 - [jaymoulin/docker-rpi-plex-video-converter](https://github.com/jaymoulin/docker-rpi-plex-video-converter) - Raspberry PI - Plex Video converter - Docker image (Multiarch)
-- [jaymoulin/docker-plex](https://github.com/jaymoulin/docker-plex) - Plex Media Server - Docker Image (Multiarch + Raspberry Pi)
+- [jaymoulin/docker-plex](https://github.com/jaymoulin/docker-plex) - Plex Media Server - Docker Image (Multiarch + Raspberry Pi) - 5M downloads
 - [WanghongLin/StandaloneDVM](https://github.com/WanghongLin/StandaloneDVM) - Run the standalone dalvik virtual machine
 
 ## Nginx 
@@ -2733,7 +2733,7 @@
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
 - [easyw/RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD) - KiCAD RF tools: footprints wizard and round tracks, mask expander, via fencing
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [amoe/rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
