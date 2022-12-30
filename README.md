@@ -678,7 +678,6 @@
 - [tgehr/d-compiler](https://github.com/tgehr/d-compiler) - 
 - [Rikarin/Trinix](https://github.com/Rikarin/Trinix) - First operating system written in D lang v2
 - [dd86k/dd86](https://github.com/dd86k/dd86) - No longer maintained. See URL.
-- [p0nce/pfft](https://github.com/p0nce/pfft) - This is deprecated, use the dplug:fft package instead.
 - [dd86k/dnote](https://github.com/dd86k/dnote) - CLI Note App
 - [outlandkarasu-sandbox/pidos](https://github.com/outlandkarasu-sandbox/pidos) - 
 - [LunaTheFoxgirl/nicedesktopd](https://github.com/LunaTheFoxgirl/nicedesktopd) - A small application meant to be used as a wallpaper setting daemon for linux (and compatible). Written in D.
