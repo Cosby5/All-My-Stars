@@ -884,7 +884,7 @@
 - [soundscapecloud/soundscape](https://github.com/soundscapecloud/soundscape) - Soundscape - a personal music streaming server
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [tardisx/linkwallet](https://github.com/tardisx/linkwallet) - A self-hosted bookmark database with full-text page content search
-- [fyne-io/fynedesk](https://github.com/fyne-io/fynedesk) - A full desktop environment for Linux/Unix using Fyne
+- [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install Apple ipa and Android apk in web.
 - [gooid/gooid](https://github.com/gooid/gooid) - Go bindings for Android NDK
 - [xlab/android-go](https://github.com/xlab/android-go) - The android-go project provides a platform for writing native Android apps in Go programming language.
@@ -948,7 +948,7 @@
 - [minio/md5-simd](https://github.com/minio/md5-simd) - Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 - [neurocollective/go_chainable](https://github.com/neurocollective/go_chainable) - With generics, allowing chainable .Map(func(...)).Reduce(func(...)) syntax in go
 - [mfuentesg/localdns](https://github.com/mfuentesg/localdns) - Simple DNS server built to handle local records and thought to be easy, fast and small.
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [blugelabs/bluge](https://github.com/blugelabs/bluge) - indexing library for Go
 - [prabhatsharma/bluges3](https://github.com/prabhatsharma/bluges3) - A sample implementation that allows bluge indexes to be stored in s3
