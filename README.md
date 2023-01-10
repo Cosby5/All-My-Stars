@@ -2634,7 +2634,7 @@
 - [mwr666/protoDEV-coreXY](https://github.com/mwr666/protoDEV-coreXY) - http://hackaday.io/project/156697
 - [yappo/nginx-psgi-patchs](https://github.com/yappo/nginx-psgi-patchs) - Real PSIG support was written to nginx.
 - [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) - OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)
-- [dimitrigence/lasagna-pl](https://github.com/dimitrigence/lasagna-pl) - Lazy naxsi rules generator
+- [dmgnx/lasagna-pl](https://github.com/dmgnx/lasagna-pl) - Lazy naxsi rules generator
 - [weiss/ngx_http_upload](https://github.com/weiss/ngx_http_upload) - Nginx module to handle file uploads and downloads for XMPP servers
 - [xiaokai-wang/nginx_upstream_check_module](https://github.com/xiaokai-wang/nginx_upstream_check_module) - For http protocol. Health checks upstreams for nginx，support dynamic health check interface for adding servers, transplat from tengine based on upstream_check_module
 - [nigelhorne/cmilter](https://github.com/nigelhorne/cmilter) - A mail filter to block emails from countries from which you don't wish to receive e-mails
