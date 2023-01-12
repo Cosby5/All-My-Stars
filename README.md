@@ -1670,7 +1670,7 @@
 - [johanbrandhorst/gopherjs-grpc-websocket](https://github.com/johanbrandhorst/gopherjs-grpc-websocket) - An example implementation of bridging gRPC with a GopherJS frontend over Websockets
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [gokrazy/tools](https://github.com/gokrazy/tools) - Tools for end-users of gokrazy (gokr-packer, …)
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3 or 4 (or on amd64 PCs!)
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [benmanns/goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
 - [itsabot/plugin_weather](https://github.com/itsabot/plugin_weather) - 
@@ -2485,6 +2485,7 @@
 
 ## Others 
 
+- [candlewill/Speech-Corpus-Collection](https://github.com/candlewill/Speech-Corpus-Collection) - A Collection of Speech Corpus for ASR and TTS
 - [sheepla/awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - 🐚 A list of useful commands in the Unix shell one liner
 - [cmusphinx/cmudict](https://github.com/cmusphinx/cmudict) - CMU US English Dictionary
 - [kirbyguy22/engine-sim-garage](https://github.com/kirbyguy22/engine-sim-garage) - A repository for custom parts and engines for AngeTheGreat's Engine Simulator: https://github.com/ange-yaghi/engine-sim
@@ -2665,6 +2666,7 @@
 
 ## Python 
 
+- [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [yuvadm/krakensdr_pr](https://github.com/yuvadm/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [cmusphinx/g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) - G2P with Tensorflow
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -2743,7 +2745,7 @@
 - [jacobstein123/EEG_Robotic_Arm](https://github.com/jacobstein123/EEG_Robotic_Arm) - An arduino-powered robotic arm controlled by brain activity
 - [eegsynth/eegsynth](https://github.com/eegsynth/eegsynth) - Converting real-time EEG into sounds, music and visual effects
 - [ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)
-- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized "configuration as a code" tool for GitLab
+- [gitlabform/gitlabform](https://github.com/gitlabform/gitlabform) - 🏗 Specialized configuration as a code tool for GitLab
 - [stuartmccoll/gitlab-attendant](https://github.com/stuartmccoll/gitlab-attendant) - 🤖 A GitLab bot that tidies and attends to repositories
 - [glensc/gitlab-registry-cleanup-hook](https://github.com/glensc/gitlab-registry-cleanup-hook) - Listens for incoming requests and deletes docker images if merge request is merged
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
