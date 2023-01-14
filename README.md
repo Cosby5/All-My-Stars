@@ -846,7 +846,7 @@
 - [srwiley/rasterx](https://github.com/srwiley/rasterx) - Rasterx is an SVG 2.0 path compliant rasterizer that can use either scany, the golang vector or a derivative of the freetype anti-aliaser.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) - :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [akosmarton/vunikbd](https://github.com/akosmarton/vunikbd) - Virtual Unicode Keyboard for Linux in Go
-- [lwch/rdesktop](https://github.com/lwch/rdesktop) - golang desktop controller
+- [lwch/rdesktop](https://github.com/lwch/rdesktop) - golang desktop controller, supported windows, linux, macos.
 - [pqsec/passkb](https://github.com/pqsec/passkb) - A simple virtual keyboard to paste your passwords into forms which block paste
 - [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
