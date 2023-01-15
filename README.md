@@ -1669,7 +1669,7 @@
 - [johanbrandhorst/chunker](https://github.com/johanbrandhorst/chunker) - Small demo of a server splitting binary blobs into streamed chunks
 - [johanbrandhorst/gopherjs-grpc-websocket](https://github.com/johanbrandhorst/gopherjs-grpc-websocket) - An example implementation of bridging gRPC with a GopherJS frontend over Websockets
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
-- [gokrazy/tools](https://github.com/gokrazy/tools) - Tools for end-users of gokrazy (gokr-packer, …)
+- [gokrazy/tools](https://github.com/gokrazy/tools) - this repository contains the gok CLI tool of gokrazy
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [benmanns/goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
@@ -3205,7 +3205,6 @@
 - [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [sp4rkie/debian-on-termux](https://github.com/sp4rkie/debian-on-termux) - HOWTO install plain Debian 10 (buster) on your non-rooted Android smartphone
 - [rogaha/docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
-- [SirNomad49/Update-Hosts](https://github.com/SirNomad49/Update-Hosts) - this script allows you to add entrys to your /etc/hosts file
 - [unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
 - [jumanjiman/docker-xrdp](https://github.com/jumanjiman/docker-xrdp) - XFCE desktop in a Docker container
 - [alexellis/docker-arm](https://github.com/alexellis/docker-arm) - Build Docker and Swarm on an ARM SoC like the Raspberry Pi
