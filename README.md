@@ -2594,7 +2594,6 @@
 - [nmcclain/glauth](https://github.com/nmcclain/glauth) - LDAP authentication server for developers
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [BBN-Q/vivado-docker](https://github.com/BBN-Q/vivado-docker) - Dockerfile with Vivado for CI
-- [diegomarangoni/docker-hhvm](https://github.com/diegomarangoni/docker-hhvm) - HHVM from prebuilt or source, run as a cli or fastcgi for usage within a web server
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js) - Pure JavaScript Port of WebKit
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -3243,6 +3242,7 @@
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [openhwgroup/cv32e40s](https://github.com/openhwgroup/cv32e40s) - 4 stage, in-order, secure RISC-V core based on the CV32E40P
 - [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler that will run programs written in more high level languages
+- [PacoReinaCampo/PU-RISCV](https://github.com/PacoReinaCampo/PU-RISCV) - Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
 - [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
@@ -3308,7 +3308,6 @@
 
 - [hdhzero/Hivek](https://github.com/hdhzero/Hivek) - A VLIW soft processor in VHDL.
 - [jardelufc/FTJop](https://github.com/jardelufc/FTJop) - Fault Tolerant Java Optimized Processor
-- [PacoReinaCampo/PU-RISCV](https://github.com/PacoReinaCampo/PU-RISCV) - Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
 - [DHLSan/ModArithAccel](https://github.com/DHLSan/ModArithAccel) - Efficient modulo arithmetic accelerator design (mod add, mod sub, mod mul, mod exp) for fixed/arbitrary prime numbers at RTL-level (VHDL/Verilog).
 - [thaolt/icculus-manticore](https://github.com/thaolt/icculus-manticore) - A copy of http://svn.icculus.org/manticore/ . Manticore is an open source hardware design for a 3D graphics accelerator
 - [EthChil/Ray-Tracing](https://github.com/EthChil/Ray-Tracing) - Initial attempt at creating a ray tracing accelerator with an FPGA
