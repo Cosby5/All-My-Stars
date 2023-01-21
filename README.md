@@ -971,7 +971,7 @@
 - [evgeniy-klemin/webrtc-sip-client](https://github.com/evgeniy-klemin/webrtc-sip-client) - WebRTC SIP client on golang for FreeSwitch
 - [psanford/github-stars](https://github.com/psanford/github-stars) - CLI tool to list all starred repos by user
 - [CurlyBrackets/GoNet](https://github.com/CurlyBrackets/GoNet) - A compiler that compiles Golang to CIL
-- [lucas-clemente/quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [stuarthu/go-implement-your-object-storage](https://github.com/stuarthu/go-implement-your-object-storage) - 
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
@@ -2690,7 +2690,7 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [danrl/zonefiler](https://github.com/danrl/zonefiler) - A tool for creating forward and reverse zone files for hosts described in YAML.
 - [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
-- [ucb-bar/hammer](https://github.com/ucb-bar/hammer) - HAMMER: Highly Agile Masks Made Effortlessly from RTL
+- [ucb-bar/hammer](https://github.com/ucb-bar/hammer) - Hammer: Highly Agile Masks Made Effortlessly from RTL
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [aaronchantrill/YoureWelcome](https://github.com/aaronchantrill/YoureWelcome) - Simple speechhandler plugin, just responds to "Thank you" with "You're welcome"
 - [aaronchantrill/DeepSpeechTrain](https://github.com/aaronchantrill/DeepSpeechTrain) - Using the contents of Naomi's audiolog to train a deepspeech model.
