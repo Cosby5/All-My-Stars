@@ -559,7 +559,6 @@
 ## CSS 
 
 - [Volorf/850words](https://github.com/Volorf/850words) - App helps to learn a list of 850 basic english words.
-- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
 - [DesignRevision/shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
 - [themightykitten/ruTorrent-MaterialDesign](https://github.com/themightykitten/ruTorrent-MaterialDesign) - Flat and modern theme for the ruTorrent web ui
@@ -960,7 +959,7 @@
 - [gleich/solar](https://github.com/gleich/solar) - 🛰️ Clone all your starred GitHub repos
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [appleboy/graceful](https://github.com/appleboy/graceful) - graceful shutdown package when a service is turned off by software function
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Signing containers (and other artifacts) using Sigstore
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [soypat/ether-swtch](https://github.com/soypat/ether-swtch) - Low level Ethernet stack marshaller/unmarshaller for use in tiny places.
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [stenic/go-mail](https://github.com/stenic/go-mail) - Minimal mail implementation in go
@@ -2219,7 +2218,6 @@
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [claritylab/clarity-mobile](https://github.com/claritylab/clarity-mobile) - Mobile applications developed for Clarity based applications
 - [claritylab/yodaqa](https://github.com/claritylab/yodaqa) - A Question Answering system built on top of the Apache UIMA framework.
-- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 - [jop-devel/jop](https://github.com/jop-devel/jop) - JOP is a Java processor for real-time systems
 - [vaadin/dashboard-demo](https://github.com/vaadin/dashboard-demo) - Responsive web application demo made with Vaadin Framework
 - [Jasonette/JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) - 📡 Native App over HTTP, on Android
@@ -2269,6 +2267,7 @@
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [rogerdahl/floating-pointer](https://github.com/rogerdahl/floating-pointer) - Use your phone or tablet as a virtual mouse
 - [brinley/jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
+- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [NoMore201/playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -2422,6 +2421,7 @@
 - [LinDevHard/raspb-finder](https://github.com/LinDevHard/raspb-finder) - A tool to find a Raspberry Pi in the local network (not maintained)
 - [JakeWharton/plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [fossasia/susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
+- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 
 ## Lua 
 
