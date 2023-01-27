@@ -143,6 +143,7 @@
 - [BBN-Q/PCIe-FPGA](https://github.com/BBN-Q/PCIe-FPGA) - Linux kernel driver for memory mapped PCIe - FPGA communication.
 - [cyrillwork/FPGAdriver](https://github.com/cyrillwork/FPGAdriver) - Linux driver support FPGA with NVRAM, UART, I2C
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
@@ -757,7 +758,6 @@
 - [phlummox/android-studio-docker](https://github.com/phlummox/android-studio-docker) - Run Android Studio as a cloud-based IDE using Gitpod
 - [gitpod-io/definitely-gp](https://github.com/gitpod-io/definitely-gp) - External `.gitpod.yml` files.
 - [RektInator/msbuild-docker](https://github.com/RektInator/msbuild-docker) - A docker container to run msbuild on linux!
-- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [m1k1o/osx-in-docker](https://github.com/m1k1o/osx-in-docker) - Run OSX inside Docker, connect via VNC - lightweight repository.
 - [Miosame/nginx-blocker-docker-proxy](https://github.com/Miosame/nginx-blocker-docker-proxy) - nginx-ultimate-bad-bot-blocker dockerized and proxified
 - [adelton/sketchup-container](https://github.com/adelton/sketchup-container) - Running SketchUp Make in a container
