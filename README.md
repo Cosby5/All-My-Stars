@@ -1532,7 +1532,7 @@
 - [Yelp/dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
 - [mssola/user_agent](https://github.com/mssola/user_agent) - HTTP User Agent parser for the Go programming language.
 - [pnisarg/sshagent](https://github.com/pnisarg/sshagent) - Using Golang ssh-agent with unix socket
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [layeh/radius](https://github.com/layeh/radius) - a Go (golang) RADIUS client and server implementation
 - [colindev/osenv](https://github.com/colindev/osenv) - golang package for load os env to struct
 - [colindev/ssh-agent](https://github.com/colindev/ssh-agent) - Support OpenSSH AuthorizedKeysCommand
@@ -2415,6 +2415,7 @@
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [yu4u/age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
 ## Kotlin 
 
@@ -2967,7 +2968,6 @@
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [chrishumphreys/p2j](https://github.com/chrishumphreys/p2j) - Python to Java translator
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [thumbor/remotecv](https://github.com/thumbor/remotecv) - remotecv is an OpenCV server for facial and feature recognition.
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
