@@ -147,7 +147,7 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [allwinner-zh/bootloader](https://github.com/allwinner-zh/bootloader) - bootloader resource from allwinner
 - [managarm/mlibc](https://github.com/managarm/mlibc) - Portable C standard library
-- [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://osdn.net/projects/chibios/scm/svn/
+- [ChibiOS/ChibiOS](https://github.com/ChibiOS/ChibiOS) - Read only mirror of SVN ChibiOS repository at https://sourceforge.net/projects/chibios/
 - [slpp95prashanth/lwip](https://github.com/slpp95prashanth/lwip) - 
 - [slpp95prashanth/Beaglebone-mBootloader](https://github.com/slpp95prashanth/Beaglebone-mBootloader) - 
 - [ewpa/LibSSH-ESP32](https://github.com/ewpa/LibSSH-ESP32) - Libssh SSH client & server port to ESP32 Arduino library
