@@ -666,7 +666,7 @@
 - [kubo39/tottori](https://github.com/kubo39/tottori) - OS-Level sandboxing.
 - [kubo39/syscall-d](https://github.com/kubo39/syscall-d) - syscall interface for D.
 - [drug007/nanogui](https://github.com/drug007/nanogui) - D port of wjakob/nanogui
-- [funkwerk/antlr-d](https://github.com/funkwerk/antlr-d) - ANTLR D Target
+- [funkwerk/antlr-d](https://github.com/funkwerk/antlr-d) - Moved
 - [adamdruppe/arsd](https://github.com/adamdruppe/arsd) - This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.
 - [WebFreak001/FSWatch](https://github.com/WebFreak001/FSWatch) - A cross-platform folder & file watching library using win32, inotify or std.file
 - [wilkie/djehuty](https://github.com/wilkie/djehuty) - Fully verifiable operating system and API written in D in the public domain.
