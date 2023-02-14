@@ -1188,7 +1188,7 @@
 - [xyproto/simpleredis](https://github.com/xyproto/simpleredis) - :radio: Easy way to use Redis from Go
 - [xyproto/permissionsql](https://github.com/xyproto/permissionsql) - :lock_with_ink_pen: Middleware for keeping track of users, login states and permissions
 - [xyproto/burnfont](https://github.com/xyproto/burnfont) - Hand-crafted 6x6 pixel font, defined by code
-- [xyproto/mothership](https://github.com/xyproto/mothership) - :page_with_curl: Create letters in an unknown language
+- [xyproto/alienpdf](https://github.com/xyproto/alienpdf) - :page_with_curl: Generate PDF files that contains alien letters
 - [MiteshSharma/go-socialengine](https://github.com/MiteshSharma/go-socialengine) - Creating social engine in go which can handle all social tasks (like, comment on some object) for any applications
 - [Merovius/systemd](https://github.com/Merovius/systemd) - go implementation of systemd daemon-APIs
 - [samber/sync-ssh-keys](https://github.com/samber/sync-ssh-keys) - 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership.
@@ -3291,7 +3291,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [mrjg1/pos-frontend](https://github.com/mrjg1/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
