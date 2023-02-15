@@ -951,7 +951,7 @@
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [blugelabs/bluge](https://github.com/blugelabs/bluge) - indexing library for Go
 - [prabhatsharma/bluges3](https://github.com/prabhatsharma/bluges3) - A sample implementation that allows bluge indexes to be stored in s3
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [rahulg/gl-deploy](https://github.com/rahulg/gl-deploy) - GitLab web hook receiver
 - [lorenz/go-zfs](https://github.com/lorenz/go-zfs) - GoZFS is a pure-Go implementation of ZFS userspace
 - [leighmcculloch/vangen](https://github.com/leighmcculloch/vangen) - Tool for generating static HTML for Go vanity import paths.
@@ -2283,7 +2283,6 @@
 - [augnustin/send-to-desktop](https://github.com/augnustin/send-to-desktop) - Send to desktop Chrome extension : bookmark on your mobile, browse it on your desktop
 - [damko/freedommarks-browser-webextension](https://github.com/damko/freedommarks-browser-webextension) - A cross-browser webextension for Nextcloud Bookmarks
 - [marius-wieschollek/passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nwronski/batch-transcode-video](https://github.com/nwronski/batch-transcode-video) - Batch transcode videos using the video_transcoding gem
 - [rp181/XMOS_IMU](https://github.com/rp181/XMOS_IMU) - XMOS L1 Based IMU
 - [lunodrade/gitlab-automate-addhook](https://github.com/lunodrade/gitlab-automate-addhook) - Pequeno script feito em NodeJS que pega um usuário e o seu token e então adiciona um webhook configurado para todos seus repositórios, de forma automatizada.
