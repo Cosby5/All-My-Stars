@@ -1530,7 +1530,7 @@
 - [uber/pam-ussh](https://github.com/uber/pam-ussh) - uber's ssh certificate pam module
 - [benjojo/totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level (this is a bad idea, don't really use this please)
 - [Yelp/dockersh](https://github.com/Yelp/dockersh) - A shell which places users into individual docker containers
-- [mssola/user_agent](https://github.com/mssola/user_agent) - HTTP User Agent parser for the Go programming language.
+- [mssola/user_agent](https://github.com/mssola/user_agent) - This project has been moved, check the README.md file!
 - [pnisarg/sshagent](https://github.com/pnisarg/sshagent) - Using Golang ssh-agent with unix socket
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [layeh/radius](https://github.com/layeh/radius) - a Go (golang) RADIUS client and server implementation
