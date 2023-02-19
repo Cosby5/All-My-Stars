@@ -2326,7 +2326,6 @@
 - [ajlkn/skel.old](https://github.com/ajlkn/skel.old) - (Old version) A lightweight responsive framework for the www
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [semantic-release/gitlab](https://github.com/semantic-release/gitlab) - :fox_face: semantic-release plugin to publish a GitLab release
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [kevinbolton/DNSOverHTTPS](https://github.com/kevinbolton/DNSOverHTTPS) - 
@@ -3292,6 +3291,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [mrjg1/pos-frontend](https://github.com/mrjg1/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
 - [tigerxy/VSCode-ShareCode](https://github.com/tigerxy/VSCode-ShareCode) - Share Code is an Extension for Visual Studio Code. You can find it on marketplace.
