@@ -459,7 +459,7 @@
 - [syncro16/dmn-edc](https://github.com/syncro16/dmn-edc) - Diesel engine control (Bosch VE / inline pumps)
 - [dvjcodec/SCG-ECU-1.0](https://github.com/dvjcodec/SCG-ECU-1.0) - Standalone ECU designed for Speeduino firmware
 - [ihitsov/TPMS](https://github.com/ihitsov/TPMS) - iTPMS based on canbus messages for wheel speed on T7 cars with ESP/TCS
-- [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA tool for everyone!
+- [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [ertaquo/nginx-server-names](https://github.com/ertaquo/nginx-server-names) - List server names from nginx config.
 - [cymait/virtual-serial-port-example](https://github.com/cymait/virtual-serial-port-example) - A simple example using a virtual serial port in Linux
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
