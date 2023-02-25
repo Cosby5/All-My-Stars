@@ -48,6 +48,7 @@
 - [Processing](#processing)
 - [Puppet](#puppet)
 - [Python](#python)
+- [QML](#qml)
 - [Racket](#racket)
 - [Red](#red)
 - [Rich Text Format](#rich-text-format)
@@ -2484,6 +2485,7 @@
 
 ## Others 
 
+- [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 - [candlewill/Speech-Corpus-Collection](https://github.com/candlewill/Speech-Corpus-Collection) - A Collection of Speech Corpus for ASR and TTS
 - [sheepla/awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - 🐚 A list of useful commands in the Unix shell one liner
 - [cmusphinx/cmudict](https://github.com/cmusphinx/cmudict) - CMU US English Dictionary
@@ -2664,6 +2666,7 @@
 
 ## Python 
 
+- [jjgraphix/KlipperSettingsPlugin](https://github.com/jjgraphix/KlipperSettingsPlugin) - Ultimaker Cura plugin to enable various settings and features specific to Klipper firmware.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [yuvadm/krakensdr_pr](https://github.com/yuvadm/krakensdr_pr) - Passive Radar Code for the KrakenSDR
 - [cmusphinx/g2p-seq2seq](https://github.com/cmusphinx/g2p-seq2seq) - G2P with Tensorflow
@@ -2970,6 +2973,10 @@
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, and 3.10.  You feed it your Python app, it does a lot of clever things, a
 - [jasperproject/jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
+
+## QML 
+
+- [emtrax-ltd/Cura2MoonrakerPlugin](https://github.com/emtrax-ltd/Cura2MoonrakerPlugin) - Ultimaker Cura 2 Mooraker Upload Plugin
 
 ## Racket 
 
