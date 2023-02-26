@@ -1689,7 +1689,7 @@
 - [alextanhongpin/go-modules](https://github.com/alextanhongpin/go-modules) - Docker + go modules in go1.11
 - [rogpeppe/gomodmerge](https://github.com/rogpeppe/gomodmerge) - merge go.mod files
 - [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
-- [kxkk/mod](https://github.com/kxkk/mod) - A Proxy Server for Go Modules
+- [lftk/mod](https://github.com/lftk/mod) - A Proxy Server for Go Modules
 - [ThomasLeister/prosody-filer](https://github.com/ThomasLeister/prosody-filer) - Golang mod_http_upload_external server for Prosody and Ejabberd
 - [thumbai/thumbai](https://github.com/thumbai/thumbai) - Go Mod Repository, Go Vanity Server and Proxy Server
 - [inconshreveable/slt](https://github.com/inconshreveable/slt) - A TLS reverse proxy with SNI multiplexing in Go
