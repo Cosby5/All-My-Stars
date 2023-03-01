@@ -2485,6 +2485,7 @@
 
 ## Others 
 
+- [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
 - [jschuh/klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 - [candlewill/Speech-Corpus-Collection](https://github.com/candlewill/Speech-Corpus-Collection) - A Collection of Speech Corpus for ASR and TTS
 - [sheepla/awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - 🐚 A list of useful commands in the Unix shell one liner
