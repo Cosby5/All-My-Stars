@@ -435,7 +435,7 @@
 - [julester23/DCMotorServo](https://github.com/julester23/DCMotorServo) - Arduino Library for controlling DC motors with rotary encoders.
 - [spark3dp/ember-firmware](https://github.com/spark3dp/ember-firmware) - Firmware for Autodesk Ember 3D printer
 - [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
-- [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - emPOWer your commits with bespoke hashes
+- [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - git is a blockchain. Start your commit hashes with 00000000 like a real blockchain should.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
@@ -450,7 +450,7 @@
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino) - Arduino electronics hacking
 - [CryptoManiac/AssemblyLoader](https://github.com/CryptoManiac/AssemblyLoader) - CLI assembly parser, in the progress
-- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 21 different programming languages
+- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 22 different programming languages
 - [cuhk-eda/ripple-fpga](https://github.com/cuhk-eda/ripple-fpga) - RippleFPGA, A Simultaneous Pack-and-Place Algorithm for UltraScale FPGA
 - [facebookincubator/mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
@@ -2667,6 +2667,7 @@
 
 ## Python 
 
+- [octronic-uk/rotary-tools](https://github.com/octronic-uk/rotary-tools) - Adventures in creating a Wankel engine design and tools created along the way.
 - [jjgraphix/KlipperSettingsPlugin](https://github.com/jjgraphix/KlipperSettingsPlugin) - Ultimaker Cura plugin to enable various settings and features specific to Klipper firmware.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [yuvadm/krakensdr_pr](https://github.com/yuvadm/krakensdr_pr) - Passive Radar Code for the KrakenSDR
