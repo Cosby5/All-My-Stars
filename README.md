@@ -1189,7 +1189,7 @@
 - [xyproto/simpleredis](https://github.com/xyproto/simpleredis) - :radio: Easy way to use Redis from Go
 - [xyproto/permissionsql](https://github.com/xyproto/permissionsql) - :lock_with_ink_pen: Middleware for keeping track of users, login states and permissions
 - [xyproto/burnfont](https://github.com/xyproto/burnfont) - Hand-crafted 6x6 pixel font, defined by code
-- [xyproto/alienpdf](https://github.com/xyproto/alienpdf) - :page_with_curl: Generate PDF files that contains alien letters
+- [xyproto/alienpdf](https://github.com/xyproto/alienpdf) - :page_with_curl: Generate letters
 - [MiteshSharma/go-socialengine](https://github.com/MiteshSharma/go-socialengine) - Creating social engine in go which can handle all social tasks (like, comment on some object) for any applications
 - [Merovius/systemd](https://github.com/Merovius/systemd) - go implementation of systemd daemon-APIs
 - [samber/sync-ssh-keys](https://github.com/samber/sync-ssh-keys) - 🔐  Sync public ssh keys to ~/.ssh/authorized_keys, based on Github/Gitlab organization membership.
@@ -2719,7 +2719,7 @@
 - [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
 - [mekberg/boar](https://github.com/mekberg/boar) - Automatically exported from code.google.com/p/boar
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Training Data (Annotation, Catalog, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Integrate Human Supervision into your Platform.  For all Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, Conversational, and more.
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Download and get information about repositories from Github API using PyGithub
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
