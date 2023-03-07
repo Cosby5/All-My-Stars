@@ -808,6 +808,7 @@
 
 ## Go 
 
+- [lixiangyun/go_ntp](https://github.com/lixiangyun/go_ntp) - ntp server & client module base on golang
 - [deNULL/utf-c](https://github.com/deNULL/utf-c) - A compact way to encode Unicode strings
 - [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 - [JasonYuan/cmutex](https://github.com/JasonYuan/cmutex) - mutex with context
@@ -2264,7 +2265,7 @@
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [harc/ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
+- [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [rogerdahl/floating-pointer](https://github.com/rogerdahl/floating-pointer) - Use your phone or tablet as a virtual mouse
 - [brinley/jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
@@ -2284,6 +2285,7 @@
 - [augnustin/send-to-desktop](https://github.com/augnustin/send-to-desktop) - Send to desktop Chrome extension : bookmark on your mobile, browse it on your desktop
 - [damko/freedommarks-browser-webextension](https://github.com/damko/freedommarks-browser-webextension) - A cross-browser webextension for Nextcloud Bookmarks
 - [marius-wieschollek/passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [nwronski/batch-transcode-video](https://github.com/nwronski/batch-transcode-video) - Batch transcode videos using the video_transcoding gem
 - [rp181/XMOS_IMU](https://github.com/rp181/XMOS_IMU) - XMOS L1 Based IMU
 - [lunodrade/gitlab-automate-addhook](https://github.com/lunodrade/gitlab-automate-addhook) - Pequeno script feito em NodeJS que pega um usuário e o seu token e então adiciona um webhook configurado para todos seus repositórios, de forma automatizada.
