@@ -3250,7 +3250,7 @@
 - [openhwgroup/core-v-mcu](https://github.com/openhwgroup/core-v-mcu) - This is the CORE-V MCU project, hosting CORE-V's embedded-class cores.
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [openhwgroup/cv32e40s](https://github.com/openhwgroup/cv32e40s) - 4 stage, in-order, secure RISC-V core based on the CV32E40P
-- [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual computer built from scratch, starting from the logic gates and CPU to an assembler and compiler that will run programs written in more high level languages
+- [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual FPGA computer built from scratch using Systemverilog
 - [PacoReinaCampo/PU-RISCV](https://github.com/PacoReinaCampo/PU-RISCV) - Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
