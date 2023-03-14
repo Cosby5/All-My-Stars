@@ -2360,6 +2360,7 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [iamtrask/Sonar](https://github.com/iamtrask/Sonar) - DEPRECATED - Decentralized Machine Learning Server (hosted on Blockchain)
 - [mappum/gitbanner](https://github.com/mappum/gitbanner) - :balloon: Generates a git repo to show a cool banner on your Github profile
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [ericktatsui/Touch-Menu-Like-Android](https://github.com/ericktatsui/Touch-Menu-Like-Android) - A touch menu like Navigation Drawer of Android.
 - [Liryna/FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
@@ -3308,7 +3309,6 @@
 - [3drepo/3drepo.io](https://github.com/3drepo/3drepo.io) - 3D Repo web server
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [tedb-org/teDB](https://github.com/tedb-org/teDB) - TypeScript Embedded Database
 - [melpon/wandbox](https://github.com/melpon/wandbox) - Social Compilation Service
 - [ziahamza/DefinitelyTyped](https://github.com/ziahamza/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
