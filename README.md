@@ -516,7 +516,7 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
 - [nnliaohua/CIL2EBC-ToolChain](https://github.com/nnliaohua/CIL2EBC-ToolChain) - From Visual Studio 2013 compiler's CIL output, create UEFI EBC(EFI Byte Code) application. Used for create UEFI Boot Loader, UEFI diagnosing, troubleshooting, and so on.
-- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
+- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [littlekernel/lkuser](https://github.com/littlekernel/lkuser) - framework for a simple user space for lk
 - [GregBowyer/turbovax](https://github.com/GregBowyer/turbovax) - VAX MP - a multiprocessor VAX simulator
 - [3drepo/3drepobouncer](https://github.com/3drepo/3drepobouncer) - A C++ library providing 3D Repo Scene Graph definition, repository management logic and manipulation logic. It is is essentially the refactored 3DRepoCore and (parts of) 3DRepoGUI
