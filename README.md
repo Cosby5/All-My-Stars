@@ -2463,7 +2463,6 @@
 ## Nginx 
 
 - [nginx-modules/nginx_send_minimum_rate](https://github.com/nginx-modules/nginx_send_minimum_rate) - Adaptive timeout slow downloads for NGINX
-- [C0nw0nk/Nginx-Lua-Secure-Link-Anti-Hotlinking](https://github.com/C0nw0nk/Nginx-Lua-Secure-Link-Anti-Hotlinking) - My soloution to those who try to hotlink / steal or waste bandwidth from your sites and servers will also help with DoS / DDoS / Slowloris attacks it works the same as the secure_link module but i did
 - [gnilchee/pipcache](https://github.com/gnilchee/pipcache) - Work to cache pip requests to https://pypi.python.org
 
 ## OCaml 
@@ -2537,6 +2536,7 @@
 - [jamescmartinez/nginx-s3-upload](https://github.com/jamescmartinez/nginx-s3-upload) - [Unmaintained] S3 file upload proxy using Nginx, complete with AWS authentication.
 - [CallMeFoxie/nginx-upsync](https://github.com/CallMeFoxie/nginx-upsync) - 
 - [moul/awesome-well-known](https://github.com/moul/awesome-well-known) - A curated list of well-known URIs, resources, guides and tools (RFC 5785)
+- [C0nw0nk/Nginx-Lua-Secure-Link-Anti-Hotlinking](https://github.com/C0nw0nk/Nginx-Lua-Secure-Link-Anti-Hotlinking) - My soloution to those who try to hotlink / steal or waste bandwidth from your sites and servers will also help with DoS / DDoS / Slowloris attacks it works the same as the secure_link module but i did
 - [Kry07/docker-xorg](https://github.com/Kry07/docker-xorg) - ubuntu xorg base docker
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [jakeday/linux-surface](https://github.com/jakeday/linux-surface) - Linux Kernel for Surface Devices
