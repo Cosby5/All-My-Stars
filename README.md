@@ -1957,7 +1957,6 @@
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [Azure/golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [tv42/alone](https://github.com/tv42/alone) - Go Alone is an experiment into running Go as an appliance-oriented operating system
 - [tv42/spindown-idle-disks](https://github.com/tv42/spindown-idle-disks) - Spin down idle SATA disks. Because hdparm -S 120 just won't work.
@@ -2855,7 +2854,7 @@
 - [sys4/smilla](https://github.com/sys4/smilla) - SMIMEA Milter
 - [nginxinc/crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
 - [tnsy/cert_key_md5_comparison](https://github.com/tnsy/cert_key_md5_comparison) - Compare hashes of Certs and Keys on BIGIP
-- [fossasia/query-server](https://github.com/fossasia/query-server) - Query Server Search Engines https://query-server.herokuapp.com
+- [fossasia/query-server](https://github.com/fossasia/query-server) - Query Server Search Engines
 - [adfinis/gitlab-docsbot](https://github.com/adfinis/gitlab-docsbot) - The Docs Bot - A simple service which receives HTTP build triggers from GitLab and unpacks built artifacts inside a configured directory.
 - [facebookarchive/doh-proxy](https://github.com/facebookarchive/doh-proxy) - A proof of concept DNS-Over-HTTPS proxy implementing https://datatracker.ietf.org/doc/draft-ietf-doh-dns-over-https/
 - [Miserlou/omnihash](https://github.com/Miserlou/omnihash) - Hash files, strings, input streams and network resources in various common algorithms simultaneously
@@ -3298,6 +3297,7 @@
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and yo
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
