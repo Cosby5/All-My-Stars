@@ -808,6 +808,16 @@
 
 ## Go 
 
+- [wiless/x11ui](https://github.com/wiless/x11ui) - Simple UI framework using github.com/BurntSushi/xgbutil package using Go.
+- [f0m41h4u7/electromagnetic-field-trajectory](https://github.com/f0m41h4u7/electromagnetic-field-trajectory) - 🌀   Model of particle trajectory in electromagnetic field
+- [barnex/bruteray](https://github.com/barnex/bruteray) - Physics based ray tracer in pure Go
+- [tbogdala/cubez](https://github.com/tbogdala/cubez) - Cubez is a 3d physics engine written natively in Go.
+- [esimov/cloth-physics](https://github.com/esimov/cloth-physics) - Go desktop application for cloth physics simulation using Gio GUI.
+- [hashicorp/mdns](https://github.com/hashicorp/mdns) - Simple mDNS client/server library in Golang
+- [bluele/gcache](https://github.com/bluele/gcache) - An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
+- [akyoto/cache](https://github.com/akyoto/cache) - :handbag: Cache arbitrary data with an expiration time.
+- [onrik/micha](https://github.com/onrik/micha) - Client lib for Telegram bot api
+- [rtr7/router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
 - [mearaj/protonet](https://github.com/mearaj/protonet) - 
 - [lixiangyun/go_ntp](https://github.com/lixiangyun/go_ntp) - ntp server & client module base on golang
 - [deNULL/utf-c](https://github.com/deNULL/utf-c) - A compact way to encode Unicode strings
@@ -909,7 +919,7 @@
 - [backwards-rat-race/go-on-jvm](https://github.com/backwards-rat-race/go-on-jvm) - Experimental Compiler for Go targeting the JVM
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [yamnikov-oleg/nasmfmt](https://github.com/yamnikov-oleg/nasmfmt) - Formatter for NASM source files
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database with high-performance and high scalability.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [yanolab/gotransfer](https://github.com/yanolab/gotransfer) - RPC-based file transfer client and server written by golang
 - [jpillora/serve](https://github.com/jpillora/serve) - Your personal HTTP file server in Go
 - [lanycrost/whois-server](https://github.com/lanycrost/whois-server) - WHOIS server builded in Golang and using Postgres as a DB.
@@ -2360,7 +2370,6 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [iamtrask/Sonar](https://github.com/iamtrask/Sonar) - DEPRECATED - Decentralized Machine Learning Server (hosted on Blockchain)
 - [mappum/gitbanner](https://github.com/mappum/gitbanner) - :balloon: Generates a git repo to show a cool banner on your Github profile
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [ericktatsui/Touch-Menu-Like-Android](https://github.com/ericktatsui/Touch-Menu-Like-Android) - A touch menu like Navigation Drawer of Android.
 - [Liryna/FacebookBot](https://github.com/Liryna/FacebookBot) - A Facebook bot for Telegram
@@ -2419,6 +2428,7 @@
 
 ## Kotlin 
 
+- [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 - [LinDevHard/raspb-finder](https://github.com/LinDevHard/raspb-finder) - A tool to find a Raspberry Pi in the local network (not maintained)
 - [JakeWharton/plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [fossasia/susi_android](https://github.com/fossasia/susi_android) - SUSI.AI Android App https://play.google.com/apps/testing/ai.susi
@@ -3041,7 +3051,7 @@
 - [daviddrysdale/mdbook-footnote](https://github.com/daviddrysdale/mdbook-footnote) - 
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
 - [tommilligan/mdbook-admonish](https://github.com/tommilligan/mdbook-admonish) - A preprocessor for mdbook to add Material Design admonishments.
-- [HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf) - A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol.(用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)
+- [HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf) - A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [IoIxD/png_to_svg](https://github.com/IoIxD/png_to_svg) - Program for converting pixel art into optimized SVGs, which you can then swap in for PNGs to get consistent scaling on modern browsers.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -3310,6 +3320,7 @@
 - [3drepo/3drepo.io](https://github.com/3drepo/3drepo.io) - 3D Repo web server
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [tedb-org/teDB](https://github.com/tedb-org/teDB) - TypeScript Embedded Database
 - [melpon/wandbox](https://github.com/melpon/wandbox) - Social Compilation Service
 - [ziahamza/DefinitelyTyped](https://github.com/ziahamza/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
