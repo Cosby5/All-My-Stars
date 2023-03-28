@@ -319,6 +319,7 @@
 
 ## C# # 
 
+- [Gonkee/Gepe3D](https://github.com/Gonkee/Gepe3D) - Gonkee's Epic Physics Engine 3D (Gepe3D)
 - [DDev247/EngineSimRecorder](https://github.com/DDev247/EngineSimRecorder) - A recorder for engine-sim with BeamNG.drive exporting capability
 - [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files.
 - [arcanecfg/Windows-10-Update-Killer](https://github.com/arcanecfg/Windows-10-Update-Killer) - Forcefully stops the services related to Windows 10 background updates.
@@ -396,6 +397,8 @@
 
 ## C++ 
 
+- [Lumak/Urho3D-SoftBody](https://github.com/Lumak/Urho3D-SoftBody) - Bullet Physics softbody example.
+- [RigsOfRods/rigs-of-rods](https://github.com/RigsOfRods/rigs-of-rods) - Main development repository for Rigs of Rods soft-body physics simulator
 - [ranenbg/Arduino-FFB-wheel](https://github.com/ranenbg/Arduino-FFB-wheel) - Stand alone USB device recognized as a joystick with force feedback functionality, based on BR Wheel by Fernando Igor from 2017
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [miniant-git/REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on Windows 10
@@ -638,7 +641,6 @@
 - [WebFreak001/DWin-Bar](https://github.com/WebFreak001/DWin-Bar) - A taskbar for linux with DWin in mind
 - [dhasenan/keybinder](https://github.com/dhasenan/keybinder) - X11 global keybindings; D wrapper around libkeybinder
 - [msgpack/msgpack-d](https://github.com/msgpack/msgpack-d) - MessagePack for D / msgpack.org[D]
-- [mihails-strasuns/dtoh](https://github.com/mihails-strasuns/dtoh) - [unmaintained] C header generator for extern D declarations
 - [jacob-carlborg/fiber_local_allocator](https://github.com/jacob-carlborg/fiber_local_allocator) - 
 - [adamdruppe/dtoh](https://github.com/adamdruppe/dtoh) - A D to C++ header file helper tool
 - [atilaneves/dpp](https://github.com/atilaneves/dpp) - Directly include C headers in D source code
@@ -808,6 +810,8 @@
 
 ## Go 
 
+- [chepchan/Jelly](https://github.com/chepchan/Jelly) - (in progress) Soft body simulation using Ebitengine
+- [PlebusSupremus1234/FluidSim](https://github.com/PlebusSupremus1234/FluidSim) - A simple and interactive particle based SPH fluid simulation written in Go.
 - [wiless/x11ui](https://github.com/wiless/x11ui) - Simple UI framework using github.com/BurntSushi/xgbutil package using Go.
 - [f0m41h4u7/electromagnetic-field-trajectory](https://github.com/f0m41h4u7/electromagnetic-field-trajectory) - 🌀   Model of particle trajectory in electromagnetic field
 - [barnex/bruteray](https://github.com/barnex/bruteray) - Physics based ray tracer in pure Go
