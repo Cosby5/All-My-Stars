@@ -968,7 +968,7 @@
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [blugelabs/bluge](https://github.com/blugelabs/bluge) - indexing library for Go
 - [prabhatsharma/bluges3](https://github.com/prabhatsharma/bluges3) - A sample implementation that allows bluge indexes to be stored in s3
-- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [rahulg/gl-deploy](https://github.com/rahulg/gl-deploy) - GitLab web hook receiver
 - [lorenz/go-zfs](https://github.com/lorenz/go-zfs) - GoZFS is a pure-Go implementation of ZFS userspace
 - [leighmcculloch/vangen](https://github.com/leighmcculloch/vangen) - Tool for generating static HTML for Go vanity import paths.
