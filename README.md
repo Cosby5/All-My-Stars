@@ -2635,6 +2635,7 @@
 - [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin) - Simple web interface to manage Redis databases.
 - [fabacab/data-structures-and-algorithms](https://github.com/fabacab/data-structures-and-algorithms) - :book::computer: A compendium for self-education geared for "people who do not have computer science degrees."
 - [grosjo/nextcloud-grauphel](https://github.com/grosjo/nextcloud-grauphel) - Tomboy note synchronization REST server nextcloud app
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [buckyroberts/Social-Network](https://github.com/buckyroberts/Social-Network) - Open source social network for thenewboston community.
@@ -3294,7 +3295,7 @@
 - [IPS-LMU/EMU-webApp](https://github.com/IPS-LMU/EMU-webApp) - The EMU-webApp is an online and offline web application for labeling, visualizing and correcting speech and derived speech data.
 - [dmaziad/Phoenician-Keyboard](https://github.com/dmaziad/Phoenician-Keyboard) - 
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [fosscord/fosscord-server](https://github.com/fosscord/fosscord-server) - Fosscord backend made with Typescript and love (and a bit of C++)
+- [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar backend made with Typescript and love (and a bit of C++)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror) - An open source project for coffee enthusiasts.
 - [EvgenyMuryshkin/CarBodyDesigner](https://github.com/EvgenyMuryshkin/CarBodyDesigner) - Source code for Car Body Designer app
@@ -3324,7 +3325,6 @@
 - [3drepo/3drepo.io](https://github.com/3drepo/3drepo.io) - 3D Repo web server
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [tedb-org/teDB](https://github.com/tedb-org/teDB) - TypeScript Embedded Database
 - [melpon/wandbox](https://github.com/melpon/wandbox) - Social Compilation Service
 - [ziahamza/DefinitelyTyped](https://github.com/ziahamza/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
