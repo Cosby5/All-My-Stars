@@ -2419,6 +2419,7 @@
 
 ## Jupyter Notebook 
 
+- [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [RadheTians/International-Phonetic-Alphabet-Comparison](https://github.com/RadheTians/International-Phonetic-Alphabet-Comparison) - The International Phonetic Alphabet (IPA) is an alphabetic system of phonetic notation based primarily on the Latin alphabet. It was devised by the International Phonetic Association in the late 19th 
 - [theAdarshSrivastava/Hand-Wriiten-digit-classifier](https://github.com/theAdarshSrivastava/Hand-Wriiten-digit-classifier) - This project is a demonstration of the capability of deep learning techniques in object recognition in image data. It is a handwritten digit recognition model using the MNIST dataset.
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
@@ -2638,7 +2639,6 @@
 - [erikdubbelboer/phpRedisAdmin](https://github.com/erikdubbelboer/phpRedisAdmin) - Simple web interface to manage Redis databases.
 - [fabacab/data-structures-and-algorithms](https://github.com/fabacab/data-structures-and-algorithms) - :book::computer: A compendium for self-education geared for "people who do not have computer science degrees."
 - [grosjo/nextcloud-grauphel](https://github.com/grosjo/nextcloud-grauphel) - Tomboy note synchronization REST server nextcloud app
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [buckyroberts/Social-Network](https://github.com/buckyroberts/Social-Network) - Open source social network for thenewboston community.
@@ -2938,6 +2938,7 @@
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [dvddarias/docker-sync](https://github.com/dvddarias/docker-sync) - Synchronize docker images between hosts with emphasis on reducing the amount of data transfered
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [rhiever/TwitterFollowBot](https://github.com/rhiever/TwitterFollowBot) - A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
 - [buckyroberts/Parsley](https://github.com/buckyroberts/Parsley) - Parses HTML to JSON.
 - [buckyroberts/YouTube-Crawler](https://github.com/buckyroberts/YouTube-Crawler) - Crawler for adding videos to thenewboston.com
@@ -2958,7 +2959,7 @@
 - [yask123/Auto-MP3-Lyrics-Tagger](https://github.com/yask123/Auto-MP3-Lyrics-Tagger) - This program will automatically search for the `Lyrics` of the song online and Download the lyrics for the song and also add `Lyrics` Tag to the song.
 - [gupta-meghna64/youtube_mp3_downloader](https://github.com/gupta-meghna64/youtube_mp3_downloader) - Python Script to download an mp3 file of any video on youtube and also a text file of lyrics if that is a song. This uses youtube-dl and BeautifulSoup for Scraping.
 - [GtTmy/FlacMp3Sync](https://github.com/GtTmy/FlacMp3Sync) - Sync Flac songs and mp3 songs using lame
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [GtTmy/gmusic-downloader](https://github.com/GtTmy/gmusic-downloader) - download my music files on google play music
 - [develohpanda/ytdl](https://github.com/develohpanda/ytdl) - Watches YouTube playlists, downloads the tracks, sets metadata and uploads them to a Google Play Music account.
 - [whatever4711/Freenom-dns-updater](https://github.com/whatever4711/Freenom-dns-updater) - A tool to update freenom's dns records
