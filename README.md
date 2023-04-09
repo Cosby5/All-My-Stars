@@ -810,7 +810,7 @@
 
 ## Go 
 
-- [chepchan/Jelly](https://github.com/chepchan/Jelly) - (in progress) Soft body simulation using Ebitengine
+- [chepchan/jelly](https://github.com/chepchan/jelly) - (in progress) Soft body simulation using Ebitengine
 - [PlebusSupremus1234/FluidSim](https://github.com/PlebusSupremus1234/FluidSim) - A simple and interactive particle based SPH fluid simulation written in Go.
 - [wiless/x11ui](https://github.com/wiless/x11ui) - Simple UI framework using github.com/BurntSushi/xgbutil package using Go.
 - [f0m41h4u7/electromagnetic-field-trajectory](https://github.com/f0m41h4u7/electromagnetic-field-trajectory) - 🌀   Model of particle trajectory in electromagnetic field
