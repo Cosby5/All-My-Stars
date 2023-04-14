@@ -2502,6 +2502,7 @@
 
 ## Others 
 
+- [MSzturc/the100](https://github.com/MSzturc/the100) - 
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
 - [Uptime-Lab/ComputeBlade](https://github.com/Uptime-Lab/ComputeBlade) - Compute Blade main repository
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
@@ -3288,6 +3289,7 @@
 
 ## TypeScript 
 
+- [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [illogical/ShortcutDashboardNode](https://github.com/illogical/ShortcutDashboardNode) - A customizable button dashboard web app that sends commands to a Windows PC.
 - [DanielSWolf/wiki-pronunciation-dict](https://github.com/DanielSWolf/wiki-pronunciation-dict) - Pronunciation dictionaries for several languages, based on Wiktionary data.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
