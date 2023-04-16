@@ -810,6 +810,11 @@
 
 ## Go 
 
+- [diamondburned/oggreader](https://github.com/diamondburned/oggreader) - Tiny Ogg packet decoder
+- [trevorwang/ogg](https://github.com/trevorwang/ogg) - 
+- [yapingcat/gomedia](https://github.com/yapingcat/gomedia) - golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
+- [sunicy/go-lame](https://github.com/sunicy/go-lame) - Yet another lib making golang and libmp3lame together
+- [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing.
 - [chepchan/jelly](https://github.com/chepchan/jelly) - (in progress) Soft body simulation using Ebitengine
 - [PlebusSupremus1234/FluidSim](https://github.com/PlebusSupremus1234/FluidSim) - A simple and interactive particle based SPH fluid simulation written in Go.
 - [wiless/x11ui](https://github.com/wiless/x11ui) - Simple UI framework using github.com/BurntSushi/xgbutil package using Go.
