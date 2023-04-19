@@ -810,6 +810,7 @@
 
 ## Go 
 
+- [showa-93/go-mask](https://github.com/showa-93/go-mask) - go-mask is a simple, customizable Go library for masking sensitive information.
 - [diamondburned/oggreader](https://github.com/diamondburned/oggreader) - Tiny Ogg packet decoder
 - [trevorwang/ogg](https://github.com/trevorwang/ogg) - 
 - [yapingcat/gomedia](https://github.com/yapingcat/gomedia) - golang library for rtmp, mpeg-ts,mpeg-ps,flv,mp4,ogg,rtsp
@@ -2204,6 +2205,10 @@
 
 ## Java 
 
+- [ingelabs/classpath](https://github.com/ingelabs/classpath) - GNU Classpath, Essential Libraries for Java
+- [adoptium/jdk20u](https://github.com/adoptium/jdk20u) - 
+- [AdoptOpenJDK/jdk20u](https://github.com/AdoptOpenJDK/jdk20u) - 
+- [elazarl/go-java](https://github.com/elazarl/go-java) - Go runtime implementation in Java
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
@@ -2693,6 +2698,7 @@
 
 ## Python 
 
+- [ange-yaghi/engine-generator](https://github.com/ange-yaghi/engine-generator) - Python engine generator for Engine Simulator
 - [octronic-uk/rotary-tools](https://github.com/octronic-uk/rotary-tools) - Adventures in creating a Wankel engine design and tools created along the way.
 - [jjgraphix/KlipperSettingsPlugin](https://github.com/jjgraphix/KlipperSettingsPlugin) - Ultimaker Cura plugin to enable various settings and features specific to Klipper firmware.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
