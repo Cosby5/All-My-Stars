@@ -811,6 +811,7 @@
 
 ## Go 
 
+- [pkujhd/goloader](https://github.com/pkujhd/goloader) - load and run golang code at runtime.
 - [showa-93/go-mask](https://github.com/showa-93/go-mask) - go-mask is a simple, customizable Go library for masking sensitive information.
 - [diamondburned/oggreader](https://github.com/diamondburned/oggreader) - Tiny Ogg packet decoder
 - [trevorwang/ogg](https://github.com/trevorwang/ogg) - 
