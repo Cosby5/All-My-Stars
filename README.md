@@ -2700,6 +2700,8 @@
 
 ## Python 
 
+- [Tresillo2017/Tesla-dashboard](https://github.com/Tresillo2017/Tesla-dashboard) - Tesla dashboard for beamng drive🚔. If you have any suggestion let me know📥
+- [umutkcbs/hope-autonomous-driving](https://github.com/umutkcbs/hope-autonomous-driving) - Autonomous Driving project for Euro Truck Simulator 2 Running on Real World
 - [ange-yaghi/engine-generator](https://github.com/ange-yaghi/engine-generator) - Python engine generator for Engine Simulator
 - [octronic-uk/rotary-tools](https://github.com/octronic-uk/rotary-tools) - Adventures in creating a Wankel engine design and tools created along the way.
 - [jjgraphix/KlipperSettingsPlugin](https://github.com/jjgraphix/KlipperSettingsPlugin) - Ultimaker Cura plugin to enable various settings and features specific to Klipper firmware.
