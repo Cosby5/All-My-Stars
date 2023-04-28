@@ -444,7 +444,7 @@
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [EnviroDIY/ModularSensors](https://github.com/EnviroDIY/ModularSensors) - An Arduino library to give environmental sensors a common interface of functions for use with Arduino-framework dataloggers, such as the EnviroDIY Mayfly.
 - [Haivision/srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
-- [srsran/srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS)
+- [srsran/srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
 - [managarm/managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 - [fysnet/FYSOS](https://github.com/fysnet/FYSOS) - The FYSOS Operating System
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
