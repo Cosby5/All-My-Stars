@@ -398,6 +398,7 @@
 
 ## C++ 
 
+- [lzl124631x/svg_viewer](https://github.com/lzl124631x/svg_viewer) - A Tiny SVG Render Engine
 - [Lumak/Urho3D-SoftBody](https://github.com/Lumak/Urho3D-SoftBody) - Bullet Physics softbody example.
 - [RigsOfRods/rigs-of-rods](https://github.com/RigsOfRods/rigs-of-rods) - Main development repository for Rigs of Rods soft-body physics simulator
 - [ranenbg/Arduino-FFB-wheel](https://github.com/ranenbg/Arduino-FFB-wheel) - Stand alone USB device recognized as a joystick with force feedback functionality, based on BR Wheel by Fernando Igor from 2017
