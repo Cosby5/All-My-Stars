@@ -1741,7 +1741,6 @@
 - [JackMordaunt/pageicon](https://github.com/JackMordaunt/pageicon) - Infer the best icon for a website.
 - [JackMordaunt/giffer](https://github.com/JackMordaunt/giffer) - Create .gif images from sites like youtube.com
 - [zserge/mdns](https://github.com/zserge/mdns) - Very pragmatic mDNS implementation in Go
-- [Sixt/gomodproxy](https://github.com/Sixt/gomodproxy) - Caching proxy for Go modules
 - [zserge/hid](https://github.com/zserge/hid) - Simple HID driver for Go (pure golang, no dependencies, no cgo)
 - [coocood/qbs](https://github.com/coocood/qbs) - QBS stands for Query By Struct. A Go ORM.
 - [robfig/config](https://github.com/robfig/config) - Configuration file parser for INI format
@@ -2510,6 +2509,7 @@
 
 ## OpenSCAD 
 
+- [geerlingguy/pi4gpu](https://github.com/geerlingguy/pi4gpu) - Raspberry Pi GPU Carrier Board
 - [ervanalb/keygen](https://github.com/ervanalb/keygen) - OpenSCAD tools for generating physical keys
 - [simoninns/PinePhone-Dev-Stand](https://github.com/simoninns/PinePhone-Dev-Stand) - A stand for the PinePhone to assist with software development and test
 
@@ -3103,6 +3103,7 @@
 
 ## Shell 
 
+- [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [marytts/marytts-installer](https://github.com/marytts/marytts-installer) - Standalone installer for MaryTTS
 - [MrEddX/nextcloud-zero](https://github.com/MrEddX/nextcloud-zero) - New Nextcloud auto-installer script
 - [GitFr33/app-icon-resizer](https://github.com/GitFr33/app-icon-resizer) - A small and handy shell script for generating all 24 different icon sizes needed for an iOS + Android app from inkskape SVG.
