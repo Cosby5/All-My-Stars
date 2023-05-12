@@ -2705,6 +2705,7 @@
 
 ## Python 
 
+- [norrid/DAEClean](https://github.com/norrid/DAEClean) - Clean geometry imported into Blender 2.8 as DAE - Remove doubles, recalculate normals and UV unwrap
 - [Tresillo2017/Tesla-dashboard](https://github.com/Tresillo2017/Tesla-dashboard) - Tesla dashboard for beamng drive🚔. If you have any suggestion let me know📥
 - [umutkcbs/hope-autonomous-driving](https://github.com/umutkcbs/hope-autonomous-driving) - Autonomous Driving project for Euro Truck Simulator 2 Running on Real World
 - [ange-yaghi/engine-generator](https://github.com/ange-yaghi/engine-generator) - Python engine generator for Engine Simulator
@@ -3336,7 +3337,7 @@
 - [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell) - A minimal, tabbed web browser with support for Chrome extensions—built on Electron.
 - [brrd/electron-tabs](https://github.com/brrd/electron-tabs) - Tab component for Electron
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and yo
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue + Swif
 - [liximomo/vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
