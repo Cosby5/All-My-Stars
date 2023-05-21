@@ -1493,7 +1493,7 @@
 - [dprandzioch/docker-ddns](https://github.com/dprandzioch/docker-ddns) - Easy-to-deploy dynamic DNS with Docker, Go and Bind9
 - [jrudio/shart](https://github.com/jrudio/shart) - Command your Radarr and Sonarr applications via Discord
 - [kak-tus/docker-syncthing-auto](https://github.com/kak-tus/docker-syncthing-auto) - 
-- [jxskiss/ssl-cert-server](https://github.com/jxskiss/ssl-cert-server) - On the fly SSL certificate issue and renewal inside OpenResty with Let's Encrypt
+- [jxskiss/simplessl](https://github.com/jxskiss/simplessl) - On the fly SSL certificate issue and renewal inside OpenResty with Let's Encrypt
 - [robinmonjo/sc-redis](https://github.com/robinmonjo/sc-redis) - self contained redis-server
 - [robinmonjo/ngx_http_l](https://github.com/robinmonjo/ngx_http_l) - nginx module "mostly" developed in Go
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
