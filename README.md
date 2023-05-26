@@ -3343,7 +3343,7 @@
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
