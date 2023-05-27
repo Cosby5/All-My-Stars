@@ -2519,6 +2519,7 @@
 
 ## Others 
 
+- [milkv-pioneer/hardware](https://github.com/milkv-pioneer/hardware) - Hardware information
 - [MSzturc/the100](https://github.com/MSzturc/the100) - 
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
 - [Uptime-Lab/ComputeBlade](https://github.com/Uptime-Lab/ComputeBlade) - Compute Blade main repository
@@ -2960,7 +2961,7 @@
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [dvddarias/docker-sync](https://github.com/dvddarias/docker-sync) - Synchronize docker images between hosts with emphasis on reducing the amount of data transfered
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [rhiever/TwitterFollowBot](https://github.com/rhiever/TwitterFollowBot) - A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
 - [buckyroberts/Parsley](https://github.com/buckyroberts/Parsley) - Parses HTML to JSON.
 - [buckyroberts/YouTube-Crawler](https://github.com/buckyroberts/YouTube-Crawler) - Crawler for adding videos to thenewboston.com
