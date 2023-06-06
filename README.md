@@ -1490,7 +1490,7 @@
 - [go-gcfg/gcfg](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections
 - [mauri870/gochain](https://github.com/mauri870/gochain) - A simple Blockchain implementation in Go
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
-- [dprandzioch/docker-ddns](https://github.com/dprandzioch/docker-ddns) - Easy-to-deploy dynamic DNS with Docker, Go and Bind9
+- [dstapp/docker-ddns](https://github.com/dstapp/docker-ddns) - Easy-to-deploy dynamic DNS with Docker, Go and Bind9
 - [jrudio/shart](https://github.com/jrudio/shart) - Command your Radarr and Sonarr applications via Discord
 - [kak-tus/docker-syncthing-auto](https://github.com/kak-tus/docker-syncthing-auto) - 
 - [jxskiss/simplessl](https://github.com/jxskiss/simplessl) - On the fly SSL certificate issue and renewal inside OpenResty with Let's Encrypt
