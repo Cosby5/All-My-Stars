@@ -3313,6 +3313,7 @@
 
 ## TypeScript 
 
+- [Max98/project_nodeSnap](https://github.com/Max98/project_nodeSnap) - Rigs of rods / BeamNG truck file editor
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [illogical/ShortcutDashboardNode](https://github.com/illogical/ShortcutDashboardNode) - A customizable button dashboard web app that sends commands to a Windows PC.
 - [DanielSWolf/wiki-pronunciation-dict](https://github.com/DanielSWolf/wiki-pronunciation-dict) - Pronunciation dictionaries for several languages, based on Wiktionary data.
