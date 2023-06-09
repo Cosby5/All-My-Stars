@@ -6,7 +6,6 @@
 ## Contents
 
 - [ANTLR](#antlr)
-- [ASL](#asl)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Blade](#blade)
@@ -80,10 +79,6 @@
 ## ANTLR 
 
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
-
-## ASL 
-
-- [verbumby/verbum](https://github.com/verbumby/verbum) - Online dictionary platform
 
 ## Arduino 
 
@@ -887,6 +882,7 @@
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
 - [alexamies/chinesenotes-go](https://github.com/alexamies/chinesenotes-go) - Go web application for Chinese-English dictionary
+- [verbumby/verbum](https://github.com/verbumby/verbum) - Online dictionary platform
 - [knadh/dictpress](https://github.com/knadh/dictpress) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
 - [TimothyYe/ydict](https://github.com/TimothyYe/ydict) - Yet another command-line youdao dictionary for geeks!
 - [m13253/gophertun](https://github.com/m13253/gophertun) - Go interface for TUN/TAP and other userland tunnels
