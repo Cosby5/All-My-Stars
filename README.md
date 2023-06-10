@@ -1782,7 +1782,7 @@
 - [Luzifer/dns_check](https://github.com/Luzifer/dns_check) - dns_check is a small utility to check major DNS services for records of a FQDN without having to query them one-by-one
 - [Luzifer/dockermanager](https://github.com/Luzifer/dockermanager) - Scheduler daemon to start / stop / update / enforce Docker containers on a Docker host
 - [Luzifer/nginx-letsencrypt](https://github.com/Luzifer/nginx-letsencrypt) - 
-- [Luzifer/s3sync](https://github.com/Luzifer/s3sync) - Small utility to sync local directories from/to Amazon S3 without installing any dependencies
+- [Luzifer/s3sync](https://github.com/Luzifer/s3sync) - Small utility to sync local directories from/to Amazon S3 / MinIO without installing any dependencies
 - [Luzifer/gen-dockerfile](https://github.com/Luzifer/gen-dockerfile) - Replacement for the bash version of the generator using a proper templating engine
 - [Luzifer/badge-gen](https://github.com/Luzifer/badge-gen) - Web-Service to generate small badges
 - [Luzifer/go-openssl](https://github.com/Luzifer/go-openssl) - go-openssl is a small library wrapping the crypto/aes functions in a way the output is compatible to OpenSSL
@@ -2758,7 +2758,7 @@
 - [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
 - [mekberg/boar](https://github.com/mekberg/boar) - Automatically exported from code.google.com/p/boar
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Integrate Human Supervision into your Platform.  For all Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, GPT, Conversational, and more.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Human Supervision for your Platform.  All Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, GPT, Conversational, and more.
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Download and get information about repositories from Github API using PyGithub
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
