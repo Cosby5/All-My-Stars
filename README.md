@@ -3119,7 +3119,7 @@
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [ms-jpq/windows-in-docker-old](https://github.com/ms-jpq/windows-in-docker-old) - WHY? So you can run Windows "as a container"
 - [frntn/pki-manager](https://github.com/frntn/pki-manager) - IT Freelancers : Manage small PKI for multiple projects (or clients) with 2 bash scripts
-- [icoexist/softether-autoinstall](https://github.com/icoexist/softether-autoinstall) - SoftEther Autoinstaller
+- [itswzyss/softether-autoinstall](https://github.com/itswzyss/softether-autoinstall) - SoftEther Autoinstaller
 - [dhensen/nspawn-skype](https://github.com/dhensen/nspawn-skype) - Put skype in an systemd-nspawn container where it belongs.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [serverok/squid-proxy-installer](https://github.com/serverok/squid-proxy-installer) - Install Sqid Proxy  on Ubuntu/Debian
