@@ -1788,7 +1788,6 @@
 - [Luzifer/badge-gen](https://github.com/Luzifer/badge-gen) - Web-Service to generate small badges
 - [Luzifer/go-openssl](https://github.com/Luzifer/go-openssl) - go-openssl is a small library wrapping the crypto/aes functions in a way the output is compatible to OpenSSL
 - [Luzifer/cam2mjpeg](https://github.com/Luzifer/cam2mjpeg) - Wrapper around ffmpeg to grab a video signal from an USB webcam and to provide an MJPEG stream via HTTP
-- [Scalingo/go-graceful-restart-example](https://github.com/Scalingo/go-graceful-restart-example) - Example of server with graceful restart enable
 - [Comcast/gots](https://github.com/Comcast/gots) - MPEG Transport Stream handling in Go
 - [shurcooL/github_flavored_markdown](https://github.com/shurcooL/github_flavored_markdown) - GitHub Flavored Markdown renderer with fenced code block highlighting, clickable header anchor links.
 - [tcnksm/go-binary-only-package](https://github.com/tcnksm/go-binary-only-package) - Sample of Go1.7 Binary-Only Packages
