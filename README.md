@@ -1300,7 +1300,6 @@
 - [Noah-Huppert/human-call-filter](https://github.com/Noah-Huppert/human-call-filter) - Captcha for phone calls
 - [ivanetchart/gitlab-registry-cleaner](https://github.com/ivanetchart/gitlab-registry-cleaner) - Simple CLI tool to clean gitlab image registries
 - [michaellihs/golab](https://github.com/michaellihs/golab) - Gitlab CLI written in Go
-- [mlosev/gitlab-whisper](https://github.com/mlosev/gitlab-whisper) - Yet another CLI wrapper for Gitlab API with primary focus on syncing available projects from Gitlab instance to local machine
 - [eyedeekay/apt-transport-i2p](https://github.com/eyedeekay/apt-transport-i2p) - An apt transport method enabling i2p using the SAM bridge.
 - [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more
 - [digineo/http-over-ssh](https://github.com/digineo/http-over-ssh) - HTTP over SSH transport for Prometheus
