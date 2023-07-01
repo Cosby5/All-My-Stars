@@ -815,6 +815,7 @@
 
 ## Go 
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [pkujhd/goloader](https://github.com/pkujhd/goloader) - load and run golang code at runtime.
 - [showa-93/go-mask](https://github.com/showa-93/go-mask) - go-mask is a simple, customizable Go library for masking sensitive information.
 - [diamondburned/oggreader](https://github.com/diamondburned/oggreader) - Tiny Ogg packet decoder
@@ -1040,7 +1041,7 @@
 - [fr3dch3n/jwt-auth](https://github.com/fr3dch3n/jwt-auth) - Authenticate requests with jwt, extensible claims and a specific jwks-set
 - [graphql-services/jwks-provider](https://github.com/graphql-services/jwks-provider) - Service providing JWKS for internal/public usage
 - [ortuman/jackal](https://github.com/ortuman/jackal) - 💬 Instant messaging server for the Extensible Messaging and Presence Protocol (XMPP).
-- [DQNEO/babygo](https://github.com/DQNEO/babygo) - a Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
+- [DQNEO/babygo](https://github.com/DQNEO/babygo) - babygo👶 is a small Go compiler made from scratch, which can compile itself. It's going to be the smallest and simplest go compiler in the world.
 - [moul/captcha](https://github.com/moul/captcha) - 🦾 a "Completely Automated Public Turing test to tell Computers and Humans Apart" CLI
 - [archivekc/simple-acme-server](https://github.com/archivekc/simple-acme-server) - 
 - [leofishc/blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored
