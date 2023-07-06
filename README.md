@@ -394,7 +394,7 @@
 - [afrog33k/SharpNative](https://github.com/afrog33k/SharpNative) - A C# to Native Code (D, C++ etc...) Transpiler based on Microsoft Roslyn
 - [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [kulibali/ironmeta](https://github.com/kulibali/ironmeta) - The IronMeta parser generator provides a programming language and application for generating pattern matchers on arbitrary streams of objects. It is an implementation of Alessandro Warth's OMeta syste
+- [chalcolith/ironmeta](https://github.com/chalcolith/ironmeta) - The IronMeta parser generator provides a programming language and application for generating pattern matchers on arbitrary streams of objects. It is an implementation of Alessandro Warth's OMeta syste
 - [oneall/dot-net-sdk](https://github.com/oneall/dot-net-sdk) - The .Net OneAll SDK originally created by me at XPG. Contains code examples that show you how to use OneAll REST API and how to implement and customize Social Login on your own website. The OneAll.Net
 
 ## C++ 
@@ -2762,7 +2762,7 @@
 - [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
 - [mekberg/boar](https://github.com/mekberg/boar) - Automatically exported from code.google.com/p/boar
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - We’re the AI Datastore for putting Schema, BLOBs, and Predictions in one place. Use with your apps or integrate our built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out 
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - We’re the AI Datastore for Schemas, BLOBs, and Predictions in one place. Use with your apps or integrate our built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Download and get information about repositories from Github API using PyGithub
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
