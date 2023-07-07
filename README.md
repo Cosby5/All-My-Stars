@@ -457,7 +457,6 @@
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino) - Arduino electronics hacking
 - [CryptoManiac/AssemblyLoader](https://github.com/CryptoManiac/AssemblyLoader) - CLI assembly parser, in the progress
-- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 23 different programming languages
 - [cuhk-eda/ripple-fpga](https://github.com/cuhk-eda/ripple-fpga) - RippleFPGA, A Simultaneous Pack-and-Place Algorithm for UltraScale FPGA
 - [facebookincubator/mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
@@ -814,6 +813,9 @@
 
 ## Go 
 
+- [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
+- [livekit/livekit-cli](https://github.com/livekit/livekit-cli) - Command line interface to LiveKit
+- [livekit/server-sdk-go](https://github.com/livekit/server-sdk-go) - Client and server SDK for Golang
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [pkujhd/goloader](https://github.com/pkujhd/goloader) - load and run golang code at runtime.
 - [showa-93/go-mask](https://github.com/showa-93/go-mask) - go-mask is a simple, customizable Go library for masking sensitive information.
@@ -2274,6 +2276,7 @@
 
 ## JavaScript 
 
+- [zangue/yoda-player](https://github.com/zangue/yoda-player) - A client implementation for playback of MPEG DASH
 - [Enginette/enginette](https://github.com/Enginette/enginette) - Engine editor for the engine-sim
 - [words/moby](https://github.com/words/moby) - :closed_book: The largest English-language thesaurus
 - [kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner) - 
@@ -2478,6 +2481,7 @@
 
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [andrenatal/PsContinuous](https://github.com/andrenatal/PsContinuous) - Continuous speech recognition on Android using pocketsphinx
+- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 25 different programming languages
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [ericpruitt/static-glibc-nginx](https://github.com/ericpruitt/static-glibc-nginx) - Makefile and patch to build an NGINX binary statically linked against GNU libc.
 - [b4fun/coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
@@ -2762,7 +2766,7 @@
 - [notagenius/virtual_laser_cutter](https://github.com/notagenius/virtual_laser_cutter) - 2d .svg to 3d models with texture
 - [vascojdb/gerber2gcode](https://github.com/vascojdb/gerber2gcode) - Application for converting Gerber solder mask files into g-code, to use on an extruding solder paste 3D printer
 - [mekberg/boar](https://github.com/mekberg/boar) - Automatically exported from code.google.com/p/boar
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - We’re the AI Datastore for Schemas, BLOBs, and Predictions in one place. Use with your apps or integrate our built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Stamatis-P/Github-Crawler](https://github.com/Stamatis-P/Github-Crawler) - Download and get information about repositories from Github API using PyGithub
 - [BirthT/BeltPrinterSlicing](https://github.com/BirthT/BeltPrinterSlicing) - This is a plugin for using a belt printer with the latest Cura.
