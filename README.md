@@ -115,7 +115,7 @@
 ## C 
 
 - [aht-lab/ESP32_SIM7600](https://github.com/aht-lab/ESP32_SIM7600) - library module SIM7600
-- [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - 
+- [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [mod-loader/engine-sim-modloader](https://github.com/mod-loader/engine-sim-modloader) - A mod loader for the engine-sim project by ange-yaghi
 - [behindthepixels/EDXUtil](https://github.com/behindthepixels/EDXUtil) - An utility library including many containers, threading, OS, GUI and many other things.
