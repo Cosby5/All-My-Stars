@@ -457,6 +457,7 @@
 - [brainflow-dev/brainflow](https://github.com/brainflow-dev/brainflow) - BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 - [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino) - Arduino electronics hacking
 - [CryptoManiac/AssemblyLoader](https://github.com/CryptoManiac/AssemblyLoader) - CLI assembly parser, in the progress
+- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 25 different programming languages
 - [cuhk-eda/ripple-fpga](https://github.com/cuhk-eda/ripple-fpga) - RippleFPGA, A Simultaneous Pack-and-Place Algorithm for UltraScale FPGA
 - [facebookincubator/mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
@@ -2481,7 +2482,6 @@
 
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [andrenatal/PsContinuous](https://github.com/andrenatal/PsContinuous) - Continuous speech recognition on Android using pocketsphinx
-- [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 25 different programming languages
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [ericpruitt/static-glibc-nginx](https://github.com/ericpruitt/static-glibc-nginx) - Makefile and patch to build an NGINX binary statically linked against GNU libc.
 - [b4fun/coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
