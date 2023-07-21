@@ -231,7 +231,7 @@
 - [alximw/AndroidNativeService-meets-ASHMEM](https://github.com/alximw/AndroidNativeService-meets-ASHMEM) - This is a very simple project dealing with native binder communication and ashmem (Android's  memory sharing mechanism)
 - [nigelhorne/blacklist-milter](https://github.com/nigelhorne/blacklist-milter) - Block connections from remote sites that are sending spam, thus reducing load on your mail server.
 - [flant/nginx-http-rdns](https://github.com/flant/nginx-http-rdns) - Nginx HTTP rDNS module
-- [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, e
+- [samyk/pwnat](https://github.com/samyk/pwnat) - The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, explo
 - [menavaur/cleaner](https://github.com/menavaur/cleaner) - Given a directory and an expiry time, deletes all files and directories older than the expiry
 - [xomboverlord/buildtools](https://github.com/xomboverlord/buildtools) - Some scripts to build buildtools.
 - [clearlinux/tallow](https://github.com/clearlinux/tallow) - Block hosts that attempt to bruteforce SSH using the journald API.
@@ -1095,7 +1095,7 @@
 - [yosssi/gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
 - [mochi-co/mqtt](https://github.com/mochi-co/mqtt) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub
 - [jakewarren/backhub](https://github.com/jakewarren/backhub) - Back up starred repos & Gists from GitHub
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats
 - [GreyRockSoft/docker-conf](https://github.com/GreyRockSoft/docker-conf) - Go program to take environment variables passed into a docker container and create config files from them.
 - [jinliming2/secure-dns](https://github.com/jinliming2/secure-dns) - A DNS client which implemented DoT and DoH, with load balancing, DNS cache, custom ECS and HOSTs.
@@ -2559,7 +2559,7 @@
 - [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 - [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries
 - [seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate](https://github.com/seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate) - rtorrent.rc & sysctl.config For 1 Gigabit File Server/Seedbox Boilerplate
-- [sudhakar3697/electron-alternatives](https://github.com/sudhakar3697/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
+- [sudhakar3697/awesome-electron-alternatives](https://github.com/sudhakar3697/awesome-electron-alternatives) - A curated list of awesome Electron alternatives.
 - [lukicdarkoo/rpi-wifi](https://github.com/lukicdarkoo/rpi-wifi) - Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
