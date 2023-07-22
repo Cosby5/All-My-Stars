@@ -353,7 +353,7 @@
 - [tinrab/Brain](https://github.com/tinrab/Brain) - 
 - [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 - [mbdavid/FileDB](https://github.com/mbdavid/FileDB) - FileDB is a free, fast, lightweight C# (v3.5) DLL project to store, retrieve and delete files using a single archive file as a container on disk
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [NETMF/netmf-interpreter](https://github.com/NETMF/netmf-interpreter) - .NET Micro Framework Interpreter
 - [liulilittle/SimpleClr](https://github.com/liulilittle/SimpleClr) - 一个很简单的示意基于栈式过程虚拟机的实现，它运行即时编译的目标平台【x86】的原生代码
 - [mattiasclaesson/Trionic](https://github.com/mattiasclaesson/Trionic) - Trionic flasher
