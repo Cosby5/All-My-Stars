@@ -459,7 +459,7 @@
 - [CryptoManiac/AssemblyLoader](https://github.com/CryptoManiac/AssemblyLoader) - CLI assembly parser, in the progress
 - [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 25 different programming languages
 - [cuhk-eda/ripple-fpga](https://github.com/cuhk-eda/ripple-fpga) - RippleFPGA, A Simultaneous Pack-and-Place Algorithm for UltraScale FPGA
-- [facebookincubator/mvfst](https://github.com/facebookincubator/mvfst) - An implementation of the QUIC transport protocol.
+- [facebook/mvfst](https://github.com/facebook/mvfst) - An implementation of the QUIC transport protocol.
 - [kroimon/Arduino-SerialCommand](https://github.com/kroimon/Arduino-SerialCommand) - A Wiring/Arduino library to tokenize and parse commands received over a serial port.
 - [whitequark/unfork](https://github.com/whitequark/unfork) - unfork(2) is the inverse of fork(2).    sort of.
 - [davidshb19/AECU](https://github.com/davidshb19/AECU) - Arduino Engine Control Unit
@@ -3053,7 +3053,7 @@
 ## Ruby 
 
 - [aphyr/tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
-- [donmelton/video_transcoding](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+- [lisamelton/video_transcoding](https://github.com/lisamelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 - [samrocketman/github-backups](https://github.com/samrocketman/github-backups) - A simple set of scripts which helps me keep an offline backup of my GitHub work.
 - [alfo/arpm](https://github.com/alfo/arpm) - The Arduino Package Manager
 - [collectiveidea/travis_bundle_cache](https://github.com/collectiveidea/travis_bundle_cache) - DEPRECATED: Cache the gem bundle for speedy travis builds (Travis now handles this)
