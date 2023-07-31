@@ -852,7 +852,7 @@
 - [mhilker/transcriber](https://github.com/mhilker/transcriber) - Convert audio speech to text
 - [shunsukeaihara/go-pocketsphinx](https://github.com/shunsukeaihara/go-pocketsphinx) - Pocketsphinx binding for Golang
 - [macdub/go-wiktionary-parse](https://github.com/macdub/go-wiktionary-parse) - Tool to parse wiktionary dump into a sqlite database file
-- [hajimehoshi/oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
+- [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [nlpodyssey/cybertron](https://github.com/nlpodyssey/cybertron) - Cybertron: the home planet of the Transformers in Go
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [go-li/mapast](https://github.com/go-li/mapast) - Map based Abstract Syntax Tree
