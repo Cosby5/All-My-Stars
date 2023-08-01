@@ -1092,7 +1092,7 @@
 - [aluttik/go-crossplane](https://github.com/aluttik/go-crossplane) - An unofficial Go port of the NGINX config/JSON converter crossplane
 - [teacat/gitremotes](https://github.com/teacat/gitremotes) - 🛠️ Create multiple Git Remotes with just a `.gitremotes` file
 - [yosssi/gmq](https://github.com/yosssi/gmq) - Pure Go MQTT Client
-- [mochi-co/mqtt](https://github.com/mochi-co/mqtt) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub
+- [mochi-mqtt/server](https://github.com/mochi-mqtt/server) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub
 - [jakewarren/backhub](https://github.com/jakewarren/backhub) - Back up starred repos & Gists from GitHub
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [tierpod/dmarc-report-converter](https://github.com/tierpod/dmarc-report-converter) - Convert dmarc reports from xml to human-readable formats
