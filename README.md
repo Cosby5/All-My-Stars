@@ -2523,6 +2523,8 @@
 
 ## Others 
 
+- [Rack-Robotics/Powercore-V1-Manual](https://github.com/Rack-Robotics/Powercore-V1-Manual) - Theory and operation of the Powercore V1 EDM PSU
+- [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
 - [milkv-pioneer/hardware](https://github.com/milkv-pioneer/hardware) - Hardware information
 - [MSzturc/the100](https://github.com/MSzturc/the100) - 
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
@@ -2710,6 +2712,7 @@
 
 ## Python 
 
+- [Rack-Robotics/Powercore-V1-Firmware](https://github.com/Rack-Robotics/Powercore-V1-Firmware) - 
 - [norrid/DAEClean](https://github.com/norrid/DAEClean) - Clean geometry imported into Blender 2.8 as DAE - Remove doubles, recalculate normals and UV unwrap
 - [Tresillo2017/Tesla-dashboard](https://github.com/Tresillo2017/Tesla-dashboard) - Tesla dashboard for beamng drive🚔. If you have any suggestion let me know📥
 - [umutkcbs/hope-autonomous-driving](https://github.com/umutkcbs/hope-autonomous-driving) - Autonomous Driving project for Euro Truck Simulator 2 Running on Real World
