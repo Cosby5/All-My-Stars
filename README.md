@@ -1100,7 +1100,7 @@
 - [jinliming2/secure-dns](https://github.com/jinliming2/secure-dns) - A DNS client which implemented DoT and DoH, with load balancing, DNS cache, custom ECS and HOSTs.
 - [nsqio/go-diskqueue](https://github.com/nsqio/go-diskqueue) - A Go package providing a filesystem-backed FIFO queue
 - [masomo/searcher](https://github.com/masomo/searcher) - Fast in-memory string searcher with redis protocol
-- [semihalev/sdns](https://github.com/semihalev/sdns) - Privacy important, fast, recursive dns resolver server with dnssec support
+- [semihalev/sdns](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 - [colstrom/dns-reactor](https://github.com/colstrom/dns-reactor) - Monitors hostname(s) for IP changes and optionally execute a command when it happens.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) - A plugin which brings broadcasts to gotify.
 - [miguelsandro/curve25519-go](https://github.com/miguelsandro/curve25519-go) - Curve25519 signatures (and also key agreement) like in the early Axolotl, ported to Go
@@ -2782,7 +2782,7 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
