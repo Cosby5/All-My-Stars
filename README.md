@@ -1231,7 +1231,7 @@
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!
 - [xyproto/permissionbolt](https://github.com/xyproto/permissionbolt) - :nut_and_bolt: Middleware for keeping track of users, login states and permissions
 - [xyproto/mattersend](https://github.com/xyproto/mattersend) - :cyclone: Easy way to send messages to Mattermost
-- [xyproto/jit](https://github.com/xyproto/jit) - :vulcan_salute: Go module for executing machine code directly and a machine code interpreter.
+- [xyproto/jit](https://github.com/xyproto/jit) - :vulcan_salute: Go module and utility for executing machine code
 - [pointlander/peg](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 - [heyitsanthony/grammars](https://github.com/heyitsanthony/grammars) - PEG grammars and tools
 - [quarnster/parser](https://github.com/quarnster/parser) - Self-generating Parser expression grammar (PEG) parser + tools
@@ -2246,7 +2246,7 @@
 - [opentelecoms-org/smsrouter](https://github.com/opentelecoms-org/smsrouter) - Free and convenient server process for routing SMS text messages between your applications and SMPP gateways. Interacts with your applications using JMS, HTTP/REST, SMTP, SIP, XMPP and other protocols
 - [Kaljurand/K6nele](https://github.com/Kaljurand/K6nele) - An Android app that offers speech-to-text user interfaces to other apps
 - [meefik/busybox](https://github.com/meefik/busybox) - BusyBox for Android
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [claritylab/clarity-mobile](https://github.com/claritylab/clarity-mobile) - Mobile applications developed for Clarity based applications
 - [claritylab/yodaqa](https://github.com/claritylab/yodaqa) - A Question Answering system built on top of the Apache UIMA framework.
 - [jop-devel/jop](https://github.com/jop-devel/jop) - JOP is a Java processor for real-time systems
