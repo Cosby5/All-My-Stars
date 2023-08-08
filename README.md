@@ -813,6 +813,7 @@
 
 ## Go 
 
+- [leebenson/paypal](https://github.com/leebenson/paypal) - PayPal Website Payments Pro API for Go (golang)
 - [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
 - [livekit/livekit-cli](https://github.com/livekit/livekit-cli) - Command line interface to LiveKit
 - [livekit/server-sdk-go](https://github.com/livekit/server-sdk-go) - Client and server SDK for Golang
