@@ -813,6 +813,7 @@
 
 ## Go 
 
+- [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat with scalable architecture, written in go.
 - [leebenson/paypal](https://github.com/leebenson/paypal) - PayPal Website Payments Pro API for Go (golang)
 - [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
 - [livekit/livekit-cli](https://github.com/livekit/livekit-cli) - Command line interface to LiveKit
@@ -1063,6 +1064,7 @@
 - [tatsushid/minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
 - [pterodactyl/sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
 - [dejiblue/mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [wwalexander/gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
@@ -2783,7 +2785,6 @@
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) - A sign language interpreter using live video feed from the camera.
 - [cngo-github/translation-server](https://github.com/cngo-github/translation-server) - A langauge translation server application that communicates with online translations services to do translations.
 - [lloeki/py-skyjam](https://github.com/lloeki/py-skyjam) - A simple script that lazily downloads your Google Play music.
