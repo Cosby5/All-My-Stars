@@ -399,6 +399,7 @@
 
 ## C++ 
 
+- [Harvie/ps2dev](https://github.com/Harvie/ps2dev) - Arduino library to emulate PS2 keyboard/mouse
 - [RORMasa/NodeBeamEditor](https://github.com/RORMasa/NodeBeamEditor) - 
 - [lzl124631x/svg_viewer](https://github.com/lzl124631x/svg_viewer) - A Tiny SVG Render Engine
 - [Lumak/Urho3D-SoftBody](https://github.com/Lumak/Urho3D-SoftBody) - Bullet Physics softbody example.
@@ -813,6 +814,7 @@
 
 ## Go 
 
+- [marlls1989/arv](https://github.com/marlls1989/arv) - ARV: Asynchronous RISC-V Go High-level Functional Model
 - [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat with scalable architecture, written in go.
 - [leebenson/paypal](https://github.com/leebenson/paypal) - PayPal Website Payments Pro API for Go (golang)
 - [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
