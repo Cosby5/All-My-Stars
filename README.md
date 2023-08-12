@@ -815,7 +815,7 @@
 ## Go 
 
 - [marlls1989/arv](https://github.com/marlls1989/arv) - ARV: Asynchronous RISC-V Go High-level Functional Model
-- [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat with scalable architecture, written in go.
+- [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat in scalable architecture, written in go.
 - [leebenson/paypal](https://github.com/leebenson/paypal) - PayPal Website Payments Pro API for Go (golang)
 - [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
 - [livekit/livekit-cli](https://github.com/livekit/livekit-cli) - Command line interface to LiveKit
@@ -2859,7 +2859,7 @@
 - [bbustin/Climaduino-web-controller](https://github.com/bbustin/Climaduino-web-controller) - Web interface for the Climaduino controller. Provides the ability to modify parameters and view historical data. Web pages are optimized for viewing on a phone. Tested on iPhone.
 - [FreeCAD/FreeCAD-render](https://github.com/FreeCAD/FreeCAD-render) - The Render workbench
 - [mosquito/pypi-server](https://github.com/mosquito/pypi-server) - Tornado based server like pypi.python.org. With caching from pypi.
-- [platformio/platformio-core](https://github.com/platformio/platformio-core) - A professional collaborative platform for embedded development :alien:
+- [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [BramRausch/PiPod](https://github.com/BramRausch/PiPod) - PiPod Hardware and Software
 - [BramRausch/PlayerUI](https://github.com/BramRausch/PlayerUI) - https://hackaday.io/project/26157-pipod
 - [bluecoast/SolderSCAD](https://github.com/bluecoast/SolderSCAD) - Solder stencil gerber -&gt; OpenSCAD converter
