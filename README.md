@@ -2531,7 +2531,7 @@
 - [Rack-Robotics/Powercore-V1-Manual](https://github.com/Rack-Robotics/Powercore-V1-Manual) - Theory and operation of the Powercore V1 EDM PSU
 - [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
 - [milkv-pioneer/hardware](https://github.com/milkv-pioneer/hardware) - Hardware information
-- [MSzturc/the100](https://github.com/MSzturc/the100) - 
+- [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
 - [Uptime-Lab/ComputeBlade](https://github.com/Uptime-Lab/ComputeBlade) - Compute Blade main repository
 - [Engine-Simulator/engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
