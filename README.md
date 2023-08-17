@@ -1053,7 +1053,7 @@
 - [leofishc/blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored
 - [ukontainer/runu](https://github.com/ukontainer/runu) - OCI runtime for frankenlibc unikernel
 - [seletskiy/go-android-rpc](https://github.com/seletskiy/go-android-rpc) - Native Android UI via shared Golang library
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
 - [zucchinidev/golangSearchEngine](https://github.com/zucchinidev/golangSearchEngine) - The Go program pulls different data feeds from the web and compares the content against a search term. The content that matches is then displayed in the terminal window
 - [rounakdatta/GoDFS](https://github.com/rounakdatta/GoDFS) - [G|HD]FS inspired simple distributed filesystem
 - [certusone/yubihsm-go](https://github.com/certusone/yubihsm-go) - A Go client for the yubihsm2 binary protocol and connector service
@@ -2139,7 +2139,7 @@
 - [kelseyhightower/pm](https://github.com/kelseyhightower/pm) - Package manager
 - [kelseyhightower/setup-network-environment](https://github.com/kelseyhightower/setup-network-environment) - Create an environment file with system networking information.
 - [vishvananda/wormhole](https://github.com/vishvananda/wormhole) - A smart proxy to connect docker containers.
-- [gopistolet/gopistolet](https://github.com/gopistolet/gopistolet) - Mailserver written in Go
+- [mistralmail/mistralmail](https://github.com/mistralmail/mistralmail) - Mailserver written in Go
 - [SchumacherFM/mailout](https://github.com/SchumacherFM/mailout) - mailout - a https://caddyserver.com/ V1 SMTP client email middleware with PGP encryption
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
@@ -3140,7 +3140,7 @@
 - [serverok/squid-proxy-installer](https://github.com/serverok/squid-proxy-installer) - Install Sqid Proxy  on Ubuntu/Debian
 - [hardware/mailserver](https://github.com/hardware/mailserver) - :warning: UNMAINTAINED - Simple and full-featured mail server using Docker
 - [TareqAlqutami/rtmp-hls-server](https://github.com/TareqAlqutami/rtmp-hls-server) - a docker file to create a streaming server that supports RTMP, HLS and DASH content based on nginx and nginx-rtmp-module.
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [IamMohaiminul/MongoDB-Auto-Backup-S3](https://github.com/IamMohaiminul/MongoDB-Auto-Backup-S3) - Shell Script for Auto MongoDB Backup to Amazon S3 Periodically
 - [ipimpat/kodi-fullscreen-dual-monitor](https://github.com/ipimpat/kodi-fullscreen-dual-monitor) - Run XBMC in fullscreen on a single monitor in dual monitor setup (Linux)
 - [licensezero/prosperity-public-license](https://github.com/licensezero/prosperity-public-license) - The Prosperity Public License
