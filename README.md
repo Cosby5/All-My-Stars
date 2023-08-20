@@ -399,6 +399,7 @@
 
 ## C++ 
 
+- [surevine/Metre](https://github.com/surevine/Metre) - XMPP Component Host and S2S Proxy
 - [Harvie/ps2dev](https://github.com/Harvie/ps2dev) - Arduino library to emulate PS2 keyboard/mouse
 - [RORMasa/NodeBeamEditor](https://github.com/RORMasa/NodeBeamEditor) - 
 - [lzl124631x/svg_viewer](https://github.com/lzl124631x/svg_viewer) - A Tiny SVG Render Engine
@@ -814,6 +815,10 @@
 
 ## Go 
 
+- [shuque/dane](https://github.com/shuque/dane) - Go library for DANE authentication
+- [safing/tlsauth](https://github.com/safing/tlsauth) - Traefik plugin to authenticate users based on the Common Name, DNS Names and Email Addresses of their TLS client certificate. Optionally add the username as a request header for the upstream service.
+- [buffrr/danecert](https://github.com/buffrr/danecert) - Simple way to generate a self-signed certificate and a TLSA record for DANE clients.
+- [buffrr/letsdane](https://github.com/buffrr/letsdane) - 🔒 Let's DANE is an experimental way to enable the use of DANE/TLSA in browsers and other apps using a lightweight proxy.
 - [marlls1989/arv](https://github.com/marlls1989/arv) - ARV: Asynchronous RISC-V Go High-level Functional Model
 - [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat in scalable architecture, written in go.
 - [leebenson/paypal](https://github.com/leebenson/paypal) - PayPal Website Payments Pro API for Go (golang)
@@ -1053,7 +1058,7 @@
 - [leofishc/blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored
 - [ukontainer/runu](https://github.com/ukontainer/runu) - OCI runtime for frankenlibc unikernel
 - [seletskiy/go-android-rpc](https://github.com/seletskiy/go-android-rpc) - Native Android UI via shared Golang library
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
 - [zucchinidev/golangSearchEngine](https://github.com/zucchinidev/golangSearchEngine) - The Go program pulls different data feeds from the web and compares the content against a search term. The content that matches is then displayed in the terminal window
 - [rounakdatta/GoDFS](https://github.com/rounakdatta/GoDFS) - [G|HD]FS inspired simple distributed filesystem
 - [certusone/yubihsm-go](https://github.com/certusone/yubihsm-go) - A Go client for the yubihsm2 binary protocol and connector service
