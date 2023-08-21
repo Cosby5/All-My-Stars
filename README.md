@@ -2179,6 +2179,8 @@
 
 ## HTML 
 
+- [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
+- [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [vaverix/Native-Virtual-Keyboard-chrome-extension](https://github.com/vaverix/Native-Virtual-Keyboard-chrome-extension) - Native on-screen keyboard for touch screen devices. What differs it from any other keyboard on WebStore? Well, it sends native javascript events on every keystroke, so it works on any website, with an
 - [WebDevBooster/Dvorak-Booster-Keyboard-Layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout) - Dvorak-Booster keyboard layout is better optimized for typing in English than standard Dvorak & better optimized for programming than Programmer Dvorak. It makes typing in dozenal (base 12) easy & mos
 - [jackweinbender/akkadian-verbs](https://github.com/jackweinbender/akkadian-verbs) - A filtering list of Akkadian Verbs/Roots for quick reference.
@@ -3064,6 +3066,7 @@
 
 ## Ruby 
 
+- [goshacmd/nsa_panel](https://github.com/goshacmd/nsa_panel) - Easily add an NSA backdoor into your Rails app.
 - [aphyr/tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
 - [lisamelton/video_transcoding](https://github.com/lisamelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 - [samrocketman/github-backups](https://github.com/samrocketman/github-backups) - A simple set of scripts which helps me keep an offline backup of my GitHub work.
