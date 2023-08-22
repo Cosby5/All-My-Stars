@@ -114,6 +114,7 @@
 
 ## C 
 
+- [justinmeiners/text2image](https://github.com/justinmeiners/text2image) - Render text to images with this tiny command line tool.
 - [aht-lab/ESP32_SIM7600](https://github.com/aht-lab/ESP32_SIM7600) - library module SIM7600
 - [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
@@ -815,6 +816,8 @@
 
 ## Go 
 
+- [gonutz/truetype](https://github.com/gonutz/truetype) - Truetype loading in Go
+- [unidoc/unitype](https://github.com/unidoc/unitype) - UniType is a truetype font library for golang
 - [shuque/dane](https://github.com/shuque/dane) - Go library for DANE authentication
 - [safing/tlsauth](https://github.com/safing/tlsauth) - Traefik plugin to authenticate users based on the Common Name, DNS Names and Email Addresses of their TLS client certificate. Optionally add the username as a request header for the upstream service.
 - [buffrr/danecert](https://github.com/buffrr/danecert) - Simple way to generate a self-signed certificate and a TLSA record for DANE clients.
@@ -1071,7 +1074,7 @@
 - [tatsushid/minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
 - [pterodactyl/sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and Tensorflow.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [dejiblue/mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [wwalexander/gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
@@ -2639,7 +2642,6 @@
 - [valerytschopp/owncloud-ldap-schema](https://github.com/valerytschopp/owncloud-ldap-schema) - LDAP Schema for OwnCloud Quota
 - [credativ/postfix-ldap-schema](https://github.com/credativ/postfix-ldap-schema) - Simple LDAP schema for Postfix which provides the types needed by http://www.postfix.org/LDAP_README.html
 - [AshleyGitt/Simulation-of-Operating-System](https://github.com/AshleyGitt/Simulation-of-Operating-System) - This is a program that handles the basic data structures (i.e. the devices and their queues) in an operating system. The program has two stages of operation, the "sys gen" section, and the "running" s
-- [CarnetApp/CarnetDocumentation](https://github.com/CarnetApp/CarnetDocumentation) - 
 - [anudeepND/pihole-unbound](https://github.com/anudeepND/pihole-unbound) - Guide to setup Unbound recursive DNS resolver with Pi-Hole. With additional configs for speed and security!! 🚀🔒
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
@@ -2724,6 +2726,7 @@
 
 ## Python 
 
+- [mnesarco/ff-batch](https://github.com/mnesarco/ff-batch) - Batch generation of truetype fonts from collections of svg files
 - [Rack-Robotics/Powercore-V1-Firmware](https://github.com/Rack-Robotics/Powercore-V1-Firmware) - 
 - [norrid/DAEClean](https://github.com/norrid/DAEClean) - Clean geometry imported into Blender 2.8 as DAE - Remove doubles, recalculate normals and UV unwrap
 - [Tresillo2017/Tesla-dashboard](https://github.com/Tresillo2017/Tesla-dashboard) - Tesla dashboard for beamng drive🚔. If you have any suggestion let me know📥
@@ -3239,6 +3242,7 @@
 - [felix021/openssl-selfsign](https://github.com/felix021/openssl-selfsign) - scripts to generate ca, self signed https certs, client side certificates and crl file
 - [IvanGuardado/Nginx-Country-Block](https://github.com/IvanGuardado/Nginx-Country-Block) - Script for blocking ip address from specific countries on nginx
 - [corbanvilla/apt-package-cache](https://github.com/corbanvilla/apt-package-cache) - This is a simple application that will take a list of packages, find their depends, download and add it all to an nginx container, where the debs are copied to a ramdisk for faster reads.
+- [CarnetApp/CarnetDocumentation](https://github.com/CarnetApp/CarnetDocumentation) - 
 - [obi12341/docker-unbound](https://github.com/obi12341/docker-unbound) - unbound DNS Resolver running in a Docker Container with DNSSEC enabled
 - [falon/systemd-unit-status-email](https://github.com/falon/systemd-unit-status-email) - Let Systemd to send an e-mail when a unit fails, or change status.
 - [dustywusty/systemd-notify-boot](https://github.com/dustywusty/systemd-notify-boot) - systemd service to email network configuration on boot for embedded devices
