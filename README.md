@@ -2506,7 +2506,6 @@
 - [Luzifer/project-status](https://github.com/Luzifer/project-status) - Template for a SVG image to be embedded into the README file of a Github repository.
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 - [cloudflavor/tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jaymoulin/docker-rpi-plex-video-converter](https://github.com/jaymoulin/docker-rpi-plex-video-converter) - Raspberry PI - Plex Video converter - Docker image (Multiarch)
 - [jaymoulin/docker-plex](https://github.com/jaymoulin/docker-plex) - Plex Media Server - Docker Image (Multiarch + Raspberry Pi) - 5M downloads
 - [WanghongLin/StandaloneDVM](https://github.com/WanghongLin/StandaloneDVM) - Run the standalone dalvik virtual machine
@@ -2653,6 +2652,7 @@
 - [jinnko/avahi-alias](https://github.com/jinnko/avahi-alias) - A tool to insert CNAME-like entries into the local Avahi daemon to support multiple host names
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [nmcclain/glauth](https://github.com/nmcclain/glauth) - LDAP authentication server for developers
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [BBN-Q/vivado-docker](https://github.com/BBN-Q/vivado-docker) - Dockerfile with Vivado for CI
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js) - Pure JavaScript Port of WebKit
