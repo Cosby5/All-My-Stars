@@ -816,6 +816,7 @@
 
 ## Go 
 
+- [johnsiilver/pools](https://github.com/johnsiilver/pools) - Contains various pooling implementations
 - [gonutz/truetype](https://github.com/gonutz/truetype) - Truetype loading in Go
 - [unidoc/unitype](https://github.com/unidoc/unitype) - UniType is a truetype font library for golang
 - [shuque/dane](https://github.com/shuque/dane) - Go library for DANE authentication
@@ -1270,7 +1271,7 @@
 - [munnerz/kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [qur/repo_server](https://github.com/qur/repo_server) - A standalone remotely controllable apt repository server
 - [beleidy/go-log-server](https://github.com/beleidy/go-log-server) - This repo is a mirror, please visit gitlab repo for issues, MRs or otherwise
-- [codewithkristian/gitlab-create-repo](https://github.com/codewithkristian/gitlab-create-repo) - 
+- [kristianfreeman/gitlab-create-repo](https://github.com/kristianfreeman/gitlab-create-repo) - 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [gol4ng/signal](https://github.com/gol4ng/signal) - This repository provides helpers with `os.Signal` std library
 - [itscaro/gitlab-utils](https://github.com/itscaro/gitlab-utils) - A command to apply labels on Merge Requests
