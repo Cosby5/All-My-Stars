@@ -816,6 +816,10 @@
 
 ## Go 
 
+- [gorilla/csrf](https://github.com/gorilla/csrf) - Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
+- [adtac/commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
+- [aaronarduino/goqrsvg](https://github.com/aaronarduino/goqrsvg) - goqrsvg is a Go package that contains an API to do QR Code to SVG conversions
 - [johnsiilver/pools](https://github.com/johnsiilver/pools) - Contains various pooling implementations
 - [gonutz/truetype](https://github.com/gonutz/truetype) - Truetype loading in Go
 - [unidoc/unitype](https://github.com/unidoc/unitype) - UniType is a truetype font library for golang
@@ -3133,6 +3137,7 @@
 
 ## Shell 
 
+- [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [marytts/marytts-installer](https://github.com/marytts/marytts-installer) - Standalone installer for MaryTTS
 - [MrEddX/nextcloud-zero](https://github.com/MrEddX/nextcloud-zero) - New Nextcloud auto-installer script
