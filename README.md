@@ -816,6 +816,7 @@
 
 ## Go 
 
+- [gin-contrib/i18n](https://github.com/gin-contrib/i18n) - i18n middleware
 - [pbnjay/pixfont](https://github.com/pbnjay/pixfont) - A simple, lightweight Pixel Font package for Go that works with the standard image/draw package.
 - [lusingander/fyne-font-example](https://github.com/lusingander/fyne-font-example) - Sample application that uses different fonts in Fyne
 - [gorilla/csrf](https://github.com/gorilla/csrf) - Package gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services 🔒
