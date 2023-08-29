@@ -816,6 +816,7 @@
 
 ## Go 
 
+- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [gin-contrib/i18n](https://github.com/gin-contrib/i18n) - i18n middleware
 - [pbnjay/pixfont](https://github.com/pbnjay/pixfont) - A simple, lightweight Pixel Font package for Go that works with the standard image/draw package.
 - [lusingander/fyne-font-example](https://github.com/lusingander/fyne-font-example) - Sample application that uses different fonts in Fyne
@@ -951,7 +952,7 @@
 - [dspinhirne/netaddr-go](https://github.com/dspinhirne/netaddr-go) - A Go library for performing calculations on IPv4 and IPv6 subnets.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - A Go library for implementing command-line interfaces.
 - [danielvegamyhre/minicache](https://github.com/danielvegamyhre/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 - [mahesh-hegde/rrip](https://github.com/mahesh-hegde/rrip) - Bulk image downloader for reddit.
 - [gumelarme/yava](https://github.com/gumelarme/yava) - mini-Java compiler implemented in go
 - [backwards-rat-race/go-on-jvm](https://github.com/backwards-rat-race/go-on-jvm) - Experimental Compiler for Go targeting the JVM
