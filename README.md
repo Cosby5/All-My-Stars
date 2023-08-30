@@ -406,7 +406,7 @@
 - [lzl124631x/svg_viewer](https://github.com/lzl124631x/svg_viewer) - A Tiny SVG Render Engine
 - [Lumak/Urho3D-SoftBody](https://github.com/Lumak/Urho3D-SoftBody) - Bullet Physics softbody example.
 - [RigsOfRods/rigs-of-rods](https://github.com/RigsOfRods/rigs-of-rods) - Main development repository for Rigs of Rods soft-body physics simulator
-- [ranenbg/Arduino-FFB-wheel](https://github.com/ranenbg/Arduino-FFB-wheel) - Stand alone USB device recognized as a joystick with force feedback functionality, based on BR Wheel by Fernando Igor from 2017
+- [ranenbg/Arduino-FFB-wheel](https://github.com/ranenbg/Arduino-FFB-wheel) - Stand alone directInput USB device recognized in Windows as a joystick with force feedback functionality, based on BRWheel by Fernando Igor from 2017.
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [miniant-git/REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on Windows 10
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
@@ -816,6 +816,11 @@
 
 ## Go 
 
+- [pluveto/flydav](https://github.com/pluveto/flydav) - Setup a tiny webdav server in 30 seconds. Multi-user, path prefix etc. 轻量高效的 WebDav 服务器。
+- [artyom/mdserver](https://github.com/artyom/mdserver) - Basic http server rendering markdown files
+- [enyene/fiberjwt](https://github.com/enyene/fiberjwt) - Implement JWT (JSON Web Token) authentication in a Golang application using GORM and the Fiber web framework. The REST API will be powered by a high-performance Fiber HTTP server, offering endpoints d
+- [qiniu/audio](https://github.com/qiniu/audio) - Audio support for Go language.
+- [templexxx/tsc](https://github.com/templexxx/tsc) - Get unix time (nanoseconds) in 8ns, 10x faster than stdlib
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [gin-contrib/i18n](https://github.com/gin-contrib/i18n) - i18n middleware
 - [pbnjay/pixfont](https://github.com/pbnjay/pixfont) - A simple, lightweight Pixel Font package for Go that works with the standard image/draw package.
