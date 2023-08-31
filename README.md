@@ -139,7 +139,7 @@
 - [symmetryinvestments/xlsxd](https://github.com/symmetryinvestments/xlsxd) - A thin wrapper around libxlsx to write excel spreadsheets
 - [cl91/NeptuneOS](https://github.com/cl91/NeptuneOS) - Neptune OS: A Windows NT personality for the seL4 microkernel
 - [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
-- [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo.
+- [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice.
 - [tedkotz/ternary](https://github.com/tedkotz/ternary) - A storage place for my ternary experiments, including an emulator for a theoretical 27-trit CPU.
 - [mudita/MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
@@ -336,7 +336,6 @@
 - [akaStanley/BeamNG_Car](https://github.com/akaStanley/BeamNG_Car) - Re-creating a 1974 MG Midget as accuratley as possible in BeamNG.Drive.
 - [sketchpunk/openkeyboard](https://github.com/sketchpunk/openkeyboard) - Virtual keyboard with dynamic user defined layouts
 - [YuriyGuts/unicode-virtual-keyboard](https://github.com/YuriyGuts/unicode-virtual-keyboard) - Windows utility that simplifies the input of Unicode characters by displaying a handy on-demand virtual keyboard with powerful character search functionality and global hotkey support.
-- [blueOkiris/clonger](https://github.com/blueOkiris/clonger) - A tool for designing conlangs
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [bruhov/WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader) - WinThumbsPreloader is a simple open source tool for preloading thumbnails in Windows Explorer.
@@ -2227,6 +2226,7 @@
 
 ## Haskell 
 
+- [blueOkiris/clonger](https://github.com/blueOkiris/clonger) - A tool for designing conlangs
 - [zachjs/sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
 - [SimulaVR/Simula](https://github.com/SimulaVR/Simula) - Linux VR Desktop
 - [destenson/ConsenSys--Fae](https://github.com/destenson/ConsenSys--Fae) - Functional alternative to Ethereum
