@@ -197,7 +197,7 @@
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [zserge/pt](https://github.com/zserge/pt) - Protothreads (coroutines) in C99. Highly portable, but work best in low-end embedded systems.
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [alfikpl/ao486](https://github.com/alfikpl/ao486) - The ao486 is an x86 compatible Verilog core implementing all features of a 486 SX.
 - [blanham/liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [graphitemaster/moreram](https://github.com/graphitemaster/moreram) - Get more system memory
@@ -399,6 +399,7 @@
 
 ## C++ 
 
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [surevine/Metre](https://github.com/surevine/Metre) - XMPP Component Host and S2S Proxy
 - [Harvie/ps2dev](https://github.com/Harvie/ps2dev) - Arduino library to emulate PS2 keyboard/mouse
 - [RORMasa/NodeBeamEditor](https://github.com/RORMasa/NodeBeamEditor) - 
@@ -2305,6 +2306,7 @@
 
 ## JavaScript 
 
+- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [zangue/yoda-player](https://github.com/zangue/yoda-player) - A client implementation for playback of MPEG DASH
 - [Enginette/enginette](https://github.com/Enginette/enginette) - Engine editor for the engine-sim
 - [words/moby](https://github.com/words/moby) - :closed_book: The largest English-language thesaurus
