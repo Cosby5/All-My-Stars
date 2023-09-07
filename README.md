@@ -3365,7 +3365,7 @@
 - [IPS-LMU/EMU-webApp](https://github.com/IPS-LMU/EMU-webApp) - The EMU-webApp is an online and offline web application for labeling, visualizing and correcting speech and derived speech data.
 - [dmaziad/Phoenician-Keyboard](https://github.com/dmaziad/Phoenician-Keyboard) - 
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar backend made with Typescript and love (and a bit of C++)
+- [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [graphefruit/Beanconqueror](https://github.com/graphefruit/Beanconqueror) - An open source project for coffee enthusiasts.
 - [EvgenyMuryshkin/CarBodyDesigner](https://github.com/EvgenyMuryshkin/CarBodyDesigner) - Source code for Car Body Designer app
