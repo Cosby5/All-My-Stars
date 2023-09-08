@@ -337,7 +337,7 @@
 - [sketchpunk/openkeyboard](https://github.com/sketchpunk/openkeyboard) - Virtual keyboard with dynamic user defined layouts
 - [YuriyGuts/unicode-virtual-keyboard](https://github.com/YuriyGuts/unicode-virtual-keyboard) - Windows utility that simplifies the input of Unicode characters by displaying a handy on-demand virtual keyboard with powerful character search functionality and global hotkey support.
 - [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [bruhov/WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader) - WinThumbsPreloader is a simple open source tool for preloading thumbnails in Windows Explorer.
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [mbdavid/LiteDB.WebAssembly](https://github.com/mbdavid/LiteDB.WebAssembly) - WebAssembly version of LiteDB to run on client (browser)
@@ -922,7 +922,7 @@
 - [floAr/calendargo](https://github.com/floAr/calendargo) - Generate monthly calendar templates to print or use with devices like the reMarkable2.
 - [btfak/sntp](https://github.com/btfak/sntp) - A implementation of NTP server,RFC2030
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯
 - [mathuin/equinox](https://github.com/mathuin/equinox) - Tools to calculate dates of equinoxes, solstices, and cross-quarter days.
 - [elsanussi-s-mneina/hebrew-to-arabic-transliteration](https://github.com/elsanussi-s-mneina/hebrew-to-arabic-transliteration) - Convert Hebrew letters to Arabic letters.
 - [isgasho/webgopher](https://github.com/isgasho/webgopher) - A Web to Gopher proxy that allows you to access artbitrary Web resource over the Gopher protocol.
