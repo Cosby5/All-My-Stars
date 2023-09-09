@@ -399,7 +399,6 @@
 
 ## C++ 
 
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [surevine/Metre](https://github.com/surevine/Metre) - XMPP Component Host and S2S Proxy
 - [Harvie/ps2dev](https://github.com/Harvie/ps2dev) - Arduino library to emulate PS2 keyboard/mouse
 - [RORMasa/NodeBeamEditor](https://github.com/RORMasa/NodeBeamEditor) - 
@@ -2239,6 +2238,7 @@
 
 ## Java 
 
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ingelabs/classpath](https://github.com/ingelabs/classpath) - GNU Classpath, Essential Libraries for Java
 - [adoptium/jdk20u](https://github.com/adoptium/jdk20u) - 
 - [AdoptOpenJDK/jdk20u](https://github.com/AdoptOpenJDK/jdk20u) - 
