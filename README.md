@@ -1560,9 +1560,6 @@
 - [badges/buckler](https://github.com/badges/buckler) - Go library and CLI for making Shields-style badges (PNG)
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) - Domain name parser for Go based on the Public Suffix List.
 - [grimm-co/GOCSP-responder](https://github.com/grimm-co/GOCSP-responder) - OCSP responder written in Go meant to be used with easy-rsa
-- [tsocial/cfssl](https://github.com/tsocial/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-- [tsocial/srelapd](https://github.com/tsocial/srelapd) - SRE LDAP Server
-- [tsocial/s3proxy](https://github.com/tsocial/s3proxy) - S3 HTTP Proxy
 - [nsheridan/cashier](https://github.com/nsheridan/cashier) - A self-service CA for OpenSSH
 - [PennockTech/smtpdane](https://github.com/PennockTech/smtpdane) - SMTP DANE testing tool
 - [theSuess/dockerdns](https://github.com/theSuess/dockerdns) - coredns docker plugin
