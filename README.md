@@ -906,7 +906,7 @@
 - [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
