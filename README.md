@@ -35,7 +35,6 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [MATLAB](#matlab)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nginx](#nginx)
 - [OCaml](#ocaml)
@@ -836,7 +835,7 @@
 - [buffrr/danecert](https://github.com/buffrr/danecert) - Simple way to generate a self-signed certificate and a TLSA record for DANE clients.
 - [buffrr/letsdane](https://github.com/buffrr/letsdane) - 🔒 Let's DANE is an experimental way to enable the use of DANE/TLSA in browsers and other apps using a lightweight proxy.
 - [marlls1989/arv](https://github.com/marlls1989/arv) - ARV: Asynchronous RISC-V Go High-level Functional Model
-- [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time random chat in scalable architecture, written in go.
+- [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat) - Modern real-time chat in scalable architecture, written in go.
 - [leebenson/paypal](https://github.com/leebenson/paypal) - PayPal Website Payments Pro API for Go (golang)
 - [porjo/babelcast](https://github.com/porjo/babelcast) - a WebRTC audio broadcast server
 - [livekit/livekit-cli](https://github.com/livekit/livekit-cli) - Command line interface to LiveKit
@@ -1104,6 +1103,7 @@
 - [alexflint/go-filemutex](https://github.com/alexflint/go-filemutex) - Like sync.Mutex, but works across processes
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [pankona/gomo-simra](https://github.com/pankona/gomo-simra) - GOMObile SIMple wRApper
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [polyrabbit/etcdfs](https://github.com/polyrabbit/etcdfs) - :file_folder: Mount etcd into a local directory
 - [hakwerk/labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
@@ -2500,10 +2500,6 @@
 
 - [michtesar/emotion_reader](https://github.com/michtesar/emotion_reader) - Hackaton Hack-The-Brain project of reading emotion in real time with Biosemi ActiveTwo EEG
 - [JinwYu/ABS-Simulation](https://github.com/JinwYu/ABS-Simulation) - Simulating an Anti-lock braking system using Matlab. This was a projekt in the course TNM085 at Linkoping University, 2015.
-
-## MDX 
-
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
