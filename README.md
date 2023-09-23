@@ -814,6 +814,9 @@
 
 ## Go 
 
+- [kataras/neffos](https://github.com/kataras/neffos) - A modern, fast and scalable websocket framework with elegant API written in Go
+- [go-toast/toast](https://github.com/go-toast/toast) - A go package for Windows 10 toast notifications
+- [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
 - [pluveto/flydav](https://github.com/pluveto/flydav) - Setup a tiny webdav server in 30 seconds. Multi-user, path prefix etc. 轻量高效的 WebDav 服务器。
 - [artyom/mdserver](https://github.com/artyom/mdserver) - Basic http server rendering markdown files
 - [enyene/fiberjwt](https://github.com/enyene/fiberjwt) - Implement JWT (JSON Web Token) authentication in a Golang application using GORM and the Fiber web framework. The REST API will be powered by a high-performance Fiber HTTP server, offering endpoints d
