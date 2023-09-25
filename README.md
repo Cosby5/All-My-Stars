@@ -582,6 +582,7 @@
 
 ## D 
 
+- [LunaTheFoxgirl/dkos](https://github.com/LunaTheFoxgirl/dkos) - KallistOS for DLang
 - [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
 - [huntlabs/hunt-entity](https://github.com/huntlabs/hunt-entity) - An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.
 - [alvinliu725/rtos](https://github.com/alvinliu725/rtos) - Real time operating system assignment
@@ -638,7 +639,7 @@
 - [ZILtoid1991/CPUblit](https://github.com/ZILtoid1991/CPUblit) - Image composing and drawing algorithms.
 - [dragon-lang/rund](https://github.com/dragon-lang/rund) - A compiler-wrapper that runs and caches D programs.
 - [Pure-D/DietComplete](https://github.com/Pure-D/DietComplete) - Error correcting diet parser with integrated auto-completion and neat AST tools
-- [hydrocatOrg/reloaded-vibes](https://github.com/hydrocatOrg/reloaded-vibes) - 🔄 Smart auto-reloading service and server for web development
+- [analogjupiter/reloaded-vibes](https://github.com/analogjupiter/reloaded-vibes) - 🔄 Smart auto-reloading service and server for web development
 - [WebFreak001/XKeyBinD](https://github.com/WebFreak001/XKeyBinD) - Interface for global keyboard shortcuts on X11 in D applications.
 - [WebFreak001/dmc](https://github.com/WebFreak001/dmc) - 
 - [WebFreak001/EventSystem](https://github.com/WebFreak001/EventSystem) - Tiny event system in D using delegates
@@ -814,6 +815,11 @@
 
 ## Go 
 
+- [matijakrajnik/fynegoroutines](https://github.com/matijakrajnik/fynegoroutines) - 
+- [CheatCoder/FyneRedditClient](https://github.com/CheatCoder/FyneRedditClient) - A Simple not Clean code written Reddit Client
+- [QIN2DIM/fyne-poems](https://github.com/QIN2DIM/fyne-poems) - 📒 Awesome fyne-based ancient poetry reader
+- [fynelabs/fyneselfupdate](https://github.com/fynelabs/fyneselfupdate) - An extension of the `selfupdate` repository that handles certain Fyne integrations
+- [LunaTheFoxgirl/yeetbot](https://github.com/LunaTheFoxgirl/yeetbot) - A discord bot written in Go that kicks inactive users.
 - [kataras/neffos](https://github.com/kataras/neffos) - A modern, fast and scalable websocket framework with elegant API written in Go
 - [go-toast/toast](https://github.com/go-toast/toast) - A go package for Windows 10 toast notifications
 - [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
