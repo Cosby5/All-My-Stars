@@ -2246,7 +2246,7 @@
 
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ingelabs/classpath](https://github.com/ingelabs/classpath) - GNU Classpath, Essential Libraries for Java
-- [adoptium/jdk20u](https://github.com/adoptium/jdk20u) - 
+- [adoptium/jdk20u](https://github.com/adoptium/jdk20u) - This repo is an unmodified mirror of source code obtained from OpenJDK. It has been and may still be used to create builds that are untested and incompatible with the Java SE specification. You should
 - [AdoptOpenJDK/jdk20u](https://github.com/AdoptOpenJDK/jdk20u) - 
 - [elazarl/go-java](https://github.com/elazarl/go-java) - Go runtime implementation in Java
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
