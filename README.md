@@ -582,7 +582,7 @@
 
 ## D 
 
-- [LunaTheFoxgirl/dkos](https://github.com/LunaTheFoxgirl/dkos) - KallistOS for DLang
+- [LunaTheFoxgirl/dkos](https://github.com/LunaTheFoxgirl/dkos) - KallistiOS for DLang
 - [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
 - [huntlabs/hunt-entity](https://github.com/huntlabs/hunt-entity) - An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.
 - [alvinliu725/rtos](https://github.com/alvinliu725/rtos) - Real time operating system assignment
@@ -2494,7 +2494,6 @@
 
 ## Lua 
 
-- [wompi-co/srv-router](https://github.com/wompi-co/srv-router) - OpenResty (nginx+lua) that discovers upstream servers from SRV records
 - [auto-ssl/lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl) - On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt.
 - [micmac/ngx-lua-log-syslog](https://github.com/micmac/ngx-lua-log-syslog) - Playground for generating access log from nginx to a syslog server and forwarding syslog to scribe
 - [prosody/prosody-docker](https://github.com/prosody/prosody-docker) - Docker image building system for the Prosody XMPP server
