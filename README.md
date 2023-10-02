@@ -942,7 +942,7 @@
 - [muka/go-bluetooth](https://github.com/muka/go-bluetooth) - Golang bluetooth client based on bluez DBus interfaces
 - [GAumala/MediaServer](https://github.com/GAumala/MediaServer) - Media Server for streaming videos over local network written in Go
 - [saljam/mjpeg](https://github.com/saljam/mjpeg) - MJPEG streaming for Go.
-- [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO
+- [xfrr/goffmpeg](https://github.com/xfrr/goffmpeg) - Powerful and dev-friendly FFMPEG wrapper written in the Go
 - [djherbis/fscache](https://github.com/djherbis/fscache) - Streaming File Cache for #golang
 - [soundscapecloud/soundscape](https://github.com/soundscapecloud/soundscape) - Soundscape - a personal music streaming server
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
