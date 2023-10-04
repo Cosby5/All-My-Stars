@@ -815,6 +815,8 @@
 
 ## Go 
 
+- [Galaxoid-Labs/nostr-chat-fyne](https://github.com/Galaxoid-Labs/nostr-chat-fyne) - An experimental chat client written with Fyne. Its a work in progress based on kind 9 ideas
+- [andydotxyz/fybro](https://github.com/andydotxyz/fybro) - Cross-platform, multi-server chat app built using Fyne
 - [matijakrajnik/fynegoroutines](https://github.com/matijakrajnik/fynegoroutines) - 
 - [CheatCoder/FyneRedditClient](https://github.com/CheatCoder/FyneRedditClient) - A Simple not Clean code written Reddit Client
 - [QIN2DIM/fyne-poems](https://github.com/QIN2DIM/fyne-poems) - 📒 Awesome fyne-based ancient poetry reader
@@ -1962,7 +1964,7 @@
 - [cskr/pubsub](https://github.com/cskr/pubsub) - A simple pubsub package for go.
 - [kavu/go_reuseport](https://github.com/kavu/go_reuseport) - Brings SO_REUSEPORT into your Go server
 - [dutchcoders/go-clamd](https://github.com/dutchcoders/go-clamd) - Interface to clamd (clamav daemon). You can use go-clamd to implement virus detection capabilities to your application.
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [twitchyliquid64/subnet](https://github.com/twitchyliquid64/subnet) - Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN.
 - [ringtail/lucas](https://github.com/ringtail/lucas) - etcd v3 api browser especially for learning kubernetes
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
@@ -2840,7 +2842,7 @@
 - [iBobik/gitlab-ci-deployer](https://github.com/iBobik/gitlab-ci-deployer) - Securely deploys GitLab CI build artifacts.
 - [intentions/sshknownhosts](https://github.com/intentions/sshknownhosts) - gathers host keys and generates a master ssh_known_hosts file
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
-- [camaran/XMPPSpammer](https://github.com/camaran/XMPPSpammer) - JID of XMPP Spammer to use with prosody blocklist
+- [ffPjrZUGXfcxuAj/XMPPSpammer](https://github.com/ffPjrZUGXfcxuAj/XMPPSpammer) - JID of XMPP Spammer to use with prosody blocklist
 - [hassaanaliw/chromepass](https://github.com/hassaanaliw/chromepass) - Get all passwords stored by Chrome on WINDOWS.
 - [stevekerrison/xs1_decoder](https://github.com/stevekerrison/xs1_decoder) - Instruction decoder for the XMOS XS1(b) ISA
 - [rendaw/sysd_minmon](https://github.com/rendaw/sysd_minmon) - Minimal monitor for systemd units
