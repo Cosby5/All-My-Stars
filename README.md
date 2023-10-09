@@ -916,7 +916,6 @@
 - [folbricht/routedns](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [rakyll/statik](https://github.com/rakyll/statik) - Embed files into a Go executable
 - [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
@@ -931,7 +930,7 @@
 - [floAr/calendargo](https://github.com/floAr/calendargo) - Generate monthly calendar templates to print or use with devices like the reMarkable2.
 - [btfak/sntp](https://github.com/btfak/sntp) - A implementation of NTP server,RFC2030
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM chat
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
 - [mathuin/equinox](https://github.com/mathuin/equinox) - Tools to calculate dates of equinoxes, solstices, and cross-quarter days.
 - [elsanussi-s-mneina/hebrew-to-arabic-transliteration](https://github.com/elsanussi-s-mneina/hebrew-to-arabic-transliteration) - Convert Hebrew letters to Arabic letters.
 - [isgasho/webgopher](https://github.com/isgasho/webgopher) - A Web to Gopher proxy that allows you to access artbitrary Web resource over the Gopher protocol.
