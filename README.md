@@ -931,7 +931,7 @@
 - [floAr/calendargo](https://github.com/floAr/calendargo) - Generate monthly calendar templates to print or use with devices like the reMarkable2.
 - [btfak/sntp](https://github.com/btfak/sntp) - A implementation of NTP server,RFC2030
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
 - [mathuin/equinox](https://github.com/mathuin/equinox) - Tools to calculate dates of equinoxes, solstices, and cross-quarter days.
 - [elsanussi-s-mneina/hebrew-to-arabic-transliteration](https://github.com/elsanussi-s-mneina/hebrew-to-arabic-transliteration) - Convert Hebrew letters to Arabic letters.
 - [isgasho/webgopher](https://github.com/isgasho/webgopher) - A Web to Gopher proxy that allows you to access artbitrary Web resource over the Gopher protocol.
