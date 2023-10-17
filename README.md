@@ -778,7 +778,6 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [mviereck/dockerfile-x11docker-xwayland](https://github.com/mviereck/dockerfile-x11docker-xwayland) - Xwayland X server in docker image
 - [mviereck/dockerfile-x11docker-xfce-wine-playonlinux](https://github.com/mviereck/dockerfile-x11docker-xfce-wine-playonlinux) - Xfce desktop including wine, playonlinux and pulseaudio.
-- [JAremko/docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
 - [JosephPaulAntonetti/CodeServerHaskell](https://github.com/JosephPaulAntonetti/CodeServerHaskell) - CodeServer Dockerfile for a Haskell Development Environment
 - [alehaa/docker-debian-systemd](https://github.com/alehaa/docker-debian-systemd) - Run a full Debian OS inside a Docker container
 - [j8r/dockerfiles](https://github.com/j8r/dockerfiles) - Repository for my dockerfiles
@@ -865,7 +864,7 @@
 - [f0m41h4u7/electromagnetic-field-trajectory](https://github.com/f0m41h4u7/electromagnetic-field-trajectory) - 🌀   Model of particle trajectory in electromagnetic field
 - [barnex/bruteray](https://github.com/barnex/bruteray) - Physics based ray tracer in pure Go
 - [tbogdala/cubez](https://github.com/tbogdala/cubez) - Cubez is a 3d physics engine written natively in Go.
-- [esimov/cloth-physics](https://github.com/esimov/cloth-physics) - Go desktop application for cloth physics simulation using Gio GUI.
+- [esimov/cloth-physics](https://github.com/esimov/cloth-physics) - Desktop application for cloth physics simulation using Gio GUI.
 - [hashicorp/mdns](https://github.com/hashicorp/mdns) - Simple mDNS client/server library in Golang
 - [bluele/gcache](https://github.com/bluele/gcache) - An in-memory cache library for golang. It supports multiple eviction policies: LRU, LFU, ARC
 - [akyoto/cache](https://github.com/akyoto/cache) - :handbag: Cache arbitrary data with an expiration time.
@@ -3205,6 +3204,7 @@
 - [xmikos/cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [activeeos/wireguard-docker](https://github.com/activeeos/wireguard-docker) - Docker image for Wireguard. Containerize your VPN!
 - [mviereck/runx](https://github.com/mviereck/runx) - Provide X server on MS Windows with cookie authentication.
+- [JAremko/docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
 - [dnephin/dind](https://github.com/dnephin/dind) - Docker in Docker Images
 - [sipcapture/homer](https://github.com/sipcapture/homer) - HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
