@@ -1096,7 +1096,7 @@
 - [tatsushid/minssh](https://github.com/tatsushid/minssh) - SSH client with minimum functions, supporting multi platforms
 - [pterodactyl/sftp-server](https://github.com/pterodactyl/sftp-server) - A SFTP server designed specifically for Pterodactyl Panel, written in Go. Designed to be light, performant, and easy to use.
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [dejiblue/mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [wwalexander/gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
