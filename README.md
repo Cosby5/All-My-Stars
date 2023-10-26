@@ -1852,7 +1852,7 @@
 - [dnephin/gorepack](https://github.com/dnephin/gorepack) - Rename go packages and imports for vanity urls or code migration
 - [MarinX/btc-vanity](https://github.com/MarinX/btc-vanity) - Generate Bitcoin Vanity Address
 - [fogleman/pt](https://github.com/fogleman/pt) - A path tracer written in Go.
-- [jadekler/git-go-websiteskeleton](https://github.com/jadekler/git-go-websiteskeleton) - A go skeleton for websites.
+- [jeanbza/git-go-websiteskeleton](https://github.com/jeanbza/git-go-websiteskeleton) - A go skeleton for websites.
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 - [bitly/oauth2_proxy](https://github.com/bitly/oauth2_proxy) - A reverse proxy that provides authentication with Google, Github or other provider
 - [shurcooL/Go-Package-Store](https://github.com/shurcooL/Go-Package-Store) - An app that displays updates for the Go packages in your GOPATH.
