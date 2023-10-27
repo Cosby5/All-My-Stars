@@ -815,6 +815,8 @@
 
 ## Go 
 
+- [net-byte/gexpose](https://github.com/net-byte/gexpose) - An easy-to-use net tool for exposing local service to public.
+- [nknorg/nconnect](https://github.com/nknorg/nconnect) - Securely connect to remote machines without the need of any server, public IP address, or publicly exposed ports.
 - [Galaxoid-Labs/nostr-chat-fyne](https://github.com/Galaxoid-Labs/nostr-chat-fyne) - An experimental chat client written with Fyne. Its a work in progress based on kind 9 ideas
 - [andydotxyz/fybro](https://github.com/andydotxyz/fybro) - Cross-platform, multi-server chat app built using Fyne
 - [matijakrajnik/fynegoroutines](https://github.com/matijakrajnik/fynegoroutines) - 
