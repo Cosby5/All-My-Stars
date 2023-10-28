@@ -815,6 +815,10 @@
 
 ## Go 
 
+- [newtools/zsocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Golang
+- [tevino/abool](https://github.com/tevino/abool) - :bulb: Atomic Boolean library for cleaner Go code, optimized for performance yet simple to use.
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
+- [inconshreveable/go-vhost](https://github.com/inconshreveable/go-vhost) - HTTP/TLS hostname multiplexing library for Go
 - [net-byte/gexpose](https://github.com/net-byte/gexpose) - An easy-to-use net tool for exposing local service to public.
 - [nknorg/nconnect](https://github.com/nknorg/nconnect) - Securely connect to remote machines without the need of any server, public IP address, or publicly exposed ports.
 - [Galaxoid-Labs/nostr-chat-fyne](https://github.com/Galaxoid-Labs/nostr-chat-fyne) - An experimental chat client written with Fyne. Its a work in progress based on kind 9 ideas
@@ -2523,7 +2527,6 @@
 - [b4fun/coredns_build](https://github.com/b4fun/coredns_build) - Automatically docker build for coredns bundled with customized plugins.
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image abusing Docker
-- [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [Luzifer/project-status](https://github.com/Luzifer/project-status) - Template for a SVG image to be embedded into the README file of a Github repository.
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
 - [cloudflavor/tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
@@ -2624,6 +2627,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [Digi-Key/digikey-kicad-library](https://github.com/Digi-Key/digikey-kicad-library) - An atomic parts  library for Ki-Cad.
 - [Comingle/MultivibeModels](https://github.com/Comingle/MultivibeModels) - 3D models for the Multivibe Open-Source Hackable Dildo platform
+- [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [cwabbott0/mali-isa-docs](https://github.com/cwabbott0/mali-isa-docs) - A collection of reverse-engineered documentation for the instruction sets for various generations of Mali GPU's.
 - [euiseong/psched_gpu](https://github.com/euiseong/psched_gpu) - Preemptive GPU Scheduling Support for Mali
 - [OpenGarage/OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
