@@ -1685,7 +1685,7 @@
 - [taruti/sftpd](https://github.com/taruti/sftpd) - SFTP server library in Go
 - [mhale/smtpd](https://github.com/mhale/smtpd) - An SMTP server package written in Go, in the style of the built-in HTTP server.
 - [alexmullins/zip](https://github.com/alexmullins/zip) - Fork of Go's archive/zip to add reading/writing of password protected zip files.
-- [emersion/go-imap](https://github.com/emersion/go-imap) - :inbox_tray: An IMAP library for clients and servers
+- [emersion/go-imap](https://github.com/emersion/go-imap) - 📥 An IMAP library for clients and servers
 - [hnakamur/go-scp](https://github.com/hnakamur/go-scp) - [Unmaintained] A scp client library written in Go
 - [muesli/crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
@@ -1963,7 +1963,7 @@
 - [devopsctl/gitlabctl](https://github.com/devopsctl/gitlabctl) - Cross platform Gitlab management cli written in Go. Download the executable with no dependencies!
 - [continusec/certcheckerbug](https://github.com/continusec/certcheckerbug) - 
 - [continusec/geecert](https://github.com/continusec/geecert) - SSO Server and client that allows daily fetching of openssh certificates using Google Single Sign On.
-- [emersion/go-smtp](https://github.com/emersion/go-smtp) - :outbox_tray: An SMTP client & server library written in Go
+- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP client & server library written in Go
 - [ledyba/embed-markdown](https://github.com/ledyba/embed-markdown) - A very simple webapp to embed remote markdown files into your blogs/websites.
 - [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [benwtr/d2top](https://github.com/benwtr/d2top) - Apache log tail / stats dashboard with console UI
