@@ -90,6 +90,7 @@
 
 ## Assembly 
 
+- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [neilgonzalez/EvoX-Reverse-Engineering](https://github.com/neilgonzalez/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
 - [MyTeletouch/MyTeletouchDongle](https://github.com/MyTeletouch/MyTeletouchDongle) - MyTeletouch USB Dongle
@@ -2347,7 +2348,6 @@
 - [brinley/jSignature](https://github.com/brinley/jSignature) - jQuery plugin for adding web signature functionality
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [NoMore201/playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
-- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [evildecay/etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
@@ -3342,7 +3342,6 @@
 ## SystemVerilog 
 
 - [openhwgroup/core-v-mcu](https://github.com/openhwgroup/core-v-mcu) - This is the CORE-V MCU project, hosting CORE-V's embedded-class cores.
-- [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [openhwgroup/cv32e40s](https://github.com/openhwgroup/cv32e40s) - 4 stage, in-order, secure RISC-V core based on the CV32E40P
 - [erickahmed/iceberg](https://github.com/erickahmed/iceberg) - Iceberg is a virtual FPGA computer built from scratch using Systemverilog
 - [PacoReinaCampo/PU-RISCV](https://github.com/PacoReinaCampo/PU-RISCV) - Processing Unit with RISCV-32 / RISCV-64 / RISCV-128
@@ -3384,6 +3383,7 @@
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [rokucommunity/brighterscript](https://github.com/rokucommunity/brighterscript) - A superset of Roku's BrightScript language
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
