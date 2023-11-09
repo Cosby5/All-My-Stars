@@ -1519,7 +1519,7 @@
 - [hexial/gitea-migrate](https://github.com/hexial/gitea-migrate) - 
 - [nxsre/sshfs-go](https://github.com/nxsre/sshfs-go) - A network filesystem client to connect to SSH servers [ implementation by golang ]
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.
+- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ppacher/go-sftp](https://github.com/ppacher/go-sftp) - An sftp client and server library for GoLang
 - [rootrl/Mancy](https://github.com/rootrl/Mancy) - Mancy is a file watcher which supported to auto upload the changes to remote server via ssh/sftp.
@@ -2455,7 +2455,7 @@
 - [bladefist/JsonUtils](https://github.com/bladefist/JsonUtils) - Json to C#, VB.Net, Javascript and SQL Server Table
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) - Jitsi Meet desktop application powered by :electron:
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [mafintosh/dns-packet](https://github.com/mafintosh/dns-packet) - An abstract-encoding compliant module for encoding / decoding DNS packets
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 - [postmanlabs/postman-chrome-interceptor](https://github.com/postmanlabs/postman-chrome-interceptor) - Helper extension for the Postman packaged app. Also helps send restricted headers.
