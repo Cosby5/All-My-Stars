@@ -818,6 +818,11 @@
 
 ## Go 
 
+- [gagliardetto/RethinkDB-Golang-dashboard](https://github.com/gagliardetto/RethinkDB-Golang-dashboard) - An example app which uses Golang and RethinkDB as backend for a real-time dashboard; written in JS, HTML and Golang
+- [RangelReale/osin](https://github.com/RangelReale/osin) - Golang OAuth2 server library
+- [HeavyHorst/thinkrus](https://github.com/HeavyHorst/thinkrus) - RethinkDB Hook for Logrus
+- [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go) - Go language driver for RethinkDB
+- [nuxui/nuxui](https://github.com/nuxui/nuxui) - NuxUI is Golang GUI SDK for IOS, Android, macOS, Windows, Linux
 - [newtools/zsocket](https://github.com/newtools/zsocket) - Zero-copy sockets for Linux in Golang
 - [tevino/abool](https://github.com/tevino/abool) - :bulb: Atomic Boolean library for cleaner Go code, optimized for performance yet simple to use.
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go!
