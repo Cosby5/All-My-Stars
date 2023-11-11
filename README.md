@@ -818,6 +818,14 @@
 
 ## Go 
 
+- [ranjit1032002/Virtual-Operating-System](https://github.com/ranjit1032002/Virtual-Operating-System) - Virtual Operating System Using Golang
+- [kkonat/go-fyne-icons](https://github.com/kkonat/go-fyne-icons) - display all fyne icons
+- [donuts-are-good/albino](https://github.com/donuts-are-good/albino) - binaural beats in go w/ fyne gui
+- [fynelabs/dashdemo](https://github.com/fynelabs/dashdemo) - A dashboard demo built with Fyne
+- [andydotxyz/slydes](https://github.com/andydotxyz/slydes) - A presentation app using Fyne and Markdown
+- [scastiel/gordle](https://github.com/scastiel/gordle) - Yet another Wordle clone…
+- [lusingander/fyne-theme-generator](https://github.com/lusingander/fyne-theme-generator) - WYSIWYG theme editor for Fyne
+- [dingoblog/dingo](https://github.com/dingoblog/dingo) - Blog engine written in Go
 - [gagliardetto/RethinkDB-Golang-dashboard](https://github.com/gagliardetto/RethinkDB-Golang-dashboard) - An example app which uses Golang and RethinkDB as backend for a real-time dashboard; written in JS, HTML and Golang
 - [RangelReale/osin](https://github.com/RangelReale/osin) - Golang OAuth2 server library
 - [HeavyHorst/thinkrus](https://github.com/HeavyHorst/thinkrus) - RethinkDB Hook for Logrus
