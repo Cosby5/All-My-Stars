@@ -114,6 +114,7 @@
 
 ## C 
 
+- [BlueManedHawk/Ithkuil-Memorization-Aid](https://github.com/BlueManedHawk/Ithkuil-Memorization-Aid) - ëšho'hlorẓûţc hwomùaržrıtéu-erţtenļıls:  A piece of software designed as an aid for memorization of the various parts of the constructed language Ithkuil.
 - [tgfisher4/os-simple-file-system](https://github.com/tgfisher4/os-simple-file-system) - A simple inode-level file system implementation for Project V of Principles of Operating Systems at the University of Notre Dame, spring 2021.
 - [justinmeiners/text2image](https://github.com/justinmeiners/text2image) - Render text to images with this tiny command line tool.
 - [aht-lab/ESP32_SIM7600](https://github.com/aht-lab/ESP32_SIM7600) - library module SIM7600
@@ -818,6 +819,7 @@
 
 ## Go 
 
+- [uber-go/sally](https://github.com/uber-go/sally) - A tiny HTTP server for supporting custom Golang import paths
 - [ranjit1032002/Virtual-Operating-System](https://github.com/ranjit1032002/Virtual-Operating-System) - Virtual Operating System Using Golang
 - [kkonat/go-fyne-icons](https://github.com/kkonat/go-fyne-icons) - display all fyne icons
 - [donuts-are-good/albino](https://github.com/donuts-are-good/albino) - binaural beats in go w/ fyne gui
@@ -2354,7 +2356,7 @@
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [rogerdahl/floating-pointer](https://github.com/rogerdahl/floating-pointer) - Use your phone or tablet as a virtual mouse
@@ -2575,6 +2577,7 @@
 
 ## Others 
 
+- [mklcp/ithkuil_terminology](https://github.com/mklcp/ithkuil_terminology) - 
 - [Rack-Robotics/Powercore-V1-Manual](https://github.com/Rack-Robotics/Powercore-V1-Manual) - Theory and operation of the Powercore V1 EDM PSU
 - [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
 - [milkv-pioneer/hardware](https://github.com/milkv-pioneer/hardware) - Hardware information
@@ -3376,6 +3379,7 @@
 
 ## TypeScript 
 
+- [yuorb/lexicon-json](https://github.com/yuorb/lexicon-json) - Lexicon of New Ithkuil in json format
 - [Max98/project_nodeSnap](https://github.com/Max98/project_nodeSnap) - Rigs of rods / BeamNG truck file editor
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [illogical/ShortcutDashboardNode](https://github.com/illogical/ShortcutDashboardNode) - A customizable button dashboard web app that sends commands to a Windows PC.
@@ -3383,8 +3387,8 @@
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [svgmoji/svgmoji](https://github.com/svgmoji/svgmoji) - Popular open source emoji libraries available as svg sprites
-- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 100+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
-- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
+- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 - [IPS-LMU/EMU-webApp](https://github.com/IPS-LMU/EMU-webApp) - The EMU-webApp is an online and offline web application for labeling, visualizing and correcting speech and derived speech data.
 - [dmaziad/Phoenician-Keyboard](https://github.com/dmaziad/Phoenician-Keyboard) - 
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
