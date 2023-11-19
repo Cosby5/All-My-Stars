@@ -819,6 +819,9 @@
 
 ## Go 
 
+- [fxamacker/webauthn-demo](https://github.com/fxamacker/webauthn-demo) - WebAuthn server demo for registration and authentication (Go/Golang)
+- [GeertJohan/yubigo](https://github.com/GeertJohan/yubigo) - Yubigo is a Yubikey client API library that provides an easy way to integrate the Yubico Yubikey into your existing Go-based user authentication infrastructure.
+- [sqrldev/server-go-ssp](https://github.com/sqrldev/server-go-ssp) - Pluggable golang SSP implementation
 - [uber-go/sally](https://github.com/uber-go/sally) - A tiny HTTP server for supporting custom Golang import paths
 - [ranjit1032002/Virtual-Operating-System](https://github.com/ranjit1032002/Virtual-Operating-System) - Virtual Operating System Using Golang
 - [kkonat/go-fyne-icons](https://github.com/kkonat/go-fyne-icons) - display all fyne icons
