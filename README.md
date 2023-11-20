@@ -2100,7 +2100,6 @@
 - [suryagaddipati/docker-cache-volume-plugin](https://github.com/suryagaddipati/docker-cache-volume-plugin) - Docker volume driver to cache container artifacts
 - [codetainerapp/codetainer](https://github.com/codetainerapp/codetainer) - A Docker container in your browser.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [rapidloop/rtop-bot](https://github.com/rapidloop/rtop-bot) - A Bot for Remote Server Monitoring over SSH
 - [benjojo/dos_ssh](https://github.com/benjojo/dos_ssh) - Use BIOS ram hacks to make a SSH server out of any INT 10 13h app (MS-DOS is one of those)
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
@@ -2653,7 +2652,7 @@
 - [euiseong/psched_gpu](https://github.com/euiseong/psched_gpu) - Preemptive GPU Scheduling Support for Mali
 - [OpenGarage/OpenGarage-Hardware](https://github.com/OpenGarage/OpenGarage-Hardware) - 
 - [BETZtechnik/ICEpick--Direct-drive-pick-and-place-head](https://github.com/BETZtechnik/ICEpick--Direct-drive-pick-and-place-head) - Pick and Place head with dual nozzles
-- [mgrl/0816-feeder-mechanics](https://github.com/mgrl/0816-feeder-mechanics) - Mechanic Parts of the 3d printed automatic smt feeder for OpenPnP.
+- [mgineer85/0816-feeder-mechanics](https://github.com/mgineer85/0816-feeder-mechanics) - Mechanic Parts of the 3d printed automatic smt feeder for OpenPnP.
 - [Programmable-Air/CAD](https://github.com/Programmable-Air/CAD) - CAD files for Programmable-Air
 - [Programmable-Air/PCB](https://github.com/Programmable-Air/PCB) - Electronics for Programmable-Air
 - [ImpulsePie/Nginx_Organizr](https://github.com/ImpulsePie/Nginx_Organizr) - Config for Nginx and Organizr with Plex, Sonarr, Radarr etc. deployed with SSL and subdomains. Scores an A+ rating on SSL Labs
@@ -3415,6 +3414,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
