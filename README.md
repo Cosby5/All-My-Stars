@@ -2100,6 +2100,7 @@
 - [suryagaddipati/docker-cache-volume-plugin](https://github.com/suryagaddipati/docker-cache-volume-plugin) - Docker volume driver to cache container artifacts
 - [codetainerapp/codetainer](https://github.com/codetainerapp/codetainer) - A Docker container in your browser.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [rapidloop/rtop-bot](https://github.com/rapidloop/rtop-bot) - A Bot for Remote Server Monitoring over SSH
 - [benjojo/dos_ssh](https://github.com/benjojo/dos_ssh) - Use BIOS ram hacks to make a SSH server out of any INT 10 13h app (MS-DOS is one of those)
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
@@ -2582,7 +2583,7 @@
 - [mklcp/ithkuil_terminology](https://github.com/mklcp/ithkuil_terminology) - 
 - [Rack-Robotics/Powercore-V1-Manual](https://github.com/Rack-Robotics/Powercore-V1-Manual) - Theory and operation of the Powercore V1 EDM PSU
 - [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
-- [milkv-pioneer/hardware](https://github.com/milkv-pioneer/hardware) - Hardware information
+- [milkv-pioneer/pioneer-files](https://github.com/milkv-pioneer/pioneer-files) - Hardware information
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
 - [Uptime-Lab/ComputeBlade](https://github.com/Uptime-Lab/ComputeBlade) - Compute Blade main repository
@@ -3414,7 +3415,6 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
