@@ -793,7 +793,7 @@
 - [vank3f3/iptables](https://github.com/vank3f3/iptables) - iptables in docker
 - [retog/docker-x11-xpra](https://github.com/retog/docker-x11-xpra) - A docker image proving a basis for X application accessible via ssh with or without xpra and optionally use xephyr and i3
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
-- [tiredofit/docker-self-service-password](https://github.com/tiredofit/docker-self-service-password) - Dockerized LDAP Tollbox Self Service Password Changer with many customizable options
+- [tiredofit/docker-self-service-password](https://github.com/tiredofit/docker-self-service-password) - Dockerized Self Service Password Changer with many customizable options
 - [dockerimages/docker-systemd](https://github.com/dockerimages/docker-systemd) - This is a Ubuntu Baseimage Running SystemD Init System inside a container it can idealy be applyed over any other ubuntu or fedora img
 - [multiarch/crossbuild](https://github.com/multiarch/crossbuild) - :earth_africa: multiarch cross compiling environments
 - [jangrewe/gitlab-ci-android](https://github.com/jangrewe/gitlab-ci-android) - GitLab CI image for building Android apps
