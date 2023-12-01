@@ -819,6 +819,13 @@
 
 ## Go 
 
+- [mandolyte/mdtopdf](https://github.com/mandolyte/mdtopdf) - Markdown to PDF
+- [psanford/systray-inbox](https://github.com/psanford/systray-inbox) - Show systray icon when files appear in directory
+- [psanford/uhid](https://github.com/psanford/uhid) - Linux uhid api in Go.
+- [psanford/tpm-fido](https://github.com/psanford/tpm-fido) - A WebAuthn/U2F token protected by a TPM (Go/Linux)
+- [RaniSputnik/sqrl-go](https://github.com/RaniSputnik/sqrl-go) - Go implementation of the SQRL protocol
+- [sedalu/sqrl](https://github.com/sedalu/sqrl) - Go client and server implementation of the Secure QR Login (SQRL) protocol. See https://www.grc.com/sqrl/sqrl.htm for more information regarding SQRL.
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [fxamacker/webauthn-demo](https://github.com/fxamacker/webauthn-demo) - WebAuthn server demo for registration and authentication (Go/Golang)
 - [GeertJohan/yubigo](https://github.com/GeertJohan/yubigo) - Yubigo is a Yubikey client API library that provides an easy way to integrate the Yubico Yubikey into your existing Go-based user authentication infrastructure.
 - [sqrldev/server-go-ssp](https://github.com/sqrldev/server-go-ssp) - Pluggable golang SSP implementation
@@ -2271,6 +2278,7 @@
 
 ## Java 
 
+- [kalaspuffar/secure-quick-reliable-login](https://github.com/kalaspuffar/secure-quick-reliable-login) - This repository is an implementation for SQRL (Secure Quick Reliable Login) on Android.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ingelabs/classpath](https://github.com/ingelabs/classpath) - GNU Classpath, Essential Libraries for Java
 - [adoptium/jdk20u](https://github.com/adoptium/jdk20u) - This repo is an unmodified mirror of source code obtained from OpenJDK. It has been and may still be used to create builds that are untested and incompatible with the Java SE specification. You should
@@ -2769,6 +2777,7 @@
 
 ## Python 
 
+- [cortex/sqrl](https://github.com/cortex/sqrl) - Minimal SQRL WIP
 - [mnesarco/ff-batch](https://github.com/mnesarco/ff-batch) - Batch generation of truetype fonts from collections of svg files
 - [Rack-Robotics/Powercore-V1-Firmware](https://github.com/Rack-Robotics/Powercore-V1-Firmware) - 
 - [norrid/DAEClean](https://github.com/norrid/DAEClean) - Clean geometry imported into Blender 2.8 as DAE - Remove doubles, recalculate normals and UV unwrap
