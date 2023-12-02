@@ -114,6 +114,7 @@
 
 ## C 
 
+- [Makerfabs/ESP32-S3-Parallel-TFT-with-Touch-7inch](https://github.com/Makerfabs/ESP32-S3-Parallel-TFT-with-Touch-7inch) - 
 - [BlueManedHawk/Ithkuil-Memorization-Aid](https://github.com/BlueManedHawk/Ithkuil-Memorization-Aid) - ëšho'hlorẓûţc hwomùaržrıtéu-erţtenļıls:  A piece of software designed as an aid for memorization of the various parts of the constructed language Ithkuil.
 - [tgfisher4/os-simple-file-system](https://github.com/tgfisher4/os-simple-file-system) - A simple inode-level file system implementation for Project V of Principles of Operating Systems at the University of Notre Dame, spring 2021.
 - [justinmeiners/text2image](https://github.com/justinmeiners/text2image) - Render text to images with this tiny command line tool.
