@@ -90,6 +90,7 @@
 
 ## Assembly 
 
+- [ebitengine/purego](https://github.com/ebitengine/purego) - 
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [neilgonzalez/EvoX-Reverse-Engineering](https://github.com/neilgonzalez/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
@@ -403,6 +404,7 @@
 
 ## C++ 
 
+- [capisce/mazecompositor](https://github.com/capisce/mazecompositor) - A 3D qtwayland compositor
 - [kimtopley/ProcFS](https://github.com/kimtopley/ProcFS) - An implementation of the /proc file system for OS X
 - [surevine/Metre](https://github.com/surevine/Metre) - XMPP Component Host and S2S Proxy
 - [Harvie/ps2dev](https://github.com/Harvie/ps2dev) - Arduino library to emulate PS2 keyboard/mouse
@@ -820,6 +822,56 @@
 
 ## Go 
 
+- [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
+- [shivamMg/ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
+- [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
+- [apilayer/goiban](https://github.com/apilayer/goiban) - goiban implements functions for validating international bank account numbers using GO.
+- [dgryski/go-rendezvous](https://github.com/dgryski/go-rendezvous) - rendezvous hashing
+- [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+- [mazingstudio/hop](https://github.com/mazingstudio/hop) - An AMQP client wrapper that provides easy work queue semantics
+- [alash3al/go-smtpsrv](https://github.com/alash3al/go-smtpsrv) - a tiny package that implements SMTP server for Go projects
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
+- [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
+- [go-ble/ble](https://github.com/go-ble/ble) - Bluetooth Low Energy for Linux / macOS
+- [bregydoc/gtranslate](https://github.com/bregydoc/gtranslate) - Google translate API for unlimited and free translations, gtranslate generates the necessary token to use the Google Translate API for free
+- [lukechampine/geiger](https://github.com/lukechampine/geiger) - A Geiger counter for allocations
+- [plar/go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - Adaptive Radix Trees implemented in Go
+- [theojulienne/go-wireless](https://github.com/theojulienne/go-wireless) - Small Go libraries for dealing with live wireless network configuration, monitoring and scanning using wpa_supplicant (via control socket) and iw (via libiw)
+- [knadh/go-get-youtube](https://github.com/knadh/go-get-youtube) - A tiny Go library + client for downloading Youtube videos. The library is capable of fetching Youtube video metadata, in addition to downloading videos.
+- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
+- [wricardo/gomux](https://github.com/wricardo/gomux) - Go wrapper to create tmux sessions, windows and panes.
+- [coredhcp/coredhcp](https://github.com/coredhcp/coredhcp) - Fast, multithreaded, modular and extensible DHCP server written in Go
+- [enescakir/emoji](https://github.com/enescakir/emoji) - A minimalistic emoji package for Go (golang)
+- [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
+- [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
+- [usbarmory/GoKey](https://github.com/usbarmory/GoKey) - The bare metal Go smart card
+- [muesli/combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct and a set of its potential member values
+- [liyue201/goqr](https://github.com/liyue201/goqr) - QR Code recognition and decoding library in pure go
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
+- [qvest-digital/loginsrv](https://github.com/qvest-digital/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [hschendel/stl](https://github.com/hschendel/stl) - A library to read, write, and transform Stereolithography (.stl) files in Go.
+- [rrivera/identicon](https://github.com/rrivera/identicon) - Open source avatar generator inspired by GitHub avatars.
+- [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees
+- [martinsirbe/go-sms](https://github.com/martinsirbe/go-sms) - Short Message Service (SMS) text message sender using AWS Simple Notification Service (SNS).
+- [cockroachdb/apd](https://github.com/cockroachdb/apd) - Arbitrary-precision decimals for Go
+- [bojanz/currency](https://github.com/bojanz/currency) - Currency handling for Go.
+- [wk8/go-ordered-map](https://github.com/wk8/go-ordered-map) - Optimal implementation of ordered maps for Golang - ie maps that remember the order in which keys were inserted.
+- [edsrzf/mmap-go](https://github.com/edsrzf/mmap-go) - A portable mmap package for Go
+- [einride/pid-go](https://github.com/einride/pid-go) - PID controllers for Go.
+- [sqp/pulseaudio](https://github.com/sqp/pulseaudio) - pulseaudio dbus client for go
+- [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
+- [yudppp/throttle](https://github.com/yudppp/throttle) - lodash throttle like Go library
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
+- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go
+- [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies
+- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
+- [todostreaming/rtmp](https://github.com/todostreaming/rtmp) - A Golang implementation of the RTMP specification.
+- [scottmckendry/ccinvoice](https://github.com/scottmckendry/ccinvoice) - A mobile-first invoice generation system for Canine Club - a dog walking business 🐕
+- [sago35/tinygo-keyboard](https://github.com/sago35/tinygo-keyboard) - USB HID keyboard firmware for tinygo
 - [mandolyte/mdtopdf](https://github.com/mandolyte/mdtopdf) - Markdown to PDF
 - [psanford/systray-inbox](https://github.com/psanford/systray-inbox) - Show systray icon when files appear in directory
 - [psanford/uhid](https://github.com/psanford/uhid) - Linux uhid api in Go.
@@ -1468,7 +1520,7 @@
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [abadojack/whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection library for Go
 - [esys/gitlabconf](https://github.com/esys/gitlabconf) - Utility to manage GitLab group variables for CI
-- [lingrino/glen](https://github.com/lingrino/glen) - A CLI to gather GitLab project and group variables
+- [lingrino/glen](https://github.com/lingrino/glen) - cli to export gitlab variables
 - [webdevops/go-crond](https://github.com/webdevops/go-crond) - :alarm_clock: Cron daemon written in golang (for eg. usage in docker images)
 - [clinta/go-zfs](https://github.com/clinta/go-zfs) - A zfs library in go
 - [TrilliumIT/undocker-dns](https://github.com/TrilliumIT/undocker-dns) - A program to make sure that your container's resolv.conf are unmolested by docker
@@ -1973,7 +2025,6 @@
 - [papertrail/go-tail](https://github.com/papertrail/go-tail) - 
 - [papertrail/remote_syslog2](https://github.com/papertrail/remote_syslog2) - To install, see "Releases" tab. Self-contained daemon for reading local files and emitting remote syslog (without using local syslogd).
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
-- [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
 - [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
 - [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
@@ -2236,6 +2287,7 @@
 
 ## HTML 
 
+- [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [vaverix/Native-Virtual-Keyboard-chrome-extension](https://github.com/vaverix/Native-Virtual-Keyboard-chrome-extension) - Native on-screen keyboard for touch screen devices. What differs it from any other keyboard on WebStore? Well, it sends native javascript events on every keystroke, so it works on any website, with an
@@ -2506,6 +2558,7 @@
 
 ## Jupyter Notebook 
 
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [RadheTians/International-Phonetic-Alphabet-Comparison](https://github.com/RadheTians/International-Phonetic-Alphabet-Comparison) - The International Phonetic Alphabet (IPA) is an alphabetic system of phonetic notation based primarily on the Latin alphabet. It was devised by the International Phonetic Association in the late 19th 
 - [theAdarshSrivastava/Hand-Wriiten-digit-classifier](https://github.com/theAdarshSrivastava/Hand-Wriiten-digit-classifier) - This project is a demonstration of the capability of deep learning techniques in object recognition in image data. It is a handwritten digit recognition model using the MNIST dataset.
@@ -2587,6 +2640,9 @@
 
 ## Others 
 
+- [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects
+- [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+- [navi-language/navi](https://github.com/navi-language/navi) - Navi is a high-performance programming language.
 - [mklcp/ithkuil_terminology](https://github.com/mklcp/ithkuil_terminology) - 
 - [Rack-Robotics/Powercore-V1-Manual](https://github.com/Rack-Robotics/Powercore-V1-Manual) - Theory and operation of the Powercore V1 EDM PSU
 - [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
@@ -2778,6 +2834,7 @@
 
 ## Python 
 
+- [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [cortex/sqrl](https://github.com/cortex/sqrl) - Minimal SQRL WIP
 - [mnesarco/ff-batch](https://github.com/mnesarco/ff-batch) - Batch generation of truetype fonts from collections of svg files
 - [Rack-Robotics/Powercore-V1-Firmware](https://github.com/Rack-Robotics/Powercore-V1-Firmware) - 
@@ -3154,6 +3211,7 @@
 
 ## Rust 
 
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) - Multiplayer mod for BeamNG.drive
 - [daviddrysdale/mdbook-footnote](https://github.com/daviddrysdale/mdbook-footnote) - 
 - [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
@@ -3185,6 +3243,7 @@
 
 ## Shell 
 
+- [mwarning/guest-counter](https://github.com/mwarning/guest-counter) - A shell script to count active devices on the local network.
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
 - [marytts/marytts-installer](https://github.com/marytts/marytts-installer) - Standalone installer for MaryTTS
@@ -3390,6 +3449,8 @@
 
 ## TypeScript 
 
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [yuorb/lexicon-json](https://github.com/yuorb/lexicon-json) - Lexicon of New Ithkuil in json format
 - [Max98/project_nodeSnap](https://github.com/Max98/project_nodeSnap) - Rigs of rods / BeamNG truck file editor
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
