@@ -61,6 +61,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Standard ML](#standard-ml)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [Tcl](#tcl)
@@ -822,6 +823,7 @@
 
 ## Go 
 
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
 - [shivamMg/ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
@@ -2834,6 +2836,7 @@
 
 ## Python 
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [cortex/sqrl](https://github.com/cortex/sqrl) - Minimal SQRL WIP
 - [mnesarco/ff-batch](https://github.com/mnesarco/ff-batch) - Batch generation of truetype fonts from collections of svg files
@@ -3420,8 +3423,13 @@
 
 - [garyatpt/7688_repo](https://github.com/garyatpt/7688_repo) - ipk for 7688
 
+## Svelte 
+
+- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama 🦙
+
 ## Swift 
 
+- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 - [miguelfermin/acme](https://github.com/miguelfermin/acme) - Acme Corp is a fictional company that has been selling insurance products for over 30 years. However, Acme hasn't keep up with technology and still sells its products manually (non-digital) - over the
 
