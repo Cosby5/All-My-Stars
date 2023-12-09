@@ -823,6 +823,8 @@
 
 ## Go 
 
+- [phantomfive/revengeServed](https://github.com/phantomfive/revengeServed) - Golang honeypot
+- [fnzv/net-Shield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [mitchellh/panicwrap](https://github.com/mitchellh/panicwrap) - panicwrap is a Go library for catching and handling panics in Go applications.
 - [shivamMg/ppds](https://github.com/shivamMg/ppds) - Pretty Print Data Structures
@@ -3246,6 +3248,7 @@
 
 ## Shell 
 
+- [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
 - [mwarning/guest-counter](https://github.com/mwarning/guest-counter) - A shell script to count active devices on the local network.
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
