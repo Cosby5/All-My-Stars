@@ -405,6 +405,7 @@
 
 ## C++ 
 
+- [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [capisce/mazecompositor](https://github.com/capisce/mazecompositor) - A 3D qtwayland compositor
 - [kimtopley/ProcFS](https://github.com/kimtopley/ProcFS) - An implementation of the /proc file system for OS X
 - [surevine/Metre](https://github.com/surevine/Metre) - XMPP Component Host and S2S Proxy
@@ -823,6 +824,9 @@
 
 ## Go 
 
+- [pitr/gig](https://github.com/pitr/gig) - Gemini framework
+- [LukeEmmet/html2gmi](https://github.com/LukeEmmet/html2gmi) - A command line application to convert HTML to GMI (Gemini text/gemini)
+- [LukeEmmet/html2gemini](https://github.com/LukeEmmet/html2gemini) - Golang HTML to Gemini (text/gemini) conversion library
 - [phantomfive/revengeServed](https://github.com/phantomfive/revengeServed) - Golang honeypot
 - [fnzv/net-Shield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
