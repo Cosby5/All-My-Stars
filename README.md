@@ -871,7 +871,7 @@
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [yudppp/throttle](https://github.com/yudppp/throttle) - lodash throttle like Go library
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
 - [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go
@@ -2842,7 +2842,6 @@
 
 ## Python 
 
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [cortex/sqrl](https://github.com/cortex/sqrl) - Minimal SQRL WIP
 - [mnesarco/ff-batch](https://github.com/mnesarco/ff-batch) - Batch generation of truetype fonts from collections of svg files
@@ -3253,6 +3252,7 @@
 ## Shell 
 
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [mwarning/guest-counter](https://github.com/mwarning/guest-counter) - A shell script to count active devices on the local network.
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [geerlingguy/pi-cluster](https://github.com/geerlingguy/pi-cluster) - Raspberry Pi Cluster automation
@@ -3466,7 +3466,6 @@
 
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [yuorb/lexicon-json](https://github.com/yuorb/lexicon-json) - Lexicon of New Ithkuil in json format
 - [Max98/project_nodeSnap](https://github.com/Max98/project_nodeSnap) - Rigs of rods / BeamNG truck file editor
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [illogical/ShortcutDashboardNode](https://github.com/illogical/ShortcutDashboardNode) - A customizable button dashboard web app that sends commands to a Windows PC.
