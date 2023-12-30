@@ -6,6 +6,7 @@
 ## Contents
 
 - [ANTLR](#antlr)
+- [ASP](#asp)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
 - [Blade](#blade)
@@ -70,6 +71,7 @@
 - [VHDL](#vhdl)
 - [Verilog](#verilog)
 - [Visual Basic](#visual-basic)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Wren](#wren)
 - [XC](#xc)
@@ -80,6 +82,10 @@
 ## ANTLR 
 
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
+## ASP 
+
+- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A simple web interface for your RemoteApps hosted on Win 7, 8, 10 and Server
 
 ## Arduino 
 
@@ -408,6 +414,7 @@
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [capisce/mazecompositor](https://github.com/capisce/mazecompositor) - A 3D qtwayland compositor
 - [kimtopley/ProcFS](https://github.com/kimtopley/ProcFS) - An implementation of the /proc file system for OS X
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [surevine/Metre](https://github.com/surevine/Metre) - XMPP Component Host and S2S Proxy
 - [Harvie/ps2dev](https://github.com/Harvie/ps2dev) - Arduino library to emulate PS2 keyboard/mouse
 - [RORMasa/NodeBeamEditor](https://github.com/RORMasa/NodeBeamEditor) - 
@@ -1776,7 +1783,7 @@
 - [muesli/crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
 - [gen2brain/beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
-- [mattn/go-xmpp](https://github.com/mattn/go-xmpp) - go xmpp library (original was written by russ cox  )
+- [xmppo/go-xmpp](https://github.com/xmppo/go-xmpp) - Go XMPP Library (Original was written by Russ Cox)
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
 - [src-d/go-mysql-server](https://github.com/src-d/go-mysql-server) - An extensible MySQL server implementation in Go.
 - [sfreiberg/simplessh](https://github.com/sfreiberg/simplessh) - A simple abstraction around ssh and sftp libraries in go.
@@ -2063,7 +2070,7 @@
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [jiachengxu/idetcd](https://github.com/jiachengxu/idetcd) - An etcd-based CoreDNS plugin used for identifying nodes in a cluster without domain name collisions.
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [mtso/goget](https://github.com/mtso/goget) - go get all the repos
 - [megawubs/get](https://github.com/megawubs/get) - Get a git project by its url and clone it in the go directory structure
@@ -2146,7 +2153,7 @@
 - [hagna/xyz](https://github.com/hagna/xyz) - Listen on external ports, even behind NAT, and more.
 - [sprucehealth/go-proxy-protocol](https://github.com/sprucehealth/go-proxy-protocol) - Proxy protocol implementation for Go
 - [mongodb-labs/mongoproxy](https://github.com/mongodb-labs/mongoproxy) - A server that speaks the MongoDB wire protocol and can analyze/transform requests and responses - This Repository is NOT a supported MongoDB product
-- [guoyk-deprecated/minit-8422ce2d](https://github.com/guoyk-deprecated/minit-8422ce2d) - minimal init daemon for container, support systemd service files
+- [yankeguo-deprecated/minit-8422ce2d](https://github.com/yankeguo-deprecated/minit-8422ce2d) - minimal init daemon for container, support systemd service files
 - [mback2k/docker-systemd-shim](https://github.com/mback2k/docker-systemd-shim) - Shim to allow easy docker container control via systemd service units
 - [msekletar/ci-builder-systemd](https://github.com/msekletar/ci-builder-systemd) - 
 - [yuvipanda/systemd-simple-containment](https://github.com/yuvipanda/systemd-simple-containment) - Super simple systemd based containment for applications
@@ -2298,6 +2305,7 @@
 - [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
+- [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
 - [vaverix/Native-Virtual-Keyboard-chrome-extension](https://github.com/vaverix/Native-Virtual-Keyboard-chrome-extension) - Native on-screen keyboard for touch screen devices. What differs it from any other keyboard on WebStore? Well, it sends native javascript events on every keystroke, so it works on any website, with an
 - [WebDevBooster/Dvorak-Booster-Keyboard-Layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout) - Dvorak-Booster keyboard layout is better optimized for typing in English than standard Dvorak & better optimized for programming than Programmer Dvorak. It makes typing in dozenal (base 12) easy & mos
 - [jackweinbender/akkadian-verbs](https://github.com/jackweinbender/akkadian-verbs) - A filtering list of Akkadian Verbs/Roots for quick reference.
@@ -2340,7 +2348,6 @@
 ## Java 
 
 - [kalaspuffar/secure-quick-reliable-login](https://github.com/kalaspuffar/secure-quick-reliable-login) - This repository is an implementation for SQRL (Secure Quick Reliable Login) on Android.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ingelabs/classpath](https://github.com/ingelabs/classpath) - GNU Classpath, Essential Libraries for Java
 - [adoptium/jdk20u](https://github.com/adoptium/jdk20u) - This repo is an unmodified mirror of source code obtained from OpenJDK. It has been and may still be used to create builds that are untested and incompatible with the Java SE specification. You should
 - [AdoptOpenJDK/jdk20u](https://github.com/AdoptOpenJDK/jdk20u) - 
@@ -2653,7 +2660,6 @@
 - [navi-language/navi](https://github.com/navi-language/navi) - Navi is a high-performance programming language.
 - [mklcp/ithkuil_terminology](https://github.com/mklcp/ithkuil_terminology) - 
 - [Rack-Robotics/Powercore-V1-Manual](https://github.com/Rack-Robotics/Powercore-V1-Manual) - Theory and operation of the Powercore V1 EDM PSU
-- [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
 - [milkv-pioneer/pioneer-files](https://github.com/milkv-pioneer/pioneer-files) - Hardware information
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
@@ -2842,6 +2848,7 @@
 
 ## Python 
 
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [cortex/sqrl](https://github.com/cortex/sqrl) - Minimal SQRL WIP
 - [mnesarco/ff-batch](https://github.com/mnesarco/ff-batch) - Batch generation of truetype fonts from collections of svg files
@@ -3602,6 +3609,10 @@
 ## Visual Basic 
 
 - [japurvis/PortfolioCrypto](https://github.com/japurvis/PortfolioCrypto) - An excel based crypto management tool using exchange APIs (Coinbase/GDAX/Bittrex/Binance) to create a Dashboard, Portfolio, Orders, Transfers, Trades, and Capital Gains for taxes.
+
+## Visual Basic .NET 
+
+- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
 
 ## Vue 
 
