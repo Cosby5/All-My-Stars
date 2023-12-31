@@ -1716,7 +1716,7 @@
 - [patrickhaller/go-webdav](https://github.com/patrickhaller/go-webdav) - standalone webdav in go-lang
 - [patrickhaller/go-acme-nsupdate](https://github.com/patrickhaller/go-acme-nsupdate) - golang acme v2 client with nsupdate for DNS-01 challenge
 - [patrickhaller/go-nginx-auth](https://github.com/patrickhaller/go-nginx-auth) - LDAP authentication and proxy routing for NGINX's mail module
-- [dcmediahosting/docker-node-identities](https://github.com/dcmediahosting/docker-node-identities) - A tool that will create/remove users and groups on a docker node, if required by a container.
+- [netkant/docker-node-identities](https://github.com/netkant/docker-node-identities) - A tool that will create/remove users and groups on a docker node, if required by a container.
 - [urlund/nginx-mail-auth-http](https://github.com/urlund/nginx-mail-auth-http) - A Go HTTP authentication server for ngx_mail_auth_http_module.
 - [ermergerd/go-dynlib](https://github.com/ermergerd/go-dynlib) - Go program to build standard library packages as individual dynamic shared libraries (for Linux)
 - [nicholas23/Jni-Golang](https://github.com/nicholas23/Jni-Golang) - java invoke golang (by Go1.5 shared library)
