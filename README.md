@@ -411,6 +411,7 @@
 
 ## C++ 
 
+- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [capisce/mazecompositor](https://github.com/capisce/mazecompositor) - A 3D qtwayland compositor
 - [kimtopley/ProcFS](https://github.com/kimtopley/ProcFS) - An implementation of the /proc file system for OS X
@@ -3208,7 +3209,6 @@
 - [minio/doctor](https://github.com/minio/doctor) - Doctor is a documentation server for your docs in github
 - [door/docker-auth-crl](https://github.com/door/docker-auth-crl) - 
 - [mikesir87/sam-bot](https://github.com/mikesir87/sam-bot) - MR/PR webhook notification capable of auto-merging stack file changes
-- [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 - [iv-mexx/gitlab-migrator](https://github.com/iv-mexx/gitlab-migrator) - Tool to migrate private gitlab projects
 - [aqfaridi/pump_and_dump_bot](https://github.com/aqfaridi/pump_and_dump_bot) - Pump and Dump Bot for Bittrex Exchange.
 - [alexschreyer/SketchFab-Uploader-Plugin-for-SketchUp](https://github.com/alexschreyer/SketchFab-Uploader-Plugin-for-SketchUp) - This plugin uploads the currently open model to Sketchfab.com
@@ -3249,6 +3249,7 @@
 ## SCSS 
 
 - [OpenGarage/OpenGarage-App](https://github.com/OpenGarage/OpenGarage-App) - Designed to allow intuitive control of the OpenGarage garage door opener.
+- [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 
 ## Scala 
 
