@@ -1603,7 +1603,7 @@
 - [fardog/secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for DNS-over-HTTPS providers, such as Google and Cloudflare
 - [fardog/dnoxy](https://github.com/fardog/dnoxy) - A DNS-over-HTTPS client proxy and server, with Cloudflare compatible interfaces.
 - [cea-hpc/sshproxy](https://github.com/cea-hpc/sshproxy) - Proxy SSH connections on a gateway
-- [tg123/docker-sshd](https://github.com/tg123/docker-sshd) - ssh into any docker container without sshd
+- [tg123/docker-sshd](https://github.com/tg123/docker-sshd) - ssh into any docker container/pod without sshd
 - [appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy) - easyssh-proxy provides a simple implementation of some SSH protocol features in Go
 - [gustavosbarreto/ssherial](https://github.com/gustavosbarreto/ssherial) - Serial console over SSH
 - [RoanBrand/SerialToTCPBridgeProtocol](https://github.com/RoanBrand/SerialToTCPBridgeProtocol) - An error tolerant serial UART to TCP connection, raw data bridge.
