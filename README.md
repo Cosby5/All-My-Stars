@@ -2319,7 +2319,7 @@
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Ardumower/ardumower](https://github.com/Ardumower/ardumower) - Develop an open source robotic lawn mower (HW+SW reference platform)
-- [anthrax3/http-error-pages](https://github.com/anthrax3/http-error-pages) - A simple to use generator for static pages with errors to replace the default error pages that come with any web server like Nginx or Apache.
+- [ykankaya/http-error-pages](https://github.com/ykankaya/http-error-pages) - A simple to use generator for static pages with errors to replace the default error pages that come with any web server like Nginx or Apache.
 - [denysvitali/nginx-error-pages](https://github.com/denysvitali/nginx-error-pages) - Cute Error Pages for your nginx web server
 - [Senpai1/Anti-accidental-browser-close](https://github.com/Senpai1/Anti-accidental-browser-close) - Prevents the browser from accidental close (E.G in chrome the browser won't warn you if you have multiple tabs open that you wanna close the browser. Note: pressing ctrl + shift + T will restore your 
 - [peterhoward42/godesktopgui](https://github.com/peterhoward42/godesktopgui) - This program demonstrates the potential of Go to create a standalone desktop application with a sophisticated GUI.
