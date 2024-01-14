@@ -1783,7 +1783,7 @@
 - [muesli/crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
 - [minio/sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go using  AVX512, SHA Extensions for x86 and ARM64 for ARM. On AVX512 it provides an up to 8x improvement (over 3 GB/s per core). SHA Extensions give a performan
 - [gen2brain/beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps
-- [xmppo/go-xmpp](https://github.com/xmppo/go-xmpp) - Go XMPP Library (Original was written by Russ Cox)
+- [xmppo/go-xmpp](https://github.com/xmppo/go-xmpp) - Go XMPP Library (From Yasuhiro Matsumoto and based on the code from Russ Cox)
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
 - [src-d/go-mysql-server](https://github.com/src-d/go-mysql-server) - An extensible MySQL server implementation in Go.
 - [sfreiberg/simplessh](https://github.com/sfreiberg/simplessh) - A simple abstraction around ssh and sftp libraries in go.
@@ -2491,6 +2491,7 @@
 - [henszey/etcd-browser](https://github.com/henszey/etcd-browser) - A quick and easy way to view/edit basic keys in etcd.
 - [HttpErrorPages/HttpErrorPages](https://github.com/HttpErrorPages/HttpErrorPages) - :fast_forward: Simple HTTP Error Page Generator
 - [cmrunton/tls-dashboard](https://github.com/cmrunton/tls-dashboard) - A dashboard written in JavaScript & HTML to check the remaining time before a TLS certificate expires.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [explooosion/vscode-sync](https://github.com/explooosion/vscode-sync) - Synchronize your Visual Studio Code Extensions.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Jasonette/Jasonette-Web](https://github.com/Jasonette/Jasonette-Web) - Web implementation of JASON protocol
@@ -3505,7 +3506,6 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
@@ -3529,7 +3529,6 @@
 - [thaolt/icculus-manticore](https://github.com/thaolt/icculus-manticore) - A copy of http://svn.icculus.org/manticore/ . Manticore is an open source hardware design for a 3D graphics accelerator
 - [EthChil/Ray-Tracing](https://github.com/EthChil/Ray-Tracing) - Initial attempt at creating a ray tracing accelerator with an FPGA
 - [mfkiwl/RISC-V_Vector_Accelerator_For_ML](https://github.com/mfkiwl/RISC-V_Vector_Accelerator_For_ML) - 
-- [rah-sr/FFT_Accelerator](https://github.com/rah-sr/FFT_Accelerator) - Designing an Accelerator to speed up FFT Calculation on FPGA using Verilog
 - [DanieleParravicini/regex_coprocessor](https://github.com/DanieleParravicini/regex_coprocessor) - An accelerator to which you can offload RE matching and that does not use backtracking
 - [EPFL-LAP/fpga19-MOMS](https://github.com/EPFL-LAP/fpga19-MOMS) - 
 - [m-asiatici/MSHR-rich](https://github.com/m-asiatici/MSHR-rich) - A multi-banked non-blocking cache that handles efficiently thousands of outstanding misses, especially suited for bandwidth-bound latency-insensitive hardware accelerators with irregular memory access
