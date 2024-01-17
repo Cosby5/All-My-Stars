@@ -2230,7 +2230,6 @@
 - [jubianchi/local-ci](https://github.com/jubianchi/local-ci) - Run your GitLab CI pipelines from your machine using Docker
 - [PierreZ/goStatic](https://github.com/PierreZ/goStatic) - A really small static web server for Docker
 - [justmao945/mallory](https://github.com/justmao945/mallory) - HTTP/HTTPS proxy over SSH
-- [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [client9/misspell](https://github.com/client9/misspell) - Correct commonly misspelled English words in source files
 - [kanocz/lcvpn](https://github.com/kanocz/lcvpn) - Decentralized VPN in golang
 - [esimov/triangle](https://github.com/esimov/triangle) - Convert images to computer generated art using delaunay triangulation.
@@ -2765,6 +2764,7 @@
 - [AshleyGitt/Simulation-of-Operating-System](https://github.com/AshleyGitt/Simulation-of-Operating-System) - This is a program that handles the basic data structures (i.e. the devices and their queues) in an operating system. The program has two stages of operation, the "sys gen" section, and the "running" s
 - [anudeepND/pihole-unbound](https://github.com/anudeepND/pihole-unbound) - Guide to setup Unbound recursive DNS resolver with Pi-Hole. With additional configs for speed and security!! 🚀🔒
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
+- [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
