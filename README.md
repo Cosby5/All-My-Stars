@@ -411,6 +411,7 @@
 
 ## C++ 
 
+- [sillsdevarchive/multiscribe](https://github.com/sillsdevarchive/multiscribe) - Multiscribe is an add-on for Windows applications that enables text rendering in complex scripts not otherwise supported by Windows. Multiscribe uses the Graphite rendering engine developed by the Non
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 - [MasterQ32/kristall](https://github.com/MasterQ32/kristall) - Graphical small-internet client for windows, linux, MacOS X and BSDs. Supports gemini, http, https, gopher, finger.
 - [capisce/mazecompositor](https://github.com/capisce/mazecompositor) - A 3D qtwayland compositor
@@ -1126,7 +1127,7 @@
 - [gleich/solar](https://github.com/gleich/solar) - 🛰️ Clone all your starred GitHub repos
 - [bsm/redislock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis
 - [appleboy/graceful](https://github.com/appleboy/graceful) - graceful shutdown package when a service is turned off by software function
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [soypat/ether-swtch](https://github.com/soypat/ether-swtch) - Low level Ethernet stack marshaller/unmarshaller for use in tiny places.
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [stenic/go-mail](https://github.com/stenic/go-mail) - Minimal mail implementation in go
@@ -3640,7 +3641,7 @@
 
 ## Zig 
 
-- [kivikakk/daintree](https://github.com/kivikakk/daintree) - ARMv8-A/RISC-V kernel (with UEFI bootloader)
+- [kivikakk/daintree](https://github.com/kivikakk/daintree) - [mirror] ARMv8-A/RISC-V kernel (with UEFI bootloader)
 
 
 ## License
