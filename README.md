@@ -833,6 +833,8 @@
 
 ## Go 
 
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [dyson/certman](https://github.com/dyson/certman) - Go TLS certificate reloading for the standard library http server.
 - [pitr/gig](https://github.com/pitr/gig) - Gemini framework
 - [LukeEmmet/html2gmi](https://github.com/LukeEmmet/html2gmi) - A command line application to convert HTML to GMI (Gemini text/gemini)
 - [LukeEmmet/html2gemini](https://github.com/LukeEmmet/html2gemini) - Golang HTML to Gemini (text/gemini) conversion library
@@ -3226,6 +3228,7 @@
 
 ## Rust 
 
+- [RyanBrewer317/SaberVM](https://github.com/RyanBrewer317/SaberVM) - 
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) - Multiplayer mod for BeamNG.drive
 - [daviddrysdale/mdbook-footnote](https://github.com/daviddrysdale/mdbook-footnote) - 
