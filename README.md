@@ -1099,7 +1099,7 @@
 - [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) - Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
 - [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover) - Autodiscover email configuration for popular email clients
 - [hxt365/CopeGaming](https://github.com/hxt365/CopeGaming) - A cloud-based gaming platform that allows users to let other users remotely play games on their computers and make money
-- [carlmjohnson/versioninfo](https://github.com/carlmjohnson/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
+- [earthboundkid/versioninfo](https://github.com/earthboundkid/versioninfo) - Importable package that parses version info from debug.ReadBuildInfo().
 - [osrg/gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language
 - [kenmoini/go-zones](https://github.com/kenmoini/go-zones) - Go Zones takes a YAML structure and creates BIND compliant DNS Zone files and Configuration
 - [schollz/broadcast-server](https://github.com/schollz/broadcast-server) - A simple Go server that broadcasts any data/stream.
