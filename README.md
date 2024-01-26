@@ -2355,7 +2355,7 @@
 - [AdoptOpenJDK/jdk20u](https://github.com/AdoptOpenJDK/jdk20u) - 
 - [elazarl/go-java](https://github.com/elazarl/go-java) - Go runtime implementation in Java
 - [marytts/marytts](https://github.com/marytts/marytts) - MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [DraqueT/PolyGlot](https://github.com/DraqueT/PolyGlot) - PolyGlot is a conlang construction toolkit.
 - [afonsotrepa/PocketGopher](https://github.com/afonsotrepa/PocketGopher) - Gopher browser for android written in java
