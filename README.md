@@ -2417,6 +2417,8 @@
 
 ## JavaScript 
 
+- [haikalzain/Dictionary-Chrome-Extension](https://github.com/haikalzain/Dictionary-Chrome-Extension) - Arabic Dictionary Chrome Extension is powerful pure Javascript dictionary app. Say goodbye to endlessly flipping through volumes upon volumes of paperback dictionaries and lexicons. Just hover over an
+- [farhanyen/ArabicDictionary](https://github.com/farhanyen/ArabicDictionary) - 
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [zangue/yoda-player](https://github.com/zangue/yoda-player) - A client implementation for playback of MPEG DASH
 - [Enginette/enginette](https://github.com/Enginette/enginette) - Engine editor for the engine-sim
