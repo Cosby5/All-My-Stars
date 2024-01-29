@@ -833,6 +833,9 @@
 
 ## Go 
 
+- [elgopher/logstore](https://github.com/elgopher/logstore) - Go library for writing and reading append-only application logs storing events (event store), transactions (commit, redo, undo log) or any other entries.
+- [refeed/FederatedMessaging](https://github.com/refeed/FederatedMessaging) - Simple federated messaging server (I guess) in golang
+- [rubenv/broadcaster](https://github.com/rubenv/broadcaster) - Websocket server for broadcasting Redis pub/sub messages to web clients.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [dyson/certman](https://github.com/dyson/certman) - Go TLS certificate reloading for the standard library http server.
 - [pitr/gig](https://github.com/pitr/gig) - Gemini framework
