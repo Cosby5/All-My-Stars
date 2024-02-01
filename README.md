@@ -2310,7 +2310,7 @@
 - [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [Rack-Robotics/Powercore-V1-Hardware](https://github.com/Rack-Robotics/Powercore-V1-Hardware) - CAD & Electronics for Powercore V1
+- [Rack-Robotics/Powercore-V1.0-Hardware](https://github.com/Rack-Robotics/Powercore-V1.0-Hardware) - CAD & Electronics for Powercore V1
 - [vaverix/Native-Virtual-Keyboard-chrome-extension](https://github.com/vaverix/Native-Virtual-Keyboard-chrome-extension) - Native on-screen keyboard for touch screen devices. What differs it from any other keyboard on WebStore? Well, it sends native javascript events on every keystroke, so it works on any website, with an
 - [WebDevBooster/Dvorak-Booster-Keyboard-Layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout) - Dvorak-Booster keyboard layout is better optimized for typing in English than standard Dvorak & better optimized for programming than Programmer Dvorak. It makes typing in dozenal (base 12) easy & mos
 - [jackweinbender/akkadian-verbs](https://github.com/jackweinbender/akkadian-verbs) - A filtering list of Akkadian Verbs/Roots for quick reference.
@@ -2666,7 +2666,7 @@
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [navi-language/navi](https://github.com/navi-language/navi) - Navi is a high-performance programming language.
 - [mklcp/ithkuil_terminology](https://github.com/mklcp/ithkuil_terminology) - 
-- [Rack-Robotics/Powercore-V1-Manual](https://github.com/Rack-Robotics/Powercore-V1-Manual) - Theory and operation of the Powercore V1 EDM PSU
+- [Rack-Robotics/Powercore-V1.0-Manual](https://github.com/Rack-Robotics/Powercore-V1.0-Manual) - Theory and operation of the Powercore V1 EDM PSU
 - [milkv-pioneer/pioneer-files](https://github.com/milkv-pioneer/pioneer-files) - Hardware information
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
@@ -2860,7 +2860,7 @@
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [cortex/sqrl](https://github.com/cortex/sqrl) - Minimal SQRL WIP
 - [mnesarco/ff-batch](https://github.com/mnesarco/ff-batch) - Batch generation of truetype fonts from collections of svg files
-- [Rack-Robotics/Powercore-V1-Firmware](https://github.com/Rack-Robotics/Powercore-V1-Firmware) - 
+- [Rack-Robotics/Powercore-V1.0-Firmware](https://github.com/Rack-Robotics/Powercore-V1.0-Firmware) - 
 - [norrid/DAEClean](https://github.com/norrid/DAEClean) - Clean geometry imported into Blender 2.8 as DAE - Remove doubles, recalculate normals and UV unwrap
 - [Tresillo2017/Tesla-dashboard](https://github.com/Tresillo2017/Tesla-dashboard) - Tesla dashboard for beamng drive🚔. If you have any suggestion let me know📥
 - [umutkcbs/hope-autonomous-driving](https://github.com/umutkcbs/hope-autonomous-driving) - Autonomous Driving project for Euro Truck Simulator 2 Running on Real World
