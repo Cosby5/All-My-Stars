@@ -835,6 +835,14 @@
 
 ## Go 
 
+- [rosmo/go-hidproxy](https://github.com/rosmo/go-hidproxy) - Proxies Bluetooth keyboards and mouse as HID devices (eg. with Raspberry Zero Pi W)
+- [micmonay/keybd_event](https://github.com/micmonay/keybd_event) - For simulate key press in Linux, Windows and Mac in golang
+- [taglme/string2keyboard](https://github.com/taglme/string2keyboard) - Package for Golang. Emulate keyboard input from string.
+- [atomicgo/keyboard](https://github.com/atomicgo/keyboard) - ⌨️ Read keyboard events in your terminal applications! (Arrow keys, Home, End, etc.)
+- [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
+- [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
+- [galaktor/gostwriter](https://github.com/galaktor/gostwriter) - A virtual keyboard for linux, which makes use of /dev/uinput to inject key events.
+- [stealthrocket/netjail](https://github.com/stealthrocket/netjail) - Go library providing network access controls for dial functions and http transports
 - [elgopher/logstore](https://github.com/elgopher/logstore) - Go library for writing and reading append-only application logs storing events (event store), transactions (commit, redo, undo log) or any other entries.
 - [refeed/FederatedMessaging](https://github.com/refeed/FederatedMessaging) - Simple federated messaging server (I guess) in golang
 - [rubenv/broadcaster](https://github.com/rubenv/broadcaster) - Websocket server for broadcasting Redis pub/sub messages to web clients.
@@ -2622,6 +2630,7 @@
 
 ## Makefile 
 
+- [githubuser0xFFFF/QtFreeVirtualKeyboard](https://github.com/githubuser0xFFFF/QtFreeVirtualKeyboard) - A QML based on screen virtual keyboard for embedded QML applications
 - [13rac1/twemoji-color-font](https://github.com/13rac1/twemoji-color-font) - Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows
 - [andrenatal/PsContinuous](https://github.com/andrenatal/PsContinuous) - Continuous speech recognition on Android using pocketsphinx
 - [xyproto/sdl2-examples](https://github.com/xyproto/sdl2-examples) - SDL2 examples, for 25+ different programming languages
