@@ -324,7 +324,6 @@
 - [jmolloy/pedigree](https://github.com/jmolloy/pedigree) - Pedigree operating system
 - [jmolloy/JMTK](https://github.com/jmolloy/JMTK) - A work in progress!
 - [Pikrass/pios](https://github.com/Pikrass/pios) - Minimalistic OS experiments for the Raspberry PI
-- [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [jbush001/NyuziProcessor](https://github.com/jbush001/NyuziProcessor) - GPGPU microprocessor architecture
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
@@ -2273,7 +2272,7 @@
 - [jamescun/switcher](https://github.com/jamescun/switcher) - Run SSH and HTTP(S) on the same port
 - [s3git/s3git](https://github.com/s3git/s3git) - s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local
 - [agrison/harpoon](https://github.com/agrison/harpoon) - GitHub WebHook server written in Go
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [yzlin/docker-volume-nfs](https://github.com/yzlin/docker-volume-nfs) - NFS v3/4 plugin for Docker
 - [PI-Victor/miniovol](https://github.com/PI-Victor/miniovol) - Minio Docker volume plugin. Create docker volumes that mount Minio buckets. Minio is S3 compatible.
 - [vertexclique/docker-volume-redis](https://github.com/vertexclique/docker-volume-redis) - Redis based volume plugin for Docker
@@ -2330,7 +2329,7 @@
 - [schollz/streammyaudio](https://github.com/schollz/streammyaudio) - Easily stream audio from any computer to the internet.
 - [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template) - An email signature template made using HTML & CSS - let's make its easier for everyone!
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)
+- [j00ru/windows-syscalls](https://github.com/j00ru/windows-syscalls) - Windows System Call Tables (NT/2000/XP/2003/Vista/7/8/10/11)
 - [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Ardumower/ardumower](https://github.com/Ardumower/ardumower) - Develop an open source robotic lawn mower (HW+SW reference platform)
@@ -2798,6 +2797,7 @@
 - [trevorlinton/webkit.js](https://github.com/trevorlinton/webkit.js) - Pure JavaScript Port of WebKit
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [qznc/d-money](https://github.com/qznc/d-money) - Handling amounts of money safely and efficiently
 - [eBay/Neutrino](https://github.com/eBay/Neutrino) - Neutrino is a software load balancer(SLB)
 
