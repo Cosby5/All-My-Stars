@@ -1641,7 +1641,7 @@
 - [nategraf/l2bridge-driver](https://github.com/nategraf/l2bridge-driver) - Docker libnetwork remote driver for layer two aware networks, for when bridge is too smart for its own good
 - [go-gcfg/gcfg](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections
 - [mauri870/gochain](https://github.com/mauri870/gochain) - A simple Blockchain implementation in Go
-- [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
+- [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [dstapp/docker-ddns](https://github.com/dstapp/docker-ddns) - Easy-to-deploy dynamic DNS with Docker, Go and Bind9
 - [jrudio/shart](https://github.com/jrudio/shart) - Command your Radarr and Sonarr applications via Discord
 - [kak-tus/docker-syncthing-auto](https://github.com/kak-tus/docker-syncthing-auto) - 
