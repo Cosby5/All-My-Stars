@@ -362,7 +362,7 @@
 - [ArthurHub/HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer) - Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library.
 - [Alumniminium/PinePhoneCore](https://github.com/Alumniminium/PinePhoneCore) - NET5 Wrapper around the Kernel-Filesystem / CLI tools to fully control the pinephone
 - [Boris-Barboris/AtmosphereAutopilot](https://github.com/Boris-Barboris/AtmosphereAutopilot) - Plugin for Kerbal Space Program
-- [tinrab/Brain](https://github.com/tinrab/Brain) - 
+- [tinrab/Brain](https://github.com/tinrab/Brain) - Neural networks, genetic programming, and Neuroevolution of Augmenting Topologies (NEAT) in C#.
 - [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 - [mbdavid/FileDB](https://github.com/mbdavid/FileDB) - FileDB is a free, fast, lightweight C# (v3.5) DLL project to store, retrieve and delete files using a single archive file as a container on disk
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
