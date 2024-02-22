@@ -1369,7 +1369,7 @@
 - [xyproto/diskmoose](https://github.com/xyproto/diskmoose) - Out of disk space checker
 - [kennysong/goeliza](https://github.com/kennysong/goeliza) - A Go implementation of the ELIZA chatbot.
 - [xyproto/kal](https://github.com/xyproto/kal) - :card_index: Utility with red days and flag flying days + calendar package for Go
-- [xyproto/simpleredis](https://github.com/xyproto/simpleredis) - :radio: Easy way to use Redis from Go
+- [xyproto/simpleredis](https://github.com/xyproto/simpleredis) - :radio: Simple way to use Redis from Go
 - [xyproto/permissionsql](https://github.com/xyproto/permissionsql) - :lock_with_ink_pen: Middleware for keeping track of users, login states and permissions
 - [xyproto/burnfont](https://github.com/xyproto/burnfont) - Hand-crafted 6x6 pixel font, defined by code
 - [xyproto/alienpdf](https://github.com/xyproto/alienpdf) - :page_with_curl: Generate PDF art
@@ -3601,7 +3601,7 @@
 - [TianheYu/SMEM_Fully_Pipelined_Design](https://github.com/TianheYu/SMEM_Fully_Pipelined_Design) - SMEM++, A Fully Pipelined and Time-Multiplexed SMEM Seeding Accelerator for Genome Sequencing
 - [maidenone/ORGFXSoC](https://github.com/maidenone/ORGFXSoC) - An Example implementation of Open Source Graphics Accelerator, (A fixed point, fixed function pipeline GPU)
 - [fpgasystems/Centaur](https://github.com/fpgasystems/Centaur) - Centaur, a framework for hybrid CPU-FPGA databases
-- [mcjtag/tcam](https://github.com/mcjtag/tcam) - TCAM ( Ternary Content-Addressable Memory) on Verilog
+- [mcjtag/tcam](https://github.com/mcjtag/tcam) - TCAM (Ternary Content-Addressable Memory) in Verilog
 - [freecores/theia_gpu](https://github.com/freecores/theia_gpu) - Theia: ray graphic processing unit
 - [asicguy/DisplayPort_Verilog](https://github.com/asicguy/DisplayPort_Verilog) - A Verilog implementation of DisplayPort protocol for FPGAs
 - [asicguy/verilog-ethernet](https://github.com/asicguy/verilog-ethernet) - Verilog Ethernet components for FPGA implementation
