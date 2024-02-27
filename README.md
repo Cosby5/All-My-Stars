@@ -2432,7 +2432,6 @@
 - [haikalzain/Dictionary-Chrome-Extension](https://github.com/haikalzain/Dictionary-Chrome-Extension) - Arabic Dictionary Chrome Extension is powerful pure Javascript dictionary app. Say goodbye to endlessly flipping through volumes upon volumes of paperback dictionaries and lexicons. Just hover over an
 - [farhanyen/ArabicDictionary](https://github.com/farhanyen/ArabicDictionary) - 
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [zangue/yoda-player](https://github.com/zangue/yoda-player) - A client implementation for playback of MPEG DASH
 - [Enginette/enginette](https://github.com/Enginette/enginette) - Engine editor for the engine-sim
 - [words/moby](https://github.com/words/moby) - :closed_book: The largest English-language thesaurus
 - [kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner) - 
@@ -3496,6 +3495,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [zangue/yoda-player](https://github.com/zangue/yoda-player) - Experimental MPEG-DASH client implementation
 - [Max98/project_nodeSnap](https://github.com/Max98/project_nodeSnap) - Rigs of rods / BeamNG truck file editor
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
 - [illogical/ShortcutDashboardNode](https://github.com/illogical/ShortcutDashboardNode) - A customizable button dashboard web app that sends commands to a Windows PC.
