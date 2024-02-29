@@ -97,7 +97,6 @@
 
 ## Assembly 
 
-- [ebitengine/purego](https://github.com/ebitengine/purego) - 
 - [openhwgroup/cva6](https://github.com/openhwgroup/cva6) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 - [neilgonzalez/EvoX-Reverse-Engineering](https://github.com/neilgonzalez/EvoX-Reverse-Engineering) - Code and resources for a Mitusbishi Evo X GSR's engine control unit
 - [CAFxX/atomics](https://github.com/CAFxX/atomics) - All the missing AMD64 atomic instructions
@@ -902,6 +901,7 @@
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
 - [todostreaming/rtmp](https://github.com/todostreaming/rtmp) - A Golang implementation of the RTMP specification.
 - [scottmckendry/ccinvoice](https://github.com/scottmckendry/ccinvoice) - A mobile-first invoice generation system for Canine Club - a dog walking business 🐕
+- [ebitengine/purego](https://github.com/ebitengine/purego) - 
 - [sago35/tinygo-keyboard](https://github.com/sago35/tinygo-keyboard) - USB HID keyboard firmware for tinygo
 - [mandolyte/mdtopdf](https://github.com/mandolyte/mdtopdf) - Markdown to PDF
 - [psanford/systray-inbox](https://github.com/psanford/systray-inbox) - Show systray icon when files appear in directory
