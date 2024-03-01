@@ -2316,6 +2316,7 @@
 
 ## HTML 
 
+- [hitamu/wakanda](https://github.com/hitamu/wakanda) - Wakanda font converter
 - [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 - [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -3464,6 +3465,7 @@
 
 ## Swift 
 
+- [cedricbahirwe/wakanda](https://github.com/cedricbahirwe/wakanda) - An improved User interface improvement concept of the Nokanda app, A Simple USSD Mobile App.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS
 - [miguelfermin/acme](https://github.com/miguelfermin/acme) - Acme Corp is a fictional company that has been selling insurance products for over 30 years. However, Acme hasn't keep up with technology and still sells its products manually (non-digital) - over the
