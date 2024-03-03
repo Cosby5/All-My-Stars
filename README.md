@@ -833,6 +833,7 @@
 
 ## Go 
 
+- [NoUseFreak/watch-up](https://github.com/NoUseFreak/watch-up) - 
 - [rosmo/go-hidproxy](https://github.com/rosmo/go-hidproxy) - Proxies Bluetooth keyboards and mouse as HID devices (eg. with Raspberry Zero Pi W)
 - [micmonay/keybd_event](https://github.com/micmonay/keybd_event) - For simulate key press in Linux, Windows and Mac in golang
 - [taglme/string2keyboard](https://github.com/taglme/string2keyboard) - Package for Golang. Emulate keyboard input from string.
@@ -3280,6 +3281,7 @@
 
 ## Shell 
 
+- [dcts/font-converter-ubuntu](https://github.com/dcts/font-converter-ubuntu) - convert any OTF (open type format) font to WOFF, WOFF2, EOT and TTF. Because online converters never work.
 - [anti-ddos/Anti-DDOS](https://github.com/anti-ddos/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [mwarning/guest-counter](https://github.com/mwarning/guest-counter) - A shell script to count active devices on the local network.
