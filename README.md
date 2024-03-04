@@ -833,7 +833,7 @@
 
 ## Go 
 
-- [NoUseFreak/watch-up](https://github.com/NoUseFreak/watch-up) - 
+- [NoUseFreak/watch-up](https://github.com/NoUseFreak/watch-up) - Watch-up is a simple url monitoring tool that checks if a website is up or down.
 - [rosmo/go-hidproxy](https://github.com/rosmo/go-hidproxy) - Proxies Bluetooth keyboards and mouse as HID devices (eg. with Raspberry Zero Pi W)
 - [micmonay/keybd_event](https://github.com/micmonay/keybd_event) - For simulate key press in Linux, Windows and Mac in golang
 - [taglme/string2keyboard](https://github.com/taglme/string2keyboard) - Package for Golang. Emulate keyboard input from string.
@@ -1154,7 +1154,7 @@
 - [evgeniy-klemin/webrtc-sip-client](https://github.com/evgeniy-klemin/webrtc-sip-client) - WebRTC SIP client on golang for FreeSwitch
 - [psanford/github-stars](https://github.com/psanford/github-stars) - CLI tool to list all starred repos by user
 - [CurlyBrackets/GoNet](https://github.com/CurlyBrackets/GoNet) - A compiler that compiles Golang to CIL
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
+- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure Go
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [stuarthu/go-implement-your-object-storage](https://github.com/stuarthu/go-implement-your-object-storage) - 
 - [DSpeichert/netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP)
