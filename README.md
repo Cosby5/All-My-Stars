@@ -182,7 +182,6 @@
 - [surma/xmos-virtualport](https://github.com/surma/xmos-virtualport) - Virtual ports to emulate arbitrary-sized GPIO ports on the XMOS architecture
 - [BiancoZandbergen/XMOS_xTask](https://github.com/BiancoZandbergen/XMOS_xTask) - xTask Distributed Operating System for XMOS XS1 multicore microprocessors
 - [syncro16/dmn-edc32](https://github.com/syncro16/dmn-edc32) - DMN-EDC diesel engine control for STM32
-- [akyidrian/abs](https://github.com/akyidrian/abs) - Anti-Lock Braking System Developed for Stellaris EK-LM3S1968
 - [ctz/cifra](https://github.com/ctz/cifra) - A collection of cryptographic primitives targeted at embedded use.
 - [rusefi/rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
 - [TeamSleipnir2017/RUthless_ECU](https://github.com/TeamSleipnir2017/RUthless_ECU) - Reykjavik University Engine Control Unit
