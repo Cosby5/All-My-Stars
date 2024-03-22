@@ -1760,7 +1760,7 @@
 - [handlename/go-get-git-ignore](https://github.com/handlename/go-get-git-ignore) - 
 - [mrexodia/go-gitea-webhook](https://github.com/mrexodia/go-gitea-webhook) - Simple webhook receiver implementation for Gitea/Gogs.
 - [aviadl/thirdPartyLicenseCollector](https://github.com/aviadl/thirdPartyLicenseCollector) - Collect all third party licenses in dependencies into one file, and notify about missing licenses
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [dtylman/gopack](https://github.com/dtylman/gopack) - Native implementation of deb in go
 - [dtylman/gowd](https://github.com/dtylman/gowd) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by nwjs)
 - [dtylman/gitmoo-goog](https://github.com/dtylman/gitmoo-goog) - A Google Photos backup tool.
