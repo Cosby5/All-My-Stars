@@ -150,7 +150,7 @@
 - [symmetryinvestments/xlsxd](https://github.com/symmetryinvestments/xlsxd) - A thin wrapper around libxlsx to write excel spreadsheets
 - [cl91/NeptuneOS](https://github.com/cl91/NeptuneOS) - Neptune OS: A Windows NT personality for the seL4 microkernel
 - [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
-- [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice.
+- [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice or HCI
 - [tedkotz/ternary](https://github.com/tedkotz/ternary) - A storage place for my ternary experiments, including an emulator for a theoretical 27-trit CPU.
 - [mudita/MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays - developed for Mudita Pure minimalist phone
 - [vvaltchev/tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
