@@ -553,7 +553,7 @@
 - [stealth/sshttp](https://github.com/stealth/sshttp) - SSH/HTTP(S) multiplexer. Run a webserver and a sshd on the same port w/o changes.
 - [timdiels/sysintercept](https://github.com/timdiels/sysintercept) - System call interceptor for windows
 - [floodyberry/genwrapper](https://github.com/floodyberry/genwrapper) - A tool to generate DLL wrappers
-- [qeeg/leviathan](https://github.com/qeeg/leviathan) - A fork of the Exodus Emulation Platform.
+- [fuel-pcbox/leviathan](https://github.com/fuel-pcbox/leviathan) - A fork of the Exodus Emulation Platform.
 - [drycpp/machinery](https://github.com/drycpp/machinery) - [Inactive] Toolchain machinery for compilers, code generators, assemblers, linkers, and emulators.
 - [drycpp/libposix](https://github.com/drycpp/libposix) - [Inactive] Public domain C++14 wrapper for POSIX interfaces.
 - [28msec/gridfs-fuse](https://github.com/28msec/gridfs-fuse) - 
