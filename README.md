@@ -1478,7 +1478,7 @@
 - [miekg/local](https://github.com/miekg/local) - CoreDNS plugin that answers "local" queries
 - [nextdhcp/nextdhcp](https://github.com/nextdhcp/nextdhcp) - A DHCP server chaining middlewares. Similar to CoreDNS and Caddy
 - [h3ndrk/rfc2136-skydns-etcd-adaptor](https://github.com/h3ndrk/rfc2136-skydns-etcd-adaptor) - Adapts RFC2136 (DNS UPDATE) to SkyDNS/etcd for CoreDNS usage
-- [Quiq/docker-registry-ui](https://github.com/Quiq/docker-registry-ui) - Docker Registry UI
+- [Quiq/registry-ui](https://github.com/Quiq/registry-ui) - Web UI for Docker Registry
 - [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 - [campoy/embedmd](https://github.com/campoy/embedmd) - embedmd: embed code into markdown and keep everything in sync
 - [timshannon/bolthold](https://github.com/timshannon/bolthold) - BoltHold is an embeddable NoSQL store for Go types built on BoltDB
@@ -3231,6 +3231,7 @@
 - [minio/doctor](https://github.com/minio/doctor) - Doctor is a documentation server for your docs in github
 - [door/docker-auth-crl](https://github.com/door/docker-auth-crl) - 
 - [mikesir87/sam-bot](https://github.com/mikesir87/sam-bot) - MR/PR webhook notification capable of auto-merging stack file changes
+- [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 - [iv-mexx/gitlab-migrator](https://github.com/iv-mexx/gitlab-migrator) - Tool to migrate private gitlab projects
 - [aqfaridi/pump_and_dump_bot](https://github.com/aqfaridi/pump_and_dump_bot) - Pump and Dump Bot for Bittrex Exchange.
 - [alexschreyer/SketchFab-Uploader-Plugin-for-SketchUp](https://github.com/alexschreyer/SketchFab-Uploader-Plugin-for-SketchUp) - This plugin uploads the currently open model to Sketchfab.com
@@ -3273,7 +3274,6 @@
 ## SCSS 
 
 - [OpenGarage/OpenGarage-App](https://github.com/OpenGarage/OpenGarage-App) - Designed to allow intuitive control of the OpenGarage garage door opener.
-- [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 
 ## Scala 
 
