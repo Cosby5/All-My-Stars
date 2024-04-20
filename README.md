@@ -834,6 +834,7 @@
 
 ## Go 
 
+- [Crosse/font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [NoUseFreak/watch-up](https://github.com/NoUseFreak/watch-up) - Watch-up is a simple url monitoring tool that checks if a website is up or down.
 - [rosmo/go-hidproxy](https://github.com/rosmo/go-hidproxy) - Proxies Bluetooth keyboards and mouse as HID devices (eg. with Raspberry Zero Pi W)
