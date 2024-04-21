@@ -146,7 +146,6 @@
 - [OpenE2K/qemu-e2k](https://github.com/OpenE2K/qemu-e2k) - QEMU with Elbrus emulation
 - [sigmaxz/bcd_alu](https://github.com/sigmaxz/bcd_alu) - alu from architecture course
 - [SubNader/DecimalALU](https://github.com/SubNader/DecimalALU) - Decimal ALU software that carries out arithmetic and logical operations on decimal operands.
-- [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
 - [symmetryinvestments/xlsxd](https://github.com/symmetryinvestments/xlsxd) - A thin wrapper around libxlsx to write excel spreadsheets
 - [stnolting/neorv32](https://github.com/stnolting/neorv32) - :rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [cl91/NeptuneOS](https://github.com/cl91/NeptuneOS) - Neptune OS: A Windows NT personality for the seL4 microkernel
@@ -2892,7 +2891,7 @@
 - [vsltech/virtualkeyboard](https://github.com/vsltech/virtualkeyboard) - Virtual Keyboard using Python PyQt4 & DirectX Programming for Game Controls
 - [Faylixe/pygame-vkeyboard](https://github.com/Faylixe/pygame-vkeyboard) - Visual keyboard for Pygame engine.
 - [dbamman/akkadian-morph-analyzer](https://github.com/dbamman/akkadian-morph-analyzer) - Morphological Analyzer for Akkadian
-- [MOsmanis/BeamNG-Cruise-Control](https://github.com/MOsmanis/BeamNG-Cruise-Control) - Cruise Control PID algorithm implementation in Python for BeamNG.research. Using BeamNGpy API to control throttle and map in BeamNG.research.(https://github.com/BeamNG/BeamNGpy) Later extended to Adap
+- [MTimma/BeamNG-Cruise-Control](https://github.com/MTimma/BeamNG-Cruise-Control) - Cruise Control PID algorithm implementation in Python for BeamNG.research. Using BeamNGpy API to control throttle and map in BeamNG.research.(https://github.com/BeamNG/BeamNGpy) Later extended to Adap
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [seanyeh/fontawesome-svgs](https://github.com/seanyeh/fontawesome-svgs) - Font Awesome icons in SVG format
 - [jeffminton/keyboard_stl_generator](https://github.com/jeffminton/keyboard_stl_generator) - Generate a 3D model from a keyboard design from keyboard layout editor and split up the design so it can be printed on a 3D printer
@@ -3279,6 +3278,7 @@
 ## Scala 
 
 - [sifive/fpga-shells](https://github.com/sifive/fpga-shells) - 
+- [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
 - [ucb-bar/gemmini](https://github.com/ucb-bar/gemmini) - Berkeley's Spatial Array Generator
 - [jbush001/ChiselGPU](https://github.com/jbush001/ChiselGPU) - Experiments with fixed function renderers and Chisel HDL
 
