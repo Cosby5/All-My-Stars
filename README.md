@@ -417,7 +417,6 @@
 - [capisce/mazecompositor](https://github.com/capisce/mazecompositor) - A 3D qtwayland compositor
 - [kimtopley/ProcFS](https://github.com/kimtopley/ProcFS) - An implementation of the /proc file system for OS X
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [surevine/Metre](https://github.com/surevine/Metre) - XMPP Component Host and S2S Proxy
 - [Harvie/ps2dev](https://github.com/Harvie/ps2dev) - Arduino library to emulate PS2 keyboard/mouse
 - [RORMasa/NodeBeamEditor](https://github.com/RORMasa/NodeBeamEditor) - 
 - [lzl124631x/svg_viewer](https://github.com/lzl124631x/svg_viewer) - A Tiny SVG Render Engine
@@ -2133,7 +2132,7 @@
 - [bazil/bolt-mount](https://github.com/bazil/bolt-mount) - Mount a BoltDB (https://github.com/boltdb/bolt) database as a FUSE filesystem;
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [Azure/golua](https://github.com/Azure/golua) - A Lua 5.3 engine implemented in Go
 - [tv42/alone](https://github.com/tv42/alone) - Go Alone is an experiment into running Go as an appliance-oriented operating system
 - [tv42/spindown-idle-disks](https://github.com/tv42/spindown-idle-disks) - Spin down idle SATA disks. Because hdparm -S 120 just won't work.
