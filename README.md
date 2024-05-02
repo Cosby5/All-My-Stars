@@ -842,7 +842,7 @@
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
 - [swill/kad](https://github.com/swill/kad) - Keyboard Automated Design (KAD) is a Golang library for designing mechanical keyboards
 - [galaktor/gostwriter](https://github.com/galaktor/gostwriter) - A virtual keyboard for linux, which makes use of /dev/uinput to inject key events.
-- [stealthrocket/netjail](https://github.com/stealthrocket/netjail) - Go library providing network access controls for dial functions and http transports
+- [dispatchrun/netjail](https://github.com/dispatchrun/netjail) - Go library providing network access controls for dial functions and http transports
 - [elgopher/logstore](https://github.com/elgopher/logstore) - Go library for writing and reading append-only application logs storing events (event store), transactions (commit, redo, undo log) or any other entries.
 - [refeed/FederatedMessaging](https://github.com/refeed/FederatedMessaging) - Simple federated messaging server (I guess) in golang
 - [rubenv/broadcaster](https://github.com/rubenv/broadcaster) - Websocket server for broadcasting Redis pub/sub messages to web clients.
@@ -1985,7 +1985,7 @@
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [Luzifer/go-dhparam](https://github.com/Luzifer/go-dhparam) - Pure Go implementation of OpenSSL dhparam generator
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [zeevallin/nginx-confd](https://github.com/zeevallin/nginx-confd) - Service discovery for NGINX configured through confd
