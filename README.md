@@ -2382,7 +2382,7 @@
 - [abe-taylor-970/TrinaryTree](https://github.com/abe-taylor-970/TrinaryTree) - This is a Trinary Tree (similar to binary tree, except a middle child node for duplicates), implementing insert and delete.
 - [BoltThrower/TrinaryTree](https://github.com/BoltThrower/TrinaryTree) - A trinary tree is like a binary tree, but there are up to three children per node. The middle child is equal to its parent, the left child is less than its parent, and the right child is greater than 
 - [claritylab/ensemble](https://github.com/claritylab/ensemble) - An ensemble for QA systems, keyphrase extraction and distributional semantics.
-- [lzyzsd/JsBridge](https://github.com/lzyzsd/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
+- [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [Rudrakaniya/AndroidxWebkitDemo](https://github.com/Rudrakaniya/AndroidxWebkitDemo) - Demo app to implement Android webview, firebase notifications and more
 - [afsalashyana/FakeImageDetection](https://github.com/afsalashyana/FakeImageDetection) - Fake Image Detection Using Machine Learning
@@ -3249,7 +3249,7 @@
 ## Rust 
 
 - [oxidecomputer/helios](https://github.com/oxidecomputer/helios) - Helios: Or, a Vision in a Dream. A Fragment.
-- [RyanBrewer317/SaberVM](https://github.com/RyanBrewer317/SaberVM) - 
+- [SaberVM/SaberVM](https://github.com/SaberVM/SaberVM) - 
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [TheHellBox/KISS-multiplayer](https://github.com/TheHellBox/KISS-multiplayer) - Multiplayer mod for BeamNG.drive
 - [daviddrysdale/mdbook-footnote](https://github.com/daviddrysdale/mdbook-footnote) - 
