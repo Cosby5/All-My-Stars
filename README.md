@@ -193,7 +193,6 @@
 - [vladykin/systemd-askpass-remdev](https://github.com/vladykin/systemd-askpass-remdev) - Systemd password agent that reads password from removable drive
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [starnight/LoRa](https://github.com/starnight/LoRa) - LoRa device driver as a kernel module
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [freebsd/pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD. Help at #pkg on Libera Chat or pkg@FreeBSD.org
@@ -1620,7 +1619,7 @@
 - [fardog/secureoperator](https://github.com/fardog/secureoperator) - A DNS-protocol proxy for DNS-over-HTTPS providers, such as Google and Cloudflare
 - [fardog/dnoxy](https://github.com/fardog/dnoxy) - A DNS-over-HTTPS client proxy and server, with Cloudflare compatible interfaces.
 - [cea-hpc/sshproxy](https://github.com/cea-hpc/sshproxy) - Proxy SSH connections on a gateway
-- [tg123/docker-sshd](https://github.com/tg123/docker-sshd) - ssh into any docker container/pod without sshd
+- [tg123/docker-sshd](https://github.com/tg123/docker-sshd) - ssh into any docker container/Kubernetes pod without sshd
 - [appleboy/easyssh-proxy](https://github.com/appleboy/easyssh-proxy) - easyssh-proxy provides a simple implementation of some SSH protocol features in Go
 - [gustavosbarreto/ssherial](https://github.com/gustavosbarreto/ssherial) - Serial console over SSH
 - [RoanBrand/SerialToTCPBridgeProtocol](https://github.com/RoanBrand/SerialToTCPBridgeProtocol) - An error tolerant serial UART to TCP connection, raw data bridge.
@@ -3667,6 +3666,7 @@
 ## Zig 
 
 - [kivikakk/daintree](https://github.com/kivikakk/daintree) - [mirror] ARMv8-A/RISC-V kernel (with UEFI bootloader)
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
