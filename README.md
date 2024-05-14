@@ -147,7 +147,6 @@
 - [sigmaxz/bcd_alu](https://github.com/sigmaxz/bcd_alu) - alu from architecture course
 - [SubNader/DecimalALU](https://github.com/SubNader/DecimalALU) - Decimal ALU software that carries out arithmetic and logical operations on decimal operands.
 - [symmetryinvestments/xlsxd](https://github.com/symmetryinvestments/xlsxd) - A thin wrapper around libxlsx to write excel spreadsheets
-- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [cl91/NeptuneOS](https://github.com/cl91/NeptuneOS) - Neptune OS: A Windows NT personality for the seL4 microkernel
 - [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
 - [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice or HCI
@@ -3564,6 +3563,7 @@
 - [jviki/mem_swapping](https://github.com/jviki/mem_swapping) - VHDL simulation component. Provides a dual port memory that can swap its contents to disk. It is useful for using huge memory sizes in simulations.
 - [bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm](https://github.com/bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm) - I have designed square root calculation with binary search tree algorithm.
 - [NathanBeal/WimpFi_Wireless_Network](https://github.com/NathanBeal/WimpFi_Wireless_Network) - A localized wireless communication system capable of transmitting and receiving data packets to and from peer systems. This project was developed in SystemVerilog and deployed to an FPGA board.
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [Domipheus/RPU](https://github.com/Domipheus/RPU) - Basic RISC-V CPU implementation in VHDL.
 - [OlafsAploks/MatrixCoprocessor](https://github.com/OlafsAploks/MatrixCoprocessor) - 
 - [hanchenye/matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
