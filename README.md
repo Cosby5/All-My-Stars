@@ -2953,6 +2953,7 @@
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
 - [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
+- [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - pulp_soc is the core building component of PULP based SoCs
 - [AnilOsmanTur/Brain-Computer-Interface-with-Neurosky](https://github.com/AnilOsmanTur/Brain-Computer-Interface-with-Neurosky) - Brain Computer Interface (BCI) with Neurosky Mindwave Mobile 2 that enables anyone to use computer, mobilephone etc. with his/her thoughts.
 - [jacobstein123/EEG_Robotic_Arm](https://github.com/jacobstein123/EEG_Robotic_Arm) - An arduino-powered robotic arm controlled by brain activity
 - [eegsynth/eegsynth](https://github.com/eegsynth/eegsynth) - Converting real-time EEG into sounds, music and visual effects
@@ -3482,7 +3483,6 @@
 - [jflazaro/CSE31L-128-Bit-ALU](https://github.com/jflazaro/CSE31L-128-Bit-ALU) - Group Project on 128 bit ALU
 - [earvc/shader](https://github.com/earvc/shader) - 3D accelerator shader
 - [spcl/pspin](https://github.com/spcl/pspin) - PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing
-- [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - pulp_soc is the core building component of PULP based SoCs
 - [jsloan256/dpll](https://github.com/jsloan256/dpll) - A simple SystemVerilog digital phase-locked loop based (roughly) on TI's SDLA005B application note. The design includes a SystemVerilog testbench demonstrating a full generator, driver, monitor, and s
 
 ## Tcl 
