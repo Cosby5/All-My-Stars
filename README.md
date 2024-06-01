@@ -147,6 +147,7 @@
 - [sigmaxz/bcd_alu](https://github.com/sigmaxz/bcd_alu) - alu from architecture course
 - [SubNader/DecimalALU](https://github.com/SubNader/DecimalALU) - Decimal ALU software that carries out arithmetic and logical operations on decimal operands.
 - [symmetryinvestments/xlsxd](https://github.com/symmetryinvestments/xlsxd) - A thin wrapper around libxlsx to write excel spreadsheets
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [cl91/NeptuneOS](https://github.com/cl91/NeptuneOS) - Neptune OS: A Windows NT personality for the seL4 microkernel
 - [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
 - [tinygo-org/bluetooth](https://github.com/tinygo-org/bluetooth) - Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice or HCI
@@ -3182,7 +3183,7 @@
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [thumbor/remotecv](https://github.com/thumbor/remotecv) - remotecv is an OpenCV server for facial and feature recognition.
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [jasperproject/jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
 
 ## QML 
@@ -3562,7 +3563,6 @@
 - [jviki/mem_swapping](https://github.com/jviki/mem_swapping) - VHDL simulation component. Provides a dual port memory that can swap its contents to disk. It is useful for using huge memory sizes in simulations.
 - [bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm](https://github.com/bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm) - I have designed square root calculation with binary search tree algorithm.
 - [NathanBeal/WimpFi_Wireless_Network](https://github.com/NathanBeal/WimpFi_Wireless_Network) - A localized wireless communication system capable of transmitting and receiving data packets to and from peer systems. This project was developed in SystemVerilog and deployed to an FPGA board.
-- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [Domipheus/RPU](https://github.com/Domipheus/RPU) - Basic RISC-V CPU implementation in VHDL.
 - [OlafsAploks/MatrixCoprocessor](https://github.com/OlafsAploks/MatrixCoprocessor) - 
 - [hanchenye/matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
