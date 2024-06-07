@@ -1337,7 +1337,7 @@
 - [tj/go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [olebedev/when](https://github.com/olebedev/when) - A natural language date/time parser with pluggable rules
-- [gonnya/f-license](https://github.com/gonnya/f-license) - Open Source License Key Generation and Verification Tool written in Go
+- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [go-piv/piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go
 - [ThatNerdyPikachu/metaproxy](https://github.com/ThatNerdyPikachu/metaproxy) - "Proxies" Plex requests to metadata endpoints to show subtitle and audio names
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
@@ -1358,7 +1358,7 @@
 - [peterhellberg/gui](https://github.com/peterhellberg/gui) - Minimal GUI in Go initially based on https://github.com/faiface/gui
 - [goccmack/gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator
 - [shivansh/gogo](https://github.com/shivansh/gogo) - Go to MIPS compiler, written in Go. Course project for Compiler Design (CS335).
-- [qiniu/py](https://github.com/qiniu/py) - Golang bindings to the CPython C-API
+- [goplus/py](https://github.com/goplus/py) - Golang bindings to the CPython C-API
 - [gmemstr/go-nginx](https://github.com/gmemstr/go-nginx) - Generate nginx configs with Go
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [sigurniv/workgroup](https://github.com/sigurniv/workgroup) - golang.org/x/sync/errgroup that returns results and errors for each goroutine
@@ -2950,7 +2950,7 @@
 - [amoe/rtorrent_low_space_driver](https://github.com/amoe/rtorrent_low_space_driver) - automated torrent rotator & mirroring tool for low-space seedboxes
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
 - [grout58/plex_library_database](https://github.com/grout58/plex_library_database) - Tkinter Database Tool for Plex Library
-- [gonnya/Natural-Language-Processing](https://github.com/gonnya/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
+- [furkansenharputlu/Natural-Language-Processing](https://github.com/furkansenharputlu/Natural-Language-Processing) - Turkish Sentiment Analysis via Twitter
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
 - [pulp-platform/pulp_soc](https://github.com/pulp-platform/pulp_soc) - pulp_soc is the core building component of PULP based SoCs
 - [AnilOsmanTur/Brain-Computer-Interface-with-Neurosky](https://github.com/AnilOsmanTur/Brain-Computer-Interface-with-Neurosky) - Brain Computer Interface (BCI) with Neurosky Mindwave Mobile 2 that enables anyone to use computer, mobilephone etc. with his/her thoughts.
