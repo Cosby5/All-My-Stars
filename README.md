@@ -1201,7 +1201,7 @@
 - [leofishc/blockchain_file_system](https://github.com/leofishc/blockchain_file_system) - A simple file system stored and built on a blockchain. All changes are guaranteed eventually consistent and viewable to all users. File creation and append operations are the transactions being stored
 - [ukontainer/runu](https://github.com/ukontainer/runu) - OCI runtime for frankenlibc unikernel
 - [seletskiy/go-android-rpc](https://github.com/seletskiy/go-android-rpc) - Native Android UI via shared Golang library
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [zucchinidev/golangSearchEngine](https://github.com/zucchinidev/golangSearchEngine) - The Go program pulls different data feeds from the web and compares the content against a search term. The content that matches is then displayed in the terminal window
 - [rounakdatta/GoDFS](https://github.com/rounakdatta/GoDFS) - [G|HD]FS inspired simple distributed filesystem
 - [certusone/yubihsm-go](https://github.com/certusone/yubihsm-go) - A Go client for the yubihsm2 binary protocol and connector service
