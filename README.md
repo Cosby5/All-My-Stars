@@ -2056,7 +2056,7 @@
 - [papertrail/remote_syslog2](https://github.com/papertrail/remote_syslog2) - To install, see "Releases" tab. Self-contained daemon for reading local files and emitting remote syslog (without using local syslogd).
 - [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
-- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package originally forked from github.com/satori/go.uuid
+- [gofrs/uuid](https://github.com/gofrs/uuid) - A UUID package for Go
 - [jinzhu/now](https://github.com/jinzhu/now) - Now is a time toolkit for golang
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [beevik/ntp](https://github.com/beevik/ntp) - a simple ntp client package for go
@@ -2097,7 +2097,6 @@
 - [go-debos/fakemachine](https://github.com/go-debos/fakemachine) - fake a machine
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 - [plasma-umass/systemgo](https://github.com/plasma-umass/systemgo) - Init system in Go, intended to run on Browsix and other Unix-like OS. Part of GSoC 2016 project.
-- [driusan/dainit](https://github.com/driusan/dainit) - A simple pure-Go Linux init system
 - [AGWA/sms-over-xmpp](https://github.com/AGWA/sms-over-xmpp) - XMPP Component (XEP-0114) to send and receive SMS
 - [advancedlogic/go-freeling](https://github.com/advancedlogic/go-freeling) - Golang Natural Language Processing
 - [kahing/goofys](https://github.com/kahing/goofys) - a high-performance, POSIX-ish Amazon S3 file system written in Go
@@ -2449,7 +2448,6 @@
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
-- [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
@@ -3517,6 +3515,7 @@
 - [EvgenyMuryshkin/CarBodyDesigner](https://github.com/EvgenyMuryshkin/CarBodyDesigner) - Source code for Car Body Designer app
 - [samuelmeuli/mini-diary](https://github.com/samuelmeuli/mini-diary) - 📘 Simple and secure journal app
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
+- [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
