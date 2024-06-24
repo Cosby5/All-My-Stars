@@ -1848,7 +1848,7 @@
 - [johanbrandhorst/gopherjs-grpc-websocket](https://github.com/johanbrandhorst/gopherjs-grpc-websocket) - An example implementation of bridging gRPC with a GopherJS frontend over Websockets
 - [golang/vgo](https://github.com/golang/vgo) - [mirror] Versioned Go Prototype
 - [gokrazy/tools](https://github.com/gokrazy/tools) - this repository contains the gok CLI tool of gokrazy
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or amd64 PCs!
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 - [benmanns/goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
 - [itsabot/plugin_weather](https://github.com/itsabot/plugin_weather) - 
