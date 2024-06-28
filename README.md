@@ -2716,7 +2716,6 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [herrbischoff/badbots](https://github.com/herrbischoff/badbots) - Current CIDR-formatted list of unwanted bots caught on my systems.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [builtbybel/debotnet](https://github.com/builtbybel/debotnet) - 🔥🚀 Debotnet is a tiny portable tool for controlling Windows 10's many privacy-related settings and keep your personal data private.
 - [thirtythreeforty/3340_kicad](https://github.com/thirtythreeforty/3340_kicad) - My library of custom and collected KiCAD drawings
 - [vladocar/boilerplate-readme-template](https://github.com/vladocar/boilerplate-readme-template) - Boilerplate README.md Template for GitHub or GitLab use.
 - [torden/ngx_hidden_signature_patch](https://github.com/torden/ngx_hidden_signature_patch) - Just! a Hide Server Signature of Nginx Web Server in response header and in response error
