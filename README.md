@@ -3386,7 +3386,7 @@
 - [mrJTY/ubuntu-x11](https://github.com/mrJTY/ubuntu-x11) - Docker with ubuntu x11 ssh forwarding
 - [abienkowski/gitlab-install](https://github.com/abienkowski/gitlab-install) - Scripted gitlab installation for specific version.
 - [cschlosser/gitlab-version-check](https://github.com/cschlosser/gitlab-version-check) - Check the version of your GitLab instance and send a mail if out of date.
-- [vstavrinov/install-debian](https://github.com/vstavrinov/install-debian) - Install Debian non-interactivly. Bootable CD iso image with Install Debian script:  https://sourceforge.net/projects/install-debian/files/debian-init_amd64.iso
+- [vstavrinov/install-debian](https://github.com/vstavrinov/install-debian) - Install Debian non-interactivly. Bootable CD iso image with Install Debian script:  https://github.com/vstavrinov/install-debian/releases/latest/download/install-debian-amd64.hybrid.iso
 - [hn/debian-stretch-zfs-root](https://github.com/hn/debian-stretch-zfs-root) - Install Debian 9 (Stretch) to a native ZFS root filesystem
 - [upya4ko/SSL_cert_expire_checker](https://github.com/upya4ko/SSL_cert_expire_checker) - Check cert expire for zabbix.
 - [felix021/openssl-selfsign](https://github.com/felix021/openssl-selfsign) - scripts to generate ca, self signed https certs, client side certificates and crl file
