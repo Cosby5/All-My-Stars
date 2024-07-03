@@ -192,6 +192,7 @@
 - [vladykin/systemd-askpass-remdev](https://github.com/vladykin/systemd-askpass-remdev) - Systemd password agent that reads password from removable drive
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [starnight/LoRa](https://github.com/starnight/LoRa) - LoRa device driver as a kernel module
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [freebsd/pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD. Help at #pkg on Libera Chat or pkg@FreeBSD.org
@@ -881,6 +882,7 @@
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
 - [qvest-digital/loginsrv](https://github.com/qvest-digital/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [hschendel/stl](https://github.com/hschendel/stl) - A library to read, write, and transform Stereolithography (.stl) files in Go.
 - [rrivera/identicon](https://github.com/rrivera/identicon) - Open source avatar generator inspired by GitHub avatars.
 - [armon/go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees
@@ -3492,7 +3494,6 @@
 ## TypeScript 
 
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [zangue/yoda-player](https://github.com/zangue/yoda-player) - Experimental MPEG-DASH client implementation
 - [Max98/project_nodeSnap](https://github.com/Max98/project_nodeSnap) - Rigs of rods / BeamNG truck file editor
 - [nkallen/plasticity](https://github.com/nkallen/plasticity) - 
@@ -3662,7 +3663,6 @@
 ## Zig 
 
 - [kivikakk/daintree](https://github.com/kivikakk/daintree) - [mirror] ARMv8-A/RISC-V kernel (with UEFI bootloader)
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
