@@ -2755,7 +2755,6 @@
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [microo8/plgo](https://github.com/microo8/plgo) - easily create postgresql extensions in golang; moved to gitlab.com/microo8/plgo
 - [sravya8/VideoText](https://github.com/sravya8/VideoText) - Text detection and recognition in natural videos
-- [jlelse/Maily-Form](https://github.com/jlelse/Maily-Form) - Forms on any website
 - [felipemullen/jasonette-snippets](https://github.com/felipemullen/jasonette-snippets) - An extension that adds code snippets to Visual Studio Code
 - [Jasonette/Instagram-UI-example](https://github.com/Jasonette/Instagram-UI-example) - 
 - [fossasia/neurolab-hardware](https://github.com/fossasia/neurolab-hardware) - Neurolab Hardware
@@ -3560,7 +3559,7 @@
 - [jviki/mem_swapping](https://github.com/jviki/mem_swapping) - VHDL simulation component. Provides a dual port memory that can swap its contents to disk. It is useful for using huge memory sizes in simulations.
 - [bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm](https://github.com/bahadiryildirimeem/Square-Root-Finder-with-Binary-Tree-Algorithm) - I have designed square root calculation with binary search tree algorithm.
 - [NathanBeal/WimpFi_Wireless_Network](https://github.com/NathanBeal/WimpFi_Wireless_Network) - A localized wireless communication system capable of transmitting and receiving data packets to and from peer systems. This project was developed in SystemVerilog and deployed to an FPGA board.
-- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
+- [stnolting/neorv32](https://github.com/stnolting/neorv32) - :desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.
 - [Domipheus/RPU](https://github.com/Domipheus/RPU) - Basic RISC-V CPU implementation in VHDL.
 - [OlafsAploks/MatrixCoprocessor](https://github.com/OlafsAploks/MatrixCoprocessor) - 
 - [hanchenye/matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
