@@ -128,7 +128,6 @@
 - [justinmeiners/text2image](https://github.com/justinmeiners/text2image) - Render text to images with this tiny command line tool.
 - [aht-lab/ESP32_SIM7600](https://github.com/aht-lab/ESP32_SIM7600) - library module SIM7600
 - [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [mod-loader/engine-sim-modloader](https://github.com/mod-loader/engine-sim-modloader) - A mod loader for the engine-sim project by ange-yaghi
 - [behindthepixels/EDXUtil](https://github.com/behindthepixels/EDXUtil) - An utility library including many containers, threading, OS, GUI and many other things.
@@ -425,6 +424,7 @@
 - [ranenbg/Arduino-FFB-wheel](https://github.com/ranenbg/Arduino-FFB-wheel) - Stand alone directInput USB device recognized in Windows as a joystick with force feedback functionality, based on BRWheel by Fernando Igor from 2017.
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [miniant-git/REAL](https://github.com/miniant-git/REAL) - Reduce audio latency on Windows 10
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 - [DDev247/engine-sim](https://github.com/DDev247/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [ange-yaghi/engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 - [usdot-fhwa-stol/carma-platform](https://github.com/usdot-fhwa-stol/carma-platform) - CARMA Platform is built on robot operating system (ROS) and utilizes open source software (OSS) that enables Cooperative Driving Automation (CDA) features to allow Automated Driving Systems to interac
