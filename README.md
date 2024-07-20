@@ -1226,7 +1226,6 @@
 - [starshiptroopers/ftpdts](https://github.com/starshiptroopers/ftpdts) - Ftp server based on ftpdt and goftp/server and used to do a real-time files generation from templates and exposes them as downloadable files. It was originally designed to implement the trick of escap
 - [sbinet/go-android](https://github.com/sbinet/go-android) - NDK bindings for Android and Go
 - [safu9/android-app-publisher](https://github.com/safu9/android-app-publisher) - Upload your app to play store from terminal or ci environment
-- [cathalgarvey/go-termux](https://github.com/cathalgarvey/go-termux) - Termux-API layer ported to a Go library; write pseudo-apps for Android in pure Go with Termux/API/Widget!
 - [srinathh/mobilehtml5app](https://github.com/srinathh/mobilehtml5app) - 
 - [pkern/syncthing-dns](https://github.com/pkern/syncthing-dns) - Dynamic DNS using Syncthing's Discovery server
 - [alexflint/go-filemutex](https://github.com/alexflint/go-filemutex) - Like sync.Mutex, but works across processes
@@ -2639,7 +2638,6 @@
 - [iximiuz/docker-to-linux](https://github.com/iximiuz/docker-to-linux) - Make bootable Linux disk image (ab)using Docker
 - [Luzifer/project-status](https://github.com/Luzifer/project-status) - Template for a SVG image to be embedded into the README file of a Github repository.
 - [genuinetools/sshb0t](https://github.com/genuinetools/sshb0t) - A bot for keeping your ssh authorized_keys up to date with user's GitHub keys, **only** use if you enable 2FA & keep your keys updates.
-- [cloudflavor/tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
 - [WanghongLin/StandaloneDVM](https://github.com/WanghongLin/StandaloneDVM) - Run the standalone dalvik virtual machine
 
 ## Nginx 
@@ -2780,6 +2778,7 @@
 - [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) - A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [cloudflavor/tooler](https://github.com/cloudflavor/tooler) - Create systemd-nspawn ready to boot containers for system debugging and customize them on-the-fly with your own tools.
 - [Android4Lumia/bootloader_msm8227](https://github.com/Android4Lumia/bootloader_msm8227) - LittleKernel bootloader for Qualcomm MSM8227 based Lumias
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
@@ -3661,7 +3660,7 @@
 
 ## Zig 
 
-- [kivikakk/daintree](https://github.com/kivikakk/daintree) - [mirror] ARMv8-A/RISC-V kernel (with UEFI bootloader)
+- [kivikakk/daintree](https://github.com/kivikakk/daintree) - [non-functional] ARMv8-A/RISC-V kernel (with UEFI bootloader)
 
 
 ## License
