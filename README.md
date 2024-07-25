@@ -271,7 +271,7 @@
 - [rhasson/node-libpst](https://github.com/rhasson/node-libpst) - Parse MS Outlook PST/OST files from node
 - [chrisdunelm/DotNetAnywhere](https://github.com/chrisdunelm/DotNetAnywhere) - Small .NET interpreter
 - [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android) - Make Node.JS apps for Android
-- [hfiref0x/SyscallTables](https://github.com/hfiref0x/SyscallTables) - Windows NT x64 Syscall tables
+- [hfiref0x/SyscallTables](https://github.com/hfiref0x/SyscallTables) - Windows NT Syscall tables
 - [BII-Lab/DNSoverHTTP](https://github.com/BII-Lab/DNSoverHTTP) - a source code for DNS over HTTP implementation
 - [szcom/rnnlib](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. Forked from Alex Graves work http://sourceforge.net/projects/rnnl/
 - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware.
