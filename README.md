@@ -1289,7 +1289,7 @@
 - [crosbymichael/slex](https://github.com/crosbymichael/slex) - SSH multiplex
 - [1lann/tport](https://github.com/1lann/tport) - tport is short for tunnel port. A CLI utility for port forwarding over SSH. Sign in once to your server, forward as many ports in either direction as you need.
 - [htdvisser/ssh-gateway](https://github.com/htdvisser/ssh-gateway) - SSH Gateway is a forward proxy for SSH
-- [XTXMarkets/crypto](https://github.com/XTXMarkets/crypto) - Fork of golang.org/x/crypto adding some non-standard SSH modes seen in the wild
+- [XTXMarkets/crypto](https://github.com/XTXMarkets/crypto) - Fork of golang.org/x/crypto adding some non-standard SSH modes seen in the wild. Branch `xtx` contains our changes.
 - [jsha/listenbuddy](https://github.com/jsha/listenbuddy) - A simple tool to forward ports locally or remotely, no root or SSH required
 - [TheCreeper/minissh](https://github.com/TheCreeper/minissh) - A small and portable SSH server written in Go.
 - [magisterquis/sshspray](https://github.com/magisterquis/sshspray) - Run a script on multiple SSH servers
@@ -3173,7 +3173,7 @@
 - [Viq111/Vivado-CI](https://github.com/Viq111/Vivado-CI) - A simple Vivado (Verilog & VHDL) Continuous Integration tool with seamless integration to Travis-CI
 - [LinOTP/LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
 - [freecores/ssbcc](https://github.com/freecores/ssbcc) - Small Stack Based Computer Compiler
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics.
 - [chrishumphreys/p2j](https://github.com/chrishumphreys/p2j) - Python to Java translator
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
