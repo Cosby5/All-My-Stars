@@ -459,7 +459,7 @@
 - [cswiger/dcservodrive](https://github.com/cswiger/dcservodrive) - Arduino sketch to turn step / direction signals into DC servo motor position control - 'stepper simulator'
 - [julester23/DCMotorServo](https://github.com/julester23/DCMotorServo) - Arduino Library for controlling DC motors with rotary encoders.
 - [spark3dp/ember-firmware](https://github.com/spark3dp/ember-firmware) - Firmware for Autodesk Ember 3D printer
-- [noisymime/speeduino](https://github.com/noisymime/speeduino) - Speeduino - Arduino based engine management
+- [speeduino/speeduino](https://github.com/speeduino/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - git is a blockchain. Start your commit hashes with 00000000 like a real blockchain should.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
