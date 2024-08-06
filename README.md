@@ -2438,7 +2438,7 @@
 - [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [Nikhil1602/font-maker](https://github.com/Nikhil1602/font-maker) - Convert your handwriting into the custom font file.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [deepch/RTSPtoHLSLL](https://github.com/deepch/RTSPtoHLSLL) - RTSP Stream to WebBrowser HLS Low Latency over HTTP based MP4 segments
 - [adafruit/Adafruit-Pi-Finder](https://github.com/adafruit/Adafruit-Pi-Finder) - Find and set up your brand new Raspberry Pi
