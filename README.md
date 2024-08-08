@@ -192,7 +192,6 @@
 - [vladykin/systemd-askpass-remdev](https://github.com/vladykin/systemd-askpass-remdev) - Systemd password agent that reads password from removable drive
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [starnight/LoRa](https://github.com/starnight/LoRa) - LoRa device driver as a kernel module
 - [pellepl/spiffs](https://github.com/pellepl/spiffs) - Wear-leveled SPI flash file system for embedded devices
 - [freebsd/pkg](https://github.com/freebsd/pkg) - Package management tool for FreeBSD. Help at #pkg on Libera Chat or pkg@FreeBSD.org
@@ -1392,7 +1391,7 @@
 - [pixelbender/go-stun](https://github.com/pixelbender/go-stun) - Go implementation of STUN, TURN and ICE Protocols
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [tmthrgd/tlsdebug](https://github.com/tmthrgd/tlsdebug) - A package to assist in debugging TLS connections. It provides a method to extract the ClientHello message from a TLS connection.
-- [nilium/codf](https://github.com/nilium/codf) - Config file parser for Go in the style of nginx (Migrated to https://git.sr.ht/~nilium/codf)
+- [nilium/codf](https://github.com/nilium/codf) - Config file parser for Go in the style of nginx.
 - [jodoherty/httpsreversesshproxy](https://github.com/jodoherty/httpsreversesshproxy) - HTTPS reverse proxy through an SSH tunnel
 - [mdlayher/sshttp](https://github.com/mdlayher/sshttp) - Package sshttp provides functionality that enables some functionality of Go's net/http package to be used with SSH servers using SFTP.  MIT Licensed.
 - [valpackett/443d](https://github.com/valpackett/443d) - TLS with HTTP/2 proxying, demultiplexed with SSH, on your port 443
@@ -3661,6 +3660,7 @@
 ## Zig 
 
 - [kivikakk/daintree](https://github.com/kivikakk/daintree) - [non-functional] ARMv8-A/RISC-V kernel (with UEFI bootloader)
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
