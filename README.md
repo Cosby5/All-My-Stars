@@ -2453,7 +2453,6 @@
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [NoMore201/playmaker](https://github.com/NoMore201/playmaker) - Fdroid repository manager fetching apps from Play Store
 - [thcolin/sensorr](https://github.com/thcolin/sensorr) - 🍿📼 Sensorr - Your Friendly Digital Video Recorder
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [evildecay/etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [deepjyoti30/startpage](https://github.com/deepjyoti30/startpage) - A minimal starpage for Chrome and Firefox
 - [app-nerds/fireplace](https://github.com/app-nerds/fireplace) - Logrus storage server, viewer, and hook
