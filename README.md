@@ -2968,7 +2968,6 @@
 - [nitmir/dane-generator](https://github.com/nitmir/dane-generator) - Collection of scripts allowing to generate automatically DANE TLSA records and SSHFP record by collecting certificates and ssh public keys across multiples servers.
 - [andabi/deep-voice-conversion](https://github.com/andabi/deep-voice-conversion) - Deep neural networks for voice conversion (voice style transfer) in Tensorflow
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-- [rackerlabs/nginxctl](https://github.com/rackerlabs/nginxctl) - nginxctl provides the ability to list nginx server blocks (vhosts) similar to that of apachectl
 - [sarkian/nginxhosts](https://github.com/sarkian/nginxhosts) - A Nginx configuration parser that exports finded hosts into the hosts or dnsmasq format.
 - [Questis/automata](https://github.com/Questis/automata) - Create and manage user accounts through Gitlab user groups.
 - [baderas/pygitlab](https://github.com/baderas/pygitlab) - A tool that for creating multiple gitlab accounts and automatically add them to groups.
