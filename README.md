@@ -599,6 +599,7 @@
 
 ## D 
 
+- [PolyplexEngine/copperlang](https://github.com/PolyplexEngine/copperlang) - Open source scripting language for D, with syntax inspired from D and Go.
 - [LunaTheFoxgirl/dkos](https://github.com/LunaTheFoxgirl/dkos) - KallistiOS for DLang
 - [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
 - [huntlabs/hunt-entity](https://github.com/huntlabs/hunt-entity) - An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.
