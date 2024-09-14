@@ -1927,7 +1927,7 @@
 - [32bitkid/gtsp](https://github.com/32bitkid/gtsp) - A experimental MPEG-2 TS video player written in Go
 - [kovalexius/GoVideoPlayer](https://github.com/kovalexius/GoVideoPlayer) - Взято отсюда http://faq8.ru/read.php?7,11723,11737#msg-11737 Консольный плеер
 - [csos95/gophervideo](https://github.com/csos95/gophervideo) - A video player written with gopherjs
-- [adrg/libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface
+- [adrg/libvlc-go](https://github.com/adrg/libvlc-go) - Handcrafted Go bindings for libVLC and high-level media player interface
 - [reusee/player](https://github.com/reusee/player) - video player
 - [qeesung/asciiplayer](https://github.com/qeesung/asciiplayer) - :tv: ASCII gif/video player write in golang
 - [namsral/flag](https://github.com/namsral/flag) - Parse flags, environment variables and config files
