@@ -2372,7 +2372,7 @@
 - [DraqueT/PolyGlot](https://github.com/DraqueT/PolyGlot) - PolyGlot is a conlang construction toolkit.
 - [afonsotrepa/PocketGopher](https://github.com/afonsotrepa/PocketGopher) - Gopher browser for android written in java
 - [OnlyInAmerica/BLEMeshChat](https://github.com/OnlyInAmerica/BLEMeshChat) - Android client for iOS to Android chat application over Bluetooth LE, using Android L APIs
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [claritylab/CoreNLP](https://github.com/claritylab/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [k0105/lucidagenericbackend](https://github.com/k0105/lucidagenericbackend) - This is a generic backend for Lucida that supports asynchronous Thrift and REST.
 - [abe-taylor-970/TrinaryTree](https://github.com/abe-taylor-970/TrinaryTree) - This is a Trinary Tree (similar to binary tree, except a middle child node for duplicates), implementing insert and delete.
