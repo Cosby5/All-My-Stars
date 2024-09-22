@@ -206,7 +206,6 @@
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi
 - [zserge/pt](https://github.com/zserge/pt) - Protothreads (coroutines) in C99. Highly portable, but work best in low-end embedded systems.
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [alfikpl/ao486](https://github.com/alfikpl/ao486) - The ao486 is an x86 compatible Verilog core implementing all features of a 486 SX.
 - [blanham/liballoc](https://github.com/blanham/liballoc) - liballoc - a memory allocator for hobbyist operating systems
 - [graphitemaster/moreram](https://github.com/graphitemaster/moreram) - Get more system memory
@@ -508,6 +507,7 @@
 - [cesnietor/VacuumRobot](https://github.com/cesnietor/VacuumRobot) - DIY Vacuum Robot project
 - [valurhrafn/chrome-sync-server](https://github.com/valurhrafn/chrome-sync-server) - Sync server for chrome/chromium
 - [varyoo/qrtorrent](https://github.com/varyoo/qrtorrent) - rTorrent remote client written in Qt in C++
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [jbush001/WindowingSystem](https://github.com/jbush001/WindowingSystem) - Windowing system
 - [jbush001/NyuziToolchain](https://github.com/jbush001/NyuziToolchain) - Port of LLVM/Clang C compiler to Nyuzi parallel processor architecture
 - [r-lyeh-archived/ltalloc](https://github.com/r-lyeh-archived/ltalloc) - LightweighT Almost Lock-Less Oriented for C++ programs memory allocator
@@ -752,7 +752,7 @@
 - [deviator/rc](https://github.com/deviator/rc) - dlang reference counter
 - [CyberShadow/SlimD](https://github.com/CyberShadow/SlimD) - Bare-bones D on Win32
 - [nomad-software/etcetera](https://github.com/nomad-software/etcetera) - A common library for D language programs
-- [PhilippeSigaud/Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module, using the D programming language.
+- [dlang-community/Pegged](https://github.com/dlang-community/Pegged) - A Parsing Expression Grammar (PEG) module, using the D programming language.
 - [NCrashed/j2d](https://github.com/NCrashed/j2d) - Experimental convertor from Java to D
 - [Domain/java](https://github.com/Domain/java) - Java in D
 - [eigenraven/NovuOS](https://github.com/eigenraven/NovuOS) - An operating system written in D+Assembler
