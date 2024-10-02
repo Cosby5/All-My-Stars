@@ -1687,7 +1687,7 @@
 - [badges/buckler](https://github.com/badges/buckler) - Go library and CLI for making Shields-style badges (PNG)
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) - Domain name parser for Go based on the Public Suffix List.
 - [grimm-co/GOCSP-responder](https://github.com/grimm-co/GOCSP-responder) - OCSP responder written in Go meant to be used with easy-rsa
-- [nsheridan/cashier](https://github.com/nsheridan/cashier) - A self-service CA for OpenSSH
+- [cashier-go/cashier](https://github.com/cashier-go/cashier) - A self-service CA for OpenSSH
 - [PennockTech/smtpdane](https://github.com/PennockTech/smtpdane) - SMTP DANE testing tool
 - [theSuess/dockerdns](https://github.com/theSuess/dockerdns) - coredns docker plugin
 - [kevinjqiu/coredns-dockerdiscovery](https://github.com/kevinjqiu/coredns-dockerdiscovery) - Docker Discovery Plugin for CoreDNS
