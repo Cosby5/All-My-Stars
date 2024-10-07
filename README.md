@@ -599,6 +599,7 @@
 
 ## D 
 
+- [buggins/dlangui](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language
 - [PolyplexEngine/copperlang](https://github.com/PolyplexEngine/copperlang) - Open source scripting language for D, with syntax inspired from D and Go.
 - [LunaTheFoxgirl/dkos](https://github.com/LunaTheFoxgirl/dkos) - KallistiOS for DLang
 - [lesderid/keynavish](https://github.com/lesderid/keynavish) - Control the mouse with the keyboard, on Windows.
