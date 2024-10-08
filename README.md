@@ -123,6 +123,8 @@
 
 ## C 
 
+- [dkorpel/ctod](https://github.com/dkorpel/ctod) - Automatically translate C code to D
+- [zherczeg/sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
 - [Makerfabs/ESP32-S3-Parallel-TFT-with-Touch-7inch](https://github.com/Makerfabs/ESP32-S3-Parallel-TFT-with-Touch-7inch) - 
 - [BlueManedHawk/Ithkuil-Memorization-Aid](https://github.com/BlueManedHawk/Ithkuil-Memorization-Aid) - ëšho'hlorẓûţc hwomùaržrıtéu-erţtenļıls:  A piece of software designed as an aid for memorization of the various parts of the constructed language Ithkuil.
 - [tgfisher4/os-simple-file-system](https://github.com/tgfisher4/os-simple-file-system) - A simple inode-level file system implementation for Project V of Principles of Operating Systems at the University of Notre Dame, spring 2021.
@@ -834,6 +836,7 @@
 
 ## Go 
 
+- [wneessen/go-mail](https://github.com/wneessen/go-mail) - 📧 Easy to use, yet comprehensive library for sending mails with Go
 - [Crosse/font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
 - [NoUseFreak/watch-up](https://github.com/NoUseFreak/watch-up) - Watch-up is a simple url monitoring tool that checks if a website is up or down.
@@ -2668,6 +2671,7 @@
 
 ## Others 
 
+- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [Binject/awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [navi-language/navi](https://github.com/navi-language/navi) - Navi is a high-performance programming language.
@@ -3460,7 +3464,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
@@ -3589,7 +3593,7 @@
 
 - [OpenTimer/Parser-Verilog](https://github.com/OpenTimer/Parser-Verilog) - A Standalone Structural Verilog Parser
 - [MoonbaseOtago/vroom](https://github.com/MoonbaseOtago/vroom) - VRoom! RISC-V CPU
-- [thegamingbot/VLIW-Architecture](https://github.com/thegamingbot/VLIW-Architecture) - A Python - Verilog combination that simulates the working of a 32-bit 5-stage pipelined VLIW processor from input assembly code while monitoring the updates in the processor register file.
+- [sai-kaushik-s/VLIW-Architecture](https://github.com/sai-kaushik-s/VLIW-Architecture) - A Python - Verilog combination that simulates the working of a 32-bit 5-stage pipelined VLIW processor from input assembly code while monitoring the updates in the processor register file.
 - [EvgenyMuryshkin/qusoc](https://github.com/EvgenyMuryshkin/qusoc) - QuSoC demo projects and template
 - [kuanwoo/SYMPL64_FloatingPoint_RISC-](https://github.com/kuanwoo/SYMPL64_FloatingPoint_RISC-) - SYMPLYON 64-bit GP-GPU Compute Unit ISA and synthesizable Verilog RTL model for IEEE754-2008 Compute applications.  This is a single floating-point compute unit with four, interleaving threads.  It fe
 - [scarv/scarv-cpu](https://github.com/scarv/scarv-cpu) - SCARV: a side-channel hardened RISC-V platform
