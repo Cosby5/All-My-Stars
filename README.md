@@ -997,7 +997,7 @@
 - [onrik/micha](https://github.com/onrik/micha) - Client lib for Telegram bot api
 - [rtr7/router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
 - [mearaj/protonet](https://github.com/mearaj/protonet) - 
-- [deNULL/utf-c](https://github.com/deNULL/utf-c) - A compact way to encode Unicode strings
+- [denull/utf-c](https://github.com/denull/utf-c) - A compact way to encode Unicode strings
 - [mozillazg/go-unidecode](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 - [JasonYuan/cmutex](https://github.com/JasonYuan/cmutex) - mutex with context
 - [vburenin/nsync](https://github.com/vburenin/nsync) - GoLang extended synchronization primitives: Named mutex, non blocking mutex, semaphore.
