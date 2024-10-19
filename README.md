@@ -601,6 +601,7 @@
 
 ## D 
 
+- [MrcSnm/HipremeEngine](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support
 - [buggins/dlangui](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language
 - [PolyplexEngine/copperlang](https://github.com/PolyplexEngine/copperlang) - Open source scripting language for D, with syntax inspired from D and Go.
 - [LunaTheFoxgirl/dkos](https://github.com/LunaTheFoxgirl/dkos) - KallistiOS for DLang
