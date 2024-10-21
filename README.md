@@ -1102,7 +1102,7 @@
 - [lanycrost/whois-server](https://github.com/lanycrost/whois-server) - WHOIS server builded in Golang and using Postgres as a DB.
 - [mergestat/go-mysql-sqlite-server](https://github.com/mergestat/go-mysql-sqlite-server) - Experimental implementation of a SQLite backend for go-mysql-server
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [spacemeshos/go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 - [yofu/dxf](https://github.com/yofu/dxf) - dxf for golang
 - [blevesearch/blevex](https://github.com/blevesearch/blevex) - Bleve Extensions
