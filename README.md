@@ -601,6 +601,7 @@
 
 ## D 
 
+- [VoltLang/Volta](https://github.com/VoltLang/Volta) - Compiler for the Volt Programming Language
 - [MrcSnm/HipremeEngine](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support
 - [buggins/dlangui](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language
 - [PolyplexEngine/copperlang](https://github.com/PolyplexEngine/copperlang) - Open source scripting language for D, with syntax inspired from D and Go.
