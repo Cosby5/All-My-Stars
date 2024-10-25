@@ -946,7 +946,6 @@
 - [andydotxyz/fybro](https://github.com/andydotxyz/fybro) - Cross-platform, multi-server chat app built using Fyne
 - [matijakrajnik/fynegoroutines](https://github.com/matijakrajnik/fynegoroutines) - 
 - [CheatCoder/FyneRedditClient](https://github.com/CheatCoder/FyneRedditClient) - A Simple not Clean code written Reddit Client
-- [QIN2DIM/fyne-poems](https://github.com/QIN2DIM/fyne-poems) - 📒 Awesome fyne-based ancient poetry reader
 - [fynelabs/fyneselfupdate](https://github.com/fynelabs/fyneselfupdate) - An extension of the `selfupdate` repository that handles certain Fyne integrations
 - [LunaTheFoxgirl/yeetbot](https://github.com/LunaTheFoxgirl/yeetbot) - A discord bot written in Go that kicks inactive users.
 - [kataras/neffos](https://github.com/kataras/neffos) - A modern, fast and scalable websocket framework with elegant API written in Go
