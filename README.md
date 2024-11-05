@@ -2377,7 +2377,6 @@
 - [DraqueT/PolyGlot](https://github.com/DraqueT/PolyGlot) - PolyGlot is a conlang construction toolkit.
 - [afonsotrepa/PocketGopher](https://github.com/afonsotrepa/PocketGopher) - Gopher browser for android written in java
 - [OnlyInAmerica/BLEMeshChat](https://github.com/OnlyInAmerica/BLEMeshChat) - Android client for iOS to Android chat application over Bluetooth LE, using Android L APIs
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [claritylab/CoreNLP](https://github.com/claritylab/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [k0105/lucidagenericbackend](https://github.com/k0105/lucidagenericbackend) - This is a generic backend for Lucida that supports asynchronous Thrift and REST.
 - [abe-taylor-970/TrinaryTree](https://github.com/abe-taylor-970/TrinaryTree) - This is a Trinary Tree (similar to binary tree, except a middle child node for duplicates), implementing insert and delete.
@@ -3177,7 +3176,7 @@
 - [Viq111/Vivado-CI](https://github.com/Viq111/Vivado-CI) - A simple Vivado (Verilog & VHDL) Continuous Integration tool with seamless integration to Travis-CI
 - [LinOTP/LinOTP](https://github.com/LinOTP/LinOTP) - LinOTP - the open source solution for two factor authentication
 - [freecores/ssbcc](https://github.com/freecores/ssbcc) - Small Stack Based Computer Compiler
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [chrishumphreys/p2j](https://github.com/chrishumphreys/p2j) - Python to Java translator
 - [alumae/kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) - Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
