@@ -3564,7 +3564,7 @@
 - [Domipheus/RPU](https://github.com/Domipheus/RPU) - Basic RISC-V CPU implementation in VHDL.
 - [OlafsAploks/MatrixCoprocessor](https://github.com/OlafsAploks/MatrixCoprocessor) - 
 - [hanchenye/matrix-multiplication-unit](https://github.com/hanchenye/matrix-multiplication-unit) - 16x16 array MM unit in verilog
-- [federicorossifr/VHDLMatrixMultiplier](https://github.com/federicorossifr/VHDLMatrixMultiplier) - VHDL implementation for a Matrix Multiplier
+- [federicoops/VHDLMatrixMultiplier](https://github.com/federicoops/VHDLMatrixMultiplier) - VHDL implementation for a Matrix Multiplier
 - [VladisM/MARK_II](https://github.com/VladisM/MARK_II) - Simple SoC in VHDL with full toolchain and custom board.
 - [Anding/N.I.G.E.-Machine](https://github.com/Anding/N.I.G.E.-Machine) - A user-expandable micro-computer system that runs on an FPGA development board and includes the FORTH software language. The system is currently hosted on the Digilent Nexys 4 and Nexys 4 DDR
 - [asicguy/gplgpu](https://github.com/asicguy/gplgpu) - GPL v3 2D/3D graphics engine in verilog
