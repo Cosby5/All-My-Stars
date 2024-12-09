@@ -165,7 +165,7 @@
 - [ewpa/LibSSH-ESP32](https://github.com/ewpa/LibSSH-ESP32) - Libssh SSH client & server port to ESP32 Arduino library
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [mkirchner/gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C
-- [LordNoteworthy/cpu-internals](https://github.com/LordNoteworthy/cpu-internals) - Intel / AMD CPU Internals
+- [ayoubfaouzi/cpu-internals](https://github.com/ayoubfaouzi/cpu-internals) - Intel / AMD CPU Internals
 - [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
 - [andreasnuesslein/ngx_remote_ip](https://github.com/andreasnuesslein/ngx_remote_ip) - Nginx module to respond with the public remote IP address
 - [xyproto/c2go](https://github.com/xyproto/c2go) - :mountain_cableway: The original c2go program. Attempts to convert C to Go. Works on several simple examples, but not complex applications.
@@ -249,7 +249,7 @@
 - [stg/SYLT-FFT](https://github.com/stg/SYLT-FFT) - Optimized (I)FFT(R) for Cortex-M4
 - [funny-falcon/pyvm_old](https://github.com/funny-falcon/pyvm_old) - alternative python vm, example of lwc code (not mine, just saved)
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-- [xrw67/elfloader](https://github.com/xrw67/elfloader) - load so file into current memory space and run function
+- [virtist/elfloader](https://github.com/virtist/elfloader) - load so file into current memory space and run function
 - [thiz11/mediatek](https://github.com/thiz11/mediatek) - 
 - [LIFECorp/mediatek](https://github.com/LIFECorp/mediatek) - 
 - [ant-media/LibRtmp-Client-for-Android](https://github.com/ant-media/LibRtmp-Client-for-Android) - It is probably the smallest(~60KB, fat version ~300KB) rtmp client for android. It calls librtmp functions over JNI interface
@@ -359,7 +359,7 @@
 - [tinrab/Brain](https://github.com/tinrab/Brain) - Neural networks, genetic programming, and Neuroevolution of Augmenting Topologies (NEAT) in C#.
 - [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 - [mbdavid/FileDB](https://github.com/mbdavid/FileDB) - FileDB is a free, fast, lightweight C# (v3.5) DLL project to store, retrieve and delete files using a single archive file as a container on disk
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [NETMF/netmf-interpreter](https://github.com/NETMF/netmf-interpreter) - .NET Micro Framework Interpreter
 - [liulilittle/SimpleClr](https://github.com/liulilittle/SimpleClr) - 一个很简单的示意基于栈式过程虚拟机的实现，它运行即时编译的目标平台【x86】的原生代码
 - [mattiasclaesson/Trionic](https://github.com/mattiasclaesson/Trionic) - Trionic flasher
@@ -453,7 +453,6 @@
 - [tvcutsem/tinyc](https://github.com/tvcutsem/tinyc) - Compiler course project: compile a C-like language to JVM bytecode
 - [baziotis/minijava-cpp](https://github.com/baziotis/minijava-cpp) - A MiniJava compiler written in C++, focusing on speed of compilation, simplicity and (somewhat) nice error messages.
 - [cswiger/dcservodrive](https://github.com/cswiger/dcservodrive) - Arduino sketch to turn step / direction signals into DC servo motor position control - 'stepper simulator'
-- [julester23/DCMotorServo](https://github.com/julester23/DCMotorServo) - Arduino Library for controlling DC motors with rotary encoders.
 - [spark3dp/ember-firmware](https://github.com/spark3dp/ember-firmware) - Firmware for Autodesk Ember 3D printer
 - [speeduino/speeduino](https://github.com/speeduino/speeduino) - Speeduino - Arduino based engine management
 - [CouleeApps/git-power](https://github.com/CouleeApps/git-power) - git is a blockchain. Start your commit hashes with 00000000 like a real blockchain should.
@@ -833,6 +832,7 @@
 
 ## Go 
 
+- [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) - Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
 - [wneessen/go-mail](https://github.com/wneessen/go-mail) - 📧 Easy to use, yet comprehensive library for sending mails with Go
 - [Crosse/font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests
@@ -1050,7 +1050,7 @@
 - [floAr/calendargo](https://github.com/floAr/calendargo) - Generate monthly calendar templates to print or use with devices like the reMarkable2.
 - [btfak/sntp](https://github.com/btfak/sntp) - A implementation of NTP server,RFC2030
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
 - [mathuin/equinox](https://github.com/mathuin/equinox) - Tools to calculate dates of equinoxes, solstices, and cross-quarter days.
 - [elsanussi-s-mneina/hebrew-to-arabic-transliteration](https://github.com/elsanussi-s-mneina/hebrew-to-arabic-transliteration) - Convert Hebrew letters to Arabic letters.
 - [isgasho/webgopher](https://github.com/isgasho/webgopher) - A Web to Gopher proxy that allows you to access artbitrary Web resource over the Gopher protocol.
@@ -1983,7 +1983,7 @@
 - [kare/vanity](https://github.com/kare/vanity) - Go vanity domain HTTP handler
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [Luzifer/go-dhparam](https://github.com/Luzifer/go-dhparam) - Pure Go implementation of OpenSSL dhparam generator
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
+- [mholt/archiver](https://github.com/mholt/archiver) - DEPRECATED. Please use mholt/archives instead.
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [src-d/go-git](https://github.com/src-d/go-git) - Project has been moved to: https://github.com/go-git/go-git
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
@@ -2372,6 +2372,7 @@
 - [DraqueT/PolyGlot](https://github.com/DraqueT/PolyGlot) - PolyGlot is a conlang construction toolkit.
 - [afonsotrepa/PocketGopher](https://github.com/afonsotrepa/PocketGopher) - Gopher browser for android written in java
 - [OnlyInAmerica/BLEMeshChat](https://github.com/OnlyInAmerica/BLEMeshChat) - Android client for iOS to Android chat application over Bluetooth LE, using Android L APIs
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [claritylab/CoreNLP](https://github.com/claritylab/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
 - [k0105/lucidagenericbackend](https://github.com/k0105/lucidagenericbackend) - This is a generic backend for Lucida that supports asynchronous Thrift and REST.
 - [abe-taylor-970/TrinaryTree](https://github.com/abe-taylor-970/TrinaryTree) - This is a Trinary Tree (similar to binary tree, except a middle child node for duplicates), implementing insert and delete.
@@ -2510,7 +2511,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [semantic-release/gitlab](https://github.com/semantic-release/gitlab) - :fox_face: semantic-release plugin to publish a GitLab release
 - [mrvautin/adminMongo](https://github.com/mrvautin/adminMongo) - adminMongo is a Web based user interface (GUI) to handle all your MongoDB connections/databases needs.
-- [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
+- [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV Media Server
 - [kevinbolton/DNSOverHTTPS](https://github.com/kevinbolton/DNSOverHTTPS) - 
 - [koehlma/jaspy](https://github.com/koehlma/jaspy) - A Python byte code VM written entirely from scratch in JavaScript with some unique features.
 - [mafintosh/torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse. AKA MAD SCIENCE!
@@ -2557,7 +2558,6 @@
 - [bladefist/JsonUtils](https://github.com/bladefist/JsonUtils) - Json to C#, VB.Net, Javascript and SQL Server Table
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) - Jitsi Meet desktop application powered by :electron:
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [mafintosh/dns-packet](https://github.com/mafintosh/dns-packet) - An abstract-encoding compliant module for encoding / decoding DNS packets
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 - [postmanlabs/postman-chrome-interceptor](https://github.com/postmanlabs/postman-chrome-interceptor) - Helper extension for the Postman packaged app. Also helps send restricted headers.
@@ -2833,7 +2833,7 @@
 - [xiaokai-wang/nginx_upstream_check_module](https://github.com/xiaokai-wang/nginx_upstream_check_module) - For http protocol. Health checks upstreams for nginx，support dynamic health check interface for adding servers, transplat from tengine based on upstream_check_module
 - [nigelhorne/cmilter](https://github.com/nigelhorne/cmilter) - A mail filter to block emails from countries from which you don't wish to receive e-mails
 - [certnanny/CertNanny](https://github.com/certnanny/CertNanny) - Client-side program allowing fully automatic renewal of certificates using the SCEP protocol
-- [fusiondirectory/schema2ldif](https://github.com/fusiondirectory/schema2ldif) - Schema 2 ldif : tool to convert .schema to .ldif files and mange them live into an openldap server
+- [aartoni/schema2ldif](https://github.com/aartoni/schema2ldif) - Schema 2 ldif : tool to convert .schema to .ldif files and mange them live into an openldap server
 - [steven-maasch/apt-batch-install](https://github.com/steven-maasch/apt-batch-install) - Perl script that automatic installs apt-packages from a csv file.
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [jasonpvp/ad_user_sync](https://github.com/jasonpvp/ad_user_sync) - Sync Active Directory user accounts against a database. Generate, disabled, delete and rename AD users.
@@ -3178,7 +3178,7 @@
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [thumbor/remotecv](https://github.com/thumbor/remotecv) - remotecv is an OpenCV server for facial and feature recognition.
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [jasperproject/jasper-client](https://github.com/jasperproject/jasper-client) - Client code for Jasper voice computing platform
 
 ## QML 
@@ -3532,7 +3532,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [bufferoverflow/verdaccio-gitlab](https://github.com/bufferoverflow/verdaccio-gitlab) - private npm registry (Verdaccio) using gitlab-ce as authentication and authorization provider
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [mrjg1/pos-frontend](https://github.com/mrjg1/pos-frontend) - Angular Frontend for Point Of Sale (POS) Application
 - [tigerxy/VSCode-ShareCode](https://github.com/tigerxy/VSCode-ShareCode) - Share Code is an Extension for Visual Studio Code. You can find it on marketplace.
