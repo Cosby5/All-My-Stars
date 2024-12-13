@@ -898,7 +898,7 @@
 - [aymanbagabas/fss3](https://github.com/aymanbagabas/fss3) - FSS3 is an S3 filesystem abstraction layer for Golang
 - [yudppp/throttle](https://github.com/yudppp/throttle) - lodash throttle like Go library
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder
 - [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go
@@ -1217,7 +1217,7 @@
 - [refraction-networking/utls](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
 - [determined-ai/determined](https://github.com/determined-ai/determined) - Determined is an open-source machine learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
 - [dejiblue/mg-go-app](https://github.com/dejiblue/mg-go-app) - windows mdm
-- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+- [gogf/gf](https://github.com/gogf/gf) - A powerful framework for faster, easier, and more efficient project development.
 - [wwalexander/gobuildall](https://github.com/wwalexander/gobuildall) - Builds Go packages for every OS and architecture
 - [dan-v/rattlesnakeos-stack](https://github.com/dan-v/rattlesnakeos-stack) - Build your own privacy and security focused Android OS in the cloud.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
@@ -2431,6 +2431,7 @@
 
 - [haikalzain/Dictionary-Chrome-Extension](https://github.com/haikalzain/Dictionary-Chrome-Extension) - Arabic Dictionary Chrome Extension is powerful pure Javascript dictionary app. Say goodbye to endlessly flipping through volumes upon volumes of paperback dictionaries and lexicons. Just hover over an
 - [farhanyen/ArabicDictionary](https://github.com/farhanyen/ArabicDictionary) - 
+- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A simple web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [Enginette/enginette](https://github.com/Enginette/enginette) - Engine editor for the engine-sim
 - [words/moby](https://github.com/words/moby) - :closed_book: The largest English-language thesaurus
@@ -2844,7 +2845,6 @@
 
 ## PowerShell 
 
-- [kimmknight/raweb](https://github.com/kimmknight/raweb) - A simple web interface for your RemoteApps hosted on Win 7, 8, 10 and Server
 - [r33int/Windows10-Postinstall](https://github.com/r33int/Windows10-Postinstall) - 🛠️ Scripts & programs I use to optimize and debloat my new Windows 10 and Windows 11 installations
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
@@ -3355,7 +3355,7 @@
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [un4ckn0wl3z/rtorrent_magnet2torrent](https://github.com/un4ckn0wl3z/rtorrent_magnet2torrent) - tiny bash scritp for covert magnet link to .torrent file , support rtorrent.
-- [northox/dnssec-reverb](https://github.com/northox/dnssec-reverb) - Automate DNSSEC key rotation for both ZSK KSK
+- [northox/dnssec-reverb](https://github.com/northox/dnssec-reverb) - Automate DNSSEC key rotation for both ZSK and KSK
 - [omegacen/docker-gitlabci-easyssh](https://github.com/omegacen/docker-gitlabci-easyssh) - Easily add private SSH keys during your GitLab CI jobs
 - [sameersbn/docker-browser-box](https://github.com/sameersbn/docker-browser-box) - Dockerized google-chome and tor-browser with audio support via pulseaudio
 - [felixd/git-releaser](https://github.com/felixd/git-releaser) - Git Releaser
